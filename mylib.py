@@ -1,4 +1,4 @@
-from numpy import float32
+from numpy import float32, float64
 from matplotlib import pyplot as plt
 import time
 
@@ -32,7 +32,7 @@ def printData(expected, calculated):
 
 
 def relative_error(expected, current):
-    return absolute_error(expected, current) / expected
+    return float64(absolute_error(expected, current) / expected)
 
 
 def blad_wzgledny_percent(expected, current):
@@ -40,7 +40,7 @@ def blad_wzgledny_percent(expected, current):
 
 
 def absolute_error(expected, current):
-    return abs(expected - current)
+    return float64(abs(expected - current))
 
 
 def suma_float32(arr):
