@@ -48,15 +48,19 @@ def transform_sphere(A):
 
 
 A = []
-A.append(np.array([[1, 2, 0], [1, 1, 1], [3, 1, 0]]))
-A.append(np.array([[4, 0, 4], [0, 3, 0], [-3, 0, 3]]))
-A.append(np.array([[5, 0, 1], [2, 3, 0], [0, 0, 4]]))
+# A.append(np.array([[1, 2, 0], [1, 1, 1], [3, 1, 0]]))
+# A.append(np.array([[4, 0, 4], [0, 3, 0], [-3, 0, 3]]))
+# A.append(np.array([[5, 0, 1], [2, 3, 0], [0, 0, 4]]))
+A.append(np.random.rand(3, 3))
+A.append(np.random.rand(3, 3))
+A.append(np.random.rand(3, 3))
 
 
 def task1_2():
     for transform_matrix in A:
         x1, y1, z1 = transform_sphere(transform_matrix)
         draw_3d_plot(x1, y1, z1)
+        print(transform_matrix)
 
 
 # 1.3
@@ -73,7 +77,8 @@ def task1_3():
 
         for s1_row in S_diag:
             base = np.dot(U, s1_row)  # 3d base vec for one axis
-            ax.plot([0, base[0]], [0, base[1]], [0, base[2]], linewidth=4)
+            ax.quiver(0, 0, 0, base[0], base[1], base[2], color='b', arrow_length_ratio=0.2)
+            # ax.plot([0, base[0]], [0, base[1]], [0, base[2]], linewidth=4)
 
         ax.plot_surface(x1, y1, z1, alpha=0.3, color='g')
         ax.set_xlabel('X axis')
@@ -99,7 +104,7 @@ def task1_4():
     print("Znaleziona macierz:")
     print(A100)  # found matrix
     print("\nWartości osobliwe tej macierzy")
-    print(np.diag(S))  # singular values
+    print(S)  # singular values
     print("\nStosunek najwiekszej wartosci osobliwej do najmniejszej: {}".format(S[0] / S[2]))
     x1, y1, z1 = transform_sphere(A100)
     draw_3d_plot(x1, y1, z1)
@@ -160,6 +165,7 @@ def visualize_transform(matrix, alpha=0.3, rstride=5, cstride=5):
 
 def task1_5():
     M = A[0]  # our matrix
+    # M = np.array([[1, 2, 0], [1, 1, 1], [3, 1, 0]])
     U, S, VT = np.linalg.svd(M)
     S = np.diag(S)
 
