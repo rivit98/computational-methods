@@ -1,0 +1,45 @@
+United States Visitor and Immigrant Status Indicator Technology (commonly referred to as US-VISIT) is a U.S. Customs and Border Protection (CBP) management system.  The system involves the collection and analysis of biometric data (such as fingerprints), which are checked against a database to track individuals deemed by the United States to be terrorists, criminals, and illegal immigrants. US-VISIT is accessed by 30,000 users from federal, state, and local government agencies. Upon Presidential approval of the 2013 Continuing resolution the US-VISIT program officially became the "Office of Biometric Identity Management" (OBIM), save for portions of the agency which performed overstay analysis being transferred into U.S. Immigration and Customs Enforcement and biometric Entry and Exit operations which became a part of U.S. Customs and Border Protection.
+
+
+== Purpose and overview ==
+The U.S. government states that the purpose of US-VISIT is to advance the security of both the United States and worldwide travel, through the use and sharing of biometric information for identity management. U.S. Department of State consular officers and U.S. Customs and Border Protection (CBP) officers collect biometric information (digital fingerprints and a photograph) from all non-U.S. citizens between the ages of 14 and 79, with some exceptions, when they apply for visas or arrive at major U.S. ports of entry.CBP officials have the ability to instantly check the person seeking entry against several "lookout" databases using the Interagency Border Inspection System. In 2009, DHS announced that it had completed an upgrade from two-fingerprint to ten-fingerprint scanners at major U.S. ports of entry. The upgrade, which began in 2007, is intended to make the entry process faster and more accurate.Initially, only visitors who required a visa inserted in their passport were included in the US-VISIT program.  However, since September 30, 2004, visitors eligible for the Visa Waiver Program have also been required to use the US-VISIT program.  Beginning January 18, 2009, most non-U.S. citizens (including lawful permanent residents) are subject to US-VISIT requirements.The United States and Canada have special agreements for visa-free travel, and currently most Canadians are not subject to US-VISIT.  U.S. citizens are not required to be digitally fingerscanned or photographed when they enter United States territory. The Department of State began issuing biometric passports to its citizens in 2006.
+The program has been funded by Congressional appropriations of $330 million in fiscal year 2004, $340 million in 2005, $340 million in 2006, and $362 million in 2007. For fiscal year 2010, Congress appropriated $373.7 million and directed that $50 million be used to implement a biometric air exit capability.
+
+
+== Statistics ==
+In fiscal year 2007:
+A total of 46,298,869 entries recorded at air and sea ports.
+Of these, 236,857 were identified as possible overstays.
+The manual vetting system led to 273 U.S. Immigration and Customs Enforcement arrests.
+The databases resulted in 25,552 hits for consular officers overseas adjudicating visa applications.
+There were 11,685 biometric watch-list hits at the ports of entry, which included individuals with criminal histories.
+United States Citizenship and Immigration Services used the system to screen those who apply for immigration benefits, creating 31,324 hits.
+
+
+== Controversy ==
+Critics contend that the system is too inaccurate to be an effective solution. Barry Steinhardt, director of the American Civil Liberties Union's Program on Technology and Liberty, states that the watch list is "bloated and full of inaccuracy", calling the policy a "total failure". He stated, "Whether or not the loss of liberty is worth the security gained is not a question — because no security is gained."The consulting company Accenture is the lead contractor for US-VISIT.  The selection of Accenture in 2004 was controversial due to the location of the company's headquarters.  In 2000, Accenture was created and incorporated in Bermuda, as a separation of global business consulting services from the financial consulting services of Andersen Consulting.  Because Accenture was created in 2000, and because Andersen was not previously incorporated, Accenture was never previously considered to be incorporated in the United States.
+
+
+== Similar systems in other countries ==
+
+The following list shows countries who fingerprint and photograph foreigners and citizens. 
+
+
+== See also ==
+Border Protection, Anti-terrorism, and Illegal Immigration Control Act of 2005
+Electronic System for Travel Authorization
+ROK-VISIT (Republic of Korea Visitor and Immigrant Status Indicator Technology)
+Exit & Entry Permit (Republic of China)
+J-VIS
+Smart entry service (SES)
+U.S. Customs and Border Protection (CBP)
+U.S. Immigration and Customs Enforcement (ICE)
+
+
+== References ==
+
+
+== External links ==
+Official page on dhs.gov
+Biometrics.gov
+Brazil to fingerprint US citizens (BBC News)

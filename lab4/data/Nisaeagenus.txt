@@ -1,0 +1,23 @@
+Nisaea is a genus in the phylum Proteobacteria (Bacteria), which contains two species, namely N. denitrificans and N. nitritireducens, which were described in 2008.
+
+
+== Description ==
+Like all Proteobacteria the two species stain Gram-negative.(,cf.) They were isolated from coastal, surface waters of the north-western Mediterranean Sea, specifically on February 2004 at the SOLA station located in the bay of Banyuls-sur-Mer (42 2.99 N 3 0.89 E) at a depth of 3 metres.
+The cells are motile pleomorphic rods that are 2.9 μm long and 0.9 μm wide. When grown on marine agar medium, they form cream colonies (i.e. no pigmentation). Apart from standard genetic differences for species (98% 16S, 55% DNA-DNA), the two species differ in that Nisaea denitrificans can fully denitrify whereas Nisaea nitritireducens cannot only reduce nitrite.
+
+
+== Etymology ==
+
+The name Nisaea derives from:Latin feminine gender noun Nisaea, nymph of the sea, referring to the marine origin (Mediterranean sea). Nicaea is in fact a sea nymph and daughter of the river-god Sangarius and Cybele.
+Whereas the specific epithets, refer to:
+
+denitrificans: New Latin participle adjective denitrificans (from New Latin v. denitrifico), denitrifying.
+nitritireducens: New Latin noun nitris -itis, nitrite; Latin participle adjective reducens, leading back, bringing back and (in chemistry) converting to a different oxidation state; New Latin participle adjective nitritireducens, reducing nitrite.
+
+
+== See also ==
+Bacterial taxonomy
+Microbiology
+
+
+== References ==

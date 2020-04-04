@@ -1,0 +1,4708 @@
+A two-port network (a kind of four-terminal network or quadripole) is an electrical network (circuit) or device with two pairs of terminals to connect to external circuits. Two terminals constitute a port if the currents applied to them satisfy the essential requirement known as the port condition: the electric current entering one terminal must equal the current emerging from the other terminal on the same port.  The ports constitute interfaces where the network connects to other networks, the points where signals are applied or outputs are taken.  In a two-port network, often port 1 is considered the input port and port 2 is considered the output port.
+The two-port network model is used in mathematical circuit analysis techniques to isolate portions of larger circuits.  A two-port network is regarded as a "black box" with its properties specified by a matrix of numbers.  This allows the response of the network to signals applied to the ports to be calculated easily, without solving for all the internal voltages and currents in the network.  It also allows similar circuits or devices to be compared easily.  For example, transistors  are often regarded as two-ports, characterized by their h-parameters (see below) which are listed by the manufacturer.   Any linear circuit with four terminals can be regarded as a two-port network provided that it does not contain an independent source and satisfies the port conditions.
+Examples of circuits analyzed as two-ports are filters, matching networks,  transmission lines, transformers, and small-signal models for transistors (such as the hybrid-pi model). The analysis of passive two-port networks is an outgrowth of reciprocity theorems first derived by Lorentz.In two-port mathematical models, the network is described by a 2 by 2 square matrix of complex numbers.  The common models that are used are referred to as z-parameters, y-parameters, h-parameters, g-parameters, and  ABCD-parameters, each described individually below.  These are all limited to linear networks since an underlying assumption of their derivation is that any given circuit condition is a linear superposition of various short-circuit and open circuit conditions.  They are usually expressed in matrix notation, and they establish relations between the variables
+
+  
+    
+      
+        
+          V
+          
+            1
+          
+        
+      
+    
+    {\displaystyle V_{1}}
+  , voltage across port 1
+
+  
+    
+      
+        
+          I
+          
+            1
+          
+        
+      
+    
+    {\displaystyle I_{1}}
+  , current into port 1
+
+  
+    
+      
+        
+          V
+          
+            2
+          
+        
+      
+    
+    {\displaystyle V_{2}}
+  , voltage across port 2
+
+  
+    
+      
+        
+          I
+          
+            2
+          
+        
+      
+    
+    {\displaystyle I_{2}}
+  , current into port 2which are shown in figure 1.  The difference between the various models lies in which of these variables are regarded as the independent variables.  These current and voltage variables are most useful at low-to-moderate frequencies. At high frequencies (e.g., microwave frequencies), the use of power and energy variables is more appropriate, and the two-port current–voltage approach is replaced by an approach based upon scattering parameters.
+
+
+== General properties ==
+There are certain properties of two-ports that frequently occur in practical networks and can be used to greatly simplify the analysis. These include:
+
+Reciprocal networks
+A network is said to be reciprocal if the voltage appearing at port 2 due to a current applied at port 1 is the same as the voltage appearing at port 1 when the same current is applied to port 2.  Exchanging voltage and current results in an equivalent definition of reciprocity.  A network that consists entirely of linear passive components (that is, resistors, capacitors and inductors) is usually reciprocal, a notable exception being passive circulators and isolators that contain magnetized materials.  In general, it will not be reciprocal if it contains active components such as generators or transistors.Symmetrical networks
+A network is symmetrical if its input impedance is equal to its output impedance.  Most often, but not necessarily, symmetrical networks are also physically symmetrical.  Sometimes also antimetrical networks are of interest.  These are networks where the input and output impedances are the duals of each other.Lossless network
+A lossless network is one which contains no resistors or other dissipative elements.
+
+
+== Impedance parameters (z-parameters) ==
+
+  
+    
+      
+        
+          
+            [
+            
+              
+                
+                  
+                    V
+                    
+                      1
+                    
+                  
+                
+              
+              
+                
+                  
+                    V
+                    
+                      2
+                    
+                  
+                
+              
+            
+            ]
+          
+        
+        =
+        
+          
+            [
+            
+              
+                
+                  
+                    z
+                    
+                      11
+                    
+                  
+                
+                
+                  
+                    z
+                    
+                      12
+                    
+                  
+                
+              
+              
+                
+                  
+                    z
+                    
+                      21
+                    
+                  
+                
+                
+                  
+                    z
+                    
+                      22
+                    
+                  
+                
+              
+            
+            ]
+          
+        
+        
+          
+            [
+            
+              
+                
+                  
+                    I
+                    
+                      1
+                    
+                  
+                
+              
+              
+                
+                  
+                    I
+                    
+                      2
+                    
+                  
+                
+              
+            
+            ]
+          
+        
+      
+    
+    {\displaystyle {\begin{bmatrix}V_{1}\\V_{2}\end{bmatrix}}={\begin{bmatrix}z_{11}&z_{12}\\z_{21}&z_{22}\end{bmatrix}}{\begin{bmatrix}I_{1}\\I_{2}\end{bmatrix}}}
+  where
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  z
+                  
+                    11
+                  
+                
+                
+              
+              
+                
+                
+                  
+                    
+                      
+                        =
+                      
+                      
+                        def
+                      
+                    
+                  
+                
+                
+                
+                  
+                    
+                    
+                      
+                        
+                          V
+                          
+                            1
+                          
+                        
+                        
+                          I
+                          
+                            1
+                          
+                        
+                      
+                    
+                    |
+                  
+                  
+                    
+                      I
+                      
+                        2
+                      
+                    
+                    =
+                    0
+                  
+                
+                
+                
+                  z
+                  
+                    12
+                  
+                
+                
+                
+                  
+                    
+                      
+                        =
+                      
+                      
+                        def
+                      
+                    
+                  
+                
+                
+                
+                  
+                    
+                    
+                      
+                        
+                          V
+                          
+                            1
+                          
+                        
+                        
+                          I
+                          
+                            2
+                          
+                        
+                      
+                    
+                    |
+                  
+                  
+                    
+                      I
+                      
+                        1
+                      
+                    
+                    =
+                    0
+                  
+                
+              
+            
+            
+              
+                
+                  z
+                  
+                    21
+                  
+                
+                
+              
+              
+                
+                
+                  
+                    
+                      
+                        =
+                      
+                      
+                        def
+                      
+                    
+                  
+                
+                
+                
+                  
+                    
+                    
+                      
+                        
+                          V
+                          
+                            2
+                          
+                        
+                        
+                          I
+                          
+                            1
+                          
+                        
+                      
+                    
+                    |
+                  
+                  
+                    
+                      I
+                      
+                        2
+                      
+                    
+                    =
+                    0
+                  
+                
+                
+                
+                  z
+                  
+                    22
+                  
+                
+                
+                
+                  
+                    
+                      
+                        =
+                      
+                      
+                        def
+                      
+                    
+                  
+                
+                
+                
+                  
+                    
+                    
+                      
+                        
+                          V
+                          
+                            2
+                          
+                        
+                        
+                          I
+                          
+                            2
+                          
+                        
+                      
+                    
+                    |
+                  
+                  
+                    
+                      I
+                      
+                        1
+                      
+                    
+                    =
+                    0
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}z_{11}\,&{\stackrel {\text{def}}{=}}\,\left.{\frac {V_{1}}{I_{1}}}\right|_{I_{2}=0}\qquad z_{12}\,{\stackrel {\text{def}}{=}}\,\left.{\frac {V_{1}}{I_{2}}}\right|_{I_{1}=0}\\z_{21}\,&{\stackrel {\text{def}}{=}}\,\left.{\frac {V_{2}}{I_{1}}}\right|_{I_{2}=0}\qquad z_{22}\,{\stackrel {\text{def}}{=}}\,\left.{\frac {V_{2}}{I_{2}}}\right|_{I_{1}=0}\end{aligned}}}
+  All the z-parameters have dimensions of ohms.
+For reciprocal networks 
+  
+    
+      
+        
+          
+            z
+            
+              12
+            
+          
+          =
+          
+            z
+            
+              21
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle z_{12}=z_{21}}
+  .  For symmetrical networks 
+  
+    
+      
+        
+          
+            z
+            
+              11
+            
+          
+          =
+          
+            z
+            
+              22
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle z_{11}=z_{22}}
+  .  For reciprocal lossless networks all the 
+  
+    
+      
+        
+          
+            z
+            
+              
+                m
+                n
+              
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle z_{\mathrm {mn} }}
+   are purely imaginary.
+
+
+=== Example: bipolar current mirror with emitter degeneration ===
+
+Figure 3 shows a bipolar current mirror with emitter resistors to increase its output resistance.  Transistor Q1 is diode connected, which is to say its collector-base voltage is zero. Figure 4 shows the small-signal circuit equivalent to Figure 3. Transistor Q1 is represented by its emitter resistance rE ≈ VT / IE (VT = thermal voltage, IE = Q-point emitter current), a simplification made possible because the dependent current source in the hybrid-pi model for Q1 draws the same current as a resistor 1 / gm connected across rπ. The second transistor Q2 is represented by its hybrid-pi model. Table 1 below shows the z-parameter expressions that make the z-equivalent circuit of Figure 2 electrically equivalent to the small-signal circuit of Figure 4.
+
+The negative feedback introduced by resistors RE can be seen in these parameters. For example, when used as an active load in a differential amplifier, I1 ≈ −I2, making the output impedance of the mirror approximately R22 -R21 ≈ 2 β rORE /(rπ + 2RE) compared to only rO without feedback (that is with RE = 0 Ω) . At the same time, the impedance on the reference side of the mirror is approximately  R11 − R12 ≈ 
+  
+    
+      
+        
+          
+            
+              r
+              
+                π
+              
+            
+            
+              
+                r
+                
+                  π
+                
+              
+              +
+              2
+              
+                R
+                
+                  E
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {r_{\pi }}{r_{\pi }+2R_{E}}}}
+  
+  
+    
+      
+        (
+        
+          r
+          
+            E
+          
+        
+        +
+        
+          R
+          
+            E
+          
+        
+        )
+      
+    
+    {\displaystyle (r_{E}+R_{E})}
+  , only a moderate value, but still larger than rE with no feedback. In the differential amplifier application, a large output resistance increases the difference-mode gain, a good thing, and a small mirror input resistance is desirable to avoid Miller effect.
+
+
+== Admittance parameters (y-parameters) ==
+
+  
+    
+      
+        
+          
+            [
+            
+              
+                
+                  
+                    I
+                    
+                      1
+                    
+                  
+                
+              
+              
+                
+                  
+                    I
+                    
+                      2
+                    
+                  
+                
+              
+            
+            ]
+          
+        
+        =
+        
+          
+            [
+            
+              
+                
+                  
+                    y
+                    
+                      11
+                    
+                  
+                
+                
+                  
+                    y
+                    
+                      12
+                    
+                  
+                
+              
+              
+                
+                  
+                    y
+                    
+                      21
+                    
+                  
+                
+                
+                  
+                    y
+                    
+                      22
+                    
+                  
+                
+              
+            
+            ]
+          
+        
+        
+          
+            [
+            
+              
+                
+                  
+                    V
+                    
+                      1
+                    
+                  
+                
+              
+              
+                
+                  
+                    V
+                    
+                      2
+                    
+                  
+                
+              
+            
+            ]
+          
+        
+      
+    
+    {\displaystyle {\begin{bmatrix}I_{1}\\I_{2}\end{bmatrix}}={\begin{bmatrix}y_{11}&y_{12}\\y_{21}&y_{22}\end{bmatrix}}{\begin{bmatrix}V_{1}\\V_{2}\end{bmatrix}}}
+  where
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  y
+                  
+                    11
+                  
+                
+                
+              
+              
+                
+                
+                  
+                    
+                      
+                        =
+                      
+                      
+                        def
+                      
+                    
+                  
+                
+                
+                
+                  
+                    
+                    
+                      
+                        
+                          I
+                          
+                            1
+                          
+                        
+                        
+                          V
+                          
+                            1
+                          
+                        
+                      
+                    
+                    |
+                  
+                  
+                    
+                      V
+                      
+                        2
+                      
+                    
+                    =
+                    0
+                  
+                
+                
+                
+                  y
+                  
+                    12
+                  
+                
+                
+                
+                  
+                    
+                      
+                        =
+                      
+                      
+                        def
+                      
+                    
+                  
+                
+                
+                
+                  
+                    
+                    
+                      
+                        
+                          I
+                          
+                            1
+                          
+                        
+                        
+                          V
+                          
+                            2
+                          
+                        
+                      
+                    
+                    |
+                  
+                  
+                    
+                      V
+                      
+                        1
+                      
+                    
+                    =
+                    0
+                  
+                
+              
+            
+            
+              
+                
+                  y
+                  
+                    21
+                  
+                
+                
+              
+              
+                
+                
+                  
+                    
+                      
+                        =
+                      
+                      
+                        def
+                      
+                    
+                  
+                
+                
+                
+                  
+                    
+                    
+                      
+                        
+                          I
+                          
+                            2
+                          
+                        
+                        
+                          V
+                          
+                            1
+                          
+                        
+                      
+                    
+                    |
+                  
+                  
+                    
+                      V
+                      
+                        2
+                      
+                    
+                    =
+                    0
+                  
+                
+                
+                
+                  y
+                  
+                    22
+                  
+                
+                
+                
+                  
+                    
+                      
+                        =
+                      
+                      
+                        def
+                      
+                    
+                  
+                
+                
+                
+                  
+                    
+                    
+                      
+                        
+                          I
+                          
+                            2
+                          
+                        
+                        
+                          V
+                          
+                            2
+                          
+                        
+                      
+                    
+                    |
+                  
+                  
+                    
+                      V
+                      
+                        1
+                      
+                    
+                    =
+                    0
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}y_{11}\,&{\stackrel {\text{def}}{=}}\,\left.{\frac {I_{1}}{V_{1}}}\right|_{V_{2}=0}\qquad y_{12}\,{\stackrel {\text{def}}{=}}\,\left.{\frac {I_{1}}{V_{2}}}\right|_{V_{1}=0}\\y_{21}\,&{\stackrel {\text{def}}{=}}\,\left.{\frac {I_{2}}{V_{1}}}\right|_{V_{2}=0}\qquad y_{22}\,{\stackrel {\text{def}}{=}}\,\left.{\frac {I_{2}}{V_{2}}}\right|_{V_{1}=0}\end{aligned}}}
+  All the Y-parameters have dimensions of siemens.
+For reciprocal networks 
+  
+    
+      
+        
+          
+            y
+            
+              12
+            
+          
+          =
+          
+            y
+            
+              21
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle y_{12}=y_{21}}
+  .  For symmetrical networks 
+  
+    
+      
+        
+          
+            y
+            
+              11
+            
+          
+          =
+          
+            y
+            
+              22
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle y_{11}=y_{22}}
+  .  For reciprocal lossless networks all the 
+  
+    
+      
+        
+          
+            y
+            
+              
+                m
+                n
+              
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle y_{\mathrm {mn} }}
+   are purely imaginary.
+
+
+== Hybrid parameters (h-parameters) ==
+
+  
+    
+      
+        
+          
+            [
+            
+              
+                
+                  
+                    V
+                    
+                      1
+                    
+                  
+                
+              
+              
+                
+                  
+                    I
+                    
+                      2
+                    
+                  
+                
+              
+            
+            ]
+          
+        
+        =
+        
+          
+            [
+            
+              
+                
+                  
+                    h
+                    
+                      11
+                    
+                  
+                
+                
+                  
+                    h
+                    
+                      12
+                    
+                  
+                
+              
+              
+                
+                  
+                    h
+                    
+                      21
+                    
+                  
+                
+                
+                  
+                    h
+                    
+                      22
+                    
+                  
+                
+              
+            
+            ]
+          
+        
+        
+          
+            [
+            
+              
+                
+                  
+                    I
+                    
+                      1
+                    
+                  
+                
+              
+              
+                
+                  
+                    V
+                    
+                      2
+                    
+                  
+                
+              
+            
+            ]
+          
+        
+      
+    
+    {\displaystyle {\begin{bmatrix}V_{1}\\I_{2}\end{bmatrix}}={\begin{bmatrix}h_{11}&h_{12}\\h_{21}&h_{22}\end{bmatrix}}{\begin{bmatrix}I_{1}\\V_{2}\end{bmatrix}}}
+  where
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  h
+                  
+                    11
+                  
+                
+                
+              
+              
+                
+                
+                  
+                    
+                      
+                        =
+                      
+                      
+                        def
+                      
+                    
+                  
+                
+                
+                
+                  
+                    
+                    
+                      
+                        
+                          V
+                          
+                            1
+                          
+                        
+                        
+                          I
+                          
+                            1
+                          
+                        
+                      
+                    
+                    |
+                  
+                  
+                    
+                      V
+                      
+                        2
+                      
+                    
+                    =
+                    0
+                  
+                
+                
+                
+                  h
+                  
+                    12
+                  
+                
+                
+                
+                  
+                    
+                      
+                        =
+                      
+                      
+                        def
+                      
+                    
+                  
+                
+                
+                
+                  
+                    
+                    
+                      
+                        
+                          V
+                          
+                            1
+                          
+                        
+                        
+                          V
+                          
+                            2
+                          
+                        
+                      
+                    
+                    |
+                  
+                  
+                    
+                      I
+                      
+                        1
+                      
+                    
+                    =
+                    0
+                  
+                
+              
+            
+            
+              
+                
+                  h
+                  
+                    21
+                  
+                
+                
+              
+              
+                
+                
+                  
+                    
+                      
+                        =
+                      
+                      
+                        def
+                      
+                    
+                  
+                
+                
+                
+                  
+                    
+                    
+                      
+                        
+                          I
+                          
+                            2
+                          
+                        
+                        
+                          I
+                          
+                            1
+                          
+                        
+                      
+                    
+                    |
+                  
+                  
+                    
+                      V
+                      
+                        2
+                      
+                    
+                    =
+                    0
+                  
+                
+                
+                
+                  h
+                  
+                    22
+                  
+                
+                
+                
+                  
+                    
+                      
+                        =
+                      
+                      
+                        def
+                      
+                    
+                  
+                
+                
+                
+                  
+                    
+                    
+                      
+                        
+                          I
+                          
+                            2
+                          
+                        
+                        
+                          V
+                          
+                            2
+                          
+                        
+                      
+                    
+                    |
+                  
+                  
+                    
+                      I
+                      
+                        1
+                      
+                    
+                    =
+                    0
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}h_{11}\,&{\stackrel {\text{def}}{=}}\,\left.{\frac {V_{1}}{I_{1}}}\right|_{V_{2}=0}\qquad h_{12}\,{\stackrel {\text{def}}{=}}\,\left.{\frac {V_{1}}{V_{2}}}\right|_{I_{1}=0}\\h_{21}\,&{\stackrel {\text{def}}{=}}\,\left.{\frac {I_{2}}{I_{1}}}\right|_{V_{2}=0}\qquad h_{22}\,{\stackrel {\text{def}}{=}}\,\left.{\frac {I_{2}}{V_{2}}}\right|_{I_{1}=0}\end{aligned}}}
+  This circuit is often selected when a current amplifier is desired at the output. The resistors shown in the diagram can be general impedances instead.
+Off-diagonal h-parameters are dimensionless, while diagonal members have dimensions the reciprocal of one another.
+
+
+=== Example: common-base amplifier ===
+
+Note: Tabulated formulas in Table 2 make the h-equivalent circuit of the transistor from Figure 6 agree with its small-signal low-frequency hybrid-pi model in Figure 7. Notation: rπ = base resistance of transistor, rO = output resistance, and gm = transconductance. The negative sign for h21 reflects the convention that I1, I2 are positive when directed into the two-port. A non-zero value for h12 means the output voltage affects the input voltage, that is, this amplifier is bilateral. If h12 = 0, the amplifier is unilateral.
+
+
+=== History ===
+The h-parameters were initially called series-parallel parameters.  The term hybrid to describe these parameters was coined by D. A. Alsberg in 1953 in "Transistor metrology".  In 1954 a joint committee of the IRE and the AIEE adopted the term h parameters and recommended that these become the standard method of testing and characterising transistors because they were "peculiarly adaptable to the physical characteristics of transistors".  In 1956 the recommendation became an issued standard; 56 IRE 28.S2.  Following the merge of these two organisations as the IEEE, the standard became Std 218-1956 and was reaffirmed in 1980, but has now been withdrawn.
+
+
+== Inverse hybrid parameters (g-parameters) ==
+
+  
+    
+      
+        
+          
+            [
+            
+              
+                
+                  
+                    I
+                    
+                      1
+                    
+                  
+                
+              
+              
+                
+                  
+                    V
+                    
+                      2
+                    
+                  
+                
+              
+            
+            ]
+          
+        
+        =
+        
+          
+            [
+            
+              
+                
+                  
+                    g
+                    
+                      11
+                    
+                  
+                
+                
+                  
+                    g
+                    
+                      12
+                    
+                  
+                
+              
+              
+                
+                  
+                    g
+                    
+                      21
+                    
+                  
+                
+                
+                  
+                    g
+                    
+                      22
+                    
+                  
+                
+              
+            
+            ]
+          
+        
+        
+          
+            [
+            
+              
+                
+                  
+                    V
+                    
+                      1
+                    
+                  
+                
+              
+              
+                
+                  
+                    I
+                    
+                      2
+                    
+                  
+                
+              
+            
+            ]
+          
+        
+      
+    
+    {\displaystyle {\begin{bmatrix}I_{1}\\V_{2}\end{bmatrix}}={\begin{bmatrix}g_{11}&g_{12}\\g_{21}&g_{22}\end{bmatrix}}{\begin{bmatrix}V_{1}\\I_{2}\end{bmatrix}}}
+  where
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  g
+                  
+                    11
+                  
+                
+                
+              
+              
+                
+                
+                  
+                    
+                      
+                        =
+                      
+                      
+                        def
+                      
+                    
+                  
+                
+                
+                
+                  
+                    
+                    
+                      
+                        
+                          I
+                          
+                            1
+                          
+                        
+                        
+                          V
+                          
+                            1
+                          
+                        
+                      
+                    
+                    |
+                  
+                  
+                    
+                      I
+                      
+                        2
+                      
+                    
+                    =
+                    0
+                  
+                
+                
+                
+                  g
+                  
+                    12
+                  
+                
+                
+                
+                  
+                    
+                      
+                        =
+                      
+                      
+                        def
+                      
+                    
+                  
+                
+                
+                
+                  
+                    
+                    
+                      
+                        
+                          I
+                          
+                            1
+                          
+                        
+                        
+                          I
+                          
+                            2
+                          
+                        
+                      
+                    
+                    |
+                  
+                  
+                    
+                      V
+                      
+                        1
+                      
+                    
+                    =
+                    0
+                  
+                
+              
+            
+            
+              
+                
+                  g
+                  
+                    21
+                  
+                
+                
+              
+              
+                
+                
+                  
+                    
+                      
+                        =
+                      
+                      
+                        def
+                      
+                    
+                  
+                
+                
+                
+                  
+                    
+                    
+                      
+                        
+                          V
+                          
+                            2
+                          
+                        
+                        
+                          V
+                          
+                            1
+                          
+                        
+                      
+                    
+                    |
+                  
+                  
+                    
+                      I
+                      
+                        2
+                      
+                    
+                    =
+                    0
+                  
+                
+                
+                
+                  g
+                  
+                    22
+                  
+                
+                
+                
+                  
+                    
+                      
+                        =
+                      
+                      
+                        def
+                      
+                    
+                  
+                
+                
+                
+                  
+                    
+                    
+                      
+                        
+                          V
+                          
+                            2
+                          
+                        
+                        
+                          I
+                          
+                            2
+                          
+                        
+                      
+                    
+                    |
+                  
+                  
+                    
+                      V
+                      
+                        1
+                      
+                    
+                    =
+                    0
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}g_{11}\,&{\stackrel {\text{def}}{=}}\,\left.{\frac {I_{1}}{V_{1}}}\right|_{I_{2}=0}\qquad g_{12}\,{\stackrel {\text{def}}{=}}\,\left.{\frac {I_{1}}{I_{2}}}\right|_{V_{1}=0}\\g_{21}\,&{\stackrel {\text{def}}{=}}\,\left.{\frac {V_{2}}{V_{1}}}\right|_{I_{2}=0}\qquad g_{22}\,{\stackrel {\text{def}}{=}}\,\left.{\frac {V_{2}}{I_{2}}}\right|_{V_{1}=0}\end{aligned}}}
+  Often this circuit is selected when a voltage amplifier is wanted at the output. Off-diagonal g-parameters are dimensionless, while diagonal members have dimensions the reciprocal of one another. The resistors shown in the diagram can be general impedances instead.
+
+
+=== Example: common-base amplifier ===
+
+Note: Tabulated formulas in Table 3 make the g-equivalent circuit of the transistor from Figure 8 agree with its small-signal low-frequency hybrid-pi model in Figure 9. Notation: rπ = base resistance of transistor, rO = output resistance, and gm = transconductance. The negative sign for g12 reflects the convention that I1, I2 are positive when directed into the two-port. A non-zero value for g12 means the output current affects the input current, that is, this amplifier is bilateral. If g12 = 0, the amplifier is unilateral.
+
+
+== ABCD-parameters ==
+The ABCD-parameters are known variously as chain, cascade, or transmission parameters.  There are a number of definitions given for ABCD parameters, the most common is,
+
+  
+    
+      
+        
+          
+            [
+            
+              
+                
+                  
+                    V
+                    
+                      1
+                    
+                  
+                
+              
+              
+                
+                  
+                    I
+                    
+                      1
+                    
+                  
+                
+              
+            
+            ]
+          
+        
+        =
+        
+          
+            [
+            
+              
+                
+                  A
+                
+                
+                  B
+                
+              
+              
+                
+                  C
+                
+                
+                  D
+                
+              
+            
+            ]
+          
+        
+        
+          
+            [
+            
+              
+                
+                  
+                    V
+                    
+                      2
+                    
+                  
+                
+              
+              
+                
+                  −
+                  
+                    I
+                    
+                      2
+                    
+                  
+                
+              
+            
+            ]
+          
+        
+      
+    
+    {\displaystyle {\begin{bmatrix}V_{1}\\I_{1}\end{bmatrix}}={\begin{bmatrix}A&B\\C&D\end{bmatrix}}{\begin{bmatrix}V_{2}\\-I_{2}\end{bmatrix}}}
+  where
+
+  
+    
+      
+        
+          
+            
+              
+                A
+                
+              
+              
+                
+                
+                  
+                    
+                      
+                        =
+                      
+                      
+                        def
+                      
+                    
+                  
+                
+                
+                
+                  
+                    
+                    
+                      
+                        
+                          V
+                          
+                            1
+                          
+                        
+                        
+                          V
+                          
+                            2
+                          
+                        
+                      
+                    
+                    |
+                  
+                  
+                    
+                      I
+                      
+                        2
+                      
+                    
+                    =
+                    0
+                  
+                
+              
+              
+                
+                B
+                
+              
+              
+                
+                
+                  
+                    
+                      
+                        =
+                      
+                      
+                        def
+                      
+                    
+                  
+                
+                
+                
+                  
+                    
+                    
+                      −
+                      
+                        
+                          
+                            V
+                            
+                              1
+                            
+                          
+                          
+                            I
+                            
+                              2
+                            
+                          
+                        
+                      
+                    
+                    |
+                  
+                  
+                    
+                      V
+                      
+                        2
+                      
+                    
+                    =
+                    0
+                  
+                
+              
+            
+            
+              
+                C
+                
+              
+              
+                
+                
+                  
+                    
+                      
+                        =
+                      
+                      
+                        def
+                      
+                    
+                  
+                
+                
+                
+                  
+                    
+                    
+                      
+                        
+                          I
+                          
+                            1
+                          
+                        
+                        
+                          V
+                          
+                            2
+                          
+                        
+                      
+                    
+                    |
+                  
+                  
+                    
+                      I
+                      
+                        2
+                      
+                    
+                    =
+                    0
+                  
+                
+              
+              
+                
+                D
+                
+              
+              
+                
+                
+                  
+                    
+                      
+                        =
+                      
+                      
+                        def
+                      
+                    
+                  
+                
+                
+                
+                  
+                    
+                    
+                      −
+                      
+                        
+                          
+                            I
+                            
+                              1
+                            
+                          
+                          
+                            I
+                            
+                              2
+                            
+                          
+                        
+                      
+                    
+                    |
+                  
+                  
+                    
+                      V
+                      
+                        2
+                      
+                    
+                    =
+                    0
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}A\,&{\stackrel {\text{def}}{=}}\,\left.{\frac {V_{1}}{V_{2}}}\right|_{I_{2}=0}&\qquad B\,&{\stackrel {\text{def}}{=}}\,\left.-{\frac {V_{1}}{I_{2}}}\right|_{V_{2}=0}\\C\,&{\stackrel {\text{def}}{=}}\,\left.{\frac {I_{1}}{V_{2}}}\right|_{I_{2}=0}&\qquad D\,&{\stackrel {\text{def}}{=}}\,\left.-{\frac {I_{1}}{I_{2}}}\right|_{V_{2}=0}\end{aligned}}}
+  
+For reciprocal networks 
+  
+    
+      
+        
+          A
+          D
+          −
+          B
+          C
+          =
+          1
+        
+      
+    
+    {\displaystyle \scriptstyle AD-BC=1}
+  .  For symmetrical networks 
+  
+    
+      
+        
+          A
+          =
+          D
+        
+      
+    
+    {\displaystyle \scriptstyle A=D}
+  .  For networks which are reciprocal and lossless, A and D are purely real while B and C are purely imaginary.This representation is preferred because when the parameters are used to represent a cascade of two-ports, the matrices are written in the same order that a network diagram would be drawn, that is, left to right.  However, a variant definition is also in use,
+
+  
+    
+      
+        
+          
+            [
+            
+              
+                
+                  
+                    V
+                    
+                      2
+                    
+                  
+                
+              
+              
+                
+                  −
+                  
+                    I
+                    
+                      2
+                    
+                  
+                
+              
+            
+            ]
+          
+        
+        =
+        
+          
+            [
+            
+              
+                
+                  
+                    A
+                    ′
+                  
+                
+                
+                  
+                    B
+                    ′
+                  
+                
+              
+              
+                
+                  
+                    C
+                    ′
+                  
+                
+                
+                  
+                    D
+                    ′
+                  
+                
+              
+            
+            ]
+          
+        
+        
+          
+            [
+            
+              
+                
+                  
+                    V
+                    
+                      1
+                    
+                  
+                
+              
+              
+                
+                  
+                    I
+                    
+                      1
+                    
+                  
+                
+              
+            
+            ]
+          
+        
+      
+    
+    {\displaystyle {\begin{bmatrix}V_{2}\\-I_{2}\end{bmatrix}}={\begin{bmatrix}A'&B'\\C'&D'\end{bmatrix}}{\begin{bmatrix}V_{1}\\I_{1}\end{bmatrix}}}
+  where
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  A
+                  ′
+                
+                
+              
+              
+                
+                
+                  
+                    
+                      
+                        =
+                      
+                      
+                        def
+                      
+                    
+                  
+                
+                
+                
+                  
+                    
+                    
+                      
+                        
+                          V
+                          
+                            2
+                          
+                        
+                        
+                          V
+                          
+                            1
+                          
+                        
+                      
+                    
+                    |
+                  
+                  
+                    
+                      I
+                      
+                        1
+                      
+                    
+                    =
+                    0
+                  
+                
+              
+              
+                
+                
+                  B
+                  ′
+                
+                
+              
+              
+                
+                
+                  
+                    
+                      
+                        =
+                      
+                      
+                        def
+                      
+                    
+                  
+                
+                
+                
+                  
+                    
+                    
+                      
+                        
+                          V
+                          
+                            2
+                          
+                        
+                        
+                          I
+                          
+                            1
+                          
+                        
+                      
+                    
+                    |
+                  
+                  
+                    
+                      V
+                      
+                        1
+                      
+                    
+                    =
+                    0
+                  
+                
+              
+            
+            
+              
+                
+                  C
+                  ′
+                
+                
+              
+              
+                
+                
+                  
+                    
+                      
+                        =
+                      
+                      
+                        def
+                      
+                    
+                  
+                
+                
+                
+                  
+                    
+                    
+                      −
+                      
+                        
+                          
+                            I
+                            
+                              2
+                            
+                          
+                          
+                            V
+                            
+                              1
+                            
+                          
+                        
+                      
+                    
+                    |
+                  
+                  
+                    
+                      I
+                      
+                        1
+                      
+                    
+                    =
+                    0
+                  
+                
+              
+              
+                
+                
+                  D
+                  ′
+                
+                
+              
+              
+                
+                
+                  
+                    
+                      
+                        =
+                      
+                      
+                        def
+                      
+                    
+                  
+                
+                
+                
+                  
+                    
+                    
+                      −
+                      
+                        
+                          
+                            I
+                            
+                              2
+                            
+                          
+                          
+                            I
+                            
+                              1
+                            
+                          
+                        
+                      
+                    
+                    |
+                  
+                  
+                    
+                      V
+                      
+                        1
+                      
+                    
+                    =
+                    0
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}A'\,&{\stackrel {\text{def}}{=}}\,\left.{\frac {V_{2}}{V_{1}}}\right|_{I_{1}=0}&\qquad B'\,&{\stackrel {\text{def}}{=}}\,\left.{\frac {V_{2}}{I_{1}}}\right|_{V_{1}=0}\\C'\,&{\stackrel {\text{def}}{=}}\,\left.-{\frac {I_{2}}{V_{1}}}\right|_{I_{1}=0}&\qquad D'\,&{\stackrel {\text{def}}{=}}\,\left.-{\frac {I_{2}}{I_{1}}}\right|_{V_{1}=0}\end{aligned}}}
+  The negative sign of 
+  
+    
+      
+        
+          −
+          
+            I
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \scriptstyle -I_{2}}
+   arises to make the output current of one cascaded stage (as it appears in the matrix) equal to the input current of the next.  Without the minus sign the two currents would have opposite senses because the positive direction of current, by convention, is taken as the current entering the port.  Consequently, the input voltage/current matrix vector can be directly replaced with the matrix equation of the preceding cascaded stage to form a combined 
+  
+    
+      
+        
+          
+            A
+            ′
+          
+          
+            B
+            ′
+          
+          
+            C
+            ′
+          
+          
+            D
+            ′
+          
+        
+      
+    
+    {\displaystyle \scriptstyle A'B'C'D'}
+   matrix.
+The terminology of representing the 
+  
+    
+      
+        
+          A
+          B
+          C
+          D
+        
+      
+    
+    {\displaystyle \scriptstyle ABCD}
+   parameters as a matrix of elements designated a11 etc. as adopted by some authors and the inverse 
+  
+    
+      
+        
+          
+            A
+            ′
+          
+          
+            B
+            ′
+          
+          
+            C
+            ′
+          
+          
+            D
+            ′
+          
+        
+      
+    
+    {\displaystyle \scriptstyle A'B'C'D'}
+   parameters as a matrix of elements designated b11 etc. is used here for both brevity and to avoid confusion with circuit elements.
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  [
+                  
+                    a
+                  
+                  ]
+                
+              
+              
+                
+                =
+                
+                  
+                    [
+                    
+                      
+                        
+                          
+                            a
+                            
+                              11
+                            
+                          
+                        
+                        
+                          
+                            a
+                            
+                              12
+                            
+                          
+                        
+                      
+                      
+                        
+                          
+                            a
+                            
+                              21
+                            
+                          
+                        
+                        
+                          
+                            a
+                            
+                              22
+                            
+                          
+                        
+                      
+                    
+                    ]
+                  
+                
+                =
+                
+                  
+                    [
+                    
+                      
+                        
+                          A
+                        
+                        
+                          B
+                        
+                      
+                      
+                        
+                          C
+                        
+                        
+                          D
+                        
+                      
+                    
+                    ]
+                  
+                
+              
+            
+            
+              
+                
+                  [
+                  
+                    b
+                  
+                  ]
+                
+              
+              
+                
+                =
+                
+                  
+                    [
+                    
+                      
+                        
+                          
+                            b
+                            
+                              11
+                            
+                          
+                        
+                        
+                          
+                            b
+                            
+                              12
+                            
+                          
+                        
+                      
+                      
+                        
+                          
+                            b
+                            
+                              21
+                            
+                          
+                        
+                        
+                          
+                            b
+                            
+                              22
+                            
+                          
+                        
+                      
+                    
+                    ]
+                  
+                
+                =
+                
+                  
+                    [
+                    
+                      
+                        
+                          
+                            A
+                            ′
+                          
+                        
+                        
+                          
+                            B
+                            ′
+                          
+                        
+                      
+                      
+                        
+                          
+                            C
+                            ′
+                          
+                        
+                        
+                          
+                            D
+                            ′
+                          
+                        
+                      
+                    
+                    ]
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\left\lbrack \mathbf {a} \right\rbrack &={\begin{bmatrix}a_{11}&a_{12}\\a_{21}&a_{22}\end{bmatrix}}={\begin{bmatrix}A&B\\C&D\end{bmatrix}}\\\left\lbrack \mathbf {b} \right\rbrack &={\begin{bmatrix}b_{11}&b_{12}\\b_{21}&b_{22}\end{bmatrix}}={\begin{bmatrix}A'&B'\\C'&D'\end{bmatrix}}\end{aligned}}}
+  An ABCD matrix has been defined for Telephony four-wire Transmission Systems by P K Webb in British Post Office Research Department Report 630 in 1977.
+
+
+=== Table of transmission parameters ===
+The table below lists ABCD and inverse ABCD parameters for some simple network elements.
+
+
+== Scattering parameters (S-parameters) ==
+
+The previous parameters are all defined in terms of voltages and currents at ports.  S-parameters are different, and are defined in terms of incident and reflected waves at ports.  S-parameters are used primarily at UHF and microwave frequencies where it becomes difficult to measure voltages and currents directly.  On the other hand, incident and reflected power are easy to measure using directional couplers.  The definition is,
+
+  
+    
+      
+        
+          
+            [
+            
+              
+                
+                  
+                    b
+                    
+                      1
+                    
+                  
+                
+              
+              
+                
+                  
+                    b
+                    
+                      2
+                    
+                  
+                
+              
+            
+            ]
+          
+        
+        =
+        
+          
+            [
+            
+              
+                
+                  
+                    S
+                    
+                      11
+                    
+                  
+                
+                
+                  
+                    S
+                    
+                      12
+                    
+                  
+                
+              
+              
+                
+                  
+                    S
+                    
+                      21
+                    
+                  
+                
+                
+                  
+                    S
+                    
+                      22
+                    
+                  
+                
+              
+            
+            ]
+          
+        
+        
+          
+            [
+            
+              
+                
+                  
+                    a
+                    
+                      1
+                    
+                  
+                
+              
+              
+                
+                  
+                    a
+                    
+                      2
+                    
+                  
+                
+              
+            
+            ]
+          
+        
+      
+    
+    {\displaystyle {\begin{bmatrix}b_{1}\\b_{2}\end{bmatrix}}={\begin{bmatrix}S_{11}&S_{12}\\S_{21}&S_{22}\end{bmatrix}}{\begin{bmatrix}a_{1}\\a_{2}\end{bmatrix}}}
+  where the 
+  
+    
+      
+        
+          
+            a
+            
+              k
+            
+          
+        
+      
+    
+    {\displaystyle \scriptstyle a_{k}}
+   are the incident waves and the 
+  
+    
+      
+        
+          
+            b
+            
+              k
+            
+          
+        
+      
+    
+    {\displaystyle \scriptstyle b_{k}}
+   are the reflected waves at port k.  It is conventional to define the 
+  
+    
+      
+        
+          
+            a
+            
+              k
+            
+          
+        
+      
+    
+    {\displaystyle \scriptstyle a_{k}}
+   and 
+  
+    
+      
+        
+          
+            b
+            
+              k
+            
+          
+        
+      
+    
+    {\displaystyle \scriptstyle b_{k}}
+   in terms of the square root of power.  Consequently, there is a relationship with the wave voltages (see main article for details).For reciprocal networks 
+  
+    
+      
+        
+          
+            S
+            
+              12
+            
+          
+          =
+          
+            S
+            
+              21
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle S_{12}=S_{21}}
+  .  For symmetrical networks 
+  
+    
+      
+        
+          
+            S
+            
+              11
+            
+          
+          =
+          
+            S
+            
+              22
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle S_{11}=S_{22}}
+  .  For antimetrical networks 
+  
+    
+      
+        
+          
+            S
+            
+              11
+            
+          
+          =
+          −
+          
+            S
+            
+              22
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle S_{11}=-S_{22}}
+  .  For lossless reciprocal networks 
+  
+    
+      
+        
+          
+            |
+          
+          
+            S
+            
+              11
+            
+          
+          
+            |
+          
+          =
+          
+            |
+          
+          
+            S
+            
+              22
+            
+          
+          
+            |
+          
+        
+      
+    
+    {\displaystyle \textstyle |S_{11}|=|S_{22}|}
+   and 
+  
+    
+      
+        
+          
+            |
+          
+          
+            S
+            
+              11
+            
+          
+          
+            
+              |
+            
+            
+              2
+            
+          
+          +
+          
+            |
+          
+          
+            S
+            
+              12
+            
+          
+          
+            
+              |
+            
+            
+              2
+            
+          
+          =
+          1
+        
+      
+    
+    {\displaystyle \textstyle |S_{11}|^{2}+|S_{12}|^{2}=1}
+  .
+
+
+== Scattering transfer parameters (T-parameters) ==
+
+Scattering transfer parameters, like scattering parameters, are defined in terms of incident and reflected waves.  The difference is that T-parameters relate the waves at port 1 to the waves at port 2 whereas S-parameters relate the reflected waves to the incident waves.  In this respect T-parameters fill the same role as ABCD parameters and allow the T-parameters of cascaded networks to be calculated by matrix multiplication of the component networks.  T-parameters, like ABCD parameters, can also be called transmission parameters.  The definition is,
+
+  
+    
+      
+        
+          
+            [
+            
+              
+                
+                  
+                    a
+                    
+                      1
+                    
+                  
+                
+              
+              
+                
+                  
+                    b
+                    
+                      1
+                    
+                  
+                
+              
+            
+            ]
+          
+        
+        =
+        
+          
+            [
+            
+              
+                
+                  
+                    T
+                    
+                      11
+                    
+                  
+                
+                
+                  
+                    T
+                    
+                      12
+                    
+                  
+                
+              
+              
+                
+                  
+                    T
+                    
+                      21
+                    
+                  
+                
+                
+                  
+                    T
+                    
+                      22
+                    
+                  
+                
+              
+            
+            ]
+          
+        
+        
+          
+            [
+            
+              
+                
+                  
+                    b
+                    
+                      2
+                    
+                  
+                
+              
+              
+                
+                  
+                    a
+                    
+                      2
+                    
+                  
+                
+              
+            
+            ]
+          
+        
+      
+    
+    {\displaystyle {\begin{bmatrix}a_{1}\\b_{1}\end{bmatrix}}={\begin{bmatrix}T_{11}&T_{12}\\T_{21}&T_{22}\end{bmatrix}}{\begin{bmatrix}b_{2}\\a_{2}\end{bmatrix}}}
+  T-parameters are not so easy to measure directly unlike S-parameters.  However, S-parameters are easily converted to T-parameters, see main article for details.
+
+
+== Combinations of two-port networks ==
+When two or more two-port networks are connected, the two-port parameters of the combined network can be found by performing matrix algebra on the matrices of parameters for the component two-ports.  The matrix operation can be made particularly simple with an appropriate choice of two-port parameters to match the form of connection of the two-ports.  For instance, the z-parameters are best for series connected ports.
+The combination rules need to be applied with care.  Some connections (when dissimilar potentials are joined) result in the port condition being invalidated and the combination rule will no longer apply.  A Brune test can be used to check the permissibility of the combination. This difficulty can be overcome by placing 1:1 ideal transformers on the outputs of the problem two-ports.  This does not change the parameters of the two-ports, but does ensure that they will continue to meet the port condition when interconnected.  An example of this problem is shown for series-series connections in figures 11 and 12 below.
+
+
+=== Series-series connection ===
+
+When two-ports are connected in a series-series configuration as shown in figure 10, the best choice of two-port parameter is the z-parameters.  The z-parameters of the combined network are found by matrix addition of the two individual z-parameter matrices.
+
+  
+    
+      
+        [
+        
+          z
+        
+        ]
+        =
+        [
+        
+          z
+        
+        
+          ]
+          
+            1
+          
+        
+        +
+        [
+        
+          z
+        
+        
+          ]
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \lbrack \mathbf {z} \rbrack =\lbrack \mathbf {z} \rbrack _{1}+\lbrack \mathbf {z} \rbrack _{2}}
+  
+
+As mentioned above, there are some networks which will not yield directly to this analysis.  A simple example is a two-port consisting of a L-network of resistors R1 and R2.  The z-parameters for this network are;
+
+  
+    
+      
+        [
+        
+          z
+        
+        
+          ]
+          
+            1
+          
+        
+        =
+        
+          
+            [
+            
+              
+                
+                  
+                    R
+                    
+                      1
+                    
+                  
+                  +
+                  
+                    R
+                    
+                      2
+                    
+                  
+                
+                
+                  
+                    R
+                    
+                      2
+                    
+                  
+                
+              
+              
+                
+                  
+                    R
+                    
+                      2
+                    
+                  
+                
+                
+                  
+                    R
+                    
+                      2
+                    
+                  
+                
+              
+            
+            ]
+          
+        
+      
+    
+    {\displaystyle \lbrack \mathbf {z} \rbrack _{1}={\begin{bmatrix}R_{1}+R_{2}&R_{2}\\R_{2}&R_{2}\end{bmatrix}}}
+  Figure 11 shows two identical such networks connected in series-series.  The total z-parameters predicted by matrix addition are;
+
+  
+    
+      
+        [
+        
+          z
+        
+        ]
+        =
+        [
+        
+          z
+        
+        
+          ]
+          
+            1
+          
+        
+        +
+        [
+        
+          z
+        
+        
+          ]
+          
+            2
+          
+        
+        =
+        2
+        [
+        
+          z
+        
+        
+          ]
+          
+            1
+          
+        
+        =
+        
+          
+            [
+            
+              
+                
+                  2
+                  
+                    R
+                    
+                      1
+                    
+                  
+                  +
+                  2
+                  
+                    R
+                    
+                      2
+                    
+                  
+                
+                
+                  2
+                  
+                    R
+                    
+                      2
+                    
+                  
+                
+              
+              
+                
+                  2
+                  
+                    R
+                    
+                      2
+                    
+                  
+                
+                
+                  2
+                  
+                    R
+                    
+                      2
+                    
+                  
+                
+              
+            
+            ]
+          
+        
+      
+    
+    {\displaystyle \lbrack \mathbf {z} \rbrack =\lbrack \mathbf {z} \rbrack _{1}+\lbrack \mathbf {z} \rbrack _{2}=2\lbrack \mathbf {z} \rbrack _{1}={\begin{bmatrix}2R_{1}+2R_{2}&2R_{2}\\2R_{2}&2R_{2}\end{bmatrix}}}
+  However, direct analysis of the combined circuit shows that,
+
+  
+    
+      
+        [
+        
+          z
+        
+        ]
+        =
+        
+          
+            [
+            
+              
+                
+                  
+                    R
+                    
+                      1
+                    
+                  
+                  +
+                  2
+                  
+                    R
+                    
+                      2
+                    
+                  
+                
+                
+                  2
+                  
+                    R
+                    
+                      2
+                    
+                  
+                
+              
+              
+                
+                  2
+                  
+                    R
+                    
+                      2
+                    
+                  
+                
+                
+                  2
+                  
+                    R
+                    
+                      2
+                    
+                  
+                
+              
+            
+            ]
+          
+        
+      
+    
+    {\displaystyle \lbrack \mathbf {z} \rbrack ={\begin{bmatrix}R_{1}+2R_{2}&2R_{2}\\2R_{2}&2R_{2}\end{bmatrix}}}
+  The discrepancy is explained by observing that R1 of the lower two-port has been by-passed by the short-circuit between two terminals of the output ports.  This results in no current flowing through one terminal in each of the input ports of the two individual networks.  Consequently, the port condition is broken for both the input ports of the original networks since current is still able to flow into the other terminal.  This problem can be resolved by inserting an ideal transformer in the output port of at least one of the two-port networks.  While this is a common text-book approach to presenting the theory of two-ports, the practicality of using transformers is a matter to be decided for each individual design.
+
+
+=== Parallel-parallel connection ===
+
+When two-ports are connected in a parallel-parallel configuration as shown in figure 13, the best choice of two-port parameter is the y-parameters.  The y-parameters of the combined network are found by matrix addition of the two individual y-parameter matrices.
+
+  
+    
+      
+        [
+        
+          y
+        
+        ]
+        =
+        [
+        
+          y
+        
+        
+          ]
+          
+            1
+          
+        
+        +
+        [
+        
+          y
+        
+        
+          ]
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \lbrack \mathbf {y} \rbrack =\lbrack \mathbf {y} \rbrack _{1}+\lbrack \mathbf {y} \rbrack _{2}}
+  
+
+
+=== Series-parallel connection ===
+
+When two-ports are connected in a series-parallel configuration as shown in figure 14, the best choice of two-port parameter is the h-parameters.  The h-parameters of the combined network are found by matrix addition of the two individual h-parameter matrices.
+
+  
+    
+      
+        [
+        
+          h
+        
+        ]
+        =
+        [
+        
+          h
+        
+        
+          ]
+          
+            1
+          
+        
+        +
+        [
+        
+          h
+        
+        
+          ]
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \lbrack \mathbf {h} \rbrack =\lbrack \mathbf {h} \rbrack _{1}+\lbrack \mathbf {h} \rbrack _{2}}
+  
+
+
+=== Parallel-series connection ===
+
+When two-ports are connected in a parallel-series configuration as shown in figure 15, the best choice of two-port parameter is the g-parameters.  The g-parameters of the combined network are found by matrix addition of the two individual g-parameter matrices.
+
+  
+    
+      
+        [
+        
+          g
+        
+        ]
+        =
+        [
+        
+          g
+        
+        
+          ]
+          
+            1
+          
+        
+        +
+        [
+        
+          g
+        
+        
+          ]
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \lbrack \mathbf {g} \rbrack =\lbrack \mathbf {g} \rbrack _{1}+\lbrack \mathbf {g} \rbrack _{2}}
+  
+
+
+=== Cascade connection ===
+
+When two-ports are connected with the output port of the first connected to the input port of the second (a cascade connection) as shown in figure 16, the best choice of two-port parameter is the ABCD-parameters.  The a-parameters of the combined network are found by matrix multiplication of the two individual a-parameter matrices.
+
+  
+    
+      
+        [
+        
+          a
+        
+        ]
+        =
+        [
+        
+          a
+        
+        
+          ]
+          
+            1
+          
+        
+        ⋅
+        [
+        
+          a
+        
+        
+          ]
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \lbrack \mathbf {a} \rbrack =\lbrack \mathbf {a} \rbrack _{1}\cdot \lbrack \mathbf {a} \rbrack _{2}}
+  A chain of n two-ports may be combined by matrix multiplication of the n matrices.  To combine a cascade of b-parameter matrices, they are again multiplied, but the multiplication must be carried out in reverse order, so that;
+
+  
+    
+      
+        [
+        
+          b
+        
+        ]
+        =
+        [
+        
+          b
+        
+        
+          ]
+          
+            2
+          
+        
+        ⋅
+        [
+        
+          b
+        
+        
+          ]
+          
+            1
+          
+        
+      
+    
+    {\displaystyle \lbrack \mathbf {b} \rbrack =\lbrack \mathbf {b} \rbrack _{2}\cdot \lbrack \mathbf {b} \rbrack _{1}}
+  
+
+
+==== Example ====
+Suppose we have a two-port network consisting of a series resistor R followed by a shunt capacitor C.  We can model the entire network as a cascade of two simpler networks:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    [
+                    
+                      b
+                    
+                    ]
+                  
+                  
+                    1
+                  
+                
+              
+              
+                
+                =
+                
+                  
+                    [
+                    
+                      
+                        
+                          1
+                        
+                        
+                          −
+                          R
+                        
+                      
+                      
+                        
+                          0
+                        
+                        
+                          1
+                        
+                      
+                    
+                    ]
+                  
+                
+              
+            
+            
+              
+                
+                  
+                    [
+                    
+                      b
+                    
+                    ]
+                  
+                  
+                    2
+                  
+                
+              
+              
+                
+                =
+                
+                  
+                    [
+                    
+                      
+                        
+                          1
+                        
+                        
+                          0
+                        
+                      
+                      
+                        
+                          −
+                          s
+                          C
+                        
+                        
+                          1
+                        
+                      
+                    
+                    ]
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}[]\left\lbrack \mathbf {b} \right\rbrack _{1}&={\begin{bmatrix}1&-R\\0&1\end{bmatrix}}\\\left\lbrack \mathbf {b} \right\rbrack _{2}&={\begin{bmatrix}1&0\\-sC&1\end{bmatrix}}\end{aligned}}}
+  The transmission matrix for the entire network 
+  
+    
+      
+        
+          [
+          
+            b
+          
+          ]
+        
+      
+    
+    {\displaystyle \scriptstyle \lbrack \mathbf {b} \rbrack }
+   is simply the matrix multiplication of the transmission matrices for the two network elements:
+
+  
+    
+      
+        
+          
+            
+              
+                [
+                
+                  b
+                
+                ]
+              
+              
+                
+                =
+                [
+                
+                  b
+                
+                
+                  ]
+                  
+                    2
+                  
+                
+                ⋅
+                [
+                
+                  b
+                
+                
+                  ]
+                  
+                    1
+                  
+                
+              
+            
+            
+              
+              
+                
+                =
+                
+                  
+                    [
+                    
+                      
+                        
+                          1
+                        
+                        
+                          0
+                        
+                      
+                      
+                        
+                          −
+                          s
+                          C
+                        
+                        
+                          1
+                        
+                      
+                    
+                    ]
+                  
+                
+                
+                  
+                    [
+                    
+                      
+                        
+                          1
+                        
+                        
+                          −
+                          R
+                        
+                      
+                      
+                        
+                          0
+                        
+                        
+                          1
+                        
+                      
+                    
+                    ]
+                  
+                
+              
+            
+            
+              
+              
+                
+                =
+                
+                  
+                    [
+                    
+                      
+                        
+                          1
+                        
+                        
+                          −
+                          R
+                        
+                      
+                      
+                        
+                          −
+                          s
+                          C
+                        
+                        
+                          1
+                          +
+                          s
+                          C
+                          R
+                        
+                      
+                    
+                    ]
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}[]\lbrack \mathbf {b} \rbrack &=\lbrack \mathbf {b} \rbrack _{2}\cdot \lbrack \mathbf {b} \rbrack _{1}\\&={\begin{bmatrix}1&0\\-sC&1\end{bmatrix}}{\begin{bmatrix}1&-R\\0&1\end{bmatrix}}\\&={\begin{bmatrix}1&-R\\-sC&1+sCR\end{bmatrix}}\end{aligned}}}
+  Thus:
+
+  
+    
+      
+        
+          
+            [
+            
+              
+                
+                  
+                    V
+                    
+                      2
+                    
+                  
+                
+              
+              
+                
+                  −
+                  
+                    I
+                    
+                      2
+                    
+                  
+                
+              
+            
+            ]
+          
+        
+        =
+        
+          
+            [
+            
+              
+                
+                  1
+                
+                
+                  −
+                  R
+                
+              
+              
+                
+                  −
+                  s
+                  C
+                
+                
+                  1
+                  +
+                  s
+                  C
+                  R
+                
+              
+            
+            ]
+          
+        
+        
+          
+            [
+            
+              
+                
+                  
+                    V
+                    
+                      1
+                    
+                  
+                
+              
+              
+                
+                  
+                    I
+                    
+                      1
+                    
+                  
+                
+              
+            
+            ]
+          
+        
+      
+    
+    {\displaystyle {\begin{bmatrix}V_{2}\\-I_{2}\end{bmatrix}}={\begin{bmatrix}1&-R\\-sC&1+sCR\end{bmatrix}}{\begin{bmatrix}V_{1}\\I_{1}\end{bmatrix}}}
+  
+
+
+== Interrelation of parameters ==
+Where 
+  
+    
+      
+        Δ
+        
+          [
+          x
+          ]
+        
+      
+    
+    {\displaystyle \Delta \mathbf {[x]} }
+   is the determinant of [x].
+Certain pairs of matrices have a particularly simple relationship.  The admittance parameters are the matrix inverse of the impedance parameters, the inverse hybrid parameters are the matrix inverse of the hybrid parameters, and the [b] form of the ABCD-parameters is the matrix inverse of the [a] form.  That is,
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  [
+                  
+                    y
+                  
+                  ]
+                
+              
+              
+                
+                =
+                
+                  
+                    [
+                    
+                      z
+                    
+                    ]
+                  
+                  
+                    −
+                    1
+                  
+                
+              
+            
+            
+              
+                
+                  [
+                  
+                    g
+                  
+                  ]
+                
+              
+              
+                
+                =
+                
+                  
+                    [
+                    
+                      h
+                    
+                    ]
+                  
+                  
+                    −
+                    1
+                  
+                
+              
+            
+            
+              
+                
+                  [
+                  
+                    b
+                  
+                  ]
+                
+              
+              
+                
+                =
+                
+                  
+                    [
+                    
+                      a
+                    
+                    ]
+                  
+                  
+                    −
+                    1
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\left[\mathbf {y} \right]&=\left[\mathbf {z} \right]^{-1}\\\left[\mathbf {g} \right]&=\left[\mathbf {h} \right]^{-1}\\\left[\mathbf {b} \right]&=\left[\mathbf {a} \right]^{-1}\end{aligned}}}
+  
+
+
+== Networks with more than two ports ==
+While two port networks are very common (e.g., amplifiers and filters), other electrical networks such as directional couplers and circulators have more than 2 ports.  The following representations are also applicable to networks with an arbitrary number of ports:
+
+Admittance (y) parameters
+Impedance (z) parameters
+Scattering (S) parametersFor example, three-port impedance parameters result in the following relationship:
+
+  
+    
+      
+        
+          
+            [
+            
+              
+                
+                  
+                    V
+                    
+                      1
+                    
+                  
+                
+              
+              
+                
+                  
+                    V
+                    
+                      2
+                    
+                  
+                
+              
+              
+                
+                  
+                    V
+                    
+                      3
+                    
+                  
+                
+              
+            
+            ]
+          
+        
+        =
+        
+          
+            [
+            
+              
+                
+                  
+                    Z
+                    
+                      11
+                    
+                  
+                
+                
+                  
+                    Z
+                    
+                      12
+                    
+                  
+                
+                
+                  
+                    Z
+                    
+                      13
+                    
+                  
+                
+              
+              
+                
+                  
+                    Z
+                    
+                      21
+                    
+                  
+                
+                
+                  
+                    Z
+                    
+                      22
+                    
+                  
+                
+                
+                  
+                    Z
+                    
+                      23
+                    
+                  
+                
+              
+              
+                
+                  
+                    Z
+                    
+                      31
+                    
+                  
+                
+                
+                  
+                    Z
+                    
+                      32
+                    
+                  
+                
+                
+                  
+                    Z
+                    
+                      33
+                    
+                  
+                
+              
+            
+            ]
+          
+        
+        
+          
+            [
+            
+              
+                
+                  
+                    I
+                    
+                      1
+                    
+                  
+                
+              
+              
+                
+                  
+                    I
+                    
+                      2
+                    
+                  
+                
+              
+              
+                
+                  
+                    I
+                    
+                      3
+                    
+                  
+                
+              
+            
+            ]
+          
+        
+      
+    
+    {\displaystyle {\begin{bmatrix}V_{1}\\V_{2}\\V_{3}\end{bmatrix}}={\begin{bmatrix}Z_{11}&Z_{12}&Z_{13}\\Z_{21}&Z_{22}&Z_{23}\\Z_{31}&Z_{32}&Z_{33}\end{bmatrix}}{\begin{bmatrix}I_{1}\\I_{2}\\I_{3}\end{bmatrix}}}
+  However the following representations are necessarily limited to two-port devices:
+
+Hybrid (h) parameters
+Inverse hybrid (g) parameters
+Transmission (ABCD) parameters
+Scattering transfer (T) parameters
+
+
+== Collapsing a two-port to a one port ==
+A two-port network has four variables with two of them being independent.  If one of the ports is terminated by a load with no independent sources, then the load enforces a relationship between the voltage and current of that port.  A degree of freedom is lost.  The circuit now has only one independent parameter.  The two-port becomes a one-port impedance to the remaining independent variable.
+For example, consider impedance parameters
+
+  
+    
+      
+        
+          
+            [
+            
+              
+                
+                  
+                    V
+                    
+                      1
+                    
+                  
+                
+              
+              
+                
+                  
+                    V
+                    
+                      2
+                    
+                  
+                
+              
+            
+            ]
+          
+        
+        =
+        
+          
+            [
+            
+              
+                
+                  
+                    z
+                    
+                      11
+                    
+                  
+                
+                
+                  
+                    z
+                    
+                      12
+                    
+                  
+                
+              
+              
+                
+                  
+                    z
+                    
+                      21
+                    
+                  
+                
+                
+                  
+                    z
+                    
+                      22
+                    
+                  
+                
+              
+            
+            ]
+          
+        
+        
+          
+            [
+            
+              
+                
+                  
+                    I
+                    
+                      1
+                    
+                  
+                
+              
+              
+                
+                  
+                    I
+                    
+                      2
+                    
+                  
+                
+              
+            
+            ]
+          
+        
+      
+    
+    {\displaystyle {\begin{bmatrix}V_{1}\\V_{2}\end{bmatrix}}={\begin{bmatrix}z_{11}&z_{12}\\z_{21}&z_{22}\end{bmatrix}}{\begin{bmatrix}I_{1}\\I_{2}\end{bmatrix}}}
+  Connecting a load, ZL onto port 2 effectively adds the constraint 
+
+  
+    
+      
+        
+          V
+          
+            2
+          
+        
+        =
+        −
+        
+          Z
+          
+            L
+          
+        
+        
+          I
+          
+            2
+          
+        
+        
+      
+    
+    {\displaystyle V_{2}=-Z_{L}I_{2}\,}
+  The negative sign is because the positive direction for I2 is directed into the two-port instead of into the load.  The augmented equations become
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  V
+                  
+                    1
+                  
+                
+              
+              
+                
+                =
+                
+                  Z
+                  
+                    11
+                  
+                
+                
+                  I
+                  
+                    1
+                  
+                
+                +
+                
+                  Z
+                  
+                    12
+                  
+                
+                
+                  I
+                  
+                    2
+                  
+                
+              
+            
+            
+              
+                −
+                
+                  Z
+                  
+                    L
+                  
+                
+                
+                  I
+                  
+                    2
+                  
+                
+              
+              
+                
+                =
+                
+                  Z
+                  
+                    21
+                  
+                
+                
+                  I
+                  
+                    1
+                  
+                
+                +
+                
+                  Z
+                  
+                    22
+                  
+                
+                
+                  I
+                  
+                    2
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}V_{1}&=Z_{11}I_{1}+Z_{12}I_{2}\\-Z_{L}I_{2}&=Z_{21}I_{1}+Z_{22}I_{2}\end{aligned}}}
+  The second equation can be easily solved for I2 as a function of I1 and that expression can replace I2  in the first equation  leaving V1 ( and V2 and I2 ) as functions of I1
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  I
+                  
+                    2
+                  
+                
+              
+              
+                
+                =
+                −
+                
+                  
+                    
+                      Z
+                      
+                        21
+                      
+                    
+                    
+                      
+                        Z
+                        
+                          L
+                        
+                      
+                      +
+                      
+                        Z
+                        
+                          22
+                        
+                      
+                    
+                  
+                
+                
+                  I
+                  
+                    1
+                  
+                
+              
+            
+            
+              
+                
+                  V
+                  
+                    1
+                  
+                
+              
+              
+                
+                =
+                
+                  Z
+                  
+                    11
+                  
+                
+                
+                  I
+                  
+                    1
+                  
+                
+                −
+                
+                  
+                    
+                      
+                        Z
+                        
+                          12
+                        
+                      
+                      
+                        Z
+                        
+                          21
+                        
+                      
+                    
+                    
+                      
+                        Z
+                        
+                          L
+                        
+                      
+                      +
+                      
+                        Z
+                        
+                          22
+                        
+                      
+                    
+                  
+                
+                
+                  I
+                  
+                    1
+                  
+                
+              
+            
+            
+              
+              
+                
+                =
+                
+                  (
+                  
+                    
+                      Z
+                      
+                        11
+                      
+                    
+                    −
+                    
+                      
+                        
+                          
+                            Z
+                            
+                              12
+                            
+                          
+                          
+                            Z
+                            
+                              21
+                            
+                          
+                        
+                        
+                          
+                            Z
+                            
+                              L
+                            
+                          
+                          +
+                          
+                            Z
+                            
+                              22
+                            
+                          
+                        
+                      
+                    
+                  
+                  )
+                
+                
+                  I
+                  
+                    1
+                  
+                
+                =
+                
+                  Z
+                  
+                    
+                      i
+                      n
+                    
+                  
+                
+                
+                  I
+                  
+                    1
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}I_{2}&=-{\frac {Z_{21}}{Z_{L}+Z_{22}}}I_{1}\\V_{1}&=Z_{11}I_{1}-{\frac {Z_{12}Z_{21}}{Z_{L}+Z_{22}}}I_{1}\\&=\left(Z_{11}-{\frac {Z_{12}Z_{21}}{Z_{L}+Z_{22}}}\right)I_{1}=Z_{\mathrm {in} }I_{1}\end{aligned}}}
+  So, in effect, I1 sees an input impedance 
+  
+    
+      
+        
+          Z
+          
+            
+              i
+              n
+            
+          
+        
+        
+      
+    
+    {\displaystyle Z_{\mathrm {in} }\,}
+   and the two-port's effect on the input circuit has been effectively collapsed down to a one-port; i.e., a simple two terminal impedance.
+
+
+== See also ==
+Admittance parameters
+Impedance parameters
+Scattering parameters
+Ray transfer matrix
+
+
+== Notes ==
+
+
+== References ==
+
+
+== Bibliography ==
+Carlin, HJ, Civalleri, PP, Wideband circuit design, CRC Press, 1998. ISBN 0-8493-7897-4.
+William F. Egan, Practical RF system design, Wiley-IEEE, 2003 ISBN 0-471-20023-9.
+Farago, PS, An Introduction to Linear Network Analysis, The English Universities Press Ltd, 1961.
+Gray, P.R.; Hurst, P.J.; Lewis, S.H.; Meyer, R.G. (2001). Analysis and Design of Analog Integrated Circuits (4th ed.). New York: Wiley. ISBN 0-471-32168-0.
+Ghosh, Smarajit, Network Theory: Analysis and Synthesis, Prentice Hall of India ISBN 81-203-2638-5.
+Jaeger, R.C.; Blalock, T.N. (2006). Microelectronic Circuit Design (3rd ed.). Boston: McGraw–Hill. ISBN 978-0-07-319163-8.
+Matthaei, Young, Jones, Microwave Filters, Impedance-Matching Networks, and Coupling Structures,  McGraw-Hill, 1964.
+Mahmood Nahvi, Joseph Edminister, Schaum's outline of theory and problems of electric circuits, McGraw-Hill Professional, 2002 ISBN 0-07-139307-2.
+Dragica Vasileska, Stephen Marshall Goodnick, Computational electronics, Morgan & Claypool Publishers, 2006 ISBN 1-59829-056-8.
+Clayton R. Paul, Analysis of Multiconductor Transmission Lines, John Wiley & Sons, 2008 ISBN 0470131543, 9780470131541.
+
+
+=== h-parameters history ===
+D. A. Alsberg, "Transistor metrology", IRE Convention Record, part 9, pp. 39-44, 1953.
+also published as "Transistor metrology", Transactions of the IRE Professional Group on Electron Devices, vol. ED-1, iss. 3, pp. 12-17, August 1954.
+AIEE-IRE joint committee, "Proposed methods of testing transistors", Transactions of the American Institute of Electrical Engineers: Communications and Electronics, pp. 725-740, January 1955.
+"IRE Standards on solid-state devices: methods of testing transistors, 1956", Proceedings of the IRE, vol. 44, iss. 11, pp. 1542-1561, November, 1956.
+IEEE Standard Methods of Testing Transistors, IEEE Std 218-1956.

@@ -1,0 +1,11 @@
+The Sphere I was a personal computer completed in 1975 by Michael Donald Wise and Monroe Tyler of Sphere Corporation, of Bountiful, Utah.  The Sphere I featured a Motorola 6800 CPU, onboard ROM, a full-sized CRT monitor, 4 KB of RAM, and a keyboard with a numeric keypad.
+The Sphere I was among the earliest complete all-in-one microcomputers that could be plugged in, turned on, and was fully functional.  Michael touted it as the first "true PC" because it had a keyboard, a number pad, a monitor, external storage, and did not run on a punch tape. In this respect, it is pre-dated by the 1973 MCM/70, among others, but the Sphere included a full-sized display that these generally lacked. When Byte Magazine did its annual history of the computer, it always included Sphere 1, showing that prior microcomputers lacked the user I/O interface built into the Sphere I.
+The Sphere 1 also included a keyboard-operated reset feature consisting of two keys wired in series that sent a reset signal to the CPU triggering a hard reboot. Wise considered this to be the first keyboard activated reset -- a predecessor to the now-common Control-Alt-Delete combination.It is not clear how many systems were sold; production models were sent to computer stores, but the company disappeared shortly thereafter.
+
+
+== References ==
+
+
+== External links ==
+Sphere 1 Vintage Computer - Buy First "True" PC 1975
+(PDF's) Newsletters, Schematics, User manual

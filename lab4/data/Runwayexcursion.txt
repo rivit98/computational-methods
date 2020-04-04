@@ -1,0 +1,24 @@
+A runway excursion is a runway safety incident where an aircraft makes an inappropriate exit from the runway. Runway excursions include runway overruns, where an aircraft is unable to stop before it reaches the end of the runway. Runway excursions can happen because of pilot error, poor weather, or a fault with the aircraft.According to the Flight Safety Foundation, as of 2008, runway excursions were the most frequent type of landing accident, slightly ahead of runway incursion.  For runway accidents recorded between 1995 and 2007, 96% of runway accidents and 80% of accidents with fatalities involved runway excursions.
+
+
+== Management and prevention ==
+Efforts to address runway excursion either focus on preventing runway excursions, or on minimizing the amount of damage or injury caused by a runway excursion.  In the latter category, aviation safety regulators may establish standards such as minimum runway safety areas intended to allow adequate time and distance for an aircraft to stop in the event of a runway excursion.
+
+
+=== Runway widening and extension ===
+A key aspect of preventing runway excursions is providing runways of sufficient length and width to accommodate the aircraft used at an airport.  In the 1960s, the advent of jet airliners such as the Boeing 707, which flew faster and required longer runways. In the mid-1960s, the Federal Aviation Administration (FAA) proposed increasing minimum runway length requirements by 800 feet (240 m) at all U.S. airports with jet airliner service, extending to 1,200 feet (370 m) feet in rain or snow conditions. However, these requirements would have necessitated building extending runways or even building new airports in some cities. After strong industry response, the FAA withdrew the proposal and instead only mandated a fifteen per cent increase to minimum runway length during wet or slippery landing conditions.Preventing runway excursions can necessitate building new airports, when there is not room to expand existing runways. In July 1965, Continental Airlines Flight 12 (a Boeing 707) overran the runway while landing in rain and high winds at Kansas City Municipal Airport. Investigators ruled out pilot error, and determined it would have been impossible to stop the aircraft in the available runway length. Extending the 7,000 feet (2,100 m) foot runway was not possible due to space limitations surrounding the urban airport, and construction on Kansas City International Airport north of the city was approved the next year, opening in 1972 with runways 9,500 feet (2,900 m) and 9,000 feet (2,700 m) in length.
+
+
+=== Engineered materials arrestor system ===
+Airports such as LaGuardia Airport in Queens, New York may lack adequate space to meet runway safety area standards. As a result, in the 1990s, the FAA began conducting research on new technology to rapidly stop aircraft in less than 1,000 feet (300 m) in the event of a runway overrun.The engineered materials arrestor system (EMAS) was developed as a high energy absorbing material that could be installed as a surface beyond the end of runways, which was designed to collapse under the weight of an aircraft (absorbing energy and slowing the plane in the process) in the event of an overrun. EMAS was installed at LaGuardia Airport starting in 2005 and ending in 2015. In October 2016, a Boeing 737 aircraft with 37 persons aboard, including Republican vice-presidential candidate Mike Pence, overran the runway while landing at LaGuardia. EMAS was credited with bringing the plane to a stop safely and with no serious damage or casualties.
+
+
+=== Flight systems technology ===
+Airbus is developing the Runway Overrun Prevention System, a flight systems technology intended to prevent runway overruns by increasing pilots' situational awareness and enhancing automation during landings.
+
+
+== Notable runway excursions ==
+As noted above, runway excursions are a frequent occurrence annually. The following list includes runway excursions which are notable because they resulted in fatalities, destruction of the aircraft, or substantial aviation safety changes or improvements.
+
+
+== References ==

@@ -1,0 +1,51 @@
+Area codes 610 and 484 are telephone area codes which serve the eastern and southeastern regions of Pennsylvania. The area includes areas to the west of Philadelphia, along with the cities of Allentown, Bethlehem, and Reading. It includes much of the Delaware Valley, including almost all of Delaware County and most of the Philadelphia Main Line.
+
+
+== History ==
+Area code 610 was created on January 8, 1994 as a split from numbering plan area 215, which had been the entire southeast quadrant of Pennsylvania since 1947. Permissive dialing of both 215 and 610  continued until the morning of January 7, 1995. It was Pennsylvania's first new area code since the implementation of the area code system in 1947.
+Three exchanges which would have switched to 610 were instead switched to 717, the area code for most of the eastern half of the state outside of the lower Delaware and Lehigh Valleys.  They were 267 at Denver, 445 at Terre Hill, and 484 at Adamstown, with 267 being replaced with 717-336 because 717-267 was already in use at Chambersburg.  These exchanges were all served by non-Bell telephone companies which sought to consolidate their eastern Pennsylvania customers into one area code, and would have had to change area codes anyway.
+This was intended as a long-term solution, but further growth in the region over the subsequent five years, and the proliferation of cell phones and pagers, spurred the introduction of area code 484 as an overlay for the 610 region on June 5, 1999, along with the introduction of mandatory ten-digit dialing.Area code 835 was intended as an additional overlay code for the 610 and 484 numbering plan area, as announced by the Pennsylvania Public Utility Commission in May 2000 and to be implemented in 2001. However, newly developed, more efficient number pooling measures were introduced instead, eliminating the immediate need for the new area code. The Commission formally withdrew plans for the new code on June 23, 2005, although the code remains reserved for later use within the Commonwealth if necessary.Area code 610 was the last area code assigned with a "1" (one) for its middle digit. When area codes were introduced in 1947, all numbers followed the pattern N0X or N1X (where the middle digit was either a zero or one). By 1994, area code 610 was the last remaining number in this group. The next new area codes after 610 to be assigned (334 in Alabama and 360 in Washington, both in 1995) were the first to have numbers other than 0 or 1 for their middle digits.
+
+
+== Counties served ==
+Berks County - All but extreme western portions (in 717), extreme northern portions (in 570) and Hereford area (served by the Pennsburg exchange in the 215/267 area code).
+Bucks County - Northeastern portion served by the Coopersburg, Springtown, Riegelsville and Ferndale exchanges.
+Chester County - All but the extreme western portion [which is served by the (717-442) Gap exchange].
+Delaware County - All
+Lancaster County - Far southeastern portion of the county only, centered on the town of Christiana. Rest of county uses the 717 area code.
+Lebanon County - Newmanstown is the only Lebanon County municipality to use 610 as its area code, specifically 610-589-XXXX (also shared with Womelsdorf, Berks County).
+Lehigh County - All but extreme southwestern portion, served by the Pennsburg exchange in the 215/267 overlay.
+Montgomery County - Southern and western portions; other areas are served by the 215/267 area codes.
+New Castle County, Delaware - A few houses along West Ridge Road and Sterling Avenue in Lower Chichester, Pennsylvania/Claymont, Delaware straddle the border but have Pennsylvania phone numbers.
+Northampton County - All but extreme northeastern portions, such as Portland and Upper Mount Bethel Township, which are in the 570 area code
+Carbon County - Southern portion, served by the 377 Lehighton and the 824 and 826 Palmerton exchanges. The western end of the county, including Lansford and Summit Hill may use 610/484 for mobile and digital numbers while retaining 570-645 for conventional phone numbers.
+Monroe County - Far southwestern portion
+Schuylkill County - The southern and eastern fringes of this county, including portions of East Brunswick, West Brunswick, and West Penn Township (served by the Lehighton, Germansville, and Kempton exchanges) and Port Clinton borough are assigned 610/484, however the majority of it is in 570/272, and even smaller portions are in 717.
+
+
+=== Communities ===
+The following towns and cities are included in the numbering plan area: Allentown, Bethlehem, Catasauqua, Chadds Ford, Chester, Christiana, Easton, Emmaus, Exton, Folsom, Gap, Hamburg, Havertown, Kutztown, Lehighton, Macungie, Media, Newtown Square, North Catasauqua, Northampton, Oxford, Palmerton, Paoli, Pottstown, Reading, Shillington, Sinking Spring, Tamaqua, Upper Darby, West Chester, Whitehall Township, Willistown, Wind Gap, Wyomissing.
+
+
+== Prior usage for TWX ==
+Most of the N10 area codes (510, 710, 810, and 910) were used prior to 1981 by AT&T for their TWX, or TeletypeWriter eXchange network. US numbers in these area codes were decommissioned for TWX usage in 1981 when Western Union, who had acquired the TWX network in 1969 from AT&T and renamed it Telex II, upgraded the network to "4-row" ASCII operation (it previously used both "3-row" Baudot and ASCII transmission).
+Area code 510 was reassigned to Oakland, California in 1991, 710 went to the US federal government in 1983,
+810 and 910 were given to Flint, Michigan and Wilmington, North Carolina in 1993. This left 610 as the last teletypewriter area code, which outlived the others because it was controlled by Bell Canada and therefore not directly affected by AT&T's exit from teletype. The +1-610 code was replaced with non-geographic Canadian area code 600 in 1992, liberating the numbers for reassignment to plain old telephone service.
+This leaves 610 (as reassigned in 1994) as the last geographic area code to follow the original pattern of a 1 or 0 for the middle digit. Codes assigned since 1995 break this pattern.
+
+
+== See also ==
+List of Pennsylvania area codes
+List of NANP area codes
+North American Numbering Plan
+
+
+== References ==
+
+
+== External links ==
+North American Numbering Plan Administration
+Map
+NANPA area code map of Pennsylvania 
+List of exchanges from AreaCodeDownload.com, 484 Area Code
+List of exchanges from AreaCodeDownload.com, 610 Area Code

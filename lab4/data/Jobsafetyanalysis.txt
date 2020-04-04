@@ -1,0 +1,173 @@
+A job safety analysis (JSA) is a procedure which helps integrate accepted safety and health principles and practices into a particular task or job operation. In a JSA, each basic step of the job is to identify potential hazards and to recommend the safest way to do the job. Other terms used to describe this procedure are job hazard analysis (JHA) and job hazard breakdown.
+The terms "job" and "task" are commonly used interchangeably to mean a specific work assignment, such as "operating a grinder," "using a pressurized water extinguisher" or "changing a flat tire." JSAs are not suitable for jobs defined too broadly, for example, "overhauling an engine"; or too narrowly, for example, "positioning car jack."
+
+
+== Terminology and definitions ==
+Workplace hazard categories
+
+Workplace hazards can be allocated to three categories:Types,
+Groups, and
+Families.Workplace hazard types
+
+There are two hazard types. They are:Hazards to safety - anything assessed as "possible", or more likely, to cause an immediate injury
+Hazards to health - anything assessed as "possible", or more likely, to cause harm by repeated exposure over time.Workplace hazard groups
+
+There are three hazard groups. They are:Physical object hazard – touch or inhale it.
+Hazardous work type – requires a permit, qualification etc.
+Duty of care breaches - Legislative and/or company contraventions.Hazard families
+
+There are many hazard families. The following list is not exhaustive. Many hazards will fit into more than one family.
+Physical, chemical, electrical, mechanical, hydraulic, pneumatic, biological, magnetic, thermal, gravitational, environmental, ergonomic, psychological, invisible, visible, and developing.Workplace hazard criteria
+
+These criteria are a set of tests to help identify genuine workplace hazards related to a task."Clearly identifiable" means that the hazard type, group and family are clearly linked to a hazard.
+"A scenario is not required for its articulation" - It can be clearly described in few (generally five, or less, words). If this is not possible, it is probably not a hazard.
+It has an inherent likelihood of "possible" or greater - If the hazard under consideration is not inherently at least "possible", then it does not present a risk.
+The description is without "judgmental adjectives" - Judgmental adjectives are negative and sometimes overlap with "descriptions of absence". Adjectives such as poor, deficient, defective, scant, weak, unsound, or faulty, are not used in the hazard column.
+The description contains no "descriptions of absence" - Descriptions of absence are usually negative and sometimes overlap with judgmental adjectives. They include: Without, lack of, minimal, unsuitable, unavailable, inadequate, missing, non-existent.Mechanism of Injury (MoI)
+
+Mechanism of injury (MoI) is how an injury occurs. It is important because in the absence of an MoI there is no hazard.
+Common MoIs are "slips, trips and falls", for example:
+Hazard = Tool bag (in walkway)
+MoI =  Trip (over tool bag)
+Injury =  Bone fracture
+Other common mechanisms of injury include:
+Struck against or by
+Contact with or by
+Caught in, on, by or between
+Exposure to
+Fall to same or lower levelLikelihood
+
+Likelihood is how often an event is reasonably and realistically expected to occur in a given time, and may be expressed as a probability, frequency or percentage.Consequence
+
+Consequence is the outcome of an event expressed qualitatively or quantitatively, being a loss, injury, disadvantage or gain. There may be a range of possible outcomes associated with an event.
+Consequence is the severity of the injury or harm that can be reasonably and realistically expected from exposure to the mechanism of injury of the hazard being rated.
+An implemented control may affect the severity of the injury, but it has no effect on the way the injury occurred. Therefore, when rating risk, the consequence remains the same for both the initial rating and the residual rating.
+People inherently tend to overestimate severity of consequence when rating risk, but the rating should be both reasonable and realistic.Risk
+
+Risk is the combination of likelihood and consequence.Risk Authority
+
+The organisational level of the person authorised to accept a specified level of risk, for example:ALARP
+
+ALARP is an acronym for "As Low As Reasonably Practicable".
+When applied to JSA, this means that it is not necessary to reduce risk beyond the point where the cost of further control becomes disproportionate to any achievable safety benefit.
+The acronym "ALARA",  which stands for "As Low As Reasonably Achievable", is also in common usage.Reasonably Practicable
+
+Reasonably practicable, in relation to a duty to ensure health and safety, means that which is, or was at a particular time, reasonably able to be done to ensure health and safety, taking into account and weighing up all relevant matters including:the likelihood of the hazard or the risk concerned occurring;
+the degree of harm that might result from the hazard or the risk;
+what the person concerned knows, or ought reasonably to know, about the hazard or risk, and about the ways of eliminating or minimising the risk;
+the availability and suitability of ways to eliminate or minimise the risk; and
+after assessing the extent of the risk and the available ways of eliminating or minimising the risk, the cost associated with available ways of eliminating or minimising the risk, including whether the cost is grossly disproportionate to the expected reduction of risk.Work Process
+
+The way in which work is performed is called the "Work Process".PEPE
+
+Acronym for the four elements that are present in every task of the work process:
+Process,
+Environment,
+People,
+EMT, which is itself an acronym for 'equipment, materials and tools'.
+PEPE is used to assist in identifying hazards.Process
+In this context, process is about procedures, standards, legislation, safe work instructions, permits and permit systems, risk assessments and policies.
+Key factors for effective process are that the relevant components are in place, easy to follow and regularly reviewed and updated.Environment
+
+People may be exposed to issues related to:Access & Egress.
+Obstructions.
+Weather.
+Dust, heat, cold, noise.
+Darkness.
+Contaminants.
+Isolated workers.
+Other Workers.People
+
+To assist people to be safe in their workplace they need to be provided with sufficient information, training, instructions and supervision.
+People may be:
+Untrained.
+Not yet competent.
+Uncertified.
+Inexperienced.
+Unsupervised.
+Affected by alcohol or other drugs.
+Fatigued.
+Inadequately instructed.
+Suffering from stress from home life or workplace bullying.
+Have a poor attitude to, or refuse to follow procedures.Equipment, Material and Tools  (EMT)
+
+The right EMT must be selected for the task. Incorrect EMT selections may be hazardous in themselves.
+The EMT may be hazardous, e.g.: sharp, hot, vibrating, heavy, fragile, contain pinch points, a hazardous substance containing hydrocarbons, acids, alkalis, glues, solvents, asbestos etc.
+There may be a need for isolating personnel from energy sources such as electricity, hydraulic, pneumatic, radiation and gravitational sources.
+Is the EMT in date? Does it require certification and/or calibration, tested and tagged?
+Obstructions should be kept out of walkways and leads and hoses suspended?
+
+
+== Hazard controls ==
+Controls are the barriers between people and/or assets and the hazards.
+A hard control provides a physical barrier between the person and the hazard. Hard controls include machine guards, restraint equipment, fencing/barricading.
+A soft control does not provide a physical barrier between the person and the hazard. Soft controls include signage, procedures, permits, verbal instructions etc.
+
+
+=== Control effectiveness criteria ===
+The effectiveness of a control is measured by its ability to reduce the likelihood of a hazard causing injury or damage. A control is either effective or not.
+To gauge this effectiveness several control criteria are used, which:
+
+Address the relevant aspects of PEPE,
+Reduce likelihood to ALARP,
+Selected hard controls in preference to soft controls, and
+Contain a ‘doing word’.There is no commonly used mathematical way in which multiple controls for a single hazard can be combined to give a score that meets an organisations acceptable risk level.  In instances where the residual risk is greater than the organisations acceptable risk level, consultation with the organisations relevant risk authority should occur.
+
+
+=== Hierarchy of control ===
+Hierarchy of control is a system used in industry to minimize or eliminate exposure to hazards.It is a widely accepted system promoted by numerous safety organizations. This concept is taught to managers in industry, to be promoted as 
+a standard practice in the workplace. Various illustrations are used to depict this system, most commonly a triangle.The hierarchy of hazard controls are, in descending order of effectiveness:  Elimination,  Substitution,  Engineering,  Administration and Personal Protective Equipment. In some systems, Isolation is included in the list of controls. The list then is Elimination,  Substitution,  Isolation, Engineering,  Administration and Personal Protective Equipment.
+
+
+== Scope of application ==
+A JSA is a documented risk assessment developed when company policy directs employees to do so. Workplace hazard identification and an assessment of those hazards may be required before every job.
+JSAs are usually developed when directed to do so by a supervisor, when indicated by the use of a first tier risk assessment and when a hazard associated with a task has a likelihood rating of 'possible' or greater.
+Generally, high consequence, high likelihood task hazards are addressed by way of a JSA.
+These may include, but are not limited to, those with:
+A history of, or potential for, injury, harm or damage such as those involving:
+
+Fire, chemicals or a toxic or oxygen deficient atmosphere.
+Tasks carried out in new environments.
+Rarely performed tasks.
+Tasks that may impact on the integrity or output of a processing system.It is important that employees understand that it is not the JSA form that will keep them safe on the job, but rather the process it represents. It is of little value to identify hazards and devise controls if the controls are not put in place. Workers should never be tempted to "sign on" the bottom of a JSA without first reading and understanding it.
+JSAs are quasi-legal documents, and are often used in incident investigations, contractual disputes, and court cases.
+
+
+== Structure of a JSA ==
+The JSA or JHA is usually created by the work group who will perform the task. The more minds and experience applied to analysing the hazards in a job, the more successful the work group is likely to be in controlling them. Sometimes it is expedient to review a JSA that was prepared when the same task was performed on a previous occasion, but care should be taken to ensure that all of the hazards for the job are controlled for the new occasion. The JSA is usually recorded in a standardised tabular format with three to as many as five or six columns. The headings of the three basic columns are: Job step, Hazard and Controls. A Hazard is any factor that can cause damage to personnel, property or the environment (some companies include loss of production or downtime in the definition as well). A Control is any process for controlling a hazard. The job is broken down into its component steps. Then, for each step, hazards are identified. Finally, for each hazard identified, controls are listed. In the example below, the hazards are analyzed for the task of erecting scaffolding and welding lifting lugs:
+
+
+=== Assessing risk levels ===
+Some organisations add columns for risk levels. The risk rating of the hazard prior to applying the control is known as the 'inherent risk rating'. The risk rating of the hazard with the control in place is known as the 'residual' risk rating.
+Risk, within the occupational health and safety sphere, is defined as the 'effect of uncertainties on objectives'. In the context of rating a risk, it is the correlation of 'likelihood' and 'consequence', where likelihood is a quantitative evaluation of frequency of occurrences over time, and consequence is a qualitative evaluation of both the "Mechanism of Injury" and the reasonable and realistic  estimate of "Severity of Injury".
+Example:
+
+There is historical precedent to reasonably and realistically evaluate that the likelihood of an adverse event occurring while operating a hot particle producing tool, (grinder), is "possible", therefore the activity of grinding meets the workplace hazard criteria.It would also be reasonable and realistic to assume that the mechanism of injury of an eye being struck at high speed with hot metal particles may result in a permanent disability, whether it be the eye of the grinder operator, a crew member or any person passing or working adjacent to, above or below the grinding operation.The severity of reasonably and realistically expected injury may be blindness. Therefore, grinding warrants a high severity rating.Wearing eye protection while in the vicinity of grinding operations reduces the likelihood of this adverse event occurring.If the eye protection was momentarily not used, not fitted correctly or failed and hot high speed particles struck an eye, the expected mechanism of injury (adverse event) has still occurred, hence the consequence rating remains the same for both the inherent and residual consequence rating.It is accepted that the control may affect the severity of injury, however, the rated consequence remains the same as the effect is not predictable.One of the known risk rating anomalies is that likelihood and the severity of injury can be scaled, but mechanism of injury cannot be scaled. This is the reason why the mechanism of injury is bundled with severity, to allow a rating to be given. The MoI is an important factor as it suggests the obvious controls.
+
+
+=== Identifying responsibilities ===
+Another column that is often added to a JSA form or worksheet is the Responsible column. The Responsible column is for the name of the individual who will put the particular control in place. Defining who is responsible for actually putting the controls in place that have been identified on the JSA worksheet ensures that an individual is accountable for doing so.
+
+
+=== Application of the JSA ===
+After the JSA worksheet is completed, the work group that is about to perform the task would have a toolbox talk, to discuss the hazards and controls, delegate responsibilities, ensure that all equipment and personal protective equipment described in the JSA are available, that contingencies such as fire fighting are understood, communication channels and hand signals are agreed etc. Then, if everybody in the work group agrees that it is safe to proceed with the task, work can commence.
+If at any time during the task circumstances change, then work should be stopped (sometimes called a "time-out for safety"), and the hazards and controls described in the JSA should be reassessed and additional controls used or alternative methods devised. Again, work should only continue when every member of the work group agrees it is safe to do so.
+When the task is complete it is often of benefit to have a close-out or "tailgate" meeting, to discuss any lessons learned so that they may be incorporated into the JSA the next time the task is undertaken.
+
+
+== References ==
+
+BibliographyAS/NZS 4360:1999 Risk Management ISBN 0 7337 2647 X  Published by Standards Association of Australia
+Greenwood, R. (2006). Reader: Job Safety Analysis Occupational Health and Safety Practitioner. Safetyline Institute
+Kjellen, U. (2000) Prevention of Accidents Through Experience Feedback. CRC Press. ISBN 0748409254
+http://www.ccohs.ca/oshanswers/hsprograms/job-haz.html "Job Safety Analysis"
+Maersk Contractors (2005)MODU Procedures Manual Edition 1, 3.7 "Conduct of Safe Job Analysis"
+US Dept of Labor (2002) Job Hazard Analysis. OSHA 3071
+Roughton,J and Crutchfield,N (2008) "Job Hazard Analysis, A Guide for Voluntary Compliance and Beyond," http://emeetingplace.com/safetyblog/?page_id=80. Butterworth-Heinemann. ISBN 978-0-7506-8346-3
+Roughton,J and Mercurio,J (2002) "Developing an Effective Safety Culture: A Leadership Approach," http://emeetingplace.com/safetyblog/?page_id=80; www.ncsafetyandife.com. Butterworth-Heinemann. ISBN 978-0750674119
+
+
+== External links ==
+Job Hazard Analysis, Occupational Safety and Health Administration—Accessed 30/Jul/13
+Job Safety Analysis, Canadian Center for Occupational Health and Safety—Accessed 30/Jul/13
+Job Hazard Analysis (JHA) - An overview, University of Alaska—Accessed 30/Jul/13

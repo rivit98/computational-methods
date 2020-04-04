@@ -1,0 +1,75 @@
+The Juvenile Delinquents Act (French: Loi sur les jeunes délinquants), SC 1908, c 40 was a law passed by the Parliament of Canada to improve its handling of juvenile crime. The act established procedures for the handling of juvenile offenses, including the government assuming control of juvenile offenders. It was revised in 1929 and superseded in 1984 by the Young Offenders Act.
+
+
+== Historical background ==
+
+
+=== Before Confederation ===
+Under English common law, there were complex distinctions concerning age, criminal intent and the type of crime involved that determined whether an infant (i.e., one under the age of twenty-five) could be convicted.
+
+For common misdemeanors, particularly in cases of omission, punishment was not given to those under the age of twenty-one, except where there was a notorious breach of the peace, in which case those aged fourteen years or more could be convicted. For capital crimes, since the time of Henry III, those under the age of seven could not be convicted, and those between seven and fourteen were prima facie considered to be doli capax (except where the court found them capable of distinguishing between good and evil). Proof of malice had to be "strong and clear beyond all doubt and contradiction."There has been little investigation as to how the pre-Confederation courts took the age of minor defendants into account. Children and teenagers were forced to serve their sentences alongside adult offenders in typically filthy, overcrowded prisons. There were many instances where justice was uneven and punishment was extreme.In 1857, the Province of Canada passed its first Acts concerning juvenile offenders, providing special procedures for the trial of persons aged 16 or less, and maximum penalties for larceny (other than by indictment) of three months' imprisonment or a fine of £5, Minor defendants still had the option of trial by jury, in which case they would be tried as an adult with corresponding punishment. Separate reformatory prisons were established for those under the age of 22 sentenced to terms of five years or less. Under the latter Act, institutions were established at Île aux Noix in Lower Canada (later moved to St-Vincent-de-Paul in Montreal in 1862), and Penetanguishene in Upper Canada. While Canada did not otherwise distinguish their terms from those given to adult offenders, Nova Scotia passed legislation that limited juvenile sentences to 90 days.
+
+
+=== 1867–1908 ===
+In 1868, the new Parliament of Canada provided for the transfer of "incorrigible" juvenile offenders from a reformatory to a penitentiary to serve the remainder of their term. It also provided for the transfer of offenders from a penitentiary to a reformatory, provided that they had been sentenced to a term of at least two years, and had to be "susceptible to reformation." This was considered to be a regressive step from the measures taken in 1857, and was amended the following year to remove the "susceptible to reformation" requirement and to allow the courts, for terms of not less than six months and not more than five years, to send convicted juvenile offenders to a reformatory. This reflected concerns that those sentenced to terms of greater than five years were at higher risk of recidivism, and were thus beyond the reach of successful intervention.The former Act of the Province of Canada dealing with trial and punishment was repealed and replaced in 1869 by the Parliament of Canada. The Legislative Assembly of Quebec passed new legislation in 1869 providing for Certified Reformatory Schools, in consequence of which the former Act dealing with young offenders' prisons was repealed with respect to that province.In 1875, a federal Act was passed that provided for juvenile offenders to be sentenced to a reformatory for terms of not less than two years and not more than five.The Criminal Code was passed in 1892 to consolidate the criminal law in Canada. The following provisions of it concerned juvenile offenders:
+
+Standardization of the age of criminal culpability, so that no juvenile under the age of seven could be convicted, and those between the ages of seven and thirteen could be convicted only where they were "competent to know the nature and consequences of the conduct, and to appreciate that it was wrong."
+provision for the trial of juvenile offenders to be conducted without publicity
+special provisions for the trial of indictable offences
+the reenactment of the sentencing provisions relating to sentencing to a reformatory, with respect to other offences.Separate legislation relating to juvenile offenders was later passed in 1894, which provided for the separation of juvenile offenders from older persons and habitual criminals during arrest, confinement, trial and subsequent imprisonment, as well as integrating efforts with those of children's aid organizations being organized by the provinces.There were several provincial initiatives in this period that were designed to complement the federal measures. Ontario passed the Industrial Schools Act in 1874, in order to provide institutions to serve neglected and problem children. In British Columbia, the Legislative Assembly of British Columbia passed the Reformatory Act in 1890, under which a designated institution could admit those juvenile offenders sentenced to terms of two to five years, boys transferred from jails and incorrigible or misbehaving youngsters between ten and thirteen who needed supervision. There was also provision for remission for good conduct and for binding over to apprenticeship.
+
+
+=== Call for reform ===
+
+A Bill to reform the law relating to juvenile offenders was initially introduced to the Senate of Canada in 1907 by Secretary of State for Canada Richard William Scott, but did not pass before that session's prorogation. It was reintroduced the following year by Senator Frédéric Liguori Béique, and received Royal assent on 20 July 1908.
+In reintroducing the Bill, Senator Béique summarized the philosophy it expressed:
+
+
+== Operation of Act ==
+
+The Act was designed to operate in a similar manner to the Probation of Offenders Act 1907 passed by the British Parliament in the previous year, as well as the juvenile delinquent provisions contained in the later Children Act 1908. These built on reforms that had been enacted as early as 1807.The Act's preamble declared that "it [was] expedient that youthful offenders should not be classed or dealt with as ordinary criminals, the welfare of the community demanding that they should on the contrary be guarded against association with crime and criminals, and should be subjected to such wise care, treatment and control as will tend to check their evil tendencies and to strengthen their better instincts."
+Its scope was very broad. The definition of "juvenile delinquent" was declared to cover any "child who violates any provision of the Criminal Code or of any Dominion or provincial statute, or of any by-law or ordinance of any municipality, or who is guilty of sexual immorality or any similar form of vice, or who is liable by reason of any other act to be committed to an industrial school or juvenile reformatory under the provisions of any Dominion or provincial statute." It also provided that the Juvenile Court had "exclusive jurisdiction in cases of delinquency."The Act was designed to be brought into force in different areas on different dates, where provincial law or appropriate facilities made it available for use. In that respect, it first came into force in the City of Winnipeg on 30 January 1909. Thomas Mayne Daly was appointed as the first Juvenile Court judge in Canada.While the minimum age for those subject to the Act remained at seven years, the maximum age varied by province. By 1982, it was set at 16 in six provinces, 17 for British Columbia and Newfoundland, and 18 for Quebec and Manitoba.
+
+
+=== Coordination with provincial legislation ===
+The Act was held to be a valid exercise of federal jurisdiction within the scope of its criminal law power.It provided for integration with provincial legislation concerning the welfare of children:
+
+In considering this provision in 1967, the Supreme Court of Canada held that BC's Motor Vehicle Act did not fall under s. 39, as it was not intended for the protection or benefit of children, and therefore charges under it could only be heard by the Juvenile Court.The Act also tended to displace non-judicial initiatives to address the needs of juvenile offenders. In that regard, a Quebec measure that diverted young people from the criminal justice system was held to be unconstitutional.
+
+
+== Effect ==
+The objective of the Juvenile Delinquents Act was to rehabilitate and reform—not to punish. Young people who broke the law were "delinquents," not criminals. They were viewed as victims of poverty, abuse, and neglect. Their parents had failed to raise them well, it was reasoned, so the state assumed custody of the child.
+Prior to the 1929 revisions of the Act, poverty and gender shaped the definition of delinquency with class stereotypes mitigating against the persecution of wealthier children. Judges regularly saw working-class girls who rebelled as "delinquent" and in need of proper socialization at an industrial school, while middle class girls were more likely to be described as "emotionally unstable" and in need of increased support.Gender stereotypes, by contrast, ensured that girls were charged for sexual behaviours and expressions considered "non-delinquent" in the male world.  Court officials frequently asked girls charged with petty crime (like theft) to describe their sexual experiences.  Sexual knowledge or experience often confirmed "delinquency"—a gross misunderstanding.  Court officials also prescribed curatives reflective of their sex-related concerns.  With state support, "delinquent" girls were to become "proper" women by adopting feminine mores during their probationary period.
+Juveniles seldom had lawyers in court. Judges, police and probation officers could impose whatever sentence they thought  best for the youth. Because there were no formal guidelines, sentences ranged from incredibly harsh to extremely lenient. The definition of "delinquency" was so broad that youths could be charged for breaking minor laws, including truancy, coming home late, or loitering.
+However girls were also able to use the court to speak back to authority, using them to permit alternative sexuality by engaging in premarital sex and justifying it through the intent to marry their partners and speak out against domestic abuse.If found to be delinquent, juveniles could be sent indefinitely to correctional or training institutions. Staff decided when the delinquent was rehabilitated and could be released. While English-speaking girls who displayed passive or acquiescent behaviour may be released as "transformed," Sangster has suggested that First Nations girls were less likely to receive approval for "reformed" behaviour.  State officials were most likely to view acquiescence as "withdrawal," keeping First Nations girls in the system longer under the assumption that they would not internalize "proper" feminine mores.
+There was no Charter to protect a juvenile's rights, and no right to a lawyer. Problems with the Act led to demands for changes, and it was revised in 1929.
+
+
+== Later reform ==
+In 1982, Solicitor General of Canada Bob Kaplan secured the passage of the Young Offenders Act, which replaced the Juvenile Delinquents Act. It came into force on 2 April 1984.
+
+
+== See also ==
+List of Acts of Parliament of Canada
+Criminal Code
+Young Offenders Act
+Youth Criminal Justice Act
+
+
+== Further reading ==
+Gibson, Dwight L.; Cooper, Damian; Elliott, Kathleen Ryan (2002). All About Law: Exploring the Canadian Legal System. Nelson Education Limited. ISBN 0-17-620179-3.
+Strange, Carolyn; Loo, Tina (1997). Making Good: Law and Moral Regulation in Canada, 1867 - 1939. University of Toronto Press. ISBN 0-8020-7869-9.
+Blackstone, William (1771). Commentaries on the Laws of England. IV. Dublin: J. Exshaw, etc. pp. 22–24.
+Côté-Harper, Gisèle (1970). "Age, Delinquent Responsibility and Moral Judgment" (PDF). Les Cahiers de Droit. 11 (3): 489–509.
+Leon, Jeffrey S. (1977). "The Development of Canadian Juvenile Justice: A Background for Reform". Osgoode Hall Law Journal. 15 (1): 71–106.
+Pinero, Veronica B. (2013). Transformations in the Canadian Youth Justice System: Creation of Statutes and the Judicial Waiver in Quebec (PDF) (LL.D.). University of Ottawa Faculty of Law.
+Stubb, Roy St. George (1979). "The First Juvenile Court Judge: The Honourable Thomas Mayne Daly KC". MHS Transactions. Manitoba Historical Society. 3 (34): 49–66.
+"The Evolution of Juvenile Justice in Canada" (PDF). Department of Justice (Canada). 2004.
+
+
+== References ==
+
+
+== External links ==
+Frédéric Liguori Béique (21 May 1908). "Juvenile Delinquents Bill". Parliamentary Debates (Hansard). Canada: Senate. pp. 971–975.
+Juvenile Delinquents Act, R.S.C. 1970, c. J-3

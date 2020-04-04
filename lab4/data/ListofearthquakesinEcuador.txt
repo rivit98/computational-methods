@@ -1,0 +1,33 @@
+This list of earthquakes in Ecuador is a list of notable earthquakes that have affected Ecuador in recorded history.
+
+
+== Tectonic setting ==
+The active tectonics of Ecuador is dominated by the effects of the subduction of the Nazca Plate beneath the South American Plate. Ecuador lies within the Northern Volcanic Zone where the subduction zone is moving at a rate of 7 cm/yr to the east-northeast, significantly oblique to the trend of this segment of the Andes. The subduction zone has an overall dip of 25–30°, but varies rapidly along strike due to the effects of subduction of the Carnegie Ridge. The Carnegie Ridge is an oceanic plateau that formed as the Nazca Plate passed over the Galapagos hotspot. The plate interface above the subducted part of the ridge has a shallower dip than the area to both north and south, the boundaries interpreted to consist of two large tears in the downgoing Nazca Plate. The northern part of Ecuador overlies the subducted part of the Carnegie Ridge and is an area where the Nazca Plate is interpreted to be strongly coupled to the South American Plate, causing an unusually large degree of intraplate deformation. The main active fault zones of Ecuador are SSW-NNE trending dextral strike-slip faults running parallel to the main subdivisions of the Andes, two major SW-NE dextral strike-slip zones, the Pallatanga and Chingual faults, and north-south trending reverse faults such as the Quito fault.
+
+
+== Seismicity ==
+Earthquakes that affect Ecuador can be divided into those that result from movement on the subduction interface along the plate boundary, those that result from deformation within the South American and Nazca Plates and those that are associated with active volcanoes.
+
+
+=== Interplate earthquakes ===
+Megathrust events along the subduction interface generate the largest earthquakes, often triggering destructive tsunamis, such as the 1906 Ecuador–Colombia earthquake.
+
+
+=== Intraplate earthquakes ===
+The most damaging earthquakes to affect Ecuador are those associated with faulting within the South American Plate, such as the 1949 Ambato earthquake.
+Earthquakes within the downgoing Nazca Plate, such as the Mw 7.1 event of August 2010, are generally too deep to cause significant damage in Ecuador although they are felt over a wide area.
+
+
+=== Volcanic earthquakes ===
+Swarms of relatively small earthquakes are commonly associated with volcanic activity, such as the Quito swarm in 1998-1999 related to the Guagua Pichincha volcano.
+
+
+== List of notable earthquakes ==
+Magnitudes - Mw Moment magnitude scale, ML Richter magnitude scale, Ms Surface wave magnitude
+
+
+== See also ==
+Geology of Ecuador
+
+
+== References ==

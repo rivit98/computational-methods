@@ -1,0 +1,9 @@
+In model theory, a branch of mathematical logic, the Łoś–Vaught test is a criterion for a theory to be complete, unable to be augmented without becoming inconsistent. For theories in classical logic, this means that for every sentence the theory contains either the sentence or its negation but not both.
+According to this test, if a satisfiable theory is κ-categorical (there exists an infinite cardinal κ such that it has only one model up to isomorphism of cardinality κ, with κ at least equal to the cardinality of its language) and in addition it has no finite model, then it is complete.
+This theorem was proved independently by Jerzy Łoś (1954) and Robert  L. Vaught (1954), after whom it is named.
+
+
+== References ==
+Enderton, Herbert B. (1972), A mathematical introduction to logic, Academic Press, New York-London, p. 147, MR 0337470.
+Łoś, Jerzy (1954), "On the categoricity in power of elementary deductive systems and some related problems", Colloquium Mathematicum, 3: 58–62, MR 0061561.
+Vaught, Robert L. (1954), "Applications to the Löwenheim-Skolem-Tarski theorem to problems of completeness and decidability", Indagationes Mathematicae, 16: 467–472, MR 0063993.

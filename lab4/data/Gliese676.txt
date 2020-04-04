@@ -1,0 +1,17 @@
+Not to be confused with Gliese 674.Gliese 676 is a 10th-magnitude wide binary system of red dwarfs that has an estimated minimum separation of 800 AU with an orbital period of greater than 20,000 years. It is located approximately 54 light years away in the constellation Ara. In 2009, a gas giant was found in orbit around the primary star, in addition to its confirmation in 2011 there was also a strong indication of a companion; the second gas giant was characterised in 2012, along with two much smaller planets.
+
+
+== Planetary system ==
+The first planet discovered, b, is a super-jovian first characterised in October 2009. The planet was formally announced in 2011, along with the first recognition of a trend not attributable to the companion star. Even after fitting a planet and a trend, it was noted that the residual velocities were still around 3.4 m/s, significantly larger than the instrumental errors of around 1.7 m/s. This tentatively implied the existence of other bodies in orbit, though nothing more could be said at the time.The star was a test case for the HARPS-TERRA software for better reduction of data from the HARPS spectrometer in early 2012. Even with significantly lower margins of error on the data, less data was accessible than what was used in 2011. Still, the team reached a very similar conclusion to the previous team with a model of a planet and a trend. The residual velocities were still somewhat excessive, giving more weight to the existence of other bodies in the system, though still no conclusions could be made.
+Between the time of the previous analysis and June 2012, the rest of the radial-velocity measurements used in 2011 were made public, allowing them to be reduced using HARPS-TERRA. These were then analysed via a Bayesian probability analysis, which was previously used to discover HD 10180 i and j, which confirmed planet b and made a first characterisation of planet c, which was previously only described as a trend. After the first two signals were introduced, the next most powerful signal was at around 35.5 days, with an analytic false alarm probability of 0.156. Through 104 trials, the false alarm probability was found to be 0.44%, low enough for it to be included as a periodic, planetary signal. With a minimum mass of around 11 Earths, the planet lies at the accepted border between Super-Earths and gaseous, Neptune-like bodies of 10 Earths.
+After accepting the third signal, a strong peak at 3.6 days became apparent. With a false alarm probability much lower than that of the previously accepted body, it was immediately accepted. With a minimum mass of around 4.5 Earths, it is a small Super-Earth.
+This system holds the current record for the widest range of masses in a single planetary system, and also shows a hierarchy reminiscent of the solar system, with the gas giants at large distances from the star while the smaller bodies are much closer-in.
+There are two Super-Jupiter planets: ‘b‘ with a period of 1052 days (2.9 years) and minimum mass of 6,7 MJ, and ‘c‘ with a period of 7340 days (20.1 years) and a mass of 6,8 MJ.
+
+
+== See also ==
+Gliese 581
+Gliese 876
+
+
+== References ==

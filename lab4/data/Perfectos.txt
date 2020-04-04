@@ -1,0 +1,6 @@
+Perfectos was a radio device used by Royal Air Force's night fighters during the Second World War to detect German aircraft. It worked by triggering Luftwaffe's FuG 25a Erstling identification friend or foe (IFF) system and then using the response signal to determine the enemy aircraft's direction and range. This allowed RAF intruders to track the Germans without the need for a radar system of their own, and in contrast to the earlier Serrate radar detector that lacked range information.
+The resulting rapid ramp-up of night fighter losses in late 1944 alerted the Germans that the RAF was deploying a system to track them, and suspicion immediately fell on the Erstling. Pilots were told to leave their Erstling units turned off until they approached friendly airbases, where it was needed in order for their flak units to avoid firing on them. This resulted in further chaos as crews often forgot to turn them back on, and flak units became increasingly paralyzed as friendly fire incidents mounted.
+
+
+== References ==
+Brown, Louis (1999). Technical and Military Imperatives: A Radar History of World War 2. CRC Press.

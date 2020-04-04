@@ -1,0 +1,35 @@
+Protein–lipid interaction is the influence of membrane proteins on the lipid physical state or vice versa.
+The questions which are relevant to understanding of the structure and function of the membrane are: 1) Do intrinsic membrane proteins bind tightly to lipids (see annular lipid shell), and what is the nature of the layer of lipids adjacent to the protein? 2) Do membrane proteins have long-range effects on the order or dynamics of membrane lipids? 3) How do the lipids influence  the structure and/or function of membrane proteins? 4) How do peripheral membrane proteins which bind to the layer surface interact with lipids and influence their behavior?
+
+
+== Binding of lipids to intrinsic membrane proteins in the bilayer ==
+A large research effort involves approaches to know whether proteins have binding sites which are specific for particular lipids and whether the protein–lipid complexes can be considered to be long-lived, on the order of the time required for the turnover a typical enzyme, that is 10−3 sec. This is now known through the use of 2H-NMR, ESR, and fluorescent methods.
+There are two approaches used to measure the relative affinity of lipids binding to specific membrane proteins. These involve the use of lipid analogues in reconstituted phospholipid vesicles containing the protein of interest:
+1) Spin-labeled phospholipids are motionally restricted when they are adjacent to membrane proteins. The result is a component in the ESR spectrum which is broadened. The experimental spectrum can be analyzed as the sum of the two components, a rapidly tumbling species in the "bulk" lipid phase with a sharp spectrum, and a motionally restricted component adjacent to the protein. Membrane protein denaturation causes further broadening of ESR spin label spectrum and throws more light on membrane lipid-proteins interactions 
+2) Spin-labeled and brominated lipid derivatives are able to quench the intrinsic tryptophan fluorescence from membrane proteins. The efficiency of quenching depends on the distance between the lipid derivative and the fluorescent tryptophans.
+
+
+== Perturbations of the lipid bilayer due to the presence of lateral membrane proteins ==
+Most 2H-NMR experiments with deuterated phospholipids demonstrate that the presence of proteins has little effect on either the order parameter of the lipids in the bilayer or the lipid dynamics, as measured by relaxation times. The overall view resulting from NMR experiments is 1) that the exchange rate between boundary and free lipids is rapid, (107 sec−1), 2) that the order parameters of the bound lipid are barely affected by being adjacent to proteins, 3) that the dynamics of the acyl chain reorientations are slowed only slightly in the frequency range of 109 sec−1, and 4) that the orientation and the dynamics of the polar headgroups are similarly unaffected in any substantial manner by being adjacent to transmembrane proteins. 13C-NMR spectrum also gives information on specific lipid-protein interactions of biomembranes Recent results using non labeled optical methods such as Dual Polarisation Interferometry which measure the birefringence(or order) within lipid bilayers have been used to show how peptide and protein interactions can influence bilayer order, specifically demonstrating the real time association to bilayer and critical peptide concentration after which the peptides penetrate and disrupt the bilayer order.
+
+
+== Backbone and solid chain dynamics of membrane proteins ==
+Solid-state NMR techniques have the potential to yield detailed information about the dynamics of individual amino acid residues within a membrane protein. However, the techniques can require large amounts (100–200 mg) of isotopically labeled proteins and are most informative when applied to small proteins where spectroscopic assignments are possible.
+
+
+== Binding of peripheral membrane proteins to the lipid bilayer ==
+Many peripheral membrane proteins bind to the membrane primarily through interactions with integral membrane proteins.  But there is a diverse group of proteins which interact directly with the surface of the lipid bilayer. Some, such as myelin basic protein, and spectrin have mainly structural roles.  A number of water-soluble proteins can bind to the bilayer surface transiently or under specific conditions.
+Misfolding processes, typically exposing hydrophobic regions of proteins, often are associated with binding to lipid membranes and subsequent aggregation, for example, during neurodegenerative disorders, neuronal stress and apoptosis.
+
+
+== See also ==
+Lipid
+Annular lipid shell
+
+
+== References ==
+
+
+== Further reading ==
+Robert B. Gennis. "Biomembranes, Molecular structure and function". Springer Verlag, New York, 1989.
+H L Scott, Jr & T J Coe. "A theoretical study of lipid-protein interactions in bilayers". Biophys J. 1983 June; 42(3): 219–224.

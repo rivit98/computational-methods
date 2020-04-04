@@ -1,0 +1,72 @@
+Cryptocurrency and security describes attempts to obtain digital currencies by illegal means, for instance through phishing, scamming, a supply chain attack or hacking, or the measures to prevent unauthorized cryptocurrency transactions, and storage technologies. In extreme cases even a computer which is not connected to any network can be hacked.
+
+
+== Cryptocurrency security technologies ==
+There are various types of cryptocurrency wallets available, with different layers of security, including devices, software for different operating systems or browsers, and offline wallets.
+
+
+== Notable thefts ==
+In 2018, around US $1.7 billion in cryptocurrency was lost due to scams theft and fraud. In the first quarter 2019, the amount of such losses was USD $1.2 billion.
+
+
+=== Exchanges ===
+Notable cryptrocurrency exchange hacks, resulting in the theft of cryptocurrencies include:
+
+Bitstamp In 2015 cryptocurrencies worth $5 million were stolen
+Mt. Gox Between 2011 and 2014, $350 million worth of bitcoin were stolen
+Bitfinex In 2016, $72 million were stolen through exploiting the exchange wallet, users were refunded.
+NiceHash In 2017 more than $60 million worth of cryptocurrency was stolen.
+Coincheck NEM tokens worth $400 million were stolen in 2018
+Zaif $60 million in Bitcoin, Bitcoin Cash and Monacoin stolen in September 2018
+
+
+=== Currencies ===
+
+In 2016, known as the DAO event, an exploit in the original Ethereum smart contracts resulted in multiple transactions, creating additional $50 million. Subsequently the currency was forked into Ethereum Classic, and Ethereum, with the latter continuing with the new blockchain without the exploited transactions.
+In 2017, Tether announced they were hacked, losing $31 million in USTD from their primary wallet. The company has 'tagged' the stolen currency, hoping to 'lock' them in the hacker's wallet (making them unspendable).
+
+
+==== Bitcoin ====
+There have been many cases of bitcoin theft. As of December 2017, around 980,000 bitcoins have been stolen from cryptocurrency exchanges.One type of theft involves a third party accessing the private key to a victim's bitcoin address, or of an online wallet. If the private key is stolen, all the bitcoins from the compromised address can be transferred. In that case, the network does not have any provisions to identify the thief, block further transactions of those stolen bitcoins, or return them to the legitimate owner.Theft also occurs at sites where bitcoins are used to purchase illicit goods. In late November 2013, an estimated $100 million in bitcoins were allegedly stolen from the online illicit goods marketplace Sheep Marketplace, which immediately closed. Users tracked the coins as they were processed and converted to cash, but no funds were recovered and no culprits identified. A different black market, Silk Road 2, stated that during a February 2014 hack, bitcoins valued at $2.7 million were taken from escrow accounts.Sites where users exchange bitcoins for cash or store them in "wallets" are also targets for theft. Inputs.io, an Australian wallet service, was hacked twice in October 2013 and lost more than $1 million in bitcoins. GBL, a Chinese bitcoin trading platform, suddenly shut down on 26 October 2013; subscribers, unable to log in, lost up to $5 million worth of bitcoin. In late February 2014 Mt. Gox, one of the largest virtual currency exchanges, filed for bankruptcy in Tokyo amid reports that bitcoins worth $350 million had been stolen. Flexcoin, a bitcoin storage specialist based in Alberta, Canada, shut down on March 2014 after saying it discovered a theft of about $650,000 in bitcoins. Poloniex, a digital currency exchange, reported on March 2014 that it lost bitcoins valued at around $50,000.
+In January 2015 UK-based bitstamp, the third busiest bitcoin exchange globally, was hacked and $5 million in bitcoins were stolen. February 2015 saw a Chinese exchange named BTER lose bitcoins worth nearly $2 million to hackers.A major bitcoin exchange, Bitfinex, was hacked and nearly 120,000 bitcoins (around $60M) was stolen in 2016. Bitfinex was forced to suspend its trading. The theft is the second largest bitcoin heist ever, dwarfed only by Mt. Gox  theft in 2014. According to Forbes, "All of Bitfinex's customers,... will stand to lose money. The company has announced a cut of 36.067% across the board." Following the hack the company refunded customers. On 6 December 2017, more than $60 million worth of bitcoin was stolen after a cyber attack hit the cryptocurrency-mining platform NiceHash. According to the CEO Marko Kobal and co-founder Sasa Coh, bitcoins worth $64 million USD were stolen, although users have pointed to a bitcoin wallet which held 4,736.42 bitcoins, equivalent to $67 million.On May 7th of 2019, hackers stole over 7000 Bitcoins from the Binance Cryptocurrency Exchange, at a value of over 40 million US dollars. Binance CEO Zhao Changpeng stated: "The hackers used a variety of techniques, including phishing, viruses and other attacks.... The hackers had the patience to wait, and execute well-orchestrated actions through multiple seemingly independent accounts at the most opportune time." Thefts have raised safety concerns. Charles Hayter, founder of digital currency comparison website CryptoCompare said, "It's a reminder of the fragility of the infrastructure in such a nascent industry." According to the hearing of U.S. House of Representatives Committee on Small Business in April 2, 2014, "these vendors lack regulatory oversight, minimum capital standards and don't provide consumer protection against loss or theft."
+
+
+=== Wallets ===
+
+In 2017 a flaw in the Parity Wallet caused the loss of approximately $30 million.
+
+
+== Fraud ==
+Josh Garza, who founded the cryptocurrency startups GAW Miners and ZenMiner in 2014, acknowledged in a plea agreement that the companies were part of a pyramid scheme, and pleaded guilty to wire fraud in 2015. The U.S. Securities and Exchange Commission separately brought a civil enforcement action against Garza, who was eventually ordered to pay a judgment of $9.1 million plus $700,000 in interest. The SEC's complaint stated that Garza, through his companies, had fraudulently sold "investment contracts representing shares in the profits they claimed would be generated" from mining.Following its shut-down, in 2018 a class action lawsuit for $771,000 was filed against the cryptocurrency platform known as BitConnect, including the platform promoting YouTube channels. Prior fraud warnings in regards to BitConnect, and cease-and-desist orders by the Texas State Securities Board cited the promise of massive monthly returns.OneCoin was a massive world-wide multi-level marketing Ponzi scheme promoted as (but not involving) a cryptocurrency, causing losses of $4 billion worldwide. Several people behind the scheme were arrested in 2018 and 2019.
+
+
+== Malware ==
+
+
+=== Malware stealing ===
+Some malware can steal private keys for bitcoin wallets allowing the bitcoins themselves to be stolen. The most common type searches computers for cryptocurrency wallets to upload to a remote server where they can be cracked and their coins stolen. Many of these also log keystrokes to record passwords, often avoiding the need to crack the keys. A different approach detects when a bitcoin address is copied to a clipboard and quickly replaces it with a different address, tricking people into sending bitcoins to the wrong address. This method is effective because bitcoin transactions are irreversible.One virus, spread through the Pony botnet, was reported in February 2014 to have stolen up to $220,000 in cryptocurrencies including bitcoins from 85 wallets. Security company Trustwave, which tracked the malware, reports that its latest version was able to steal 30 types of digital currency.A type of Mac malware active in August 2013, Bitvanity posed as a vanity wallet address generator and stole addresses and private keys from other bitcoin client software. A different trojan for macOS, called CoinThief was reported in February 2014 to be responsible for multiple bitcoin thefts. The software was hidden in versions of some cryptocurrency apps on Download.com and MacUpdate.
+
+
+=== Ransomware ===
+Many types of ransomware demand payment in bitcoin. One program called CryptoLocker, typically spread through legitimate-looking email attachments, encrypts the hard drive of an infected computer, then displays a countdown timer and demands a ransom in bitcoin, to decrypt it. Massachusetts police said they paid a 2 bitcoin ransom in November 2013, worth more than $1,300 at the time, to decrypt one of their hard drives. Bitcoin was used as the ransom medium in the WannaCry ransomware.
+One ransomware variant disables internet access and demands credit card information to restore it, while secretly mining bitcoins.As of June 2018, most ransomware attackers preferred to use currencies other than bitcoin, with 44% of attacks in the first half of 2018 demanding Monero, which is highly private and difficult to trace, compared to 10% for bitcoin and 11% for Ethereum.
+
+
+=== Unauthorized mining ===
+In June 2011, Symantec warned about the possibility that botnets could mine covertly for bitcoins. Malware used the parallel processing capabilities of GPUs built into many modern video cards. Although the average PC with an integrated graphics processor is virtually useless for bitcoin mining, tens of thousands of PCs laden with mining malware could produce some results.In mid-August 2011, bitcoin mining botnets were detected, and less than three months later, bitcoin mining trojans had infected Mac OS X.In April 2013, electronic sports organization E-Sports Entertainment was accused of hijacking 14,000 computers to mine bitcoins; the company later settled the case with the State of New Jersey.German police arrested two people in December 2013 who customized existing botnet software to perform bitcoin mining, which police said had been used to mine at least $950,000 worth of bitcoins.For four days in December 2013 and January 2014, Yahoo! Europe hosted an ad containing bitcoin mining malware that infected an estimated two million computers. The software, called Sefnit, was first detected in mid-2013 and has been bundled with many software packages. Microsoft has been removing the malware through its Microsoft Security Essentials and other security software.Several reports of employees or students using university or research computers to mine bitcoins have been published.On February 20, 2014, a member of the Harvard community was stripped of his or her access to the University’s research computing facilities after setting up a Dogecoin mining operation using a Harvard research network, according to an internal email circulated by Faculty of Arts and Sciences Research Computing officials.Ars Technica reported in January 2018 that YouTube advertisements contained JavaScript code that mined the cryptocurrency Monero.
+
+
+== Phishing ==
+A phishing website to generate private IOTA wallet seed passphrases, collected wallet keys, with estimates of up to $4 million worth of MIOTA tokens stolen. The malicious website operated for an unknown amount of time, and was discovered in January 2018.
+
+
+== Other incidents ==
+In late 2018, Canada's largest crypto exchange QuadrigaCX lost $190 million in cryptocurrency when the owner allegedly died; he was the only one with knowledge of the password to a storage wallet. The exchange filed for bankruptcy in 2019.
+
+
+== See also ==
+Bitcoin network#Alleged criminal activity
+Computer security
+
+
+== References ==

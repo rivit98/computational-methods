@@ -1,0 +1,24 @@
+Positron is a fixed shooter written by Gary Partis for the BBC Micro and Acorn Electron and published by Micro Power in 1983. It was developed on a pre-release Electron and was one of the few games (other than those produced by Acornsoft) available for the machine on its launch.
+
+
+== Gameplay ==
+The player controls a laser base which can move left and right and fire vertically. The object of the game is to destroy all alien creatures on each screen, then proceed to the next. The first sheet of aliens follows the classic Space Invaders style of moving, that being left to right, then moving down one row before moving right to left. The standard Invaders strategy of picking off the end columns to stop a rapid descent also applies to the first sheet of Positron. This first sheet however is not representative of the rest of the game and serves only to lull the player into a false sense of security.
+All subsequent sheets follow a pseudo-random formation, generally moving down the screen but at various speeds and with greatly varying levels of firepower for each individual enemy. This means the strategy must change to looking to find which enemies are descending fastest and picking them off while also trying to break up big groups.
+While the aliens from sheet 2 onward look different and are slightly faster than their predecessors, they all move in the same fashion. They are called, in order of appearance, Cyber, Spazmoid, Galactic Hulk, Hep-Hep, Graber, Bum-Fluff, Phantom, Orb and Mega-Bod. Destroying the mothership which appears above the Mega-bods ends the first wave, and starts you again from the beginning (now 'wave 2, sheet 1'), with faster enemies.
+This game is notable because of its speed. In particular, the game has probably the fastest player fire-rate of any of the non-scrolling shooters of the period. Most similar games of the time will only let you fire again when the previous laser bolt has either hit an alien or left the screen. Positron has no such limits leading to a much quicker game. It also differs from most such games in that if a life is lost, the sheet begins again regardless of the number of enemies killed. This makes for an infuriating game if the player is killed by the last enemy of the sheet and can lead to effectively repeating the same sheet over until all lives are lost.
+The game was also notable for its quick loading time from tape.
+
+
+== Development ==
+Positron was the first published game by programmer Gary Partis who would go on to become a well known and BBC/Electron programmer. He claimed to have taken little time programming the game which could explain some of the game's peculiarities (such as most of the enemies following the same pattern, waves beginning again when lives are lost etc.) as well as the short loading time (caused by the lack of code). "In the Summer of 1983, I wrote Positron in two days flat—Electron version (with pre-release Elk) in two hours!" (A & B Computing, March 1987)
+
+
+== Reception ==
+Electron User praised the game, particularly noting the speed of the game from the second sheet onwards. "Positron is a fast moving, colourful and satisfying game. So sharpen your wits, tighten your sweatband and give it a whirl" (issue #1.08, May 1984)
+
+
+== Legacy ==
+The spiritual sequel to Positron, the scrolling shooter Syncron (1987), was also noted for its speed but in that case was criticised as being almost unplayable. Partis himself described it as an exercise in pure speed rather than playability (Micro User magazine, January 1989).
+
+
+== References ==

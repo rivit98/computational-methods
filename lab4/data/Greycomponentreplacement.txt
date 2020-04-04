@@ -1,0 +1,15 @@
+Within the CMY color space, a range of colors can be achieved by combining the three primaries. This combination in its turn can be thought of as a hue component (which will require a maximum of two primary colors) and a grey component (a mixture of all three, in an appropriate quantity to give the required saturation). If the grey component is replaced by black ink, the same color is being achieved by using two primaries and black. The act of substituting a quantity of black for the grey component is known as "Grey component replacement" (GCR).In grey component replacement (GCR), contrary to under color removal (UCR), the CMY values that add to grey all along the tone scale can be replaced with black ink. UCR only adds black to the CMY equivalent of what would have printed as a grey or near-grey.
+
+Advantage: GCR results in less ink being used, and some of that ink is black which is normally cheaper than the others.
+Advantage: The areas where less ink is used are regions of high ink use, so the potential problems of drying and ink set-off are reduced.
+Advantage: The resulting output is less susceptible to changes in the printing variables since you are not continually trying to balance as much C, M, and Y.Disadvantages: There may be potential quality issues associated with GCR. Sometimes it reduces the ability to adjust colors. It may create problems with balancing black halftone. High amount of GCR causes the shadow areas to print too weakly, resulting in low contrast.
+
+
+== References ==
+
+
+== See also ==
+Under color removal
+Four-color printing
+Color printing
+CMYK color model

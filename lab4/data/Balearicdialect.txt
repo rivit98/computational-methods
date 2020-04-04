@@ -1,0 +1,58 @@
+Balearic (Catalan: balear, IPA: [bəleˈa]) is the collective name for the dialects of Catalan spoken in the Balearic Islands: mallorquí in Majorca, eivissenc in Ibiza, and menorquí in Menorca.
+At the last census, 746,792 people in the Balearic Islands claimed to be able to speak Catalan, though some of these people may be speakers of mainland variants.
+
+
+== Features ==
+Distinctive features of Catalan in the Balearic Islands differ according to the specific variant being spoken (Mallorcan, Menorcan, or Ibizan).
+
+
+=== Phonetic features ===
+VowelsMost variants preserve a vocalic system of eight stressed vowels; /a/, /ə/, /ɛ/, /e/, /i/, /ɔ/, /o/, /u/:
+The Majorcan system has eight stressed vowels /a ə ɛ e i ɔ o u/, reduced to four [ə i o u] in unstressed position.
+The Western Minorcan system has eight stressed vowels /a ə ɛ e i ɔ o u/, reduced to three [ə i u] in unstressed position.
+The Eastern Minorcan and Ibizan system has seven stressed vowels /a ɛ e i ɔ o u/ reduced to three [ə i u] in unstressed position (as in Central Catalan). There are differences between the dialect spoken in Ibiza Town (eivissenc de vila) and those of the rest of the island (eivissenc pagès) and Formentera (formenterer).
+The vowel /a/ is central [ä] in Ibizan (as most Catalan dialects), while it is front [a] in Majorcan and Minorcan.
+The so-called "open vowels" (vocals obertes), /ɛ/ and /ɔ/, are generally as low as /a/ in most Balearic subvarieties. The phonetic realizations of /ɛ/ approaches [æ] (as in American English lad) and /ɔ/ is as open as [ɒ] (as in traditional RP dog) (feature shared with Valencian). In many Majorcan dialects /ɔ/ can be unrounded to [ɑ].
+In the most of parts of Majorca, words with ante-penultimate stress ending in -ia lose the ⟨a⟩ [ə]; e.g. glòria ('glory') is pronounced as glòri [ˈɡɫɔɾi].ConsonantsNotes:
+
+In Majorcan and some Minorcan subvarieties /k/ and /ɡ/ become palatal, [c] and [ɟ], before front vowels and word-finally; e.g. figuera [fiˈɟeɾə] ('fig tree').
+A phonemic distinction between /v/ and /b/ is preserved, as in Alguerese and standard Valencian.
+As Central Catalan /l/ is velarized, [ɫ], in all instances; e.g. tela [ˈtɛɫə] ('fabric').
+The palatal lateral approximant /ʎ/ is preserved, with absence of yeísmo except for the most Castilianized speakers. Nevertheless, in most of Majorcan occurs iodització, that is, a parallel process to yeísmo (/ʎ/ merges with /j/ only in Latin-derived words with intervocalic L-palatalization: /l/ + yod (-li-, -le-), -ll-, -cvl-, and -tvl-; e.g. palla [ˈpajə] 'straw'). Notice, this phenomenon is more restricted than yeísmo as initial L-palatalization always remains lateral in Majorcan; e.g. lluna [ˈʎunə] ('moon').
+Depalatalization of syllable-final /ɲs/ and /ncs/ with compensatory diphthongization in Majorcan: troncs [ˈtɾojns] ('logs'), anys [ˈajns] ('years').
+Most Balearic variants preserve final stops in clusters; e.g. [mp], [nt], [ŋk], and [ɫt]: camp [ˈkamp] 'field' (feature shared with modern Valencian).
+Assimilation of intervocalic clusters in some Majorcan and Minorcan subvarieties: /kt/ → [tː]; /ks/ → [ts]; /ɡz/ → [dz]; /pd/, /bd/, /td/, /kd/, /ɡd/ → [dː]; /bm/, /pm/, /dm/, /tm/ → [mː]; /fɡ/ → [ɡː]; /rl/ → [ɫː], etc. (notice some of these assimilations may also occur in continental Catalan, such as /bm/, /pm/, /dm/, /tm/ → [mː]: capmoix /ˌkapˈmoʃ/ → [ˌkamˈmoʃ]~[ˌkabˈmoʃ] 'crestfallen').
+Balearic is the variant of Catalan with the strongest tendency not to pronounce historical final ⟨r⟩ in any context; e.g. amor [əˈmo] 'love', cor [ˈkɔ] 'heart'.ProsodyExcept in Ibiza, in combinations of verb and weak pronoun (clitics), the accent moves to the final element; e.g. comprar-ne [komˌpɾaˈnə] or [kumˌpɾaˈnə] (Standard Central Catalan [kumˈpɾar.nə]).
+
+
+=== Morphosyntactic features ===
+Balearic preserves the salat definite article (derived from Latin ipse/ipsa instead of ille/illa), a feature shared only with Sardinian among extant Romance languages, but which was more common in other Catalan and Gascon areas in ancient times. However, the salat definite article is also preserved along the Costa Brava (Catalonia) and in the Valencian municipalities of Tàrbena and La Vall de Gallinera.
+The personal article en/na, n' is used before personal names.
+The first person singular present indicative has a zero exponent, i.e. no visible ending. For example, what in Central Catalan would be jo parlo ('I speak') is realized as jo parl.
+In verbs of the first conjugation (in -ar), the first and second person plural forms end in -am and -au respectively. For example, cantam ('we sing'), cantau ('you pl. sing').
+Also in verbs of the first conjugation, the imperfect subjunctive is formed with -a-, e.g. cantàs, cantassis. However, the Standard Catalan forms in ⟨e⟩ are nowadays also common in many places.
+In combinations of two unstressed pronouns preceding a verb, one direct with the form el, la, etc. and the other indirect with the form me, te, etc., the direct pronoun appears first. For example, la me dóna ('s/he gives it to me'), Standard Catalan me la dóna.
+
+
+=== Lexical features ===
+Balearic has a large quantity of characteristic vocabulary, especially archaisms preserved by the isolation of the islands and the variety of linguistic influences which surround them. The lexicon differs considerably depending on the subdialect. For example: al·lot for standard "noi" ('boy'), moix for "gat" ('cat'), besada for "petó" ('kiss'), ca for "gos" ('dog'), doblers for "diners" ('money'), horabaixa for "tarda" ('evening') and rata-pinyada for "rat-penat" ('bat').
+Minorcan has a few English loanwords dating back to the British occupation, such as grevi ('gravy'), xumaquer ('shoemaker'), boínder ('bow window'), xoc ('chalk') or ull blec ('black eye').
+
+
+== Political questions ==
+Some in the Balearic Islands, such as the Partido Popular party member and former regional president, José Ramón Bauzà, argue that the dialects of Baleric Islands are actually separate languages and not dialects of Catalan. Bauzà has campaigned against having centralized or standardized standards of Catalan in public education.
+
+
+== See also ==
+Catalan language
+Alguerese
+Central Catalan
+Northern Catalan
+Valencian
+
+
+== References ==
+
+
+== Bibliography ==
+Carbonell, Joan F.; Llisterri, Joaquim (1992), "Catalan", Journal of the International Phonetic Association, 22 (1–2): 53–56, doi:10.1017/S0025100300004618

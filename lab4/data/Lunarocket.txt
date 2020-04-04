@@ -1,0 +1,21 @@
+The Luna 8K72 vehicles were carrier rockets used by the Soviet Union for nine space probe launch attempts in the Luna programme between 23 September 1958 and 16 April 1960. Like many other Soviet launchers of that era the Luna 8K72 vehicles were derived from the R-7 Semyorka design (a variation of the Vostok), part of the R-7 (rocket family), which is also the basis for the modern Soyuz rocket.
+The first flight of a Luna 8K72 (September 1958), which was to launch the Luna E-1 No.1 probe, ended 92 seconds after launch when the rocket broke up from longitudinal vibration (a.k.a. POGO), causing the strap-ons to separate from the vehicle, which then crashed downrange.The second flight of a Luna 8K72 (October 1958), which was to launch the Luna E-1 No.2 probe, ended 104 seconds after launch when the rocket again disintegrated from vibration.
+The third flight of a Luna 8K72 (December 1958), which was to launch the Luna E-1 No.3 probe, ended 245 seconds after launch when the Blok A core stage shut down from loss of engine lubricant.
+The resonant vibration problem suffered by the 8K72 booster was the cause of a major argument between the Korolev and Glushko design bureaus over the cause and solution to it. It was believed that the vibrations developed as a consequence of adding the Blok E upper stage to the R-7, shifting its center of mass.
+
+
+== Luna 1 ==
+The first probe launched by a Luna 8K72 to reach orbit was Luna 1, launched 2 January 1959, which was intended as a lunar impactor mission. Luna 1 instead passed within 5,995 kilometres (3,725 mi) of the Moon's surface 4 January 1959, and then went into orbit around the Sun between the orbits of Earth and Mars.The fifth flight of a Luna 8K72 (July 1959) ended 220 seconds after launch due to a guidance malfunction of the Blok A core stage, leading to RSO destruct.
+
+
+== Luna 2 ==
+Luna 2 was launched by a Luna 8K72 12 September 1959. It was the first spacecraft to impact the lunar surface.
+
+
+== Luna 3 ==
+The final successful launch of a Luna 8K72 took place 4 October 1959. The Luna 3 spacecraft took the first photographs of the far side of the Moon.
+The eighth flight of a Luna 8K72 (March 1960) ended 435 seconds after launch when the Blok E upper stage developed insufficient thrust, causing the Luna probe to reenter the atmosphere and burn up.
+The ninth flight of a Luna 8K72 (April 1960) failed when the Blok G strap-on booster developed only 75% thrust at liftoff, breaking away from the launch vehicle, which then disintegrated, the strap-ons flying in random directions and exploding as they impacted the ground. The Blok A core stage then crashed into a salt lake.
+
+
+== References ==

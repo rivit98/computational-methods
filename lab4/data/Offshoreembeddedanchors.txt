@@ -1,0 +1,88 @@
+Offshore embedded anchors are anchors that derive their holding capacity from the frictional, or bearing, resistance of the surrounding soil, as opposed to gravity anchors, which derive their holding capacity largely from their weight. As offshore developments move into deeper waters, gravity-based structures become less economical due to the large size needed and the consequent cost of transportation.
+Each of several embedded-anchor types presents its own advantages for anchoring offshore structures. The choice of anchoring solution depends on multiple factors, such as the type of offshore facility that requires mooring, its location, economic viability, the lifetime of its use, soil conditions, and resources available.
+Examples of facilities that may need mooring are floating production storage and offloading (FPSO) units, mobile offshore drilling units, offshore oil production platforms, wave power and other  renewable energy converters, and floating liquefied natural gas facilities.
+
+
+== Drag-embedment anchors ==
+Drag-embedment anchors (DEA) derive their holding capacity from being buried, or embedded, deep within the seabed with their anchoring capacity being directly related to embedment depth. DEAs are installed by means of dragging, using a mooring chain or wire, this relatively simple means of installation making the DEA a cost-effective option for anchoring offshore structures. DEAs are commonly used for temporary moorings of offshore oil and gas structures, e.g. mobile offshore drilling units. Their use in only temporary mooring situations may be largely attributed to uncertainty involving the anchor's embedding trajectory and placement in the soil, which results in uncertainty with regard to the anchor's holding capacity.Under ideal conditions, DEAs are one of the most efficient types of anchors, with holding capacities ranging from 33 to greater than 50 times their weight; and such efficiency gives DEAs an inherent advantage over other anchoring solutions such as caissons and piles, since the mass of a DEA is concentrated deep within the seabed where soil resistance and, hence, holding capacity, is greatest. Anchor efficiency is  defined as the ratio between the ultimate holding capacity and the dry weight of the anchor, with DEAs often possessing significantly higher efficiency ratios compared to other anchoring solutions.
+
+A catenary configuration consists of "slack" mooring lines that form a catenary shape under their own weight. Since the catenary mooring lines lie flat along the seabed, they exert only horizontal forces on their anchors. Taut mooring lines arriving at an angle to the seabed exert both horizontal and vertical forces on their anchors. Since DEAs are designed to resist horizontal forces only, these anchors may only be used in a catenary-moored configuration. Applying a significant vertical load to a DEA will result in its failure, as pressure will be applied to the padeye and thus result in anchor retrieval. However, this does facilitate anchor retrieval, which contributes to the cost effectiveness of this anchoring solution.
+
+
+=== Design ===
+
+The three main components of a DEA are the fluke, shank, and padeye. For a DEA, the angle between the fluke and the shank is fixed at approximately 30 degrees for stiff clays and sand, and 50 degrees for soft clays.
+
+
+==== Fluke ====
+The fluke of a plate anchor is a bearing plate that provides the large majority of the anchors holding capacity at its ultimate embedment depth. As well as contributing to anchor capacity, the fluke may contribute to anchor stability during embedment. Adopting a wider fluke can help in providing rolling stability which allows for deeper embedment and better holding capacity. There are industry guidelines pertaining to both the appropriate width, length, and thickness of anchor flukes, where width refers to the dimension perpendicular to the direction of embedment. Commercial anchors typically have a fluke width-to-length ratio of 2:1 and a fluke length-to- thickness ratio between 5 and 30.
+
+
+==== Shank ====
+
+Since DEAs derive their strength from their embedment depth, the shank should be designed such that soil resistance perpendicular to the anchor's embedment trajectory should be minimised.
+Frictional soil resistance against the parallel component of the shank, however, is less significant. Thus, the area of the shank in line with the direction of the embedment trajectory is often relatively large to provide anchor stability against rolling during embedment.
+
+
+==== Padeye ====
+The padeye is the connection between the anchor and mooring line. Padeye eccentricity, often measured as the padeye offset ratio, is the relationship between the horizontal and vertical distance of the padeye position in relation to the fluke–shank connection of an anchor. The evaluation of the optimal padeye eccentricity for DEAs and vertically loaded anchors (VLAs) is limited to the appropriate choice of shank length given a fixed fluke–shank angle during embedment. A study conducted to investigate appropriate shank lengths considered a range of shank-length to fluke-length ratios between 1 and 2. It was determined that the shorter shank lengths (closer to ratios of 1) produced deeper anchor embedment.
+
+
+==== Mooring Line ====
+Although the mooring line is not an anchor component unique to the DEA, its design significantly influences the behaviour of the anchor. A thicker mooring line makes for more resistance to anchor embedment. The properties of chain, versus wire, mooring lines have been investigated, with chain mooring lines causing reductions in anchor capacity of up to 70%. Thus, where appropriate and cost-efficient, wire mooring lines should be used. The embedded section of a mooring line contributes to the anchor's holding capacity against horizontal movement. It is, therefore, appropriate to analyse the contribution of the anchor's mooring line with respect to both the embedment process of the anchor and its contribution to the final anchor holding capacity.
+
+
+== Vertically-loaded anchors ==
+
+Vertically-loaded anchors (VLAs) are essentially DEAs that are free to rotate about the fluke-shank connection, which allows the anchor to withstand both vertical and horizontal loading and thus, unlike DEAs, mooring lines may be in either a catenary or taut-moored configuration. VLAs are embedded as DEAs are, over a specified drag length. As a result, much of the design considerations required for DEAs is applicable to VLAs. Following the drag length insertion, the fluke is "released" and allowed to rotate freely about its connection with the shank. This new anchor configuration results in the mooring line load being essentially normal to the fluke of the VLA.
+
+
+== Suction caissons ==
+
+Suction caissons (also known as suction buckets, suction piles, or suction anchors) are a new class of embedded anchors that have a number of economic advantages over other methods. They are essentially upturned buckets that are embedded into the soil and use suction, by pumping out the water to create a vacuum, to anchor offshore floating facilities. They present a number of economic benefits, including quick installation and removal during decommissioning, as well as a reduction in material costs. The caisson consists of a large-diameter cylinder (typically in the 3-to-8-metre (10 to 26 ft) range), open at the bottom and closed at the top, with a length-to-diameter ratio in the range of 3 to 6. This anchoring solution is used extensively in large offshore structures, offshore drilling and accommodation platforms. Since the rise in the demand for renewable energy, such anchors are now used for offshore wind turbines, typically in a tripod configuration.
+
+
+== Suction-embedded plate anchors ==
+
+In 1997, the suction-embedded plate anchor (SEPLA) was introduced as a combination of two proven anchoring concepts—suction piles and plate anchors—to increase efficiency and reduce costs.Today, SEPLA anchors are used in the Gulf of Mexico, off the coast of West Africa, and in many other locations. The SEPLA uses a suction "follower", an initially water-filled, open-bottom caisson, to embed a plate anchor into soil. The suction follower is lowered to the seabed where it begins to penetrate under its own weight. Water is then pumped from the interior of the caisson to created a vacuum that pushes the plate anchor underneath to the desired depth (Step 1). The plate anchor mooring line is then disengaged from the caisson, which is retrieved by water being forced into the caisson, causing it to move upwards whilst leaving the plate anchor embedded (Step 2). Tension is then applied to the mooring line (Step 3), causing the plate anchor to rotate (a process also known as "keying") to be perpendicular to the direction of loading (Step 4). This is done so that the maximum surface area is facing the direction of loading, maximising the resistance of the anchor.
+As a suction-caisson follower is used, SEPLA anchors can be classified as direct-embedment anchors; and thus the location and depth of the anchor are known. Because of their geotechnical efficiency, SEPLA plate anchors are significantly smaller and lighter than the equivalent suction anchors, thus reducing costs.
+
+
+== Dynamically installed anchors ==
+
+The increased cost of installing anchors in deep water has led to the inception of dynamically penetrating anchors that embed themselves into the seabed by free-fall. These anchors typically consist of a thick-walled, steel, tubular shaft filled with scrap metal or concrete and fitted with a conical tip. Steel flukes are often attached to the shaft to improve its hydrodynamic stability and to provide additional frictional resistance against uplift after installation.The main advantage of dynamically installed anchors is that their use is not restricted by water depth. Costs are reduced, as no additional mechanical interaction is required during installation. The simple anchor design keeps fabrication and handling costs to a minimum. Additionally, the ultimate holding capacity of dynamic anchors is less dependent on the geotechnical assessment of the location, as lower shear-strengths permit greater penetration which increases the holding capacity. Despite these advantages, this anchor type's major disadvantage is the degree of uncertainty in predicting embedment depth and orientation and the resultant uncertain holding capacity.
+
+
+=== Design ===
+Several different forms of dynamically installed anchors have been designed since their first commercial development in the 1990s. The deep-penetrating anchor (DPA) and the torpedo anchor have seen widespread adoption in offshore South American and Norwegian waters. Their designs are shown in the figure with two other forms of dynamically installed anchors, namely the Omni-Max and the dynamically embedded plate anchor (DEPLA).
+Deep-penetrating and torpedo anchors are designed to reach maximum velocities of 25–35 metres per second (82–115 ft/s) at the seabed, allowing for tip penetration of two to three times the anchor length, and holding capacities in the range of three to six times the weight of the anchor after soil consolidation.
+
+The dynamically-embedded plate anchor (DEPLA) is a direct-embedment, vertically-loaded anchor that consists of a plate embedded in the seabed by the kinetic energy obtained by freefall in water. This new anchor concept has only been recently developed but has been tested both in the lab and field. The different components of the DEPLA can be seen in the labeled diagram in the figure.  
+The Omni-Max anchor pictured is a gravity-installed anchor that is capable of being loaded in any direction due to its 360-degree swivel feature. The anchor is manufactured from high-strength steel and possesses adjustable fluke fins that can be adapted to specific soil conditions.
+
+
+=== Torpedo anchors ===
+A torpedo anchor features a tubular steel shaft, with or without vertical steel fins, which is fitted with a conical tip and filled with scrap metal or concrete. Up to 150 metres (490 ft) long, the anchor becomes completely buried within the seabed by free-fall.
+Full-scale field tests were performed in water at depths of up to 1,000 metres (3,300 ft) using a 12-metre (39 ft) long, 762-millimetre (30.0 in) diameter, torpedo anchor with a dry weight of 400 kilonewtons (90,000 lbf). The torpedo anchor dropped from a height of 30 metres (98 ft) above the seabed achieved 29-metre (95 ft) penetration in normally consolidated clay.Subsequent tests with a torpedo anchor, with a dry weight of 240 kilonewtons (54,000 lbf) and an average tip embedment of 20 metres (66 ft), resulted in holding capacities of approximately 4 times the anchor's dry weight immediately following installation, which approximately doubled after 10 days of soil consolidation.While the efficiencies are lower than what would be obtained with other sorts of anchor, such as a drag embedment anchor, this is compensated by the low cost of fabrication and ease of installation. Therefore, a series of torpedo anchors can be deployed for station-keeping of risers and other floating structures.
+
+
+=== Deep-penetrating anchors ===
+A deep-penetrating anchor (DPA) is conceptually similar to a torpedo anchor: it features a dart-shaped, thick-walled, steel cylinder with flukes attached to the upper section of the anchor. A full-scale DPA is approximately 15 metres (49 ft) in length, 1.2 metres (4 ft) in diameter, and weighs on the order of 50–100 tonnes (49–98 long tons; 55–110 short tons). Its installation method is no different from that of the torpedo anchor: it is lowered to a predetermined height above the seabed and then released in free-fall to embed itself into the seabed.
+
+
+== Anchor piles ==
+Embedded anchor piles (driven or drilled) are required for situations where a large holding capacity is required. The design of anchor piles allows for three types of mooring configurations—vertical tethers, catenary moorings, and semi-taut/taut moorings—which are used for the mooring of offshore structures such as offshore wind turbines, floating production storage and offloading (FPSO) vessels, floating liquefied natural gas (FLNG) facilities, etc. An industrial example is the Ursa tension-leg platform (TLP) which has been held on-station by 16 anchor piles, each of which is 147 metres (482 ft) long, 2.4 metres (7 ft 10 in) in diameter, and weighs 380 tonnes (370 long tons; 420 short tons).
+
+
+=== Design ===
+
+Anchor piles are hollow steel pipes that are either driven, or inserted into a hole drilled into the seabed and then grouted, similar to pile foundations commonly used in offshore fixed structures. The figure shows the different installation methods, where in the "driven" method, the steel tube is driven mechanically by a hammer, whilst in the "drilled" method a cast in-situ pile is inserted into an oversized borehole constructed with a rotary drill and then grouted with cement. Employment of a particular method depends on the geophysical and geotechnical properties of the seabed.
+Anchor piles are typically designed to resist both horizontal and vertical loads. The axial holding capacity of the anchor pile is due to the friction along the pile-soil interface, while the lateral capacity of the pile is generated by lateral soil resistance, where the anchor's orientation is critical to optimising this resistance. As a result, the location of the padeye is placed such that the force from the catenary or taut mooring will result in a moment equilibrium about the point of rotation, to achieve the optimal lateral soil resistance.
+
+
+=== Installation ===
+Due to the slender nature of anchor piles, there are three installation issues pertaining to driven piles, the first of which is the driveability of the piles at the location, or where excessive soil resistance may prevent penetration to the desired depth. The second issue is the deformation of the piles where tip collapse or buckling occurs due to excessive resistance and a deviation of pile trajectory. The third issue is the geotechnical properties of the soil. Insufficient lateral resistance by the soil may lead to a toppling of the anchor, and rocks and boulders along the penetration trajectory may lead to refusal and tip collapse.
+Installation issues pertaining to drilled-and-grouted piles include borehole stability, unwanted soft cuttings at the base of the hole, hydrofracture of the soil leading to loss of grout, and thermal expansion effects.
+
+
+== References ==

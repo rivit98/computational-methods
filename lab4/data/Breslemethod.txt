@@ -1,0 +1,55 @@
+The Bresle method is used to determine concentration of soluble salts on metal surfaces prior to coating application, such as painting. These salts can cause serious adhesion problems after time.
+
+
+== Importance ==
+Salt is  in coastal areas. It can be tasted on the lips after walking on a beach. Salt concentration by weight is about 3.5% in sea water. With spray from waves and by other means, salt gets into the air as an aerosol, and eventually as a dust-like particle. This salt dust can be found everywhere near the coast. Salt is hygroscopic, and this property makes it harmful to coatings.
+Salt contamination beneath a coating, such as paint on steel, can cause adhesion and corrosion problems due to the hygroscopic nature of salt. Its tendency to attract water through a permeable coating creates a build-up of water molecules between substrate and coating. These molecules, together with salt and other oxidation agents trapped during coating or migrating through the coating, create an electrolytic cell, causing corrosion. Blast cleaning is frequently used to clean surfaces before coating; however, with salt contamination, blast cleaning may increase the problem by forcing salt into the base material. Washing a surface with deionized water before coating is a common solution.
+IMO PSPC (performance standard for protective coatings) regulations set a maximum allowable concentration of soluble salts on a surface to be coated, measured as sodium chloride, of 50 mg•m−2. The maximum amount of salt allowed on a surface prior to coating application is typically determined by the coating supplier and the user, such as a shipyard. Standard values have not been established.
+
+
+== Origin of the Bresle Method ==
+The Bresle method was launched in 1995 in the ISO 8502-6 and ISO 8502-9 standards. The test was developed to measure soluble salt concentration on steel surfaces prior to blasting cleaning and coating. Not only ISO, but also the US Navy, IMO, NAVSEA, and ASTM adopted this method as their standard. The method remains the primary and most flexible test method for soluble salts on metal surfaces.
+
+
+== Principle ==
+
+The Bresle method uses the difference of conductivity of salts in water, each salt having a characteristic conductivity-versus-concentration relationship. The correlation between concentration and conductivity can be found in "Handbook of Chemistry and Physics". This relationship is useful only if the dissolved salt is known. Sodium chloride, the main salt in sea water, causes a big increase in conductivity with increased concentration.
+A special patch is applied to the surface to be tested, and a specified volume of deionized water is injected under the patch. Any soluble salts present on the surface will dissolve in the water. The fluid is extracted and its conductivity measured.
+The conductivity of the collected salt solution depends on the volume of water used and its initial conductivity, and the amount of salt in solution depends on the area of the patch. The calculation of the salt per area is based on increased conductivity but in the IMO PSPC method the salt is calculated as sodium chloride, in the ISO 8502-9 method it is calculated as a specific mixture of salts, but expressed as Sodium Chloride.
+
+
+== Calculation Factors ==
+Factors are applied to the measured conductivity, depending on what is known or assumed about the salt contamination and various conditions, in order to yield meaningful measurements of contamination. Some of the variables are:
+
+salt type
+volume of solution (in below table factors are calculated with a volume of 15 ml solution)
+temperature
+equipment-specific scalingA common source of error is not knowing the composition of the contamination being measured.
+
+
+== Measurement Tools ==
+There are multiple suppliers of Bresle method test kits.
+
+
+=== The Principle ===
+The solubility in water depends on the type of salt. Sodium chloride can be dissolved in cold water to a concentration of 357 g∙l−1. Not only solubility differs between salts but also the conductivity. When performing a Bresle method test, not only sodium chloride is dissolved but also all other salts present on the surface. Because it is impossible to predict which salts are present at the surface, an assumption is made in the Bresle method. The term "measured as sodium chloride" indicates that this mixture of salts is interpreted as sodium chloride. Reporting how conductivity is factored is essential when creating a report.
+
+
+=== In Practice ===
+All parties involved should be clear on the impact on results of climate and the variance of the potentially different salt contents. An informed agreement should be reached between all parties as to what is an acceptable level of reading. Dependent on the size and nature of the surface to be coated, several readings may need to be taken.
+
+
+=== Test Patches ===
+A test patch should be as clean as possible. Contamination of a patch can influence the results significantly.
+
+The ISO 8502-6 standard prescribes in annex A that certified patches shall be used. This annex describes a stress test to ensure patch adhesion and wash ability. Not being supplied with a certificate that the patches pass this test will render the results obtained by these patches useless.
+
+
+=== Climate ===
+A soluble salts report should include climate conditions and substrate temperature. ISO 8502-6 requires that the test is done at 23 °C and a relative humidity of 50%, with deviations reported and agreed upon by both inspector and customer. During arbitration, absence of these values in a report may render the results invalid.
+
+
+== References ==
+Handbook of Chemistry and Physics
+ISO 8502-6, "Extraction for soluble contaminants for analysis – The Bresle Method"
+ISO 8502-9, "Field method for soluble salts by conductometric measurement"

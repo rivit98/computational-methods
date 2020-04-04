@@ -1,0 +1,27 @@
+Disaggregated Storage is a type of data storage within data centers that allows compute resources within a server to be separated from storage resources without modifying physical connections.
+A form of composable disaggregated infrastructure, it allows resources to be connected via a network fabric providing flexibility when upgrading, replacing, or adding individual resources. It also allows servers to be built for future growth, offering greater storage efficiency, scale and performance than traditional data storage without compromising throughput and latency.
+Background
+in the past, data center storage existed in two forms.
+
+Direct-attached storage -- disks or drives attached to a single server. Disk capacity and performance were available to that server, and only that server. Capacity expansion was limited to the number of drive bays in the server or the limits of expansion chassis. Capacity and performance can scale-up (adding drives to a server) or out (by adding servers).Storage area networks -- disks or drives in a storage array which could be provisioned to one or many servers on the network. Capacity expansion is limited to the number of supported expansion chassis.
+Direct-attached storage has one critical advantage -- it offers high-performance for any workloads running on that server. However, it comes with two critical disadvantages:
+Overall performance across the network is low, as storage can’t be shared over the network without performance impact. 
+Capacity utilization is low because disk capacity can’t be directly used by other servers.Storage area networks are used to allocate storage to dozens or possibly hundreds of servers, which increases capacity utilization, but storage area networks use specialized network hardware and/or protocols that can come with disadvantages.
+Conventional storage networking doesn’t provide sufficient throughput or latency minimization needed by many applications, and fails to provide enough bandwidth to utilize the full performance of new flash technologies.
+
+
+== Disaggregated storage overview ==
+Disaggregated storage is a form of scale-out storage, built with some number of storage devices that function as a logical pool of storage that can be allocated to any server on the network over a very high performance network fabric.
+Disaggregated storage solves the limitations of storage area networks or direct-attached storage.
+Disaggregated storage is dynamically reconfigurable and optimally reconfigures physical resources to maximize performance and limit latency.
+Disaggregated storage provides the performance of local storage with the flexibility of storage area networks.
+A number of technology improvements are combining to make storage disaggregation a reality. These include:
+
+Modern server performance: due to PCIe Gen 4, many servers can deliver more than 8GB/sec of throughput, which far exceeds traditional storage networking performance capabilities.
+The shift toward NVMe: The shift from disk to SAS/SATA flash, and now NVMe flash, puts pressure on servers and networks alike. A single NVMe drive delivers millions of IOPS, far beyond the usual capabilities of conventional storage networking.
+10Gb/25Gb/40Gb/100Gb Ethernet. More and more data centers are replacing slower network connections, removing bandwidth limitations and bottlenecks.Protocols like NVMe-oF on these very high bandwidth connections take full advantage of network improvements, removing bottlenecks, boosting performance and reducing latency.
+
+Different levels of storage disaggregation functionality exist, with the most flexible, full disaggregation, enabling storage capacity and/or performance to be provisioned from any storage device to any server on the network, then expanded, shrunk, or reprovisioned as new requirements emerge.
+
+
+== References ==

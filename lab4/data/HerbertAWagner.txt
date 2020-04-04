@@ -1,0 +1,31 @@
+Herbert Alois Wagner (22 May 1900 – 28 May 1982) was an Austrian scientist who developed numerous innovations in the fields of aerodynamics, aircraft structures and guided weapons. He is most famous for Wagner's function describing unsteady lift on wings and developing the Henschel Hs 293 glide bomb.
+
+
+== Early life ==
+Wagner attended the Austrian Naval Academy from 1914 to 1917 and served as an Ensign in the Austrian Navy during World War I.  He survived the sinking of his ship after it was struck by an enemy torpedo. After the war he returned to his studies, earning a doctorate from the Technical University of Berlin when he was only 23. His doctoral thesis entitled "Origin of the dynamic lift of wings" contained the solution of one of fundamental unsteady aerodynamics problems concerned with lift force on wings that are suddenly set into motion. The result later became known as "Wagner's function".
+In the mid-1920s he worked for Rohrbach Metall-Flugzeugbau on new designs for flying boats. During that time he also invented the so-called Wagner beam, a method of constructing aircraft structural components from sheet metal. Following a short stint as a professor at the Technical University of Berlin, he returned to industry at Junkers Flugzeugwerke, helping to design aircraft and aircraft engines working together with Hans von Ohain. There he played an instrumental role in the development of the first jet engines. He left Junkers following a disagreement with the management, and settled at Henschel Flugzeugwerke in Berlin.
+
+
+== World War II Research ==
+Wagner helped the computer pioneer Konrad Zuse as an intermediary concerning orders that Zuse got from the Reich Ministry of Aviation.While at Henschel, Wagner began to study remotely controlled aircraft. In July 1940 he began work on a prototype glide bomb that could be used to attack thinly armored warships and merchant ships. This ultimately evolved into the Hs 293 guided missile, used with considerable effectiveness in late 1943 and early 1944. Several notable successes were achieved, including the first sinking of a ship by a remotely controlled weapon, the destruction of HMS Egret on 27 August 1943.  Another notable success for the Hs 293 was the sinking of the transport HMT Rohna with the loss of over 1000 soldiers, sailors and crewmen.
+However, the Allies developed several electronic countermeasures against the Hs 293 and other radio guides weapons, such as electronic jammers. Those and the increasing Allied air superiority prevented the Hs 293 from having any significant impact in the later war years.
+He also designed the Henschel Hs 117 Schmetterling surface-to-air guided missile.
+
+
+== Post-War Activities ==
+After the war, Wagner was the first of many German scientists brought to America as part of Operation Paperclip, arriving at Frederick, Maryland on 18 May 1945 with seven large cases of blueprints and other technical data. Wagner and his team were moved to the Special Devices Center, a U.S.-Navy run research unit housed at the Castle Gould and Hempstead House, the former estate of Daniel and Florence Guggenheim at Sands Point, Long Island. There he supported U.S. efforts to deploy glide bombs against Japan.
+Wagner then moved to the new Naval Air Missile Test Center in Point Mugu, California, the centerpiece of the U.S. Navy's research into guided missiles. There he helped develop the control mechanisms for advanced missiles, several of which remain (in upgraded forms) in service today. A formerly classified FBI counterintelligence report describes his approach to his work:
+
+An excellent German scientist of good character and who is not interested in politics... He has given no evidence of being either pro-Nazi or pro-Communist and is disinterested politically... Once belonged to the German SS for a four week’s instruction course but dropped out of same on his own volition... Is an opportunist who is interested only in science and does not subscribe to any political ideology... Since the death of his wife, Wagner has been drinking considerably but is not a drunkard.
+
+Wagner left US government service and formed his own technical consulting firm, HA Wagner Company.  He sold this company to Curtiss-Wright in 1957 and returned to Germany to take up a position as professor of Technical Mechanics and Space Technology at the RWTH Aachen University. He continued to serve as technical advisor to several U.S. defense companies during this period. Wagner was awarded the Ludwig-Prandtl-Ring from the Deutsche Gesellschaft für Luft- und Raumfahrt (German Society for Aeronautics and Astronautics) for "outstanding contribution in the field of aerospace engineering" in 1980. He died aged 82 on 28 May 1982.
+
+
+== References ==
+
+
+== General references ==
+Bollinger, Martin J.  Warriors and Wizards: The Development and Defeat of Radio-Controlled Glide Bombs of the Third Reich.  Annapolis: Naval Institute Press, 2010.
+Knausenberger, George Emil and Wagner-Fiedler, Monica. Herbert Wagner. Monterey: Martin Hollmann, 2003.
+Knausenberger, George Emil (Ed). Herbert Wagner: Documents of His Work and Life. Bonn: Deutsche Gesellschaft für Luft- und Raumfahrt e.V., 1990.
+Lasby, Clarence G. Project Paperclip: German Scientists and the Cold War. New York: Atheneum, 1971.

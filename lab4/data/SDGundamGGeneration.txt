@@ -1,0 +1,80 @@
+SD Gundam G Generation is a series of strategy-RPG video games that focus on the Gundam anime franchise.
+
+
+== History ==
+The G Generation series technically began in 1996, when Bandai released a series of six games for Nintendo's Super Famicom console's Sufami Turbo add-on, each focusing on a particular era from the Gundam multiverse. A Generation focused on the One Year War, B Generation focused on the Gryps Conflict, and so forth up to F Generation, which covered the plot of G Gundam.  Instead of continuing the obvious progression and making a G Generation game themed about Gundam Wing, Bandai held on to the title. Since "G" was often used as an abbreviation for "Gundam", it was decided that G Generation would encompass a wider scope. When it was finally released in 1998 for the PlayStation, G Generation covered the plot for Mobile Suit Gundam through Char's Counterattack and featured characters from the remaining Universal Century series as well as G Gundam, Gundam Wing and Gundam X.
+
+
+== Series Features ==
+The G Generation's most distinctive feature is the fact that the machines are always depicted in a super deformed fashion. This may be to prevent problems with the different proportions used in various Gundam series, but a larger reason may be the fact that Sunrise has been known to charge a heavy licensing fee for full-sized versions of their mecha to appear in video games, a problem which also plagues the Super Robot Wars series of video games.
+The G Generation series tends to operate in one of two ways in regards to plot.  Most of the games released for home consoles faithfully recreate the plot of the series included, while most of the games for handheld systems feature a new storyline that combines elements of all the series' plots together while giving the characters new relationships. In addition to the familiar cast of Gundam characters, G Generation games often feature brand-new characters that represent the player's contributions to the game. Most of the time, the original characters have no plot impact on the game. However, the game Monoeye Gundams features a new group of characters with their own storyline that forms the overall plot of the game, supported by the events of the One Year War and the Gryps Conflict. G Generation DS follows this tradition by introducing a new character who ties into the stories of both Zeta Gundam and Monoeye Gundams.
+Most of the G Generation games feature brand-new mobile suits and armors designed exclusively for the game. All of the machines are given a backstory that ties them into the canon Gundam storyline, with most being incomplete or rejected prototypes. A vast majority of the original machines represent the Universal Century, but so far every universe except Cosmic Era has received at least one original machine.
+Unlike the popular Super Robot Wars series, G Generation does not limit characters to only piloting machines from their own universe. For example, Amuro Ray could be made to pilot XXXG-00W0 Wing Gundam Zero. However, some restrictions still exist. Some machines can only be piloted by characters who belong to certain categories. Other restrictions are plot-based.
+Like Super Robot Wars, G Generation allows the player to convince certain enemy characters to join his team. Most of the time, this is represented by being able to save sympathetic characters who were on the losing side of the conflict, such as Gundam 0080's Bernard Wiseman and Zeta Gundam's Four Murasame.  Other times, the games allow the player to convince characters who would likely never join the heroes.
+Most G Generation games allow the player to capture enemy machines and add them to his own roster. The console and some PSP G Generation games typically allow the player to capture enemy machines after their mothership is destroyed, while the other handheld games allow capture of damaged machines if they are surrounded by three or more player units.
+Featured only in the handheld G Generation games, ID Commands act in a similar fashion to spells in traditional role-playing games, but are based around a character's memorable lines from the Gundam series.
+Usually linked to ID Commands, the handheld G Generation games often feature Hyper Modes for characters from all series. Earned through unique circumstances and activated by special ID Commands, Hyper Modes typically represent the peak of a character's power while piloting the mobile suit his/her most famous mobile suit. Universal Century characters' Hyper Modes are typically a representation of their Newtype power reaching its peak, while the Alternate Universe series characters' Hyper Modes are usually linked to their Gundams' special systems. In console and some PSP G Generation games, such as G Generation Overworld, few unit like Gundam F91 will activate the Hyper Mode when pilot has max morale. While in pocket games, such as G Generation DS, will let a pilot activate the Mobile Suit's Hyper Mode when a certain SP is reached.
+
+Database - every game contains a large database that contain every character and unit that appeared in the game.
+
+
+== G Generation titles ==
+PlayStation
+
+SD Gundam G Generation (covers events of Mobile Suit Gundam through Char's Counterattack with characters and mecha from later series as bonuses)
+SD Gundam G Generation Zero (covers events of all Universal Century anime, plus one bonus scenario for G Gundam, Gundam Wing, and Gundam X.)
+SD Gundam G Generation-F (covers events of all Gundam anime through Gundam X as well as many manga and video game spinoffs such as Gundam Sentinel, Crossbone Gundam, and G-Unit/Last Outpost. Includes bonus scenarios for Turn A Gundam.)
+SD Gundam G Generation-F IF (expansion disc for G Generation-F which includes difficult bonus missions, a complete unit encyclopedia, and the ability to freely alter the player's cast of original characters.)PlayStation 2
+
+SD Gundam G Generation NEO (first 3D G Generation game, and first console G Generation to use a combined-universe storyline rather than presenting mostly faithful retellings of the original anime. Includes the Strike Gundam and Aegis Gundam from Gundam SEED as bonus units.)
+SD Gundam G Generation SEED (focuses primarily on Gundam SEED and Gundam SEED Astray, with units and from the Universal Century and the other four alternate universes as bonuses.)
+Mobile Suit Gundam SEED Destiny: Generation of C.E. (focuses on Gundam SEED, Astray, and Gundam SEED Destiny, but diverges from the latter's plot approximately halfway through. Though not officially a G Generation game, it uses the same engine as NEO and SEED, albeit with full-size, cel-shaded mecha instead of super-deformed ones.)
+SD Gundam G Generation Spirits (Focuses only on the UC timeline up to Victory Gundam, but features a stage referring to the Black History of Turn A Gundam (according to Turn A Gundam, the meta-timeline will be merged into Correct Century, which the history of each timeline are destroyed by Turn A Gundam. This Gundam itself is also available in full completion of the game, becoming the only non-UC mecha.). In this game, certain mobile suits and battleships will take up a different number of "tiles" compared to conventional units. Unlike the previous two PlayStation 2 G-Gen games, Spirits will no longer make use of the 3D combat and battle engine, instead reverting to the original PlayStation and PSP titles' system of battle. This game will also incorporate the "Haro points" system, which was first introduced in G Generation Portable.)
+SD Gundam G Generation Wars ((debuts Mobile Suit Gundam SEED C.E. 73: Stargazer and Mobile Suit Gundam 00.) Using same system from SD Gundam G Generation Spirits with add on "Wars Break" system. This is the largest scale game which includes more than 700 characters, 700 more mobile units, 30 more Gundam series and 50 more battle stages.)PlayStation 4
+
+SD Gundam G Generation Genesis (first to come in English language as part of its Asian release. Also on PS Vita.)
+SD Gundam G Generation Cross RaysPlayStation Portable
+
+SD Gundam G Generation Portable, (effectively an enhanced remake of G Generation-F, removing most of the manga and video game storylines in favor of adding complete storylines for Gundam SEED and Gundam SEED Destiny. Sidestory units and characters are still present as bonuses.)
+SD Gundam G Generation World (features some elements from G Generation Spirits and G Generation Wars, as well as some new elements. This includes the introduction of the Secret Levels that can be unlocked after 2 Wars Breaks, which means that a character in a large mobile suit/mobile armor appears. It covers many new Gundam franchises, like Mobile Suit Gundam Unicorn and Mobile Suit Gundam 00 the Movie: Awakening of the Trailblazer, as well as Mobile Suit Gundam 00 Second Season, allowing players to use the other 00 characters (such as Seravee Gundam, Cherudim Gundam, Arios Gundam) instead of just 00 Raiser. Some characters from SD Gundam Sangokuden Brave Battle Warriors are also included. It was released on February 24, 2011 in Japan.)
+SD Gundam G Generation Overworld (was released on September 27, 2012 in Japan.)PlayStation Vita
+
+SD Gundam G Generation Genesis (first to come in English language as part of its Asian release. Also on PS4.)PC
+
+SD Gundam G Generation DA - a typing game
+SD Gundam G Generation Cross Rays (First time to come to America )Bandai Wonderswan
+
+SD Gundam G Generation GATHER BEAT (first G Generation to utilize a crossover plotline. Also the first G Generation to use the three-man squad setup that would become standard for the handheld games.)Bandai Wonderswan Color
+
+SD Gundam G Generation GATHER BEAT 2
+SD Gundam G Generation MONOEYE GUNDAMS (first G Generation to include original characters with their own unique storyline. Also the first G Generation to include Gundam SEED in the form of an early conceptual design of the Strike Gundam, placed in the game as a hidden unit.)Game Boy Advance
+
+SD Gundam G Generation Advance (effectively an enhanced remake of GATHER BEAT, including units and characters from Gundam SEED.)Nintendo DS
+
+SD Gundam G Generation DS (considered by fans to be an enhanced remake of MONOEYE GUNDAMS, though it focuses on a new original character and storyline. Also the first G Generation to include combination attacks, as well as Gundam SEED Destiny characters and units.)
+SD Gundam G Generation Cross Drive (first true G Generation (excepting Generation of C.E.) to include Gundam SEED Astray.)Nintendo 3DS
+
+SD Gundam G Generation 3DNintendo Switch
+
+SD Gundam G Generation Genesis
+SD Gundam G Generation Cross RaysiOS
+
+SD Gundam G Generation TouchAndroid
+
+SD Gundam G Generation Mobile Next Universe (has 400 units and only installs correctly under android 2.2; you must have root permissions for it to work on newer versions of android.)
+SD Gundam G Generation Frontier (Closed)
+SD Gundam G Generation RE (latest game along with iPhone.)Wii
+
+SD Gundam G Generation Wars
+SD Gundam G Generation WorldiPhone
+
+SD Gundam G Generation Frontier (Closed)
+SD Gundam G Generation RE (latest game along with Android.)
+
+
+== References ==
+
+
+== External links ==
+Official site (in Japanese)
+GGOverWorld (in Japanese)

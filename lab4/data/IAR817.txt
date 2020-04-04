@@ -1,0 +1,35 @@
+The IAR-817 was a Romanian multipurpose aircraft built in the 1950s.
+
+
+== Design and construction ==
+In 1955, a prototype of a new utility aircraft, the IAR-817, was first flown at the URMV-3 works at Brașov. The URMV-3 works had been formed at the Sovromtractor tractor factory, itself on the site of the Industria Aeronautică Română aircraft works. It was a single-engine high-wing monoplane with a pod-and-boom type fuselage of welded steel tube construction and fabric-covered wooden wings. It had a fixed tricycle undercarriage. The aircraft was powered by a single 120 kW (160 hp) Walter Minor 6-III air-cooled six-cylinder inverted inline engine.An air-ambulance version of the IAR-817, the IAR-817S, entered production in 1957, with over 60 built. The type formed the basis of the IAR-818, built from 1961.
+
+
+== Specifications ==
+Data from Romanian Aeronautical Constructions 1905–1974General characteristics
+Crew: 1 or 2
+Capacity: 4-5
+Length: 9.8 m (32 ft 2 in)
+Wingspan: 12.6 m (41 ft 4 in)
+Height: 3.4 m (11 ft 2 in)
+Wing area: 25.4 m2 (273 sq ft)
+Empty weight: 800 kg (1,764 lb)
+Max takeoff weight: 1,150 kg (2,535 lb)
+Powerplant: 1 × Walter Minor 6-III 6-cylinder inverted air-cooled in-line piston engine, 120 kW (160 hp)
+Propellers: 2-bladed variable-pitch propellerPerformance
+
+Maximum speed: 175 km/h (109 mph, 94 kn)
+Cruise speed: 165 km/h (103 mph, 89 kn)
+Stall speed: 70 km/h (43 mph, 38 kn)
+Range: 560 km (350 mi, 300 nmi)
+Ferry range: 930 km (580 mi, 500 nmi)
+Service ceiling: 3,000 m (9,800 ft)
+Time to altitude: 1,000 m (3,300 ft) in 7 minutes 30 seconds
+Take-off run: 150–180 m (490–590 ft)
+Landing run: 60 m (200 ft)
+
+
+== References ==
+
+Vlad, Danut (March–April 1998). "Out of the Ashes: The Romanian Aviation Industry Since 1945". Air Enthusiast. No. 74. pp. 9–19. ISSN 0143-5450.
+Taylor, John W. R. (1965). Jane's All the World's Aircraft 1965–66. London: Sampson Low, Marston & Company, Ltd.

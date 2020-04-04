@@ -1,0 +1,9 @@
+In the United Kingdom, Shuttleworths are lists of people canvassed to be likely to vote for a particular political party in the PIG model of an electoral campaign. The idea is that once someone is determined to have voted, they are crossed off the list, thus maintaining an always up-to-date record of voters who have not yet been out to vote. They are usually printed on multi-sheet Carbonless copy paper so that successive updated copies for each street can progressively be torn off and given to party election workers as a list of doors to knock on.
+"Shuttleworth" is the proprietary Liberal Democrat name for the scheme. Now largely superseded by first EARS and then VAN software (named Connect in the UK) for the Liberal Democrats, MERLIN for the Conservative Party and Contact Creator for the Labour Party.
+They were known as Mikardo pads after Ian Mikardo in the Labour party and as Reading pads in the Conservative party - in both cases because of the original invention, using carbon paper during the 1945 General Election in the Reading constituency, won by Mikardo.
+
+
+== See also ==
+Get out the vote (GOTV)
+Telling
+Voter File

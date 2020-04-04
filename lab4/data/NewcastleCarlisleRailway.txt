@@ -1,0 +1,321 @@
+The Newcastle & Carlisle Railway (N&CR) was an English railway company formed in 1825 that built a line from Newcastle upon Tyne on Britain's east coast, to Carlisle, on the west coast. The railway began operating mineral trains in 1834 between Blaydon and Hexham, and passengers were carried for the first time the following year. The rest of the line opened in stages, completing a through route between Carlisle and Gateshead, south of the River Tyne in 1837. The directors repeatedly changed their intentions for the route at the eastern end of the line, but finally a line was opened from Scotswood to a Newcastle terminal in 1839. That line was extended twice, reaching Newcastle Central station in 1851.
+A branch line was built to reach lead mines around Alston, opening from Haltwhistle in 1852.
+For many years the line ran trains on the right-hand track on double line sections. In 1837 a station master on the line, Thomas Edmondson, introduced pre-printed numbered pasteboard tickets dated by a press, a huge advance on the former system of individual hand-written tickets; in time his system achieved near-universal adoption worldwide.
+The N&CR was absorbed by the larger North Eastern Railway in 1862. Today the Tyne Valley Line follows much of the former N&CR route between the two cities, but the Alston branch has closed.
+
+
+== History of the route and construction ==
+
+
+=== Before railways ===
+Carlisle was an important commercial centre, but as late as the eighteenth century transport was limited. It is situated on the River Eden at the head of the Solway Firth, but both those waterways suffered from shoaling and sandbanks, frustrating the potential for maritime traffic. A number of canal schemes had been put forward, but a route to navigable water was not simple, and led to plans for a canal to cross to the eastern seaboard: a Tyne - Solway Canal. William Chapman surveyed a scheme for the canal, and published details of a route in 1795.The scheme was controversial, but gained enough support to be presented to Parliament in the 1797 session, but met opposition there and was withdrawn.After 1815 ideas of a canal were revived, and a much shorter canal from Bowness to Carlisle was promoted. In 1819 it received Parliamentary authorisation, and it opened in 1823; Bowness was retitled Port Carlisle; the canal was large enough to carry small ships.
+
+
+=== First railway proposals ===
+In 1805 William Thomas developed a scheme for a horse-operated plateway (in which the rails are L-shaped, with plain wagon wheels running on the flat part of the rail) between Newcastle and Hexham. This came to nothing, but collieries in the Newcastle area were increasingly turning to ideas of railways and locomotives, and when William Chapman returned to consider linking Newcastle upon Tyne and Carlisle in 1824, it was appropriate to consider a railway as a possible alternative to a canal. He planned to use his earlier canal route for a railway, substituting rope-worked inclined planes for the flights of locks, and found that a railway would be considerably cheaper than the equivalent canal: £252,000 against £888,000. Horse traction was still incorporated into Chapman's railway plans.There were evidently doubts cast on the practicality of Chapman's railway scheme, for the promoters brought in Josias Jessop to give an opinion. He reported on 4 March 1825, stating that it would be appropriate to increase the construction estimate by £40,000 (later rounded to £300,000); the railway was still considerably cheaper than the canal alternative. Jessop also recommended a variation in the line of route.A provisional committee met on 26 March 1825 and unanimously recommended proceeding with the railway option, and about £20,000 in share subscriptions were taken that evening. A prospectus and public invitation to subscribe was published on 28 March The first meeting of the provisional Newcastle upon Tyne and Carlisle Rail-Road Company met on 9 April 1825; James Losh was elected chairman. A route was published on 12 November 1825. It ran from Carlisle to Newcastle quay, crossing over to the north side of the River Tyne at Scotswood and running on the north bank to Newcastle.
+Chapman reported again in June 1825; he disparaged the locomotives available at  the time:
+
+They are objectionable in various ways. In the first place, gentlemen through whose estates or near whose residences they pass, object to their appearance and the noise and smoke rising from them. Whilst new, and on level planes, they possess advantages in expedition; but by their quick motion and that degree of shaking which cannot be avoided, they in the end require so much and frequent repairs as to render their advantage dubious; exclusive of their being unfitted to receive and discharge the carriages that are wanted to be taken forward, and sent off aside in such places of the line as do not coincide with their stages or feeding places.
+
+
+=== A definite scheme ===
+Plans for the line were submitted for a Parliamentary Bill in the 1826 session, but before any hearing determined opposition was experienced from two landed proprietors on the route, as well as from George Howard, 6th Earl of Carlisle, who had extensive colliery interests near Brampton, and did not wish his near-monopoly to be disrupted. Moreover, George Stephenson, surveying an alternative route on the north side of the Tyne from Hexham eastwards, found serious errors in Chapman's route in the submitted plans; in addition, a number of bank failures had weakened confidence in the money market. Accordingly, the Directors decided to withdraw the Bill for the time being.
+The opportunity was taken to recast the route at the Carlisle end, chiefly to accommodate the Earl of Carlisle's demands. The originally designed line between Carlisle and Gilsland had followed the Irthing Valley, but the new scheme took it south of that route on to high ground, requiring more challenging engineering features. At this period the intention was to open the railway as a toll road, in which any carrier might operate vehicles on the line on payment of a toll. Moreover, there was still a significant risk of implacable opposition from the proprietors of country houses, and the Company voluntarily inserted a clause into the Parliamentary Bill restricting haulage to horse traction, and forbidding stationary steam engines near such houses.
+The main line at the eastern end was to cross the Tyne at Scotswood, then follow the north bank of the river closely and at a low level, to a termination at the Close, in Newcastle. There was to be a branch from Elswick Dean to a terminal at Thornton Street. Close, a mononymous road, still exists on the bank of the Tyne between Queen Elizabeth Bridge and High Level Bridge. Thornton Street street also still exists: a northward extension of Waterloo Street northwest of Central station; the location is at a high level and would have required a steep gradient (of about 1 in 50), worked by stationary engine and rope haulage.
+There were considerable difficulties in the Parliamentary process, particularly over levels, bridge clearances and construction, and resilience to flooding, but the Newcastle and Carlisle Railway Act  was passed on 22 May 1829, with authorised capital of £300,000. At the eastern end, the line was to be on the north bank of the Tyne near Scotswood bridge, with the Thornton Street branch in addition.
+
+
+=== Engineering the line ===
+
+
+==== Slow to start work ====
+In fact the supporters of the alternative route on the south of the Tyne, to Gateshead, continued their fight; the advantage of it was the comparative ease of reaching the section of the Tyne further east where sea-going ships could berth; mineral traffic from points on the line to shipping quays was a prime consideration, and a north-bank railway could not reach this location without extreme engineering difficulty. On 14 October 1829 a shareholder circularised the proprietors urging this view, and after all the Parliamentary argument over the route, the first Shareholder's Meeting on 16 October 1829 considered the matter yet again.
+The revised route at the Carlisle end of the line was now uncontroversial, although it involved prodigious engineering works, including several viaducts and large bridges, and a tunnel. It was not until 25 March 1830 that work started: the foundation stone of the Eden Viaduct was laid by Henry Howard. In fact, the central section of the route was considered to be the best to bring in some early revenue, and that is where the emphasis was placed.
+
+
+==== Cash flow problems ====
+There were serious difficulties in getting subscribers to pay their calls, and this made the Newcastle directors timid in issuing calls, exacerbating the cash flow problem. The situation became so difficult that a further Act of Parliament was sought, authorising additional loans; this was enacted on 23 June 1832. In late 1832 the problem was only overcome by obtaining a loan at 5% from the Public Works Loan Board. This involved conditions, including the cessation of paying dividends until trading income was being received and the giving of personal guarantees by the directors. (The dividends continued to be paid in the form of debentures, redeemable later, agilely side-stepping the Public Works Loan Board condition.)
+
+
+==== Gateshead instead of Newcastle ====
+The controversy over the route at the eastern end continued and on 10 September 1833 the Board decided to alter it so as to follow the south bank, to a terminus at Redheugh, at Askew's Quay, a little east of the location of the present King Edward VII bridge. By now the Stanhope and Tyne Railway was under construction; it was to run to Tyne Dock, some way downstream, and would get direct access to convey minerals to sea-going vessels, and the N&CR directors saw this as serious competition.
+A presence on the north shore was still required—there were many quays opposite Redheugh, as well as the commercial district at a higher level—but now the Scotswood crossing of the Tyne was brought into question, and the Board decided to substitute a crossing nearer the city, at Derwenthaugh. In addition, it was now urgently desired to extend to deeper water east of Gateshead and a separate company was founded with the encouragement of the N&CR, to build that line. The Blaydon, Gateshead and Hebburn Railway (BG&HR) obtained Parliamentary authority on 22 May 1834 to build a line from Blaydon to Gateshead, the Act also allowing the N&CR to build the line subject to conditions. The route was expected to require two rope-worked inclined planes, to climb from near Redheugh to the high ground of Gateshead, and then again to descend to the Tyne at Hebburn.Having brought about the inception of the BG&HR, the N&CR directors now considered whether to activate the option of building that line themselves, and on 21 August 1834 they decided to do so. This required a further Act of Parliament, which they secured on 17 June 1835; it authorised the building of the Redheugh line, and also a Tyne bridge there (instead of Derwenthaugh) to serve the north shore quays, although the Scotswood bridge was retained in the authorised works. Share capital was increased by £90,000 and a further Public Works Loan Board loan of £60,000 was included in the Act.The BG&HR protested against the N&CR adoption of the work by the N&CR, and by negotiation it was agreed that the BG&HR would build the line from Gateshead to the River Derwent (near Derwenthaugh) and the N&CR would build to the west. The BG&HR hesitated, and in May 1835 had just begun work as the Brandling brothers announced plans to build a railway from Gateshead to South Shields and Monkwearmouth. The Brandling Junction Railway was formed on 5 September, and it was agreed in the negotiations that followed that the N&CR would take over and extend the BG&HR from the Derwent through to Gateshead. The BG&HR had built less than two miles of its intended ten mile route and it made no more railway construction.
+
+
+==== Removal of Giles ====
+Giles encountered friction with the directors, especially the Newcastle group, which included members with considerable engineering expertise, who did not hesitate to give contradictory instructions directly to contractors without informing Giles. The difficulty increased at the end of 1832 when Giles failed to forecast costs of completion of the line consistently, or to explain the inconsistency, or to attend board meetings. On 28 May 1833 Giles was removed to the position of consulting engineer, and his assistant John Blackmore took over the supervision of the construction. The directors interfered to a considerable extent with the progress of the construction, and not always to beneficial effect.
+
+
+=== Locomotive traction ===
+
+When the line was being planned in 1825, it was decided to arrange it as a toll road, on which any independent carrier might run his vehicles on payment of the toll; and horse traction was intended. By May 1834 this was beginning to look antiquated as other railways, in particular the Stockton & Darlington Railway, had successfully taken the haulage of trains to itself and introduced steam locomotives. On 13 June, therefore, the Board of the N&CR decided to adopt the same arrangement and subsequently placed orders for two locomotives, of which one was to be built by R & W Hawthorn Ltd. and the other by Robert Stephenson & Co.. The first of these, an 0-4-0 locomotive named Comet was delivered in 1835, closely followed by 0-6-0 Rapid. The Company circularised landowners as this was specifically forbidden in the Company’s Act; the response was generally favourable or acquiescent, and the company undertook to use coke instead of coal to minimise any smoke nuisance.
+
+
+== Operation pre-1923 ==
+
+
+=== Opening of the first section of line ===
+The first section of line to be completed was from Hexham to Blaydon; this was to enable the lead produced at Hexham to be brought to a navigable section of the Tyne, as it was considered a lucrative traffic. Rail carriage was going to be considerably cheaper than the alternative, and the lead producers at Hexham had been stockpiling their product there in anticipation of the opening of the line. On 14 August 1834 an ad hoc arrangement was agreed with Joseph Ritson, the contractor for construction of that part of the line, to carry the lead over the unfinished line, using his temporary track and construction wagons, and horse haulage. This was started on 25 August 1834. (A request to operate a passenger coach on the same basis was declined.)
+The railway opened for passengers with considerable ceremony on 9 March 1835.With 600 tickets issued, the two recently acquired locomotives,  Comet and Rapid each hauled a trainload of three carriages, consisting of gentlemen's carriages mounted on trucks and wagons fitted with seats. The regular passenger service began on 10 March; there were four trains each way between Blaydon and Hexham every weekday, one each way on Sundays. Newcastle passengers were conveyed to and from Blaydon by omnibus, or by steam boat from Newcastle quay when the tide was favourable.One landowner, Charles Bacon Grey, was not satisfied with the adoption of locomotives, and he obtained an injunction preventing the Company from operating them. At the time the Company had a Bill in Parliament to authorise them, but in the meantime their use was unlawful, and they were obliged to cease operation, which they did from 28 March. Public support for the new railway had been immense, and Grey's action was unpopular. He withdrew his opposition and services resumed from 6 May 1835. The required Act authorising locomotive operation was passed on 17 June 1835.
+
+
+=== Early expansions ===
+
+
+==== The Brandling Junction Railway ====
+Robert William Brandling (usually known simply as William Brandling) was a wealthy coal owner, and he had obtained Parliamentary powers in a personal capacity on 7 June 1835 to acquire land for a railway. It became the Brandling Junction Railway, which was authorised on 7 June 1836, to run to a high-level terminus at Gateshead, and in the east to riverside quays at South Shields and Monkwearmouth. As part of the ending of the independent life of the Blaydon, Gateshead and Hebburn Railway, the Brandling Junction Railway took over certain powers in Gateshead and on toward Hebburn.
+
+
+==== The Great North of England Railway ====
+On 4 July 1836 the Great North of England obtained its authorising Act of Parliament, to build from Gateshead to Darlington; its clear intention was to extend to York, and by alliance with other contemplated lines, to form a trunk line northwards as well. The 1835 Newcastle and Carlisle Act authorised a low level Tyne crossing at Redheugh Hall. At only 20 feet above high water, it was designed to reach the riverside quays on the north bank, and to reach a Newcastle terminal at Spital (immediately north-west of the present-day Central station) an incline at 1 in 22 was envisaged, rope worked by stationary engine. The GNER planned to approach through Low Fell, that is on an alignment similar to the present main line from Durham, but at a lower level to reach the N&CR Redheugh bridge. As the scheme was developed, a connection with the Brandling Junction Railway, at a high level in Gateshead, altered the plan so as to cross the Tyne at a similarly high level; this was much better for a trunk line network, but adverse for the N&CR's wish to reach the riverside quays. In time the emphasis shifted from an N&CR bridge being made available to the GNER, to the GNER planning and building a bridge, and making it available to the N&CR.
+The N&CR had altered its original intention of building along the north bank to Newcastle. The Redheugh line along the south bank was almost complete, with the issue of the bridge to serve the north bank quays uncertain. Now it seemed that other interests were deflecting it from serving Newcastle properly, and after much deliberation the Board decided on 25 April 1837 to keep to the original Scotswood crossing of the Tyne and to build the Newcastle arm of its line.
+
+
+==== Further sections opened ====
+Extensions were opened at the eastern end of the line in June 1836, from Blaydon to Derwenthaugh (near the present-day Metro Centre) on 11 June and from Hexham to Haydon Bridge on 28 June 1836. A short section east from Derwenthaugh to the mouth of the River Team near Dunston was opened for goods traffic in September 1836. The line from Derwenthaugh to Redheugh, the Gateshead terminus, was fully opened on 1 March 1837. The N&CR operated a ferry to cross the Tyne to Newcastle, at 66 The Close, where they had a ferry pier.
+It had been intended to open the western end of the line at the same time as the first opening at Hexham, but trouble with the construction of a tunnel at Cowran badly delayed the works. So difficult did the ground prove that the tunnel was abandoned and a deep cutting substituted, at considerable additional expense. Eventually the western end was opened from Greenhead to the Carlisle station at London Road on 19 July 1836.The Earl of Carlisle's mineral traffic had already been running for a short time (since 13 July), his modernised line, the Brampton Railway, having been altered to join the N&CR at Milton (later Brampton Junction), and opened formally on 15 July 1836. His traffic had used horse traction, the horses riding in dandy carts downhill. The western destination at the canal basin was reduced to secondary importance, and was now described as the Canal Branch, to be opened later. Blenkinsopp Colliery was located a short distance east of Greenhead and that was given a rail connection concurrently.
+The Canal Branch saw its first traffic of grain on 25 February 1837, and it was formally opened on 9 March 1837. Its purpose was transshipment to and from the canal itself, and the terminal was for goods only;This left the gap in the middle of the route, between Haydon Bridge and Blenkinsopp (near Greenhead). It had been left until last because it was expected to be the least remunerative section of the route. For the time being goods were conveyed between Gateshead and Carlisle, being carted by road over the gap. The section was finally constructed, and on 15 June 1838 a train carried the directors in a trial run over the line between Newcastle and Carlisle. The anniversary of the Battle of Waterloo, 18 June, was chosen as the official opening day. Five trains left Carlisle from 6 am to arrive in Redheugh between 9:30 am and just after 10 am. The official passengers crossed the Tyne by boat and marched in procession through Newcastle to a breakfast at the Assembly Rooms. A procession of thirteen trains, led by "Rapid" acting as pilot, left for the return journey to Carlisle at 12:30 pm. While the trains were travelling between Ryton and Brampton rain fell and soaked most of the 3,500 passengers who were travelling in uncovered wagons. The last train arrived in Carlisle after 6:00 pm and there was "a disorderly stampede for refreshments". The Newcastle passengers now needed to return from Necastle: by 6:30 pm some had returned to their seats to wait in the uncovered wagons while the rain continued; the first train did not leave until nearly 10 pm, when a thunderstorm broke. On the return journey a collision between two trains at Milton held up the trains further, and the last train did not arrive back in Redheugh until 6 am.
+
+
+==== The first line complete ====
+The opening dates may be summarised thus:
+
+Carlisle Canal Basin to London Road station: 9 March 1837;
+Carlisle London Road to Greenhead: 19 July 1836; short mineral extension to Blenkinsopp the same day;
+Greenhead to Haydon Bridge: 18 June 1838;
+Haydon Bridge to Hexham: 28 June 1836;
+Hexham to Blaydon: 9 March 1835;
+Blaydon to Derwenthaugh: 11 June 1836;
+Derwenthaugh to Redheugh: 1 March 1837.The single-track sections on the line in 1840 were from Stocksfield to Hexham, and from Rose Hill to Milton; on the double track sections the N&CR practised right-hand running. Most stations did not have elevated platforms. The track was standard gauge, at first using fish-belly rails of 42 lbs per yard, although by 1837 heavier parallel rails at 47–50 lbs per yard were being installed. The rails were laid on stone blocks, and small coal, cinders and loam were used for ballast. The stations were without platforms, the carriages being lower than those on other railways and provided with footboards. The station at Milton had a stable, the branch line to Brampton being worked by a horse and a "dandy" coach.There were locomotive depots at Carlisle, Blaydon and Greenhead, the depot at Carlisle having space for eight locomotives, and there was room for four at Greenhead. There was a shed for two locomotives at Redheugh, as well as a repair shop for carriages. These early railway steam locomotives had no brakes, although some tenders were fitted with them, and there were no weatherboards, the driver and firemen wearing moleskin suits for protection. The N&CR experimented with sanding equipment to improve friction in 1838. The boilers ran at a pressure of 50 pounds per square inch (340 kPa) and the tenders carried eighteen sacks of coke, made at Derwenthaugh, Mineral trains ran at an average speed of 10 miles per hour (16 km/h), but locomotives such as "Wellington" hauling eight passenger carriages, reached 39.5 miles per hour (63.6 km/h) and in service. In 1837 "Eden" ran at 60 miles per hour (97 km/h) from Milton to Carlisle.The carriages were divided into three compartments, those for first class passengers painted yellow picked out in black and seated 18 passengers. The second class carriages were open to the sides and seated 22–24 passengers. On busy days passengers were carried in goods trucks fitted with seats.
+
+
+==== Early connections to other lines ====
+When the Redheugh terminus was opened, passengers could get access to central Newcastle by a N&CR ferry. The Brandling Junction Railway was under construction, rising by a steep incline (at 1 in 22) to cross Gateshead on viaduct and descend again to the Tyne on the east side of the town; it opened on 15 January 1839. At the time there was almost no building east of the present-day Gateshead Highway (A167) and an incline to the bank of the Tyne ran south to north through the site now occupied by the Sage.
+The Tanfield wagonway was connected into the N&CR Redheugh line near Dunston and minerals from that line then ascended the Brandling Junction incline, running over only a few hundred yards of the N&CR line.
+
+
+==== Blaydon to Newcastle ====
+The Directors had given personal guarantees to the Public Works Loan Board that the line would be completed to Newcastle, and with the authorised period for constructing the line soon to run out, a start was made. Yet again there was controversy over the route, a gently climbing route to the town centre was now favoured, although there were several alternative locations for the terminal, the climbing route had no Parliamentary authority for land acquisition. In addition, the riverside quays still needed to be served, and a 1 in 8½ descending rope-worked incline was proposed.
+Nonetheless the work progressed, with land being acquired in the still-rural area west of Newcastle. A demonstration run over the incomplete permanent way was arranged on 21 May 1839 to comply with the Public Works Loan Board requirement to open a railway to Newcastle, and goods traffic seems to have run from then onwards. The line from Blaydon to a temporary "Newcastle" terminus opened fully on 21 October 1839. The station was on the western edge of the built-up area, at the west end of what became Railway Street. From then the passenger trains were formed of Redheugh and Newcastle portions, running in one train west of Blaydon, and joined or separated there. Some sources refer to this station as "Railway Street" or "Shot Tower", but these were merely landmarks; the station was simply the "Newcastle" station of the N&CR.The intention was still to extend into the centre of Newcastle, but indecision continued over the location, a tunnelled route to the Spital being put forward, as well as a terminus near the Infirmary (west of Forth Banks). Considerable ground preparation works were undertaken over a large area at the Infirmary site, although the intended passenger terminal there was not built.
+
+
+==== Greenesfield station, Gateshead ====
+The Redheugh incline, climbing from the N&CR at the bank of the Tyne, to Gateshead, had been opened by the Brandling Junction Railway on 15 January 1839. At first this simply gave access to Tyne quays east of Gateshead High Street, but the Brandling Junction line was completing its network, in 1839 reaching Sunderland, so that the Redheugh incline became an important artery for mineral traffic to the deep water quays. At a gradient of 1 in 23, the incline was rope-worked by stationary steam engine.
+On 18 June 1844 the Newcastle and Darlington Junction Railway opened its line from the south, completing a railway connection from London to Tyneside. It constructed a fine terminal at Greene's Field, Gateshead; the terminal became known as Greenesfield. Newcastle and Carlisle Railway trains were diverted from Redheugh to Greenesfield, making connections there with the N&DJR. The portion working (by which trains from Carlisle divided at Blaydon, running in two portions to Newcastle and Gateshead) continued.
+For 30 months from this time the N&CR provided part of the through railway link between London and Carlisle, via Gateshead.
+
+
+==== Newcastle Central station ====
+
+In 1846 the N&CR obtained its fifth Act of Parliament, now authorising the final route to the joint terminal at Newcastle: Central station. George Hudson's railway was dominant in designing and building the station, although the N&CR was present as a junior partner. The route extended from the Infirmary area and much of the ground had been acquired in advance. The short route was opened for passenger trains from 1 March 1847, although a formal opening had taken place on 6 November 1846. The Newcastle terminal was the temporary Forth (or Forth Banks) station, located at the western extremity of the present-day Central station.The latter took some years to complete; the architect John Dobson designed it to a Doric classical style with a trainshed roof constructed of three 60 feet (18 m) wide bays. The station was opened by Queen Victoria on 29 August 1850, but at that time its only access was from the east end, and for the time being N&CR services continued to use the Forth station; they got access to the new Central station from 1 January 1851.The N&CR had dedicated passenger accommodation at the western end of the station. The booking hall and waiting rooms were in the main building block on the north side of the platforms, and as the N&CR still practised right-hand running at this time, the trains awaiting departure time were conveniently standing adjacent.
+
+
+==== The Alston branch ====
+There were lucrative lead ore deposits in the north Pennines around Alston and Nenthead. Transport to market was expensive and slow, and was significantly improved when the N&CR main line opened; the ore was railheaded from Haltwhistle. The directors had considered a branch railway to Alston and Nenthead from 1841 and a branch was authorised by Parliament on 26 August 1846,  capital £240,000. The line would have had an ascent of 1100 feet. However serious opposition from landed proprietors was experienced, and the route of the line was modified. A modified route was authorised on 13 July 1849; the final four miles to Nenthead was dropped, on the basis that Alston as a railhead was sufficient.
+In March 1851, the 4½ miles from Haltwhistle to Shaft Hill was opened for goods trains, followed by passenger operation from 19 July 1851. The upper end of the branch, from Alston to Lambley and the short Lambley Fell branch opened for goods trains on 1 January 1852, the Lambley Fell branch. The intermediate part of the line had to wait for the completion of Lambley Viaduct; on 17 November 1852 the viaduct was ready and the branch started full operation. There were two passenger trains each way every weekday; the primary purpose of the line was mineral traffic. A third passenger train was added from 1870.
+The lead industry in the area declined sharply from the 1870s, but coal and lime traffic continued, and formed the mainstay of the rather thin traffic on the line.
+The line climbed all the way from Haltwhistle, 405 feet above sea level, to Alston, 905 feet; the first section from Haltwhistle was at a gradient of 1 in 80, 70 and 100, and there was a section of 1 in 50 close to Alston.
+
+
+==== The Border Counties Railway ====
+On 31 July 1854 the first part of the Border Counties Railway was authorised by Parliament. It ran from a junction at Hexham with the N&CR, running north to mineral deposits. Further Acts authorised extension to make a junction with the Border Union Railway, better known later as the Waverley Route. The North British Railway were sponsors of the BUR and were hostile at first, but later saw the BCR as a useful adjunct; a junction was made at Riccarton in 1862. The NBR very much wished to get access to Newcastle independently of the York, Newcastle and Berwick Railway, and later its successor, the North Eastern Railway and saw this route as a means to that end. They negotiated an exchange of running powers; they got the facility from Hexham to Newcastle and the NER got running powers from Berwick to Edinburgh. This proved a catastrophic deal for the NBR, as the Hexham route was impossibly circuitous and difficult, whereas the NER now ran all east coast main line trains, passenger and goods, through to Edinburgh.
+
+
+==== The Allendale branch ====
+
+The Beaumont Lead Company was operating at Allendale, 12 miles east of Alston, and it too suffered heavy transport costs in conveying its output to the railway, at Haydon Bridge. Its manager was Thomas J Bewicke, raised the possibility of a branch line with the North Eastern Railway. The London Lead Company had a lead smelting plant at Langley, about two miles from Haydon Bridge, and it too was supportive of a branch line, which would inevitably serve their works. This attracted local support and the Hexham and Allendale Railway obtained its Parliamentary Act on 19 June 1865. The line was to leave the N&CR at a junction just west of Hexham and climb, mostly at 1 in 40, into the hills. The line opened on 19 August 1867 for mineral traffic as far as Langley, and on 13 January 1868 the entire line was opened for goods and mineral trains. Passengers had not been a priority, but passenger trains started operating on 1 March 1869.The local lead industry declined steeply in the 1870s and collapsed in the following decade. The line was never profitable and the company sold its line to the North Eastern Railway for 60% of its capitalisation, effective on 13 July 1876.
+
+
+=== Operating the line ===
+
+
+==== Edmondson's tickets ====
+
+Originally paper tickets were written out by hand in a time-consuming process. With such as system it was difficult to keep accurate records, and Thomas Edmondson, the station master at Milton, introduced a system of printed numbered pasteboard tickets that were dated by a press; the system was first used in 1837.
+
+
+==== Early train services ====
+In 1838 passenger travel on the line amounted to 3.1 million miles, rising to over 4 million miles the following year. In November 1840 there were five trains a day between Newcastle and Carlisle, and one train between Newcastle and Haydon Bridge. The mixed trains, which conveyed passengers and goods, stopped at every station and took ​3 1⁄2 hours, whereas the express trains stopped at selected stations and took 3 hours. The fare on the express trains was 2.164d per mile for first class and 1.672d per mile for second class; on the mixed trains this was reduced to 1.967d and 1.475d per mile respectively. The N&CR ran excursion trains in 1840, the first on specific services for visitors to a Polytechnic Exhibition that had opened in Newcastle, and also on Sunday 14 June, a special service was run for the employees of R & W Hawthorn with tickets sold at half price, with a certain number having been guaranteed. In 1847 there were six trains a day taking about ​3 1⁄4 hours, and two trains on Sundays; the Sunday trains were criticised by church leaders.At Carlisle part of the Maryport and Carlisle Railway opened in May 1843; this joined the N&CR near London Road, and worked in collaboration with the N&CR, forming a through route to a navigable part of the Solway Firth. The M&CR trains used the London Road station for its passenger trains.
+
+
+==== Line improvements and main line railways ====
+Until 1844, the line between Stocksfield and Hexham and between Rosehill and Milton was a single track but, in that year, the Directors doubled these portions of the railway in preparation for the increase of traffic anticipated from the opening of the Newcastle and Darlington Junction Railway, at the same time enlarging the Farnley Tunnel near Corbridge—a work accomplished without stopping the running of the trains except for a few days subsequent to 28 December 1844, when a portion of the old roof was damaged and the loose sand above it slid down and blocked the line.The Newcastle and Darlington Junction Railway was part of the group of companies managed by George Hudson, the Railway King. Hudson's clear intention was to get a through line to Edinburgh, and he made public plans to cross the Tyne from Gateshead, and to build a common station in Newcastle. Those ideas became the High Level Bridge and Newcastle Central station.
+
+In the years leading to 1844 controversy reigned over the route to be taken by a railway connecting Edinburgh and Glasgow with the English network. Numerous possibilities were urged, not all of them practicable. An east coast route from Newcastle through Berwick, and west coast routes from Carlisle seemed to be the most realistic due to the high ground of the Cheviot Hills and the Southern Uplands, but a route from Hexham through Bellingham and Melrose was put forward. This was welcomed by the N&CR as it would have brought traffic to their line. In the event the North British Railway was authorised in 1844 followed by the Caledonian Railway in 1845.At the west end of the line, a through route between London and Scotland was being formed too; the Lancaster and Carlisle Railway opened in December 1846 connecting ultimately to London, and the Caledonian Railway reached Carlisle from Edinburgh and Glasgow in February 1848. Those two railways formed a joint station in Carlisle, named "Citadel Station", but although the use of the station by the N&CR was obviously in the public interest, the owners demanded an excessively high price and the N&CR stayed outside throughout its independent existence.However the Glasgow and South Western Railway had managed to obtain entry to Citadel station, and omnibuses were provided to carry through passengers between London Road and Citadel stations; the through tickets included the omnibus connection between the stations.
+
+
+==== Takeover bids ====
+As the idea of a railway network developed, so did the wish to form larger companies by merger. The Newcastle & Carlisle was approached with an offer to lease by the Caledonian Railway in March 1848, and the company received another offer soon afterwards from Hudson's York, Newcastle & Berwick Railway (YN&BR). The Caledonian offered 6% dividend in perpetuity and all profits of up to 8%, and the YN&BR offered 6% for 3 years, and 7% thereafter. On 25 April 1848 the N&CR directors considered the offers but thought they were not lucrative enough. The N&CR shareholders met on 31 May 1848 and contrary to the view of the directors voted that the YN&BR offer be accepted. The resulting agreement was effective from 1 August 1848, and the YN&BR leased the Maryport and Carlisle line too, intending to operate them as a single entity.
+In fact serious revelations about George Hudson's shady business methods emerged at this time, and the findings of the resulting committees of enquiry among his many companies were so damaging that he was unable to continue in his leadership role. The lease by the YN&BR required an Act of Parliament to authorise it, and it became impossible to sustain the proposal. The Act failed, and the N&CR reverted to independence from 1 January 1850.
+
+
+==== New track ====
+The original line had been laid with short rails on stone blocks, and these soon proved inadequate for modern railway operation with locomotives. In the early 1850s, the N&CR set about improving its line and rolling stock. In 1850-1 the 31 miles between Blenkinsopp and Ryton was relaid and by 1853 all the original rails had been replaced. The joints were now fished for the first time. By March 1853 the electric telegraph was in full operation on the line.
+
+
+==== Conversion to coal ====
+When locomotive traction had been introduced, the N&CR undertook to use coke as a fuel as it was supposed to be nearly smokeless. As the volume of train movements on the line increased, the expenditure on coke climbed considerably, and in 1858 some locomotives used coal instead, even though the company’s Derwenthaugh coke ovens had been expanded in 1852. The use of coal so reduced costs of fuel that by 1862 it was virtually complete on the line.
+
+
+=== Accidents and incidents ===
+On 1 May 1844, the boiler of locomotive Adelaide exploded at Carlisle, Cumberland, injuring two people.
+In 1844 or 1845, a train collided with a cow at Ryton, County Durham and was derailed, killing the driver.
+On 28 January 1845, the boiler of locomotive Venus exploded whilst it was hauling a freight train.
+
+
+== Amalgamation with the North Eastern Railway ==
+The North Eastern Railway (NER) was created on 31 July 1854 by the merger of the YN&BR with the York and North Midland Railway and the Leeds Northern Railway. Agreement to merge the NER and the N&CR was reached in January 1859, approved by the NER board on 18 February 1859. However two shareholders obtained a Court of Chancery judgment in July 1859 that the agreement had exceeded the companies' powers, and they resumed independent, although collaborative, operation. An application to Parliament in 1860 to amalgamate also failed when the North British Railway opposed the bill.However negotiations continued and amalgamation was agreed upon, and this time ratified by Parliamentary Act of 17 July 1862. The NER managed to negotiate access to the Citadel station at Carlisle at the same time.Throughout its twenty-seven year history the N&CR paid dividends between 4 and 6 per cent.
+
+
+=== North Eastern Railway ===
+
+The 1862 Act also gave the NBR running rights over the N&CR between Hexham and Newcastle, the NER gaining reciprocal rights over the NBR between Berwick-upon-Tweed and Edinburgh. Initially the NBR ran four trains a day between Newcastle and Hawick via Border Counties Junction at Hexham, although by 1904 this had been reduced to three trains a day. The N&CR station in Carlisle was almost a mile away from city centre and inconvenient for passengers. The joint Lancaster and Carlisle Railway and Caledonian Railway station in the centre of the city, Carlisle Citadel, had opened in 1847 and the 1862 Act made the NER a tenant. Passenger services began to terminate at the Citadel station on 1 January 1863.In the summer of 1863 the work of changing from right-hand running to the British convention of left-hand running was undertaken. The estimated cost was £4,000 and it was done in stages.The bridge over the Tyne at Scotswood was replaced by the current girder bridge in 1868 after the original wooden one was destroyed by fire in 1860.
+
+
+==== The Consett line ====
+The considerable development of ironmaking at Consett resulted in an expansion of the former wagonway routes serving the area, and in 1867 the North Eastern Railway built a new line from Consett to join the former Newcastle and Carlisle route in a triangular junction near Blaydon. Iron extraction in the surrounding hills had been handled by the Brandling Junction Railway, which joined the N&CR line near Redheugh. This former waggonway was successively upgraded and after absorption by the North Eastern Railway was further modernised.
+
+
+==== The Scotswood, Newburn and Wylam Railway ====
+In the early days of planning the route of the Newcastle and Carlisle Railway, opinion had been voiced in favour of running on the north bank of the Tyne west of Lemington and Newburn. There were extensive coal deposits there, as well as other industries, not served by railways, and in 1866 a railway was promoted, This came to nothing but in 1870 another line was projected, which included a dock at Scotswood enabling the shipping of minerals from the area. This scheme became the "Scotswood, Newburn & Wylam Railway & Dock Company", which obtained an authorising Act of Parliament on 16 June 1871. It left the line from Carlisle to the west of Wylam and crossed the Tyne there, running east on the north bank and rejoining the N&CR at Scotswood; the capital was £85,000.
+Serious difficulties with poor ground were encountered at Scotswood and a tunnel was substituted for the cutting there; the tunnel collapsed during construction in September 1874. The Wylam bridge was much delayed too, so that the majority of the line was ready but it was cut off at both ends. Eventually, on 12 July 1875 the line opened from Scotswood to Newburn; there was a separate station (from the N&CR station) at Scotswood. The line was worked by the North Eastern Railway, with three passenger trains each way every weekday. The SN&WR had now expended all its capital resources and the idea of a Scotswood Dock was abandoned, and the line was simply a branch of the NER.
+The NER agreed arrangements for the Wylam bridge with the SN&WR, and on 13 May 1876 the Newburn to Wylam village section was opened, with a station in Wylam itself, known as North Wylam. The NER now extended the passenger service to North Wylam.
+On 6 October 1876 the bridge at West Wylam, connecting westwards towards Hexham, was opened. Only goods and mineral trains, and occasional special passenger trains, used the bridge; the ordinary passenger service was not extended across it.
+The short line was useful to the NER but the value of its independence to its own shareholders was limited, and thoughts soon turned to sale to the NER; this was brought about and confirmed by Act of 29 June 1883.
+
+
+==== Brampton branch ====
+Brampton itself was served by a horse-drawn coach on the Earl of Carlisle's Railway from 1836, making a connection at Milton with the N&CR. In 1881 the branch passenger service was converted to locomotive operation, but this was discontinued in 1890 after conditions were imposed by the Board of Trade inspectorate. The North Eastern Railway took over the branch in October 1912 and upgraded the track. A passenger service was provided from 1 August 1913; it was suspended from 1917 until 1 March 1920, but it closed finally on 29 October 1923.
+
+
+==== Connecting the Team Valley line ====
+Although the earliest connections from the south to Gateshead and Newcastle took an easterly course, a more direct southward route was established in 1893: the Team Valley route. This ran from Gateshead through Low Fell and Birtley direct to Durham. The course of the Consett branch and the former Brandling Junction line from Tanfield had encouraged considerable industrial development near their junctions with the Redheugh line, and in time the volume of heavy and slow mineral traffic led to serious congestion. In 1893 a direct route from Dunston Junction, east of Derwenthaugh, towards Low Fell was opened by the NER, enabling that traffic to turn south directly. In 1904 a duplicate east-west route was built near Derwenthaugh, a little further from the River Tyne; the present day Metro Centre station is on that new route. In 1908 further enhancements were opened with a shortening of the route towards Low Fell through Dunston; the present Dunston station is on that line. In addition there was a new direct route from that line into the junctions at the south end of the new King Edward VII Bridge, giving easier access to Gateshead and towards South Shields, and to Newcastle Central station. This direct route is used by Carlisle to Newcastle passenger trains today.
+
+
+=== After 1923 ===
+As a result of the Railways Act 1921, the North Eastern Railway became a constituent of the London and North Eastern Railway (LNER) on 1 January 1923. Britain's railways were nationalised on 1 January 1948 and the former Newcastle and Carlisle Railway lines were placed under the control of British Railways.
+The passenger service on the Allendale branch had been withdrawn on 22 September 1930 and the line was closed in November 1950. The passenger service from Hexham to the north over the former Border Counties Railway was withdrawn in 1956, and several stations were closed in the 1950s. Diesel Multiple Units began to replace trains hauled by steam locomotives from 1955. In 1963 Dr Beeching published his report "The Reshaping of British Railways", which recommended closing the network's least used stations and lines. The Alston branch was already being considered for closure, and to this was added the local services from Newcastle to Hexham and Haltwhistle. In 1966 British Railways proposed that North Wylam station remain open and that September suspended services over the line south of the Tyne for engineering works, but this arrangement was withdrawn, and services resumed in May 1967. The following year British Railways closed the North Wylam line north of the Tyne, and passenger traffic was withdrawn on 11 March 1968. The branch line to Alston closed in 1976.The railway was diverted to avoid Farnley Scar Tunnel in 1962; the tunnel portals remain and both are listed monuments.In October 1982, the connection from Newcastle to the N&CR line was diverted to use the NER line through Dunston before rejoining the former N&CR Redheugh branch at Derwenthaugh crossing the King Edward VII Bridge. The Scotswood bridge and the line to it was closed to all traffic from 4 October that year.  Part of the northern side of the line towards Central remained in use to serve a cement terminal at Elswick until 1986.
+
+
+=== The line today ===
+
+Today the Tyne Valley Line follows much of the former N&CR route between the two cities. The line is double track with fourteen intermediate stations; it is not electrified. The train service is provided by Northern and Abellio ScotRail. There are (2015) typically hourly trains between Carlisle and Newcastle, additional hourly trains between Hexham and Newcastle. In addition there are local service between MetroCentre and Newcastle. Line speeds are predominantly 60–65 miles per hour (97–105 km/h) and trains typically take between 83 and 92 minutes to travel from Carlisle to Newcastle. The line links the East Coast and West Coast Main Lines, and is used by diverted long distance trains when these lines are blocked to the north.
+
+
+== Topography ==
+Locations on the line were:
+Main line
+
+Carlisle Canal; possibly never officially a passenger station;
+Carlisle London Road; opened 19 July 1836; closed 1 January 1863 when trains diverted to Citadel;
+Scotby; opened 19 July 1836; closed 2 November 1959;
+Wetheral; opened 19 July 1836; closed 2 January 1967; reopened 5 October 1981; still open;
+Heads Nook; opened by September 1862; closed 2 January 1967;
+How Mill; opened 19 July 1836; closed 5 January 1959;
+Brampton Fell; opened 19 July 1836; closure date unknown;
+Milton; junction for Brampton Town branch; opened 19 July 1836; renamed Brampton 1870; intermittently to 1971 was Brampton Junction; still open;
+Naworth; open in 1839; closed 5 May 1952;
+Low Row; opened 19 July 1836; closed 5 January 1959;
+Rose Hill; opened 19 July 1836; renamed Gilsland 1869; closed 2 January 1967;
+Greenhead; opened 19 July 1836; closed 2 January 1967;
+Blenkinsopp Colliery;
+Haltwhistle; opened 18 June 1838; still open;
+Bardon Mill; op 18 June 1838; still open;
+Haydon Bridge; opened 28 June 1836; still open;
+Allerwash; opened 28 June 1836; closed early January 1837;
+Fourstones; opened early January 1837; closed 2 January 1967;
+Warden; opened 28 June 1836; closed early January 1837;
+(Border Counties Junction)
+Hexham; opened 10 March 1835; still open;
+Corbridge; open 10 March 1835; still open;
+Farnley Scar Tunnel; line diverted to by-pass the tunnel in 1962;
+Riding Mill; line opened 10 March 1835; still open;
+Stocksfield; line opened 10 March 1835; still open;
+Mickley; open 1859 closed 1915
+Prudhoe; open 10 March 1835; still open;
+West Wylam Junction; facing junction to Newburn line, 1876 to 1968;
+Wylam; line open 10 March 1835; closed 3 September 1966 for engineering works; reopened 1 May 1967; still open;
+Ryton; opened 10 March 1835; closed 5 July 1954;
+Blaydon; opened 10 March 1835; ; closed 3 September 1966 for engineering works; reopened 1 May 1967; still open;
+Blaydon East Junction; facing junction to Redheugh;
+Consett Branch Junction; facing junction to Consett, 1867 to 1963;
+Scotswood Bridge Junction; trailing junction from Consett, 1867 to 1963;
+Scotswood; opened 21 October 1839; closed 1 May 1967; trailing junction from Newburn, 1875 to 1986;
+Elswick; opened 2 September 1889; closed 2 January 1967;
+Newcastle Shot Tower; inaugural trip on 21 May 1839, but opened fully 21 October 1839; closed almost immediately due to landslip; reopened 2 November 1839; closed on extension to Forth 1 March 1847;
+Forth; opened 1 March 1847; closed 1 January 1851 when trains diverted to Newcastle Central station;
+Newcastle Central.Redheugh Branch
+
+Blaydon East Junction'; (above);
+Blaydon Loop Junction; trailing junction from Scotswood, 1897 to 1966;
+Blaydon Curve Junction; trailing junction from Consett, 1908 to 1963;
+Derwenthaugh; opened 1 March 1837; closed 30 August 1850; sporadic use from November 1852 until February 1868 by service from Redheugh to Swalwell Colliery;
+Derwenthaugh Junction; trailing junction from Swalwell Colliery 1847 to 1989; trailing junction to Dunston from 1904;
+Dunston Junction; trailing junction from Whickham Junction from 1908; facing junction to Low Fell from 1908;
+Dunston East Junction;
+Redheugh; opened 1 March 1837; closed 30 August 1850; reopened for Swalwell Colliery service November 1852, closed May 1853.Alston branch
+The line opened on 21 May 1852 except for the connection across a viaduct into Haltwhistle; it opened throughout on 17 November 1852; it closed on 3 May 1976.
+
+Alston;
+Slaggyford;
+Lambley;
+Coanwood:opened 19 July 1851
+Featherstone; opened 19 July 1851 renamed Featherstone Park 1902;
+Haltwhistle (above).Scotswood, Newburn and Wylam Railway
+
+West Wylam Junction; above;
+North Wylam; opened 13 May 1876 terminus; closed 11 March 1968;
+Heddon-on-the-Wall; opened by July 1881; closed 15 September 1958; (Whittle says opened 15 May 1881 but that was a Sunday);
+Newburn; opened 12 July 1875; closed 15 September 1958;
+Lemington; opened 12 July 1875; closed 15 September 1958;
+Scotswood; above.Brampton Town branch
+
+Brampton Town; opened formally on 13 July 1836; a miners' service started soon afterwards by the mine owner; it was horse drawn from the junction to coal depots, though on the day of the annual Brampton agricultural show; the trains used steam engines off coal trains and borrowed coaches from the North Eastern Railway; a regular service from a proper station at Brampton began 4 July 1881; there was poor support, and it closed on 1 May 1890; reopened by NER 1 August 1913; closed 1 March 1917; reopened 1 March 1920; closed 29 October 1923.Swalwell Colliery Branch
+Derwenthaugh Junction;
+Swalwell Colliery; opened to passenger trains November 1852; closed December 1853.
+
+
+== Structures ==
+The Newcastle and Carlisle Railway built a considerable number of fine structures, many of them especially ambitious for the early date of construction.
+Many of them are on the Statutory List of Buildings of Special Architectural or Historic Interest. The Wetheral Viaduct known locally as Corby Bridge, and crossing the River Eden is listed Grade I; it consists of five semi-circular stone arches of 80 feet span.The Gelt Bridge, is a skew bridge of three 30-foot (9 m) elliptical arch spans. It is listed Grade II*.The Lambley Viaduct on the closed Alston branch is also Grade II* listed; there are nine principal spans of 58 feet span.The buildings at Wylam station are also Grade II* listed.
+
+
+== South Tynedale Railway (heritage services) ==
+The South Tynedale Railway operates seasonal services on a 3 1⁄2 miles (5.6 km) narrow gauge railway laid on the former Alston branch track bed between Alston and Lintley.
+
+
+== See also ==
+Carlisle railway history
+
+
+== Notes ==
+
+
+== References ==
+
+
+== Sources ==
+Allen, Cecil J. (1974) [1964]. The North Eastern Railway. Ian Allan. ISBN 0-7110-0495-1.
+Beeching, Richard (1963). "The Reshaping of British Railways" (PDF). HMSO. Retrieved 22 June 2013. See also Beeching, Richard (1963). "The Reshaping of British Railways (maps)" (PDF). HMSO. map 9. Retrieved 22 June 2013.
+Cobb, Colonel M.H. (2006). The Railways of Great Britain: A Historical Atlas. Ian Allan. ISBN 978-07110-3236-1.
+Hall, Stanley (1990). The Railway Detectives. London: Ian Allan. ISBN 0-7110-1929-0.
+Hedges, Martin, ed. (1981). 150 years of British Railways. Hamyln. ISBN 0-600-37655-9.
+Hewison, Christian H. (1983). Locomotive Boiler Explosions. Newton Abbot: David & Charles. ISBN 0-7153-8305-1.
+Hoole, K. (1974). A Regional History of the Railways of Great Britain: Volume IV The North East. David & Charles. ISBN 0715364391.
+Hoole, K. (1986). Rail Centres: Newcastle. Ian Allan. ISBN 978-0-7110-1592-0.
+Robinson, Peter W. (1986). Rail Centres: Carlisle. Ian Allan. ISBN 0-7110-1429-9.
+Tomlinson, William Weaver (1915). The North Eastern Railway: Its rise and development. Andrew Reid and Company.
+Whishaw, Francis (1842). The Railways of Great Britain and Ireland Practically Described and Illustrated (2nd ed.). London: John Weale. OCLC 833076248.
+Route Specifications – London North Eastern. Network Rail. 2012. Retrieved 28 September 2013.
+
+
+== Further reading ==
+James Russell, The Newcastle and Carlisle Railway, in the Railway Magazine, March 1900, gives a full list of original locomotives of the company.
+Blackmore, John (January 1837). Views on the Newcastle and Carlisle railway. Newcastle on Tyne.
+Giles, Francis (Civil Engineer) (1830). Second report on the line of railway from Newcastle to Carlisle.
+Rennison, R.W. (14 March 2001). "The Newcastle and Carlisle Railway and its Engineers" (PDF). Trans. Newcomen Soc. (2000–2001 ed.). 72: 203–233. Archived from the original (PDF) on 24 September 2015.
+
+
+== External links ==
+Newcastle and Carlisle Railway at Railscot
+Newcastle & Carlisle Railway at the Cambrian Railways Association
