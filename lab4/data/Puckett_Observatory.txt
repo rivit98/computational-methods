@@ -1,0 +1,88 @@
+Puckett Observatory is a private astronomical observatory located in the state of Georgia. It is owned and operated by Tim Puckett. Its primary observation goals are the study of comets and the discovery of supernovae. To facilitate the latter goal it sponsors the Puckett Observatory World Supernova Search whose astronomers have discovered 369 supernovae.
+
+
+== Telescopes ==
+The Puckett Observatory houses two telescopes. The 60 cm (24") Ritchey–Chrétien telescope was custom engineered and built by Puckett, and took nine years to complete, going online full-time in 1997. The telescope features a new type of hybrid disk/band worm drive designed by Puckett in 1993. It is one of the largest telescopes in the state.The other observatory telescope includes a Celestron C-14 Schmidt–Cassegrain with a Software Bisque's Paramount ME Robotic Telescope System.
+
+
+== World Supernova Search ==
+The Puckett Observatory World Supernova Search was formed in 1998, with its principal investigator being Tim Puckett. The search consists of a team of amateur astronomers located in the United States, Canada, India, Greece and Italy. Observatories participating in the search include the Puckett Observatory, and telescopes located in Portal, Arizona (Jack Newton), and Osoyoos, BC (Ajai Sehgal).
+The observatory uses computers to control the robotic telescopes and sends the images to volunteers via the Internet. Each image is manually compared ("blinked") to archive images. At least 40 hours each week are required to run the search operation. Team members have contributed thousands of hours to analyzing the data.
+
+
+== Notable discoveries ==
+An HST Search for the Progenitor of the Type Ib Supernova 2010O in NGC 3690/Arp 299: Authors Bond, Puckett, et. al. See also: Amateur, NOAO, HST, and Chandra Observers Team Up to Search for Supernova Progenitor
+Type Iax Supernovae:A New Class of Stellar Explosion. This new class currently has 25 members, are spectroscopically similar to SNe Ia, but have lower maximum-light velocities, and most have hot photospheres. Relative to SNe Ia, SNe Iax have low luminosities for their light-curve shape. The Puckett Observatory Supernova Search has discovered 7 of them: 2008ha, 2008ae, 2007J, 2006hn, 2005cc, 2003gq, 2002bp.
+The POSS search team made a rare discovery of two supernovae in one galaxy.
+Possible quasar in Bootes. - Variable Object in Bootes
+Cataclysmic Nova in Hercules - CBET 226
+SN 2005bc
+SN 2005gl
+SN 2008ha
+CBET 1966 : 20091011 : VARIABLE STAR IN PEGASUS
+SN 2002bj Supernova fits into new class
+SN 2012A Announcement in Sky and Telescope
+SN 2012A Astronomy Picture of the Day
+SN 2012A Puckett Scores, AAVSO Gets Assist
+Minor planet: 1999 JR137
+
+
+== Tim Puckett ==
+Timothy David Puckett was born in 1962 in Atlanta, Georgia, USA, and is an amateur astronomer and astrophotographer with over 30 years experience. Experienced in the field of amateur CCD (digital) astro-imaging, Puckett has operated numerous CCD cameras since 1989. He has built several robotic telescopes and is currently operating an automated supernova search patrol and comet astrometry program which uses 60-cm and 35-cm telescopes.Puckett's photos of comets and deep-sky objects have been published in books and magazines in several countries, including Great Britain, Japan, Italy, Germany, Australia and South Africa. His work has also been featured on ABC, NBC, CBS, FOX, CNN, BBC, The Discovery and Learning Channels and Good Morning America. Puckett is a robotic-telescope consultant for professional observatories.
+In recognition of Puckett's contributions to the field of astronomy, asteroid 32096 Puckett, discovered Orange County Astronomers (OAC) Michael Collins and Minor White at the OCA-Anza Observatory (643) in 2000, was named in his honor. The official naming citation was submitted by Michael Peoples and published by the Minor Planet Center on November 9, 2003 (M.P.C. 50252).Puckett was the recipient of the American Astronomical Society's 2011 Chambliss Amateur Achievement Award. This award is presented for an achievement in astronomical research made by an amateur astronomer. The award citation reads: "To Tim Puckett for his Puckett Observatory World Supernova Search program that has discovered more than 200 supernovae".
+
+
+== See also ==
+History of supernova observation
+List of astronomical observatories
+
+
+== Bibliography ==
+
+
+=== About Puckett and published images ===
+Zimmerman, Robert. The Great Supernova Race. Sky and Telescope, October 2013, pp. 16–21.
+Ferris, Timothy. Seeing in the Dark. New York: Simon and Schuster, 2002. pp. 280–81, 339n
+Hale, Alan. Everybody's Comet: A Layman's Guide to Comet Hale-Bopp.  Silver City: High-Lonesome Books, 1996. p. 72
+Mobberley, Martin. The New Amateur Astronomer.  London: Springer-Verlag, 2004. pp. 155, 156, 164.
+Pasachoff, Jay M. Stars and Planets, Peterson Fields Guides. New York: Houghton Mifflin Company, 2000.
+Ratledge, David. Software and Data for Practical Astronomers: The Best of the Internet. London: Springer-Verlag, 1999. pp. 51–52.
+Sagan, Carl, and Ann Druyan. Comet. New York: Ballantine Books, 1997. p. 178.
+Zimmerman, Robert. "Become a Super Amateur." Sky and Telescope, October 2009, 32-37.
+AstroGuide 1997 (Japan).  AstroArts, Inc. Puckett Comet Images
+Coelum: Mensile di Astronomia Scienza e Telescopi. April 1998. p. 89
+Dürer's Saint Jerome (Video). London: The National Gallery, 1996. Puckett Comet Images.
+NASA Astronomy Picture of the Day: Moon over Andromeda (1 August 2013)
+NASA Astronomy Picture of the Day: Rosette Nebula (14 February 2008)
+NASA Astronomy Picture of the Day: Cone Nebula (12 April 2007)
+NASA Astronomy Picture of the Day: Moon over Andromeda (28 December 2006)
+NASA Astronomy Picture of the Day: Comet Tempel-Tuttle (16 November 2002)
+NASA Astronomy Picture of the Day: Comet Hale-Bopp (8 May 1997)
+Astronomy Outreach Network
+CNN
+Sky and Telescope:100th Supernova
+Space Today Online
+New York Times
+NASA Stardust Mission
+Space Daily Comet 73 P Schwassmann-Wachmann Image
+CNN
+NASA Deep Impact
+Sky and Telescope
+San Francisco Chronicle 11/06/09
+Tim Puckett's Award Winning Ambition (AAS Chambliss Award)
+AAS Honors Distinguished Astronomers with 2012 Prizes
+
+
+=== By Puckett ===
+Ratledge, David, ed. "The CometWatch Program." The Art and Science of CCD Astronomy. London: Springer-Verlag, 1997. pp. 61–71
+
+
+== References ==
+
+
+== External links ==
+Puckett Observatory
+Puckett Observatory Supernova Discoveries
+CBAT list of all supernova discoveries
+AstronomyOnline
+About (32096) Puckett, Michael Peoples, a co-investigator in Tim Puckett’s volunteer supernova team

@@ -1,0 +1,163 @@
+Michał Gryziński (29 September 1930 - 1 June 2004) was a Polish nuclear physicist, plasma physics specialist and the founder of the free-fall atomic model, an alternative theoretical formulation, a classical approximation asking for trajectories of electron averaging to probability densities described by quantum mechanics.
+
+
+== History ==
+Michał Gryziński was working in a hot plasma group of the Polish Academy of Sciences on an approach to nuclear fusion which has later evolved to what is currently known as dense plasma focus. His experimental and theoretical consideration have led him 1957 to the "Stopping Power of a Medium for Heavy, Charged Particles" Phys. Rev. article emphasizing the importance of the orbital motion of electrons of a medium for stopping of slow charged particles. This work has received great interest and has led him to a series of articles about the problem of scattering with classical approximation of dynamics of the electrons, his 1965 articles have received a total of more than 2000 citations.
+This classical approximation of the dynamics of electrons in atoms has led him to the free-fall atomic model to improve agreement with scattering experiments comparing to the popular Bohr approximation as circular orbits for electrons. This dominant radial dynamics of electrons makes the atom effectively a pulsating electric multipole (dipole, quadrupole), what allowed him to propose an explanation for the Ramsauer effect (1970) and improve agreement for modeling of low energy scattering (1975). His later articles try to expand these classical approximations to multielectron atoms and molecules.
+
+
+== Free-fall atomic model ==
+In the Bohr model electrons are imagined as traveling in circular orbits, which explains the quantized energy levels but leads to several other disagreements with experimental results. For example, in the observed electron capture process the nucleus captures an electron from an orbital, what needs this electron to get to a distance of the range of nuclear forces (femtometers), which is many orders of magnitude smaller than in Bohr model. Another fundamental disagreement for the circulating electron is the created magnetic field not observed for hydrogen. In contrast, the angular momentum of the electron in quantum ground state of hydrogen is zero.
+Gryzinski presents many other arguments, especially for agreement with various scattering scenarios, to focus on nearly zero angular momentum trajectories: with electrons traveling through nearly radial trajectories. Attracted by the Coulomb field they free-fall to the nucleus, then increase the distance up to some turning point and so on.
+The free-fall atomic model focuses on Kepler-like orbits for very low angular momentum. They are not exactly ellipses due to adding the magnetic dipole moment of the electron (electron magnetic moment) into considerations, which results in a Lorentz force proportional to 
+  
+    
+      
+        v
+        
+          /
+        
+        
+          r
+          
+            3
+          
+        
+      
+    
+    {\displaystyle v/r^{3}}
+   and perpendicular to the velocity and spin of the electron. This spin-orbit interaction is nearly negligible unless the electron passes very close to the nucleus (small 
+  
+    
+      
+        r
+        ≈
+        
+          10
+          
+            −
+            13
+          
+        
+        m
+      
+    
+    {\displaystyle r\approx 10^{-13}m}
+  , large 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+  ). This force bends the trajectory of the electron, preventing any collision with the nucleus.
+For simplicity, most of these considerations neglect small changes of orientation of the spin axis of electron, assuming that it is firmly oriented in space - this is called rigid top approximation.
+The magnetic moment of the nucleus is thousands of times smaller than the electron's, so such hyperfine corrections can be neglected in basic models.
+Finally the basic considered Lagrangian for dynamics of a single electron in these models is:
+
+  
+    
+      
+        
+          L
+        
+        =
+        
+          
+            1
+            2
+          
+        
+        m
+        
+          
+            v
+          
+          
+            2
+          
+        
+        +
+        
+          
+            
+              Z
+              
+                e
+                
+                  2
+                
+              
+            
+            r
+          
+        
+        +
+        
+          
+            
+              Z
+              e
+            
+            c
+          
+        
+        
+          [
+          
+            
+              v
+            
+            ⋅
+            
+              (
+              
+                
+                  
+                    μ
+                    ×
+                    
+                      r
+                    
+                  
+                  
+                    r
+                    
+                      3
+                    
+                  
+                
+              
+              )
+            
+          
+          ]
+        
+      
+    
+    {\displaystyle \mathbf {L} ={\frac {1}{2}}m\mathbf {v} ^{2}+{\frac {Ze^{2}}{r}}+{\frac {Ze}{c}}\left[\mathbf {v} \cdot \left({\frac {\mu \times \mathbf {r} }{r^{3}}}\right)\right]}
+  
+The last term describes the interaction between the magnetic field of the traveling electron's magnetic moment and the electric field of the nucleus (spin-orbit interaction).
+
+
+== Primary sources ==
+M. Gryzinski (1957). "Stopping Power of a Medium for Heavy, Charged Particles". Physical Review. 107 (6): 1471–1475. Bibcode:1957PhRv..107.1471G. doi:10.1103/PhysRev.107.1471.
+M. Gryzinski (1965). "Classical Theory of Atomic Collisions. I. Theory of Inelastic Collisions". Physical Review A. 138 (2A): 336–358. Bibcode:1965PhRv..138..336G. doi:10.1103/PhysRev.138.A336.
+M. Gryzinski (1965). "Radially Oscillating Electron-the Basis of the Classical Model of the Atom". Physical Review Letters. 14 (26): 1059–1059. Bibcode:1965PhRvL..14.1059G. doi:10.1103/PhysRevLett.14.1059.
+M. Gryzinski (1970). "Ramsauer Effect as a Result of the Dynamic Structure of the Atomic Shell". Physical Review Letters. 24 (2): 45–47. Bibcode:1970PhRvL..24...45G. doi:10.1103/PhysRevLett.24.45.
+M. Gryzinski; J. Kunc; M. Zgorzelski (1972). "Ionization of atomic hydrogen by electron impact. Numerical calculations for the "free-fall" atomic model". Physics Letters A. 38: 35–36. Bibcode:1972PhLA...38...35G. doi:10.1016/0375-9601(72)90964-4.
+M. Gryzinski; J. Kunc; M. Zgorzelski (1973). "Three-body analysis of electron-hydrogen atom collisions". Journal of Physics B. 6 (11): 2292–2302. Bibcode:1973JPhB....6.2292G. doi:10.1088/0022-3700/6/11/022.
+M. Gryzinski (1975). "Classical theory of atomic collisions. II. Low energy scattering". Journal of Chemical Physics. 62: 2620–2628. Bibcode:1975JChPh..62.2620G. doi:10.1063/1.430846.
+M. Gryzinski (1987). "Spin-dynamical theory of the wave-corpuscular duality". International Journal of Theoretical Physics. 26 (10): 967–980. Bibcode:1987IJTP...26..967G. doi:10.1007/BF00670821.
+M. Gryzinski (1987). "Diamagnetism of matter and structure of the atom". Journal of Magnetism and Magnetic Materials. 71 (1): 53–62. Bibcode:1987JMMM...71...53G. doi:10.1016/0304-8853(87)90333-7.
+M. Gryzinski (27 April 1989). "Cold fusion: what's going on?". Nature. 338 (6218): 712. Bibcode:1989Natur.338..712G. doi:10.1038/338712a0.
+M. Gryzinski (1994). "Dynamical model of the molecular bond". Chemical Physics Letters. 217 (5–6): 481–485. Bibcode:1994CPL...217..481G. doi:10.1016/0009-2614(93)E1417-F.
+M. Gryzinski, J. A. Kunc (1999). "Double ionization of atoms by electrons". Journal of Physics B. 32 (24): 5789–5804. Bibcode:1999JPhB...32.5789G. doi:10.1088/0953-4075/32/24/314.
+
+
+== External links ==
+Michal Gryzinski webpage with lectures
+Animation of dynamics of electrons in Free-fall atomic model for 1-10 electrons on YouTube
+Google Scholar for Gryzinski
+Kepler problem with classical spin-orbit interaction Wolfram Demonstration Project - single electron simulator, also for orbits around a pulsar or spinning black hole using gravitomagnetic approximation

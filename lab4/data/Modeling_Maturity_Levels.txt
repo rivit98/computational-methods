@@ -1,0 +1,27 @@
+Modeling Maturity Levels is a classification system defined by Anneke Kleppe and Jos Warmer in their book MDA Explained Addison-Wesley. The levels characterize the role of modeling in a software project.
+The concept shows resemblance to the way software processes are rated with the Capability Maturity Model.
+There are 6 levels
+
+Level 0
+No Specification: the specification of software is not written down. It is kept in the minds of the developers
+Level 1
+Textual Specification: the software is specified by a natural language text (be it English or Chinese or something else), written down in one or more documents
+Level 2
+Text with Models: a textual specification is enhanced with several models to show some of the main structures of the system
+Level 3
+Models with Text: the specification of software is written down in one or more models. In addition to these models, natural language text is used to explain details, the background, and the motivation of the models, but the core of the specifications lies in the models.
+Level 4
+Precise Models: the specification of the software is written down in one or more models. Natural language can still be used to explain the background and motivation of the models, but it takes on the same role as comments in source code.
+Level 5
+Models only: the models are precise and detailed enough to allow complete code generation. The code generators at this level have become as trustworthy as compilers, therefore no developer needs to even look at the generated code.
+
+
+== References ==
+T. Mettler, Thinking in terms of design decisions when developing maturity models, International Journal of Strategic Decision Sciences, 1(4), 2010, pp. 76-87.
+T. Mettler, P. Rohner, and R. Winter, Towards a Classification of Maturity Models in Information Systems, Management of the Interconnected World, in: A. D'Atri, M. De Marco, A.M. Braccini, and F. Cabiddu (Eds.), Berlin, Heidelberg: Physica, 2010, pp. 333-340.
+Anneke Kleppe and Jos Warmer in their book MDA Explained Addison-Wesley
+Book: MDA Explained: The Model Driven Architecture : Practice and Promise" by Anneke G. Kleppe, Jos B. Warmer, Wim Bast, Publisher: Addison-Wesley Professional,  Release Date: April 2003, ISBN 0-321-19442-X
+
+
+== External links ==
+Getting Started with Modeling Maturity Levels

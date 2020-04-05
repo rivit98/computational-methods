@@ -1,0 +1,23 @@
+A leeboard is a form of pivoting keel used by a sailboat in lieu of a fixed keel.  Typically mounted in pairs on each side of a hull, leeboards function much like a centreboard, allowing shallow draft craft to ply waters fixed keel boats cannot. 
+Only one, however, the leeward, is used at a time, as it does not get lifted from the water when the boat heels under the force of the wind.
+A disadvantage is that they typically ship little ballast, limiting an otherwise unballasted craft's ability to heel.  Modern developments allow them to act as a speed enhancing lifting foil.
+
+
+== History ==
+
+Leeboards existed in China from at least the eighth century on warships that "held the ships, so that even when wind and wave arise in fury, they are neither driven sideways, nor overturn". Leeboards used to stabilize the junk and to improve its capability to sail upwind, are documented from a book by Li Chuan. The innovation was transmitted to Portuguese and Dutch ships around 1570.  "The Portuguese experimented with caulking their vessels in the Chinese manner and the Dutch probably added leeboards to their craft that were copied from Chinese models."Leeboards have been used by relatively large inshore and coastal sailing vessels used for transport since 1570, such as Dutch barges, Thames barges, and American gundalows. For these boats, leeboards provided the advantages of shallow draught for working close inshore and an unobstructed hold for cargo. In particular, they allowed gundalows to take the hard to load and unload cargo in unimproved tidal areas, as well as readily conduct maintenance on their hulls.  Leeboards were also easier to build than a large centreboard would have been.
+
+
+== Today ==
+Leeboards are no longer common in commercially-built boats, because many people consider them inelegant and awkward. They are far more common in home-built boats, especially the Puddle Duck Racer and stitch and glue type sailboats.  Leeboards simplify construction of the hull, as they are attached to the outside and do not require holes in the hull, which can leak. Since centreboards are retractable, they require a large, watertight trunk to hold them in place when retracted, and this occupies what otherwise might be useful space in the cabin or cockpit of the boat. Use of leeboards, while it adds complexity to the process of tacking, leaves the floor of the boat unobstructed.
+According to traditional design principles, a boat utilizing a leeboard either needs to have two retractable leeboards, one on each side, or a method of removing the leeboard and attaching it to either side while under way, because nearly all sailboats tack to work their way upwind (with the exception of the proa). However, some small sailboat designers claim to have created seaworthy vessels with only a single, fixed leeboard.On a traditional two-leeboard (or non-fixed leeboard) design, the boards are designed so that the windward board can be retracted, to reduce drag. Unlike centreboards, which are symmetric along the boat's axis, leeboards are often asymmetric, so that they more efficiently provide lift in one direction. Some fast racing scows use bilgeboards, which are mounted between the centreline of the hull and the sides, so they can use a pair of asymmetric foils for maximum lift and minimum drag.
+
+
+== See also ==
+Bruce foil
+
+
+== References ==
+
+
+== External links ==

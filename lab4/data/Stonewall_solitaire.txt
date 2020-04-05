@@ -1,0 +1,6 @@
+Stonewall is a solitaire card game using a deck of 52 playing cards. It is probably thus named because the player seems to break down walls in exposing more of the face-down cards. Its tableau is similar to that of Flower Garden with its beds as columns.
+Thirty-six cards are dealt onto the tableau into six columns of six cards each. The exposed (top) card and the third and fifth cards from it are faced up while the second, fourth, and sixth cards from the top are faced down. The 16 leftover cards act as the reserve.
+
+The object of the game is to move the Aces to the foundations and build each of them up by suit.
+The top cards of each column, as well as all the cards in the reserve, are available for play to the foundations or the tableau. Building on the tableau is down by alternating colors and a sequence (or a part of a sequence) can be moved as unit. Any gap on the tableau can be filled by any exposed card or any sequence.
+The game is won when all cards are built onto the foundations. But chances of winning are low, especially, for instance, when the needed cards are those faced down.

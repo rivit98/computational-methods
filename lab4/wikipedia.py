@@ -8,7 +8,7 @@ class Wikipedia:
     def __init__(self, subdomain="en"):
         self.subdomain = subdomain
 
-    def random_article_titles(self, num_of_articles=30):
+    def random_article_titles(self, num_of_articles=20):
         """ Returns titles of random Wikipedia articles """
 
         url = "https://" + self.subdomain + ".wikipedia.org/w/api.php?format=json&action=query&list=random&rnnamespace=0&rnlimit=" + str(
@@ -62,7 +62,7 @@ class Wikipedia:
                 if os.path.exists(path):
                     continue
 
-                if len(articles[title]) < 512:
+                if len(articles[title]) < 200:
                     continue
 
                 with open(path, "wt", encoding="utf-8") as f:

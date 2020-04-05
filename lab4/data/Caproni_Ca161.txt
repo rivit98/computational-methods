@@ -1,0 +1,42 @@
+The Caproni Ca.161 was an aircraft built in Italy in 1936, in an attempt to set a new world altitude record. It was a conventional biplane with two-bay, staggered wings of equal span, based on Caproni's Ca.113 design. The pressure-suited pilot was accommodated in an open cockpit.
+On 8 May 1937, Lieutenant Colonel Mario Pezzi broke the world altitude record with a flight to 15,655 m (51,362 ft). The following year, Pezzi broke the record again in the more powerful Ca.161bis, making a flight to 17,083 m (56,047 ft) on 22 October 1938. As of 2020, this record still stands for piston-powered biplanes, and for manned single engine piston aircraft.
+A final altitude record for floatplanes was set on 25 September 1939 in the float-equipped Ca.161Idro, piloted by Nicola di Mauro to 13,542 m (44,429 ft). As of 2012, this record also still stands.
+
+
+== Variants ==
+Ca.161 – original version with Piaggio P.XI R.C.72 engine
+Ca.161bis – improved version with Piaggio P.XI R.C.100/2v
+Ca.161Idro – floatplane version
+
+
+== Specifications (Ca.161bis) ==
+Data from Italian Civil and Military Aircraft 1930–1945 apart from weights
+General characteristics
+
+Crew: one, pilot
+Length: 8.25 m (27 ft 1 in)
+Wingspan: 14.25 m (46 ft 9 in)
+Height: 3.50 m (11 ft 6 in)
+Wing area: 35.5 m2 (382 ft2)
+Empty weight: 1,205 kg (2,657 lb)
+Gross weight: 1,650 kg (3,638 lb)
+Powerplant: 1 × Piaggio P.XI R.C.100/2v 14-cylinder radial driving a 4-blade propeller, 560 kW (750 hp)Performance
+
+Maximum speed: 100 km/h (60 mph)
+Service ceiling: 17,083 m (56,047 ft)
+Rate of climb: 10.3 m/s (2,020 ft/min)Armament
+
+
+== See also ==
+
+Aircraft of comparable role, configuration and era
+
+Bristol Type 138
+Caproni Ca.113
+Junkers Ju 49
+Potez 506
+
+
+== References ==
+Taylor, Michael J. H. (1989). Jane's Encyclopedia of Aviation. London: Studio Editions. p. 236.
+Thompson, Jonathan (1963). Italian Civil and Military Aircraft 1930–1945. Fallbrook, California: Aero Publishers, Inc. p. 93.

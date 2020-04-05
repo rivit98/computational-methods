@@ -1,0 +1,38 @@
+The Custom Flight North Star is a Canadian amateur-built aircraft, designed by Morgan Williams and produced by Custom Flight of Tiny, Ontario. The aircraft is based on the Piper PA-18 Super Cub and is supplied as a kit for amateur construction.
+
+
+== Design and development ==
+The North Star features a strut-braced high-wing, a single-seat, a two-seats-in-tandem enclosed cockpit that is 29 in (74 cm) wide, fixed conventional landing gear and a single engine in tractor configuration.The aircraft fuselage is made from welded 4130 steel tubing, with the wing constructed from aluminum sheet and all surfaces covered in doped aircraft fabric. Its 36.3 ft (11.1 m) span wing employs a USA 35B airfoil, has an area of 190.7 sq ft (17.72 m2) and mounts flaps. The wing is supported by "V"-struts and jury struts. The aircraft's recommended engine power range is 150 to 180 hp (112 to 134 kW) and standard engines used include the 150 hp (112 kW) Lycoming O-320 four-stroke powerplant. Construction time from the supplied kit is 1200 hours. The aircraft can be mounted on wheels, floats or skis.
+
+
+== Operational history ==
+By December 2011 the company indicated that 20 examples had been completed and flown. By December 2015, 10 examples had been registered with Transport Canada and 13 in the United States with the Federal Aviation Administration.
+
+
+== Specifications (North Star) ==
+
+Data from KitplanesGeneral characteristics
+Crew: one
+Capacity: one passenger
+Length: 22 ft 6 in (6.86 m)
+Wingspan: 36 ft 4 in (11.07 m)
+Wing area: 190.7 sq ft (17.72 m2)
+Airfoil: USA 35B
+Empty weight: 1,170 lb (531 kg)
+Gross weight: 2,350 lb (1,066 kg)
+Fuel capacity: 52 U.S. gallons (200 L; 43 imp gal)
+Powerplant: 1 × Lycoming O-320 four cylinder, air-cooled, four stroke aircraft engine, 150 hp (110 kW)
+Propellers: 2-bladed fixed pitch propellerPerformance
+
+Cruise speed: 115 mph (185 km/h, 100 kn)
+Stall speed: 25 mph (40 km/h, 22 kn)
+Range: 690 mi (1,110 km, 600 nmi)
+Rate of climb: 1,100 ft/min (5.6 m/s)
+Wing loading: 12.3 lb/sq ft (60 kg/m2)
+
+
+== References ==
+
+
+== External links ==
+Official website

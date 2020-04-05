@@ -1,0 +1,18 @@
+Attophysics  also known as attoscience is a branch of physics wherein attosecond (10−18 s) duration pulses of electrons or photons are used to probe dynamic processes in matter with unprecedented time resolution.[1] The majority of attoscience employs pump–probe methods.
+One of the primary goals of attosecond science is to provide more insights into the dynamics of electrons in molecules.[2]Today, attophysicists mostly study molecular phenomena, such as how a particular protein breaks down under X-ray bombardment.
+
+
+== See also ==
+Paul Corkum
+Ferenc Krausz
+Femtochemistry
+Femtotechnology
+Harmonic Generation
+Anne L'Huillier
+Ultrashort pulse
+
+
+== References ==
+^ P.H. Bucksbaum (2003). "Attophysics: Ultrafast Control". Nature. 421 (6923): 593–594. Bibcode:2003Natur.421..593B. doi:10.1038/421593a. hdl:2027.42/62570. PMID 12571581.
+^ P. Agostini, L.F. DiMauro (2004). "The physics of attosecond light pulses". Reports on Progress in Physics. 67 (6): 813–855. Bibcode:2004RPPh...67..813A. doi:10.1088/0034-4885/67/6/R01.
+Stopping Time: What can you do in a billionth of a billionth of a second?

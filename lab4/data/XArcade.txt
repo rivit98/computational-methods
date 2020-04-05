@@ -1,9 +1,0 @@
-X-Arcade is a brand of arcade-style video game controllers and arcade cabinets manufactured by XGaming, Inc. The original X-Arcade controller, a two-player model was released for PC and Linux in 2001. Adapters for video game consoles such as the PlayStation, Xbox 360, Xbox, Wii, Nintendo GameCube, and Sega Dreamcast, for USB interfaces were subsequently released. The game controls recreate the controls of traditional arcade games, with the objective of offering the same feel.X-Arcade manufactures USB arcade controllers compatible with Windows, Mac, Linux, PlayStation 2, and Xbox 360, as well as a variety of other controller adapters. X-Arcade controllers require no drivers to function. X-Arcade also manufactures complete, stand-up arcade machines and cabinets that mimic actual arcade games, but with the X-Arcade artwork that can be replaced with custom cabinet artwork and marquees. X-Arcade machines use the highly popular MAME emulator to play arcade ROM images, but any arcade emulator can be used if the machine is fitted with any computer with a compatible operating system. Emulation provides a virtually arcade-perfect gameplay experience, given the ROM files are fully compatible with the emulator, which may not always be the case. Purchasing a complete X-Arcade machine comes with the cabinet, monitor, and X-Arcade Joystick pre-assembled, as well as over 200 Arcade games pre-installed free with purchase. 
-Games available with the system include Space Invaders, Galaxian, Scramble, Defender, Zaxxon, Pac-Man, Kung-Fu Master, Mortal Kombat II, Mortal Kombat 3, Street Fighter, Ninja Gaiden, Marble Madness, and Missile Command. More games can be added at any time.
-
-
-== References ==
-
-
-== External links ==
-Official website

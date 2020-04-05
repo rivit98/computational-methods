@@ -1,0 +1,67 @@
+This is the timeline of the stelliferous era but also partly charts the primordial era, and charts more of the degenerate era of the heat death scenario.
+The scale is 
+  
+    
+      
+        10
+        ×
+        
+          log
+          
+            10
+          
+        
+        ⁡
+        {
+        t
+        }
+      
+    
+    {\displaystyle 10\times \log _{10}\{t\}}
+   where 
+  
+    
+      
+        {
+        t
+        }
+      
+    
+    {\displaystyle \{t\}}
+   is the time since the Big Bang expressed in years. Example: one million years is 
+  
+    
+      
+        {
+        t
+        }
+        =
+        1,000,000
+        ;
+         
+         
+        10
+        ×
+        
+          log
+          
+            10
+          
+        
+        ⁡
+        {
+        t
+        }
+        =
+        10
+        ×
+        6
+        =
+        60
+      
+    
+    {\displaystyle \{t\}=1{,}000{,}000;\ \ 10\times \log _{10}\{t\}=10\times 6=60}
+  .
+
+
+== See also ==

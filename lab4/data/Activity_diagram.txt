@@ -1,0 +1,34 @@
+Activity diagrams are graphical representations of workflows of stepwise activities and actions with support for choice, iteration and concurrency. In the Unified Modeling Language, activity diagrams are intended to model both computational and organizational processes (i.e., workflows), as well as the data flows intersecting with the related activities. Although activity diagrams primarily show the overall flow of control, they can also include elements showing the flow of data between activities through one or more data stores.
+
+
+== Construction ==
+Activity diagrams are constructed from a limited number of shapes, connected with arrows.  The most important shape types:
+
+ellipses represent actions;
+diamonds represent decisions;
+bars represent the start (split) or end (join) of concurrent activities;
+a black circle represents the start (initial node) of the workflow;
+an encircled black circle represents the end (final node).Arrows run from the start towards the end and represent the order in which activities happen.
+Activity diagrams can be regarded as a form of a structured flowchart combined with a traditional data flow diagram. Typical flowchart techniques lack constructs for expressing concurrency.  However, the join and split symbols in activity diagrams only resolve this for simple cases; the meaning of the model is not clear when they are arbitrarily combined with decisions or loops.While in UML 1.x, activity diagrams were a specialized form of state diagrams, in UML 2.x, the activity diagrams were reformalized to be based on Petri net-like semantics, increasing the scope of situations that can be modeled using activity diagrams. These changes cause many UML 1.x activity diagrams to be interpreted differently in UML 2.x.UML activity diagrams in version 2.x can be used in various domains, e.g. in design of embedded systems. It is possible to verify such a specification using model checking technique.
+
+
+== See also ==
+Business Process Modeling Notation
+Control flow graph
+Data flow diagram
+Drakon-chart
+Event-driven process chain
+List of UML tools
+Pseudocode
+State diagram
+
+
+== References ==
+
+
+== Bibliography ==
+
+
+== External links ==
+Articles on UML 2 Activities and Actions
+Activity diagrams: What they are and how to use them

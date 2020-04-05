@@ -1,0 +1,76 @@
+A collective work under the copyright law of France is a collective work that contains the works of several authors created, assembled, harmonized and published under the direction of a person or  organization who owns the commercial and moral rights of the work as a whole. 
+The work as a whole is distinct from the individual contributions, which are owned by the authors.
+It is common for publication of articles on the Internet, in a different context and layout from the printed work, to be considered to be outside the standard agreement between the author and the owner of the collective work.
+
+
+== Definitions ==
+Article L113-2 of the French Intellectual Property Code defines three types of multi-author works:
+"Work of collaboration" shall mean a work in the creation of which more than one natural person has participated.
+"Composite work" shall mean a new work in which a preexisting work is incorporated without the collaboration of the author of the latter work.
+"Collective work" shall mean a work created at the initiative of a natural or legal person who edits it, publishes it and discloses it under his direction and name and in which the personal contributions of the various authors who participated in its production are merged in the overall work for which they were conceived, without it being possible to attribute to each author a separate right in the work as created.Article L113-5 states that "A collective work shall be the property, unless proved otherwise, of the natural or legal person under whose name it has been disclosed.  The author’s rights shall vest in such person."
+Article L123-3 states that "In the case of pseudonymous, anonymous or collective works, the term of the exclusive right shall be 70 years from January 1 of the calendar year following that in which the work was published."
+
+
+== Interpretations ==
+The concept of a collective work (œuvre collective) in French law is complicated and unclear, and case law and scholarly views do not always agree.
+Bernard Edelman, in his l’œuvre collective : une définition introuvable (1998), describes the legal definition of collective works as "obscure and tangled".
+However, all authorities agree that the concept of an oeuvre collective in France covers dictionaries, encyclopaedias and periodical
+works such as newspapers or magazines.
+Courts have also ruled that collective works may include such things as the elements of a car body, a computer program, a poster and a guide of administrative formalities.Basic conditions for a collective work are that there must be a promoter, presenter or orchestrator, and the work must not be joint authorship.
+The work's maître, a natural or legal person, directs creation of the collective work, harmonizes the contributions, edits, publishes and discloses the work.
+The  maître decides on the theme, treatment and spirit of the work, assembles the contributions, harmonizes it and publishes the overall work. 
+The contributors have not significantly cooperated in creating the overall work, but have each worked independently under the direction of the maître.
+It does not matter whether the contributors are identified or remain anonymous.In a 1999 dispute over the rights of the daily newspaper Le Progrès to publish articles online, the lower court refused to designate Le Progrès a collective work, but the Court of Appeal ruled that it was a collective work by virtue of assembling a newspaper in several editions, selecting and presenting the contributions at the sole discretion of the owner, Groupe Progrès.
+By working under the direction of the owner, the contributors lose their creative independence, however important their contributions are to the collective work.
+
+
+== Proprietary rights ==
+A collective work is unusual in French law in that a juristic person may be the initial owner of a work without having to show evidence that the copyright was assigned.
+As a rule, French courts do not recognise that an employee has transferred their rights to an employer unless there is evidence of such a transfer in the form of an agreement.
+A collective work is an exception.
+The maître takes all the ownership rights in a collective work, and these rights are directly vested in the maître rather than transferred from the contributors, as long as the maître directed the creative process enough for it to be considered a collective work.The 1885 Berne Convention stated that journalists owned their work, but this depends on whether a newspaper is seen as a collection of works or as a collective work.
+In France, journalists own their work in either case.
+Article L121-8 states that whether or not a newspaper or periodical is considered to be a collective work the journalists retain the rights to exploit their contributions.
+The promoter is the sole owner of the rights in the collective work as a whole, but the contributors have author rights in their own contributions.
+Case law has determined that the investor's initial right of property is limited to the first commercial release of the collective work.
+The contributors can then commercialize their contributions separately as long as this does not adversely affect commercialization of the collective work as a whole.
+The contributors to a newspaper thus have the right to separately publish a thematic selection of articles without infringing the rights of the owner of the collective work.
+
+
+== Moral rights ==
+Moral rights are seen as personality rights in French law, attached to the personality of the author and inalienable.
+They are retained by the author even when the patrimonial rights are sold.
+The Intellectual Property Code says the maître has the author's rights, and does not distinguish between moral and economic rights.
+However, only a natural person can be an author, and moral rights cannot be alienated from the author, giving rise to uncertainty over whether the maître could claim any moral rights in the collective work.
+However, in a 22 March 2012 decision the French Supreme Court (Cour de cassation) reversed the decision of a lower court and stated that "the natural or legal person at the initiative of a collective work is vested with the author's rights over this work and, in particular, the moral rights prerogatives".
+The owner of the collective work may not be a natural person, so they are not an author in the strict sense, but they own the moral rights as well as the economic rights, and may therefore prohibit violations of their moral rights such as distortion of the collective work.Each contributor to the collective work retains the moral rights to their contribution, and may enforce this right against third parties or against the maître if they make unauthorized changes to the contribution. 
+Despite this, the maître may modify the contributions as far as is needed to harmonize them with the collective work as a whole.
+The moral right of the contributor is limited by the fusion of their contribution with those of the other co-authors.
+
+
+== Electronic reproduction ==
+The rise of the Internet has opened new questions about the rights of the authors of contributions to a collective work.
+When a newspaper is reproduced in its entirety the reproduction falls under the collective work regime.
+Publication in successive editions of a newspaper during the course of the day, each of which reproduces a large part of the previous edition, is not seen as publication in another newspaper.
+Electronic publication of the entire newspaper could therefore be seen as an edition of the same collective work.
+However, partial or selective reproduction may require the agreement of the contributors.As an example of digital reproduction of the full work, since 2005 the Bibliothèque nationale de France (BnF) has been digitizing editions of daily and weekly periodicals that were published before 1943. Some of this has been through agreements with the publishers L’Ouest-Éclair and Le Monde diplomatique. 
+Where the BnF does not have such an agreement, the BnF considers the newspaper to be a collective work that entered the public domain 70 years after publication.
+Some of these digitized journals may contain contributions for which the individual author's rights have not expired.
+Thus the cover of the digitized La Baïonnette of 2 December 1915 has an illustration by the artist Albert Jarach, who died in 1962 and whose rights would not expire until 2033.France was the first country to introduce an online newspaper, with the Minitel service in the 1980s.
+Today the online and print versions of newspaper are typically run by different departments and have different appearance, with the online versions updated frequently and providing video boxes and  interactive features. Some newspapers are online only.
+A case between the French national union of journalists and Le Figaro newspaper was heard on 14 April 1999 by the Court of First Instance in Paris.
+Le Figaro had created a website where articles by the journalists could be consulted online.
+The court ruled that although the printed newspaper was a collective work, the rights of the journalists concerning their articles had been infringed.
+Le Figaro only had the right to publish the articles in the printed newspaper, and the website would be considered another newspaper or magazine.On 9 December 1999 the Lyon Court of Appeal ruled similarly that the daily newspaper Le Progrès was guilty of forgery for having published its journalists' articles on the internet.
+Although the newspaper was a collective work, the right of the owner to reproduction was limited to the paper edition, and the website could not be seen as an extension of that edition.
+A similar judgement was issued by the Court of Cassation  on 3 July 2013 in a case concerning the newspaper L'Union.
+The court said that whether or not that newspaper was a collective work, which had not been proven, the consent of a contributor was required before his contributions could be reproduced on an Internet site and reproduced in another newspaper.Newspapers have responded by signing agreements with journalist's unions that took different approaches to cover online publication of articles.
+Les Derniéres Nouvelles d'Alsace paid journalists for online use. 
+Le Monde compensated journalists for ceding their copyright. 
+Les Échos made an agreement that treated the print and online versions as one.
+
+
+== Notes ==
+
+
+== Sources ==

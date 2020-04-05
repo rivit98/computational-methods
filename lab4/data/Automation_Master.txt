@@ -1,0 +1,129 @@
+Automation Master is an open source community maintained project. Automation Master was created to assist in the design, implementation and operation of an automated system.
+The installation and startup of any automated system is very time consuming and costly.  Much of the time spent starting up an automated system can be traced to the difficulties in providing an effective test of the computer based system in the integrator's laboratory.
+Traditional testing techniques required staging as much of the equipment as practical in the laboratory, and wiring up a simulator panel containing switches and indicator lights to all of the I/O modules on the PLC.  The operator stations would be connected up to this "rats nest" of wires, switches, indicator lights, and equipment for the test.
+PLC software would be tested by sequencing the toggle switches to input the electrical signals to the input cards on the PLC, and then observing the response by software on the indicator lights and operator consoles.  For small simple systems, this type of testing was manageable, and resulted in some degree of confidence that the control software would work once it was installed.  However, the amount of time spent performing the test was relatively high, and a real time test could not be achieved.
+As systems become larger and more complex, this method of testing only achieves, at a significant cost, a basic hardware and configuration check.  The testing of complex logic sequences, is an act of futility without the ability to accurately reproduce the timing relationships between signals.
+What was needed was the ability to exercise the control system's software in a real time environment.  Real time simulation fills this void.  Real time simulators such as Automation Master are PC based software packages, which utilize a model to mimic the automated system's reaction to the control software.
+
+
+== History ==
+Max Hitchens and George Rote began working on Industrial Automation projects in the late 1970s. One of their first projects was an automatic guided vehicle system for Goodyear Tire and Rubber Company in Lawton, Oklahoma. This system was to automatically transport material and finished goods around a massive tire factory.
+Mr. Hitchens' and Mr. Rote's previous experience in software development was mainly in office environments where logic could be debugged based upon simple CRT or printed output. So, after four months of writing software for the automated system, they took the software to the field and thus got their "baptism" into the real world debugging of large automated systems. An automatic vehicle would be dispatched to do a task and it would not show up at its destination. First, they had to find the vehicle which could be anywhere in the massive facility, then try to figure out what went wrong. After 6 months of 16-hour days - 7 days a week, they finally got the system running.
+Mr. Hitchens and Mr. Rote had other automatic guided vehicle projects and resolved to not repeat the Goodyear debugging experience. So, they build a custom simulator which attached to the guided vehicle system controller and pretended to be the factory floor. The activity of the guided vehicles was displayed on a color graphic display. The software could be debugged on their desks and with finished and debugged taken to the field and installed with minimum effort.
+Sometime later, Mr. Hitchens and Mr. Rote were demonstrating their AGV simulator to Conco-Tellus, a  conveyor system manufacturer, when they were asked if they could build a simulator for conveyor systems. Of course, the answer was yes and the Real Time Conveyor Simulator (RTCS) was born. The RTCS was a custom system with 3 single-board computers. They were awarded a patent for it in 1985.
+The RTCS was a specialty product which did not have a large market, but Mr. Hitchens and Mr. Rote continued refinement and development. Along this time the IBM PC was introduced and it was used to build the database necessary for the simulator. In the mid 1980s, a director for Bell Labs saw the simulator and wanted to try it out modeling software development projects. It was impractical on a custom hardware box. But since the code was written for Intel processors, it could possibly be converted to run on a PC.
+In exchange for free use of the software, Bell Labs contributed a development system and two software engineers to help with the conversion. It turned out to be not very difficult and within a few weeks RTCS was running on a PC. Well almost, the PC did not have enough power to meet the real time computing which the RTCS required. It did, however, make a great demonstration system. Now all was required was a disk and not 100 lbs of computer gear.
+As the 8088 PC metamorphosed into the 80286, customers were increasingly reluctant to spend thousands of dollars on a custom piece of computer gear. By the time the 80386 personal computers came out, the RTCS ceased to have a market. Fortunately, the 80386 and subsequently the 80486 had enough power to run the simulation in real time and Automation Master was born.
+Development continued until the mid 1990s when for a myriad of reasons, mainly the death of George Rote, it ceased.  By this time, Automation Master embodied many thousands of hours of development and use.
+Automation Master languished until 2013 when Max Hitchens decided to create an open source project and release it into the public domain.
+
+
+== Description ==
+Automation Master is a comprehensive modeling and simulation software package designed specifically for design, implementation and operation of factory/warehouse automation.
+After the testing is complete, the system will ship with confidence that, a real time test has been performed, and the system will work when it is installed.  The installation will be faster and less costly and the system provided to the customer will be of higher quality and can be quickly placed into production.
+
+
+== Project Life Cycle ==
+Automation Master can also be used throughout the life cycle of an automated factory, from the design phase, through the implementation phase, into actual production.
+An automation project is a cycle of activities.  The project starts as a concept, the system concept is used to develop a design, the system design is used to fabricate the system components, the fabricated components are installed, and the installed system will be operated.  The installed system generates concepts for improvements or new systems and the cycle repeats.  A real time simulator can assist in the entire life cycle of a project.
+
+
+=== Design ===
+
+
+==== Animating the System Concept ====
+A concept is usually just an idea, which needs to be funded to make it a reality.  Automated systems are dynamic.  A static picture or description of an automated system does not demonstrate the interaction of the components or show how the system functions as a whole.  It has been said that a picture is worth a thousand words; a corollary is that a moving picture is worth ten thousand words.  An animated picture, as generated by a real time simulator, can communicate the concept and assist in selling the project to management.
+
+
+==== Simulating the System Design ====
+Designing an automated system is a balancing act.  You want the best possible results for the least cost.  The system design is selected from several alternatives.  Choosing the best alternative requires evaluation of the alternatives and how they interact with each other.  A real time simulator allows the system designer to evaluate potential designs, by using a model, to select the best approach for the automated system.
+An important element of automated system design is developing the overall strategy to be used in operating the facility.  A simulation model allows the operating strategy to be developed interactively.  A strategy is implemented in the model, the results viewed, and the strategy refined to improve performance.  The operating strategy becomes increasingly important as the cost of system components escalates.  The system efficiency can be improved by changing the operating strategy using the model without increasing the cost of the system.
+Scenario testing or test cases may be set up to test and confirm proper system operation under varying conditions and collect statistical data on its operation.
+
+
+=== Implementation ===
+Automation Master is used for software quality control during the implementation phase.
+
+
+==== Testing the Control Logic ====
+The real time simulator may be connected directly to the automated system's programmable controllers and computers.  The model is used as a replacement for the physical equipment.  Thus, the control logic and system software can be exhaustively tested in a laboratory environment instead of on the plant floor.  The control logic can be stress tested under full operational loading to verify that the system will meet production requirements.
+System emulation reduces safety hazards and equipment damage during installation.  Mistakes in the control logic and testing blunders are discovered using a model, not the live system.
+An emulation model contains more detail than the design phase simulation model.  The simulation scenarios which exercised the system design may be rerun in emulation mode to verify that the detailed design and control logic implementation meet system production requirements.  If it does not, it is far easier and less costly to modify the design or the control logic before the system is installed.
+
+
+==== Creating an "As Built" Model ====
+A real time simulator may be used during installation to determine the variance between the system design and the actual installation.  Field verification logs the differences between the "as built" system and the model.  If a major mistake has been made in translating the system design into the installed system, it can be corrected prior to system start up.
+The differences reported in the verification log are used to change the model to reflect the "as built" system.  The control logic can then be retested to verify that the software will still meet the production requirements with the "as built" system.  The simulation throughput scenarios can also be rerun to verify that the "as built" system meets all of the system design criteria.
+
+
+=== Operation ===
+
+
+==== Maintaining the Automated System ====
+The model may act as a diagnostic monitor.  In this mode, the model is run in parallel with the operation of the installed system.  The real time simulator displays the dynamic activity in the system and continuously compares the model with the actual operation.  When a discrepancy, outside of specified tolerances, occurs between the operation of the system and the model, an error is reported, assisting maintenance personnel in diagnosing and repairing the system.
+
+
+==== Closing the Loop ====
+Automated systems are never static.  Changes are inevitable.  Ideas for new systems are generated.  Because an exact real time simulation model exists, proposed changes can be completely tested before they are implemented.
+The changes required in the control software can be tested under emulation.  The physical equipment modifications can be verified.  The result of changes to the automated system may be tested before the changes are made in the production system, so that the changes can be made without halting production.
+
+
+== Automation Master Operating Modes ==
+
+
+=== Simulation ===
+
+
+=== Emulation ===
+Automation Master connects to the Control System/PLC and emulates the real world I/O by reading and writing the PLC's internal I/O images.  The simulator can receive the Control System/PLC's outputs, and respond with the inputs in real time without the need for any hard-wired physical I/O.
+A simulator emulates the real time response to the Control System/PLC actions based upon a model which duplicates the operation of the automated system.  For example, if the Control System/PLC sets a digital output to start a motor to raise a door, the model, within milliseconds, provides the Control System/PLC with an auxiliary contact closure to indicate that the motor has been started.  Shortly, the door closed limit switch is turned off as the door begins to rise.  As long as, the Control System/PLC keeps on the output signal which raises the door, the door in the model continues to rise.  When the door is fully open, the model turns on the door open limit switch, and the PLC responds by turning off the motor which raised the door.  The model sees the Control System/PLC turn off the motor and drops out the motor's auxiliary contact.
+Once a model of a component has been built, it can be executed over and over again, under varying conditions to quickly and thoroughly exercise the control software.  For instance, what happens if the Control System/PLC loses the motor's auxiliary contact as the door is rising?,   Does the Control System/PLC turn off the output which raises the door?  Is an alarm sent to the Level II system?  How does the Level II system respond? When an error is detected, the programmer can easily alter the software and retest it using the model.  The automated system is debugged in real time without any wiring, switches, bells, whistles, or hassles.
+
+
+=== Monitor ===
+
+
+=== Multimode Models ===
+
+Real time simulation allows multiple mode models to be built.  A multiple mode model can be operated in either simulation, emulation, or monitor modes by simply invoking the simulator with a different configuration file.  Multiple mode models are created by separating the model of the system control strategy from the model of the physical components.
+
+There are two distinct elements in a simulation model of an automated system.  One element is the physical components of the system being modeled.  The second element is a control strategy used to make decisions, to manage the system resources, and route product using the system components.
+In simulation mode, the interaction between the control strategy and the model of the physical components takes place internally within the real time simulation model.
+An emulation model only requires the second element.  The control strategy is incorporated into the PLC logic, instead of being contained within the model.
+
+The control strategy is provided by a separate processor in emulation mode.  The control software written to implement the control strategy will be the same software which will control the physical system components when the system is installed.  A model of the physical system components is created which reacts identically to the physical components in the real system.
+The model of the physical system is constructed separately from the control logic being tested.  The model of the physical system is passive and makes no decisions.  The physical model reacts to the decisions made by the control logic in the same manner as the real system would.
+An emulation model will operate in both emulation and simulation modes with the addition of the control strategy to the model.
+The system control strategy now exists in two places, in the model and in the PLC.  The source of the system control strategy can be selected using the OPERATING_MODE variable in the configuration file.
+The control strategy in the model is implemented using as asynchronous activity.  A conditional is used as part of the activation conditions in all asynchronous activity entries used strictly for simulation mode.  This enables the execution of the system control strategy in simulation mode and disables it in emulation mode.  Two different configuration files are set up, one for each mode, to set the initialization file, operating mode, and other configuration differences between the modes.
+Running the real time simulator with the simulation mode configuration file causes the model to operate as a simulation.  Running the real time simulator with the emulation mode configuration file runs the model as an emulation.  The simulation runs with the internal system control strategy and disables the external connection to the PLC.  Running in emulation mode disables the internal control strategy, and enables the interface to the PLC which supplies the external control strategy. The physical components of the real system are required for monitor mode.
+
+In monitor mode, only the model of the physical system components is required.  The control strategy is executed in the PLC and simultaneously controls the real system and the model.
+The real time simulator receives the signals which are sent to, and received from, the real system.  The physical system model is run in parallel with the real system, so that the differences between the activity in the model and the real system can be used to diagnose component failures.
+A single model may be run in all three modes by including the system control strategy (enabled only in simulation mode) in the model.
+
+A separate configuration file, containing the initialization file for the monitor, is created for operation in monitor mode.  Changing the operating mode from monitor to emulation or simulation mode will require that the real system be disconnected.  Once the real system is disconnected, the model may be switched between simulation and emulation modes by enabling or disabling the internal control strategy.
+
+
+== Applications ==
+R.R. Donnelley - Diskette Collating Machine
+
+
+== See also ==
+Programmable logic controller
+Industrial control systems
+Automation
+Lights out (manufacturing)
+Verification and Validation of Computer Simulation Models
+
+
+== References ==
+
+
+== External links ==
+Direct Connect Emulation and the Project Life Cycle
+Fast Track Project, White Paper
+Open Source Project
+U.S. Patent 4,512,747
+Trademark (abandoned)
+Automation Master Community

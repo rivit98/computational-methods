@@ -1,0 +1,46 @@
+Cloud manufacturing (CMfg) is a new manufacturing paradigm developed from existing advanced manufacturing models (e.g., ASP, AM, NM, MGrid) and enterprise information technologies under the support of cloud computing, Internet of Things (IoT), virtualization and service-oriented technologies, and advanced computing technologies. It transforms manufacturing resources and manufacturing capabilities into manufacturing services, which can be managed and operated in an intelligent and unified way to enable the full sharing and circulating of manufacturing resources and manufacturing capabilities. CMfg can provide safe and reliable, high quality, cheap and on-demand manufacturing services for the whole lifecycle of manufacturing. The concept of manufacturing here refers to big manufacturing that includes the whole lifecycle of a product (e.g. design, simulation, production, test, maintenance). 
+The concept of Cloud manufacturing was initially proposed by the research group led by Prof. Bo Hu Li and Prof. Lin Zhang in China in 2009. Related discussions and research were conducted hereafter, and some similar definitions (e.g. Cloud-Based Design and Manufacturing (CBDM).
+) to cloud manufacturing were introduced.
+Cloud manufacturing is a type of parallel, networked, and distributed system consisting of an integrated and inter-connected virtualized service pool (manufacturing cloud) of manufacturing resources and capabilities as well as capabilities of intelligent management and on-demand use of services to provide solutions for all kinds of users involved in the whole lifecycle of manufacturing.
+
+
+== Types ==
+Cloud Manufacturing  can be divided into two categories.
+
+The first category concerns deploying manufacturing software on the Cloud, i.e. a “manufacturing version” of Computing. CAx software can be supplied as a service on the Manufacturing Cloud (MCloud).
+The second category has a broader scope, cutting across production, management, design and engineering abilities in a manufacturing business. Unlike with computing and data storage, manufacturing involves physical equipment, monitors, materials and so on. In this kind of Cloud Manufacturing system, both material and non-material facilities are implemented on the Manufacturing Cloud to support the whole supply chain. Costly resources are shared on the network. This means that the utilisation rate of rarely used equipment rises and the cost of expensive equipment is reduced. According to the concept of Cloud technology, there will not be direct interaction between Cloud Users and Service Providers. The Cloud User should neither manage nor control the infrastructure and manufacturing applications. As a matter of fact, the former can be considered part of the latter.In CMfg system, various manufacturing resources and abilities can be intelligently sensed and connected into wider Internet, and automatically managed and controlled using IoT technologies (e.g., RFID, wired and wireless sensor network, embedded system). Then the manufacturing resources and abilities are virtualized and encapsulated into different manufacturing cloud services (MCSs), that can be accessed, invoked, and deployed based on knowledge by using virtualization technologies, service-oriented technologies, and cloud computing technologies. The MCSs are classified and aggregated according to specific rules and algorithms, and different kinds of manufacturing clouds are constructed. Different users can search and invoke the qualified MCSs from related manufacturing cloud according to their needs, and assemble them to be a virtual manufacturing environment or solution to complete their manufacturing task involved in the whole life cycle of manufacturing processes under the support of cloud computing, service-oriented technologies, and advanced computing technologies.Four types of cloud deployment modes (public, private, community and hybrid clouds) are ubiquitous as a single point of access.
+Private cloud refers to a centralized management effort in which manufacturing services are shared within one company or its subsidiaries. Enterprises' mission-critical and core-business applications are often kept in a private cloud.
+Community cloud is a collaborative effort in which manufacturing services are shared between several organizations from a specific community with common concerns.
+Public cloud realizes the key concept of sharing services with the general public in a multi-tenant environment.
+Hybrid cloud is a composition of two or more clouds (private, community or public) that remain distinct entities but are also bound together, offering the benefits of multiple deployment modes.
+
+
+== Resources ==
+From the resource’s perspective, each kind of manufacturing capability requires support from the related manufacturing resource. For each type of manufacturing capability, its related manufacturing resource comes in two forms, soft resources and hard resources.
+
+
+=== Soft resources ===
+Software: software applications throughout the product lifecycle including design, analysis, simulation, process planning, and are only beginning to be embraced by the electronics manufacturing industry.
+Knowledge: experience and know-how needed to complete a production task, i.e. engineering knowledge, product models, standards, evaluation procedures and results, customer feedback, and manufacturing in the cloud provides just as many solutions as the number of questions it also raises for manufacturing executives wanting to make the best possible decision.
+Skill: expertise in performing a specific manufacturing task.
+Personnel: human resource engaged in the manufacturing process, i.e. designers, operators, managers, technicians, project teams, customer service, and etc.
+Experience: performance, quality, client evaluation and etc.
+Business Network: business relationships and business opportunity networks that exist in an enterprise.
+
+
+=== Hard resources ===
+Manufacturing Equipment: facilities needed for completing a manufacturing task, e.g. machine tools, cutters, test and monitoring equipment and other fabrication tools.
+Monitoring/Control Resource: devices used to identify and control other manufacturing resource, for instance, RFID (Radio-Frequency IDentification), WSN (Wireless Sensor Network), virtual managers and remote controllers.
+Computational Resource: computing devices to support production process, e.g. servers, computers, storage media, control devices, and etc.
+Materials: inputs and outputs in a production system, e.g. raw material, product-in-progress, finished product, power, water, lubricants, and etc.
+Storage: automated storage and retrieval systems, logic controllers, location of warehouses, volume capacity and schedule/optimization methods.
+Transportation: movement of manufacturing inputs/outputs from one location to another. It includes the modes of transport, e.g. air, rail, road, water, cable, pipeline and space, and the related price, and time taken.
+
+
+== See also ==
+3D printing
+Cloud computing
+Cyber manufacturing
+
+
+== References ==

@@ -1,0 +1,5 @@
+The misalignment mechanism is a hypothesized effect in the Peccei–Quinn theory proposed solution to the strong-CP problem in quantum mechanics. The effect occurs when a particle's field has an initial value that is not at or near a potential minimum. This causes the particle's field to oscillate around the nearest minimum, eventually dissipating energy by decaying into other particles until the minimum is attained. 
+In the case of hypothesized axions created in the early universe, the initial values are random because of the masslessness of axions in the high temperature plasma. Near the critical temperature of quantum chromodynamics, axions possess a temperature-dependent mass that enters a damped oscillation until the potential minimum is reached.
+
+
+== References ==

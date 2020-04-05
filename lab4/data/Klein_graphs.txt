@@ -1,0 +1,179 @@
+In the mathematical field of graph theory, the Klein graphs are two different but related regular graphs, each with 84 edges. Each can be embedded in the orientable surface of genus 3, in which they form dual graphs.
+
+
+== The cubic Klein graph ==
+This graph is a 3-regular graph with 56 vertices and 84 edges, named after Felix Klein.
+It is a Hamiltonian graph. It has chromatic number 3, chromatic index 3, radius 6, diameter 6 and girth 7. It is also a 3-vertex-connected and a 3-edge-connected graph. It has book thickness 3 and queue number 2.It can be embedded in the genus-3 orientable surface (which can be represented as the Klein quartic), where it forms the "Klein map" with 24 heptagonal faces, Schläfli symbol {7,3}8.
+According to the Foster census, the Klein graph, referenced as F056B, is the only cubic symmetric graph on 56 vertices which is not bipartite.It can be derived from the 28-vertex Coxeter graph.
+
+
+=== Algebraic properties ===
+The automorphism group of the Klein graph is the group PGL2(7) of order 336, which has
+PSL2(7) as a normal subgroup. This group acts transitively on its half-edges, so the Klein graph is a symmetric graph. 
+The characteristic polynomial of this 56-vertices Klein graph is equal to 
+  
+    
+      
+        
+          x
+          
+            7
+          
+        
+        
+        (
+        x
+        −
+        3
+        )
+        
+        (
+        x
+        +
+        2
+        
+          )
+          
+            6
+          
+        
+        
+          
+            (
+            
+              
+                x
+                
+                  2
+                
+              
+              −
+              2
+            
+            )
+          
+          
+            6
+          
+        
+        
+          
+            (
+            
+              
+                x
+                
+                  2
+                
+              
+              +
+              x
+              −
+              4
+            
+            )
+          
+          
+            7
+          
+        
+        
+          
+            (
+            
+              
+                x
+                
+                  2
+                
+              
+              −
+              2
+              x
+              −
+              1
+            
+            )
+          
+          
+            8
+          
+        
+      
+    
+    {\displaystyle x^{7}\,(x-3)\,(x+2)^{6}\left(x^{2}-2\right)^{6}\left(x^{2}+x-4\right)^{7}\left(x^{2}-2x-1\right)^{8}}
+  
+
+
+=== Gallery ===
+
+
+== The 7-valent Klein graph ==
+This graph is a 7-regular graph with 24 vertices and 84 edges, named after Felix Klein.
+It is a Hamiltonian graph. It has chromatic number 4, chromatic index 7, radius 3, diameter 3 and girth 3. 
+It can be embedded in the genus-3 orientable surface, where it forms the dual of the "Klein map", with 56 triangular faces, Schläfli symbol {3,7}8.It is the unique distance-regular graph with intersection array 
+  
+    
+      
+        {
+        7
+        ,
+        4
+        ,
+        1
+        ;
+        1
+        ,
+        2
+        ,
+        7
+        }
+      
+    
+    {\displaystyle \{7,4,1;1,2,7\}}
+  ; however, it is not a distance-transitive graph.
+
+
+=== Algebraic properties ===
+The automorphism group of the 7-valent Klein graph is the same group of order 336 as for the cubic Klein map, likewise acting transitively on its half-edges.
+The characteristic polynomial of this 24-vertices Klein graph is equal to 
+  
+    
+      
+        (
+        x
+        −
+        7
+        )
+        (
+        x
+        +
+        1
+        
+          )
+          
+            7
+          
+        
+        (
+        
+          x
+          
+            2
+          
+        
+        −
+        7
+        
+          )
+          
+            8
+          
+        
+      
+    
+    {\displaystyle (x-7)(x+1)^{7}(x^{2}-7)^{8}}
+  .
+
+
+== References ==

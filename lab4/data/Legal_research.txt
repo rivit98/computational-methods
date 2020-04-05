@@ -1,0 +1,36 @@
+Legal research is "the process of identifying and retrieving information necessary to support legal decision-making.  In its broadest sense, legal research includes each step of a course of action that begins with an analysis of the facts of a problem and concludes with the application and communication of the results of the investigation."The processes of legal research vary according to the country and the legal system involved. However, legal research generally involves tasks such as:
+Finding primary sources of law, or primary authority, in a given jurisdiction (cases, statutes, regulations, etc.).
+Searching secondary authority (for example, law reviews, legal dictionaries, legal treatises, and legal encyclopedias such as American Jurisprudence and Corpus Juris Secundum), for background information about a legal topic.
+Searching non-legal sources for investigative or supporting information.Legal research is performed by anyone with a need for legal information, including lawyers, law librarians, and paralegals. Sources of legal information range from printed books, to free legal research websites (like Cornell Law School's Legal Information Institute, Findlaw.com, Martindale Hubbell or CanLII) and information portals to fee database vendors such as TheLaw.net, Wolters Kluwer, LexisNexis, Westlaw, VLex and Bloomberg Law. Law libraries around the world provide research services to help their patrons find the legal information they need in law schools, law firms and other research environments. Many law libraries and institutions provide free access to legal information on the web, either individually or via collective action, such as with the Free Access to Law Movement.
+A number of books are available for those wishing to undertake legal research in the UK context.
+
+
+== Databases and software tools ==
+
+
+=== Free-to-use ===
+Although many jurisdictions publish laws online, case law is often accessed through specialty online databases. Free-to-access services, through the free law movement, include: Australasian Legal Information Institute, British and Irish Legal Information Institute, CanLII, Legal Information Institute, LexML Brasil, World Legal Information Institute, and Jurispedia. Google offers a free, searchable database of federal and state case law as part of Google Scholar.
+
+
+=== Commercial ===
+Commercial services for legal research include both primary and secondary sources. Commercial services can be country-specific, international or comparative. As of 2010, commercial legal research tools in the United States generated an estimated $8 billion in revenues per year.Some governments also provide access to certain resources through paid databases, such as the United States PACER law system.
+
+
+== Third-party legal research providers ==
+Legal research is known to take much time and effort, and access to online legal research databases can be costly. Consequently, with due consideration given to ethical concerns, law firms and other practitioners may turn to third-party legal research providers to outsource their legal research needs.
+
+
+== See also ==
+Law dictionary
+Legal periodical
+Legal research in the United States
+Legal treatise
+List of sources of law in the United States
+Oxford Law Citator
+
+
+== References ==
+
+
+== External links ==
+Legal research at Curlie

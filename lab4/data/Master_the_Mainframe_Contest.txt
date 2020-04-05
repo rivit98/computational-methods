@@ -1,0 +1,21 @@
+Master the Mainframe contest is a mainframe programming challenge that is organized annually by IBM Academic Initiative System z.
+
+
+== History ==
+Originally catered to students attending North American institutions of higher learning (US and Canada, excluding Quebec), the contest is currently running in separate countries across the globe (30 to date). The goal of the contest is to provide students with the opportunity to experience working with mainframes. The contest was created in part to increase the number of mainframe skilled individuals in the computing workforce. The North American contest has successfully completed 7 contests to date.
+
+
+== Contest ==
+The contest that runs for North America typically starts during the Fall semester and runs until the end of December. It is separated into 3 parts in which each part increases in complexity. Part 1 introduces the contestants to the basic aspects necessary to get started with mainframe technologies and requires minimal time to complete. Part 2 on the other hand involves more steps for each tasks and usually takes a day or so to accomplish. The first 60 winners of Part 2 will receive monetary prize in recognition of their achievement. Lastly, part 3 is more in depth and may involve multiple programming challenges such as COBOL, REXX, JCL, etc. (depending on the questions set for the year's challenge).
+
+
+== Prizes ==
+Past winners of Part 3 have receive gifts such as iPad, iPod, laptops or netbooks. Winners also receives an all-expense-paid trip to the IBM mainframe facility in Poughkeepsie, New York.
+
+
+== References ==
+
+
+== External links ==
+IBM Z Academic Initiative program
+IBM Master the Mainframe Contest and Learning System

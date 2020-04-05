@@ -1,0 +1,16 @@
+GSAT-29 is a high-throughput communication satellite developed by the Indian Space Research Organisation (ISRO). The mission aims at providing high-speed bandwidth to Village Resource Centres (VRC) in rural areas. The two Ku and Ka operational payloads will provide communication services to Jammu and Kashmir and Northeast India under Digital India programme.  GSAT-29 was the heaviest satellite, weighing 3,423 kg (7,546 lb), that was placed in orbit by an Indian launch vehicle.
+
+
+== Payloads ==
+Apart from its main communication payload in Ka/Ku bands, GSAT-29 hosts few experimental payloads to mature their technology for use in future spacecrafts.
+Q band and V band payload: experimental microwave communication payloads
+Optical Communication Technology (OCT) payload: experimental payload for optical communication.
+GEO imaging High Resolution Camera (GHRC): for high resolution imaging from geosynchronous orbit. It has 55 meter resolution and can image in six VNIR spectral bands at ~0.6 sec/frame.
+
+
+== Launch ==
+
+The satellite was launched on 14 November 2018 through the second developmental flight of GSLV Mk III, that placed the GSAT-29 satellite into its planned geosynchronous transfer orbit (GTO) over the equator. It joins the Indian National Satellite System (INSAT) fleet in geostationary orbit.
+
+
+== References ==

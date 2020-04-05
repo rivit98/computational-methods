@@ -1,0 +1,21 @@
+Progressive stamping is a metalworking method that can encompass punching, coining, bending and several other ways of modifying metal raw material, combined with an automatic feeding system.
+The feeding system pushes a strip of metal (as it unrolls from a coil) through all of the stations of a progressive stamping die. Each station performs one or more operations until a finished part is made. The final station is a cutoff operation, which separates the finished part from the carrying web. The carrying web, along with metal that is punched away in previous operations, is treated as scrap metal. Both are cut away, knocked down (or out of the dies) and then ejected from the die set, and in mass production are often transferred to scrap bins via underground scrap material conveyor belts.
+The progressive stamping die is placed into a reciprocating stamping press.  As the press moves up, the top die moves with it, which allows the material to feed. When the press moves down, the die closes and performs the stamping operation. With each stroke of the press, a completed part is removed from the die.
+Since additional work is done in each "station" of the die, it is important that the strip be advanced very precisely so that it aligns within a few thousandths of an inch as it moves from station to station.  Bullet shaped or conical "pilots" enter previously pierced round holes in the strip to assure this alignment since the feeding mechanism usually cannot provide the necessary precision in feed length.
+Progressive stamping can also be produced on transfer presses. These are presses that transfer the components from one station to the next with the use of mechanical "fingers". For mass production of stamped parts which do require complicated in-press operations, it is always advisable to use a progressive press. One of the advantages of this type of press is the production cycle time. Depending upon the part, productions can easily run well over 800 parts/minute. One of the disadvantages of this type of press is that it is not suitable for high precision deep drawing which is when the depth of the stamping exceeds the diameter of the part. When necessary, this process is performed upon a transfer press, which run at slower speeds, and rely on the mechanical fingers to hold the component in place during the entire forming cycle. In the case of the progressive press, only part of the forming cycle can be guided by spring-loaded sleeves or similar, which result in concentricity and ovality issues and non uniform material thickness. 
+Other disadvantages of progressive presses compared to transfer presses are: increased raw material input required to transfer parts, tools are much more expensive because they are made in blocks with very little independent regulation per station; impossibility to perform processes in the press that require the part leave the strip (example beading, necking, flange curling, thread rolling, rotary stamping etc.).
+The dies are usually made of tool steel to withstand the high shock loading involved, retain the necessary sharp cutting edge, and resist the abrasive forces involved.
+The cost is determined by the number of features, which determine what tooling will need to be used.  It is advised to keep the features as simple as possible to keep the cost of tooling to a minimum.  Features that are close together produce a problem because it may not provide enough clearance for the punch, which could result in another station.  It can also be problematic to have narrow cuts and protrusions.
+
+
+== Applications ==
+A representative example of the product of a progressive die is the lid of a beverage can.  The pull tab is made in one progressive stamping process and the lid & assembly is made in another, the pull tab simultaneously feeding at a right angle into the lid & assembly process. Also various car brake calipers have plates that are bent into shape, possibly cut too using these methods.
+
+
+== See also ==
+Stamping press
+
+
+== References ==
+Kalpakjian, Serope; Schmid, Steven R. (2006). Manufacturing Engineering and Technology. Upper Saddle River, NJ: Pearson Prentice Hall. p. 474. ISBN 0-13-148965-8.
+Moghaddam, M. J., M. R. Soleymani, and M. A. Farsi. "Sequence planning for stamping operations in progressive dies." Journal of Intelligent Manufacturing(2013): 1-11.

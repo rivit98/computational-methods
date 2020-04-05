@@ -1,0 +1,17 @@
+Corporate taxonomy is the hierarchical classification of entities of interest of an enterprise, organization or administration, used to classify documents, digital assets and other information. Taxonomies can cover virtually any type of physical or conceptual entities (products, processes, knowledge fields, human groups, etc.) at any level of granularity.
+Corporate taxonomies are increasingly used in information systems (particularly content management and knowledge management systems), as a way to promote discoverability and allow instant access to the right information within exponentially growing volumes of data in learning organizations. Relatively simple systems based on semantic networks and taxonomies proved to be a serious competitor to heavy data mining systems and behavior analysis software in contextual filtering applications used for routing customer requests, "pushing" content on a Web site or delivering product advertising in a targeted and pertinent way.
+A powerful approach to map and retrieve unstructured data, taxonomies allow efficient solutions in the management of corporate knowledge, in particular in complex organizational models for workflows, human resources or customer relations.
+As an extension of traditional thesauri and classifications used in a company, a corporate taxonomy is usually the fruit of a large harmonization effort involving most departments of the organization. It is often developed, deployed and fine tuned over the years, while setting up knowledge management systems, in order to assure the survival and good use of valuable corporate know-how.
+Enterprises have varying interest in the usage of taxonomies, from the usual enterprise information searches to the direct business benefits of taxonomies benefiting quicker and more accurate searches for the merchandise or the services of e-commerce or e-library sites. Such organisations may need to build large and complex vocabularies and deal with information assets that are largely in the public domain. Consequently, they are looking to shortcut their metadata schema development and avoid reinventing the wheel. Such shortcuts include the licensing of ready-built taxonomies and vocabularies with which to enhance their search results quickly.
+
+
+== References ==
+
+Information intelligence: Content classification and enterprise taxonomy practice. Delphi Group. 2004. Last checked 29 January 2016.  This whitepaper defines taxonomy and classification within an enterprise information architecture, analyzes trends in taxonomy software applications, and provides examples of approaches to using this technology to solve business problems.
+
+
+== External links ==
+Taxonomy Strategies - Bibliography of resources. Most of the items selected are written for a general business audience, or are a basic primer on the particular topic.
+Taxonomy Warehouse - Listing of most taxonomies that are available.  Resource for finding taxonomies on a variety of topics
+WAND Taxonomies. Source for pre-built corporate taxonomies covering many different industry and business segments.
+Eugene Stakhov/ARMA International. Object-oriented taxonomy approach

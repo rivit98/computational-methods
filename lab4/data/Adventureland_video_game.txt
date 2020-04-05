@@ -1,0 +1,18 @@
+Adventureland is the first text adventure game for microcomputers, released by Scott Adams in 1978. The game involves searching for thirteen lost artifacts in a fantasy setting. It was very successful and led Adams to form Adventure International, which went on to publish thirteen similar games in the Adventure series, each in different settings.
+
+
+== Gameplay ==
+
+Adventureland is controlled through the use of written commands. These can consist of single word, such as those used for player character movement, including north, south, east, west, up, and down. They can also take the form of simple, two-word verb/noun phrases, such as "climb tree". Although the game can recognize about 120 words, the parser only takes the first three letters into account. This means not only that the parser occasionally misidentifies words, but also that commands can be truncated: "lig lam" would be interpreted as "light lamp."
+In order to complete the game, the player has to collect the thirteen lost artifacts: A statue of Paul Bunyan's blue ox, Babe, the jeweled fruit, the golden fish, a dragon's egg, a golden net, a magic carpet, a diamond necklace, a diamond bracelet, a pot of rubies, the "royal honey", a crown, a magic mirror, and a "firestone."
+
+
+== Development ==
+Adventureland, Adams' first program, is similar to the "original" Adventure program, though slightly scaled down in comparison. The source code for Adventureland was published in SoftSide magazine in 1980 and the database format was subsequently used in other interpreters such as Brian Howarth's Mysterious Adventures series.The game was available on a number of platforms, including the Apple II series of computers, and various computers released by Atari, Commodore International, and Texas Instruments. A cut-down, three treasure version entitled 'Adventure 0: Special Sampler' was also made available at a special low price.In 1982, Adventureland was re-released with graphics, thus enabling the player to view visible representations of the scenery and objects.
+
+
+== Reception ==
+Mark Herro for Dragon commented that "I can't recommend ANY version of Scott Adams' ADVENTURE series highly enough. Beg, borrow, or steal a chance to play ADVENTURE!!!!!"
+
+
+== References ==

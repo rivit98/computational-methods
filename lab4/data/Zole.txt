@@ -1,0 +1,41 @@
+Zole (diminutive Zolīte) is a Latvian national trick-taking cooperative card game for 3 to 5 players. The game belongs to the Schafkopf group of Ace-Ten games, i.e. Jacks and Queens are permanent trumps in the game. Zole is played using only 26 cards of a 32-card piquet deck or French-style deck, consisting of 36 cards. Six or ten cards are removed from the deck and left out of play. Official rules and terminology were published by the Latvian Zole Game Federation (LZSF) in 1996.
+
+
+== Origin of the name ==
+The game's name is derived from the Latvian word (Latvian: zole), meaning sole. The rules of zole were originally published in Emanuel Lasker's book under the name Skat Rēvelīts and probably have Estonian origin.
+
+
+== Playing deck ==
+The Zolīte playing deck consists of all the Aces, Kings, Queens, Jacks, Tens and Nines plus the 8 of diamonds and 7 of diamonds. This gives a total of 26 cards. The Queens, Jacks and all Diamonds are permanent trumps giving a total of 14 trumps. The Queen of Clubs is the strongest card in the deck followed in order of strength by the Queen of Spades, Hearts and Diamonds and then the Jack of Clubs, Spades, Hearts and Diamonds and then the Ace, Ten, King, 9, 8, 7 of diamonds . The remaining 12 cards are suits of Clubs, Spades and Hearts comprising in order of strength the Ace, Ten, King and 9. All suits are of equal strength.
+
+
+== Rules ==
+Zole is usually played by 3 to 5 players, called zolemann, although only 3 zolemannes simultaneously take part in the play, one play against another two. The game is trick-based and commonly played for money. There is no time limit for the party, but duration of the turn limited to 1 minute.
+If there are 4 players the dealer sits out the round while the remaining 3 play. If there are 5 players the dealer deals to the First, Second and Fourth player so the dealer and the Third player sit out the round.  Traditionally they go for the drinks and snacks during this time.  Importantly the players that sit out are on the side of the 2 players playing against the one player for scoring/payment purposes.
+In the beginning of the game the dealer is voluntary selected from the participants. The dealer is the player who draws the strongest card from the pack with the Queen of clubs being the strongest. In the following games, the player to the left of current dealer will become the next dealer.
+The dealer shuffles the deck and gives it to the player on his right to cut. Traditionally the player cutting the pack places the cut portion closer to himself as if inviting luck to come to him.  After this, he deals cards in packets of four cards to each participant two times, starting with the player on his left, thus each player has 8 cards in total and 2 cards are left on the table.
+With all cards on the hands, the player must select, either to play against two other participants, or to play in pair with one of the players. If s(he) chooses the first variant, s(he) is called Big (Latvian: Lielais), if second s(he) will become one of the two Small (Latvian: Mazais), playing against Big.
+Lielais is selected by each player clockwise from the dealer being given the opportunity to pick up the two cards on the table, leave them for the next player to pick up or elect to play Zole/solo without the centre cards and gifting their value (unseen by any one until the end of the game) to the Mazie. The player who picks up the cards or chooses to play without them is called the Lielais (Big). Lielais selects the best 8 cards from the ten he now has with the vale of his discarded two cards adding to his final score but only if he wins at least one trick.
+The target of the game is for Lielais to collect the majority of points available, i.e. 61 out of 120, which is the maximum quantity of points in the game. If both sides get 60 then the Mazie win. The value of the cards is as follows: Ace – 11 points, Ten – 10, King – 4, Queen – 3, Jack - 2, all other cards have zero value. It's worth to note that 10 is stronger and of higher value than the King, in some computer variant of the game Tens are marked as Ø.
+
+
+== See also ==
+Sheepshead (game)
+Doppelkopf
+Ombre
+
+
+== References ==
+
+
+== Bibliography ==
+Kolbergs, Andris (1996), Zolīte Latvijā un pasaulē, Rīga, LV: Vērmaņparks, ISBN 9984-08-004-8
+Lasker, Emanuel (1991) [1931], Kāršu spēles, Rīga, LV: Atbalss, ISBN 5-89965-059-1
+Borisevičius, Albinas (2001), Pirmasis padalijimas, Vilnius, LT, ISBN 5-415-01463-2
+Kangeris, Kārlis (1977–1978), Magazine "Afišas", Munster, DE: Latvian gymnasium
+
+
+== External links ==
+zole.fix.lv - Zole game server
+Computer variant of Zole for DOS
+Rules of Zole from Latvian Institute

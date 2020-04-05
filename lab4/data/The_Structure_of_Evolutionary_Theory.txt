@@ -1,0 +1,20 @@
+The Structure of Evolutionary Theory (2002) is Harvard paleontologist Stephen Jay Gould's technical book on macroevolution and the historical development of evolutionary theory. The book was twenty years in the making, published just two months before Gould's death. Aimed primarily at professionals, the volume is divided into two parts. The first is a historical study of classical evolutionary thought, drawing extensively upon primary documents; the second is a constructive critique of the modern synthesis, and presents a case for an interpretation of biological evolution based largely on hierarchical selection, and the theory of punctuated equilibrium (developed by Niles Eldredge and Gould in 1972).
+
+
+== Summary ==
+According to Gould, classical Darwinism encompasses three essential core commitments: Agency, the unit of selection (which for Charles Darwin was the organism) upon which natural selection acts; efficacy, which encompasses the dominance of natural selection over all other forces—such as sexual selection, genetic drift, and biological constraints—in shaping the historical, ecological, and structural influences on evolution; and scope, the degree to which natural selection can be extrapolated to explain biodiversity at the macroevolutionary level, including the evolution of higher taxonomic groups.
+Gould described these three propositions as the "tripod" of Darwinian central logic, each being so essential to the structure that if any branch were cut it would either kill, revise, or superficially refurbish the whole structure—depending on the severity of the cut. According to Gould "substantial changes, introduced during the last half of the 20th century, have built a structure so expanded beyond the original Darwinian core, and so enlarged by new principles of macroevolutionary explanation, that the full exposition, while remaining within the domain of Darwinian logic, must be construed as basically different from the canonical theory of natural selection, rather than simply extended."
+In the arena of agency, Gould explores the concept of "hierarchy" in the action of evolution (the idea that evolution may act on more than one unit simultaneously, as opposed to only acting upon individual organisms). In the arena of efficacy he explores the forces beside natural selection that have been considered in evolutionary theory. In the arena of scope he considers the relevance of natural selection to the larger scale patterns of life.
+Gould was motivated to write the book by contrasting the opinions of Darwin and Hugh Falconer about the future of Darwinism. Part I of the book focuses on the early history of evolutionary thought (pre-1859). Chapter one introduces and outlines the Structure of Evolutionary Theory, with chapter two covering the structure of The Origin of Species, chapter three focusing on issues surrounding agency, chapters four and five covering efficacy, and chapters six and seven covering scope. Part II—comprising the bulk of the text—focuses on the modern discussion and debate (post-1959). Chapters eight and nine cover agency, while chapters ten and eleven cover efficacy, and twelve covers scope.
+Sections of the book dealing with punctuated equilibrium, primarily chapter nine, have been posthumously reprinted as a separate volume by Belknap Harvard.
+
+
+== References ==
+
+
+== External links ==
+Harvard's promotional page
+Punctuated Equilibrium's Threefold History - book excerpt
+Charlie Rose, March 1, 1994 - Gould discusses the purpose of the book
+Of Beauty and Consolation - Gould on writing Structure
+The Structure of Evolutionary Theory - profile page with introduction and reviews

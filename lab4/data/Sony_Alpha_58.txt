@@ -1,0 +1,23 @@
+The Sony α58, Sony Alpha 58 also known as Sony A58 (model name SLT-A58) is a mid-range digital camera from Sony's Alpha SLT camera line, introduced in 2013.
+
+
+== Specifications ==
+The Alpha 58 camera features 5fps burst shooting (8fps in 5MP 'Tele-Zoom' mode), 1080/60i and 1080/24p video in both AVCHD and Mpeg4 formats, 15-point phase-detection autofocus system, ISO range of 100–16000, APS-C sized CMOS sensor, a tiltable 2.7" LCD screen, a high-resolution OLED Tru-Finder with 100% coverage, a built in flash, an ISO 518-compatible Sony hotshoe, a stereo microphone for video shooting and other features.
+The auto-focus system provides eight modes: Phase Detect, Multi-area, Selective single-point, Tracking, Single, Continuous, Face Detection, Live View.
+
+
+=== Video ===
+AVCHD recording at 1920 x 1080 (50i (1080i) @ 24 Mbit/s, 50i (1080i) @ 17 Mbit/s, 25p (1080p) @ 24 Mbit/s, 25p (1080p)) @ 17 Mbit/s (Europe models)or 1920 x 1080 (60i (1080i) @ 24 Mbit/s, 60i (1080i) @ 17 Mbit/s, 24p (1080p) @ 24 Mbit/s, 24p (1080p)) @ 17 Mbit/s (USA models)
+
+MPEG-4 recording at 1440 x 1080 (Approx.25fps @ 12Mbit/s (Average bit-rate))The interlaced video modes store progressively recorded frames at half the stated field rate. Unlike its predecessor, the Sony Alpha 57, the Alpha 58 does not offer 50p/60p video modes. Also unlike previous generation SLT cameras including the A57, A65, and A77, the A58 does not crop the sensor width when video Steady Shot is turned off.
+
+
+== Reception ==
+Amy Davies of TechRadar gave the camera four stars out of five, describing it this way: "Sony has produced a very good camera in the Alpha a58, and we're sure that anybody who buys one will be very pleased with its performance, [...] it also offers excellent value for money, especially compared with its closest rivals." Imagine Resource regarded image quality ("in fact, the A58's images stack up well against those from much more expensive, enthusiast-level DSLRs"), sharpness and graphical user interface.
+
+
+== Sources ==
+
+
+== External links ==
+Sony Alpha 58, official specifications

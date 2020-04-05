@@ -1,0 +1,18 @@
+In enzymology, a 1-pyrroline-4-hydroxy-2-carboxylate deaminase (EC 3.5.4.22) is an enzyme that catalyzes the chemical reaction
+
+1-pyrroline-4-hydroxy-2-carboxylate + H2O 
+  
+    
+      
+        ⇌
+      
+    
+    {\displaystyle \rightleftharpoons }
+   2,5-dioxopentanoate + NH3Thus, the two substrates of this enzyme are 1-pyrroline-4-hydroxy-2-carboxylate and H2O, whereas its two products are 2,5-dioxopentanoate and NH3.
+This enzyme belongs to the family of hydrolases, those acting on carbon-nitrogen bonds other than peptide bonds, specifically in cyclic amidines.  The systematic name of this enzyme class is 1-pyrroline-4-hydroxy-2-carboxylate aminohydrolase (decyclizing). This enzyme is also called HPC deaminase.  This enzyme participates in arginine and proline metabolism.
+
+
+== References ==
+
+Singh RM, Adams E (1965). "Enzymatic deamination of delta-1-pyrroline-4-hydroxy-2-carboxylate to 2,5-dioxovalerate (alpha-ketoglutaric semialdehyde)". The Journal of Biological Chemistry. 240 (11): 4344–51. PMID 5845838.
+Singh RM, Adams E (Nov 1965). "Isolation and identification of 2,5-dioxovalerate, an intermediate in the bacterial oxidation of hydroxyproline". The Journal of Biological Chemistry. 240 (11): 4352–6. PMID 5845839.

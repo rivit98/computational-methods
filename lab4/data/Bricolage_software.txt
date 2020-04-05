@@ -1,0 +1,23 @@
+Bricolage is a content management system (CMS) written in the Perl programming language.
+Bricolage has been described as an Enterprise Class CMS, competitive in features and capability to high end, high cost proprietary products.  Examples of organizations whose web sites use Bricolage include the World Health Organization, Rand Corporation, Macworld, and The Tyee.
+Originally authored by David Wheeler to manage content for Salon.com, Bricolage is now maintained by a small group of core developers. Released under the revised BSD license, Bricolage is free and open source software.
+
+
+== Design ==
+Bricolage runs on the Apache web server on the Linux, BSD, Mac OS X and Solaris platforms. It can use either the PostgreSQL, MySQL and Oracle database management system and mod perl.Bricolage is inherently a multi user CMS, designed to manage workflow for large websites with many contributors. Bricolage uses a template development model and completely separates presentation from management of content.  The CMS can (and often does) reside on a different server than the web site or other data store being managed.Native PHP support was added in Bricolage 1.10, that embeds a PHP 5 interpreter inside a Perl 5 interpreter. As a result, PHP code runs in a native PHP 5 environment, but can also transparently make use of any and all Perl libraries, including the complete Bricolage API.
+
+
+== Etymology ==
+The name is probably based on the noun bricolage, meaning "Something constructed using whatever was available at the time".
+
+
+== See also ==
+
+List of content management systems
+
+
+== References ==
+
+
+== External links ==
+Project home page

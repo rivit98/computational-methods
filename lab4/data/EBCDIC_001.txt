@@ -1,0 +1,8 @@
+IBM code page 1 (CCSID 1) is an EBCDIC code page used in IBM mainframes in the United States.
+
+
+== Codepage layout ==
+Characters are shown with their equivalent Unicode codes. Differences from EBCDIC 500 have a box.
+
+
+== References ==

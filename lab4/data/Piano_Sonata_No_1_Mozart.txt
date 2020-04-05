@@ -1,0 +1,34 @@
+Wolfgang Amadeus Mozart's Piano Sonata No. 1 in C major, K. 279 / 189d (1774), is a piano sonata in three movements. It was written down, except for the first part of the opening movement, during the visit Mozart paid to Munich for the production of La finta giardiniera from late 1774 to the beginning of the following March. A typical performance of the sonata takes about 14 minutes. It is the first of his 18 piano sonatas. All but two of the sonatas, No. 8 in A minor and No. 14 in C minor, are in a major key. Also, the first six sonatas seem to follow the cycle of fifths, to the flat side first (No. 1 in C major, No. 2 in F major, No. 3 in B-flat major, No. 4 in E-flat major) and then to the sharp side (No. 5 in G major, No. 6 in D major).
+
+
+== Movements ==
+The sonata is in 3 movements:
+
+Allegro
+Andante
+Allegro
+
+
+=== I. Allegro ===
+The first movement, marked Allegro, is structured in sonata form; the exposition opens with a turning figure for the left hand, which forms the basis for much of this movement. After a repeat of the opening 2 bars, an Alberti bass is introduced for the left hand, whilst the right hand plays the melody based on the opening turning figure. The opening section uses chromatic appogiaturas for colour. An imperfect cadence leads towards the dominant (G major) in preparation for the 2nd subject, as expected. The second subject focuses on rapid scales and leads to a perfect cadence in G major, ready for the development section. The exposition is repeated, which is standard for sonata form. The development begins in G minor uses the opening theme to follow a series of ascending arpeggios in several keys before moving towards G major and then back to the tonic, C major, for the recapitulation. The recapitulation follows a similar structure to the exposition, although the imperfect cadence that led to the dominant previously now leads to the final 10 bars of the exposition, this time in the tonic key. The first movement ends with a perfect cadence and a three bar elaboration on the tonic.
+
+
+=== II. Andante ===
+The Andante is full of expressive shading, the result of Mozart's harmonic freedom. This movement is based in F major, the subdominant of the whole work's tonal home and is structured in sonata form. By the end of the exposition, Mozart has modulated to the dominant, C major and begins the development in this key. The work then quickly makes temporary transitions through G and D minor, in order to move back to the tonic for the recapitulation, which follows the exposition closely.
+
+
+=== III. Allegro ===
+The Allegro is in 24 time, and is based in C major. This features an unusually active part for the left hand, another extended development section, and a surprising close: Mozart rounds the sonata off with two firm chords, which he marks Coda.
+
+
+== References ==
+
+
+== Sources ==
+Cliff Eisen, et al. "Mozart." In Oxford Music Online<http://www.oxfordmusiconline.com/subscriber/article/grove/music/40258pg3>
+Grout, Donald J.;  et al. (2010). "23 – Classical Music in the late 18th Century". A History of Western Music (8th ed.). New York: W. W. Norton & Company.
+
+
+== External links ==
+Sonate in C, KV 279: Score and critical report (in German) in the Neue Mozart-Ausgabe
+Piano Sonata No. 1: Scores at the International Music Score Library Project (IMSLP)

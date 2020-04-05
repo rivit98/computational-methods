@@ -1,0 +1,17 @@
+In enzymology, an alanylphosphatidylglycerol synthase (EC 2.3.2.11) is an enzyme that catalyzes the chemical reaction
+
+L-alanyl-tRNA + phosphatidylglycerol 
+  
+    
+      
+        ⇌
+      
+    
+    {\displaystyle \rightleftharpoons }
+   tRNA + 3-O-L-alanyl-1-O-phosphatidylglycerolThus, the two substrates of this enzyme are L-alanyl-tRNA and phosphatidylglycerol, whereas its two products are tRNA and 3-O-L-alanyl-1-O-phosphatidylglycerol.
+This enzyme belongs to the family of transferases, specifically the aminoacyltransferases.  The systematic name of this enzyme class is L-alanyl-tRNA:phosphatidylglycerol alanyltransferase. Other names in common use include O-alanylphosphatidylglycerol synthase, and alanyl phosphatidylglycerol synthetase.
+
+
+== References ==
+
+Gould RM, Thornton MP, Liepkalns V, Lennarz WJ (1968). "Participation of aminoacyl transfer ribonucleic acid in aminoacyl phosphatidylglycerol synthesis. II. Specificity of alanyl phosphatidylglycerol synthetase". J. Biol. Chem. 243 (11): 3096–104. PMID 4297471.

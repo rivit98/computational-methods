@@ -1,0 +1,22 @@
+Hexplore is a 1998 role-playing video game developed by Heliovisions Productions and published by Infogrames. It was released digitally on December 20, 2019 by Piko Interactive on GOG.com.
+
+
+== Premise ==
+Set in 1000 AD, the player explores the world as MacBride, the adventurer. Early in the game you are joined by three party members, an archer (Drulak), a warrior (Vigrad) and a sorcerer (Uraeus). The player must track down Garkham, the black magician, to free the main characters' companions that were taken prisoner.
+The game continues the story from there, and characters may leave or join the party (of a maximum of four members) in subsequent missions. Most of the characters are optional, which means the user may or may not recruit them for future quests.
+The game features over 200 levels with puzzle-solving and combat, and allows up to 4 players in cooperative multiplayer mode.
+
+
+== Technical details ==
+The game's engine utilises voxels for creating 3-D shapes and the level, being then relatively fast at the time it was released. The game world is seen from a top-down, isometric perspective, and the player is allowed to rotate the camera round the centre of view.
+
+
+== Reception ==
+Next Generation reviewed the PC version of the game, rating it three stars out of five, and stated that "Hexplore is no Diablo, but it offers an excellent introduction to the genre. Newcomers can move up to the heavy-hitters later, once they learn the ropes."
+
+
+== References ==
+
+
+== External links ==
+Hexplore at MobyGames

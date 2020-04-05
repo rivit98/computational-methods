@@ -1,0 +1,7 @@
+RSDL is the RESTful Service Description Language, an XML description of HTTP-based web applications.
+RSDL may also refer to:
+
+Rotating Staircase Deadline, a Linux CPU scheduler
+Rail Simulator Developments Ltd, a developer of Rail Simulator
+Reactive skin decontamination lotion; See Dry decontamination
+Reverse spiral dual layer, a DVD format; For example See Intimate and Live

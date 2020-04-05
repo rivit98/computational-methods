@@ -1,0 +1,27 @@
+The Dryade Class was a type of 60-gun frigate of the French Navy, designed in 1823 by Paul-Marie Leroux.
+
+DryadeBuilder: Rochefort
+Begun:
+Launched: 12 July 1827
+Completed:
+Fate: deleted 9 May 1838.DidonBuilder: Toulon
+Begun:
+Launched: 15 July 1828 at
+Completed:
+Fate: deleted 28 March 1867.RenomméeBuilder: Rochefort
+Begun:
+Launched: 28 July 1847
+Completed:
+Fate: fitted as steam-assisted frigate 1858 – deleted 15 November 1878.GuerrièreBuilder: Brest
+Begun:
+Launched: 3 May 1860
+Completed:
+Fate: deleted 28 May 1888.SémiramisBuilder: Rochefort
+Begun:
+Launched: 8 August 1861
+Completed:
+Fate: deleted 3 May 1877.
+
+
+== References ==
+Roche, Jean-Michel (2005). Dictionnaire des bâtiments de la flotte de guerre française de Colbert à nos jours, 1671 - 1870. Group Retozel-Maury Millau. ISBN 978-2-9525917-0-6. OCLC 165892922.

@@ -1,0 +1,69 @@
+In linguistics, the Gunning fog index is a readability test for English writing. The index estimates the years of formal education a person needs to understand the text on the first reading. For instance, a fog index of 12 requires the reading level of a United States high school senior (around 18 years old). The test was developed in 1952 by Robert Gunning, an American businessman who had been involved in newspaper and textbook publishing.The fog index is commonly used to confirm that text can be read easily by the intended audience. Texts for a wide audience generally need a fog index less than 12. Texts requiring near-universal understanding generally need an index less than 8.
+
+
+== Calculation ==
+The Gunning fog index is calculated with the following algorithm:
+Select a passage (such as one or more full paragraphs) of around 100 words. Do not omit any sentences;
+Determine the average sentence length. (Divide the number of words by the number of sentences.);
+Count the "complex" words consisting of three or more syllables. Do not include proper nouns, familiar jargon, or compound words. Do not include common suffixes (such as -es, -ed, or -ing) as a syllable;
+Add the average sentence length and the percentage of complex words; and
+Multiply the result by 0.4.The complete formula is:
+
+  
+    
+      
+        0.4
+        
+          [
+          
+            
+              (
+              
+                
+                  
+                    words
+                  
+                  
+                    sentences
+                  
+                
+              
+              )
+            
+            +
+            100
+            
+              (
+              
+                
+                  
+                    complex words
+                  
+                  
+                    words
+                  
+                
+              
+              )
+            
+          
+          ]
+        
+      
+    
+    {\displaystyle 0.4\left[\left({\frac {\mbox{words}}{\mbox{sentences}}}\right)+100\left({\frac {\mbox{complex words}}{\mbox{words}}}\right)\right]}
+  
+
+
+== Limitations ==
+While the fog index is a good sign of hard-to-read text, it has limits. Not all complex words are difficult. For example, "interesting" is not generally thought to be a difficult word, although it has three syllables (after omitting the common -ing suffix). A short word can be difficult if it is not used very often by most people. The frequency with which words are in normal use affects the readability of text.Until the 1980s, the fog index was calculated differently. The original formula counted each clause as a sentence. Because the index was meant to measure clarity of expression within sentences, it assumed people saw each clause as a complete thought.
+In the 1980s, this step was left out in counting the fog index for literature. This might have been because it had to be done manually. Judith Bogert of Pennsylvania State University defended the original algorithm in 1985. A review of subsequent literature shows that the newer method is generally recommended.Nevertheless, some continue to point out that a series of simple, short sentences does not mean that the reading is easier. In some works, such as Gibbon's The History of the Decline and Fall of the Roman Empire, the fog scores using the old and revised algorithms differ greatly. A sample test took a random footnote from the text: (#51: Dion, vol. I. lxxix. p. 1363. Herodian, l. v. p. 189.) and used an automated Gunning Fog calculator, first using the sentence count, and then the count of sentences plus clauses. The calculator gave an index of 19.2 using only sentences, and an index of 12.5 when including independent clauses. This brought down the fog index from post-graduate to high school level.
+
+
+== See also ==
+Flesch–Kincaid readability tests
+Plain language
+Readability
+
+
+== References ==

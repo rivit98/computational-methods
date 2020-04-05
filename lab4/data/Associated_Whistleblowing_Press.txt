@@ -1,0 +1,44 @@
+The Associated Whistleblowing Press (AWP) is a not-for-profit information agency based in Brussels, Belgium, dedicated to the defense of human rights by promoting transparency, freedom of information and speech, whistleblowing and investigative journalism, conceived as a global network made up of cooperative local platforms and actors. According to its website, the initiative aims to work in a decentralized network structure, with local platforms that deal with local information, contexts and actors in a "from the roots upward model". The stories produced will then be published on the project's multilanguage newsroom under a Creative Commons license.
+The team consists of collaborators spread all around the world, led by two editors, Pedro Noel and Santiago Carrion.
+
+
+== Decentralized platforms ==
+In a strategy to amplify the social effect of denouncing on crimes and corruption, the Associated Whistleblowing Press is building whistleblowing platforms oriented to different communities as well as precise issues or problematic subjects, establishing networks with local and international media and civil society organizations. The platforms created to precise contexts are intended to achieve specific goals in transparency, publishing restricted or censored material of political, scientific, ethical, diplomatic or historical significance. Rumor, opinion, stories and other kinds of first hand accounts or material that is publicly available elsewhere will not be accepted. Materials which violate individual privacy will not be accepted unless they speak up on violations and abuses that affect the public sphere.
+
+
+=== Ljost ===
+On September 30, 2012, the AWP launched Ljost, its first local whistleblowing platform in Reykjavík, Iceland. Internet pioneer Guðmundur Ragnar Guðmundsson, Birgitta Jónsdóttir, a member of parliament of Althing, the Icelandic parliament, representing the Pirate Party Iceland and investigative journalist Jon Bjarki have all collaborated with the creation of the platform.
+Ljost.is a website which allows Icelandic citizens to send information proving abuse or corruption in a safe and anonymous way. The platform is a network of journalists, researchers and media agencies dedicated to analyzing and publishing leaked content to make governments and corporations accountable for their actions by bringing them into light.
+According to the Associated Whistleblowing Press, the main objective moving Ljost platform is to restore the media as an active player for truth and justice in Iceland, believing transparency as the best way to increase social accountability of local governments and corporations for their actions. AWP members believe that for journalists, researchers and media activists, this is a powerful way to lead people to take action against repression, abuse of power, censorship, social inequality and corporate greed in Icelandic society.
+On December 30, 2013, Ljost published the Glitnir Files, a leak that brings into public account detailed information identifying Glitnir bank’s biggest borrowers and stakeholders as well as relevant track of some its shares movements during 2007/2008 and evidence that a handful of individuals and companies with strong connections to Glitnir's central shareholders borrowed large amounts of cash from the bank, often with insufficient underlying collateral.
+
+
+=== Filtrala ===
+On April 23, 2014, the AWP launched Filtrala, its first local whistleblowing platform in Spain.
+The name of the project literally means “leak it”. It was launched in collaboration with four Spanish media organizations – La Marea, eldiario.es, Diagonal, Mongolia –, two Catalan media organizations – Crític, La Directa – along with the Comisión Anticorrupcíon de la Red Ciudadana Partido X.
+It was created to serve Spanish society in a way that anyone can send safe and anonymous information that denounces crimes, corruption, abuse and infraction from individuals, corporations or institutions. It is part of the international network of AWP and it is settled in Belgium for its recognition in law ensuring press freedom, informant protection and journalism protection.
+The main objective is to amplify revealed information in a mediatic, civil and legal level. Through the Platform the Spanish society has a citizen mechanism to fight against corruption and abuse with the aim of a social regeneration based mainly in social justice.
+
+
+== Submission system ==
+AWP uses GlobaLeaks software to manage on-line submissions of sensitive materials and obligates its users to use the Tor anonymity system through a 'tor hidden service only' platform. (Furthermore, AWP is a member of torservers.net, a network of nonprofits which specializes in the general establishment of Tor exit nodes via workshops and donations.) Each node is in charge of managing a virtual dropbox, analyzing any information received, transforming it into news stories and coordinating within a local and international network of media and organizations before publication.
+
+
+== Data management policies ==
+The analysis of all submissions consists of two main steps. First of all a thorough investigation will be done into what are normally very large files in variable formats (such as emails or internal memos) in order to locate relevant information. This information will later be put into context, explaining actors, motives and consequences in relation to the organizations or people in question.
+When publishing the results as news, the AWP will work closely with as many trustworthy media partners and activists as they can in order to reach the largest audience possible. The dissemination process will also be amplified thanks to the Internet and social media.
+
+
+== See also ==
+Whistleblowing
+GlobaLeaks
+Tor (anonymity network)
+Pedro Noel
+Birgitta Jónsdóttir
+
+
+== External links ==
+Official website
+
+
+== References ==

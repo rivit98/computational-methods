@@ -1,0 +1,54 @@
+In astronomy, a transit instrument is a small telescope with extremely precisely graduated mount used for the precise observation of star positions.  They were previously widely used in astronomical observatories and naval observatories to measure star positions in order to compile nautical almanacs for use by mariners for celestial navigation, and observe star transits to set extremely accurate clocks (astronomical regulators) which were used to set marine chronometers carried on ships to determine longitude, and as primary time standards before atomic clocks.  The instruments can be divided into three groups:
+
+
+== Meridian instruments ==
+for observation of star transits in the exact direction of South or North:
+
+Meridian circles, Mural quadrants etc.
+Passage instruments (transportable, also for prime vertical transits)
+
+
+== Universal instruments ==
+which allow transit measurements in any direction
+
+Theodolite (Describing a theodolite as a transit may refer to the ability to turn the telescope a full rotation on the horizontal axis, which provides a convenient way to reverse the direction of view, or to sight the same object with the yoke in opposite directions, which causes some instrumental errors to cancel.) (Wolf and Brinker 183–6)
+Altaz telescopes with graduated eyepieces (also for satellite transits)
+Cinetheodolites
+
+
+== Zenith instruments and Astrolabes ==
+Zenith telescope
+Photozenith tube (PZT)
+zenith cameras
+Danjon astrolabe, Zeiss Ni2 astrolabe, Circumzenital
+
+
+== Observation techniques and accuracy ==
+Depending on the type of instrument, the measurements are carried out
+
+visually and manual time registration (stopwatch, Auge-Ohr-Methode, chronograph)
+visually by impersonal micrometer (moving thread with automatic registration)
+photographic registration
+CCD or other electro optic sensors.The accuracy reaches from 0.2" (theodolites, small astrolabes) to 0.01" (modern meridian circles, Danjon). Early instruments (like the mural quadrants of Tycho Brahe) had no telescope and were limited to about 0.01°.
+
+
+== See also ==
+Astronomical transit
+Latitude/longitude observation, vertical deflection
+Positional astronomy, astro-geodesy
+
+
+== References ==
+Wolf, Paul R and Russell C. Brinker. Elementary Surveying, 8th ed. New York: Harper Collins, 1989.
+
+
+== External links ==
+Karl Ramsayer: Geodätische Astronomie, Vol.2a of Handbuch der Vermessungskunde, 900 p., J.B.Metzler, Stuttgart 1969
+Cauvenet and Brünnow's Handbooks of Spherical Geodesy
+"Transit instrument". The Columbia Encyclopedia (6th ed.). The Columbia University Press. 29 September 2018.
+Dreyer, John Louis Emil (1911). "Transit Circle" . Encyclopædia Britannica. 27 (11th ed.). pp. 181–183.
+Great Transit at Lick Observatory, +Photo
+Modern roboter telescopes
+The Carlsberg Automatic Meridian Circle
+Photo of a 19th-century transit instrument (Jones 1826)
+Transit instruments udes by the Survey of India, 1867)

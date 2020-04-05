@@ -1,0 +1,43 @@
+Tumstatin is a protein fragment cleaved from collagen that serves as both an antiangiogenic and proapoptotic agent. It has similar function to canstatin, endostatin, restin, and arresten, which also affect angiogenesis.  Angiogenesis is the growth of new blood vessels from pre-existing blood vessels, and is important in tumor growth and metastasis. Angiogenesis is stimulated by many growth factors, the most prevalent of which is vascular endothelial growth factor (VEGF).
+
+
+== Structure and Function ==
+Tumstatin is a 28 kDa fragment cleaved from collagen type IV There are two subsegments of the peptide that are active; T3 peptide and T7 peptide. The structure is very similar to that of endostatin, which is cleaved from collagen XVIII. The two proteins share 14% amino acid identity, making them very similar in structure. It has been proven to inhibit many types of cells, including bovine endothelial cells, HeLa cells, endothelial cells, and Human umbilical vein endothelial cells (HUVEC) cells.
+
+
+== Mechanism of action ==
+The tumstatin fragment is cleaved by matrix metalloproteinase-9 (MMP)  at the alpha chain on the collagen strand. Tumstatin interacts with the αvβ3 integrin found in the apoptosis pathway. There are two activation sites on the tumstatin fragment. One is at the N-terminus and is responsible for inhibiting angiogenesis. The other is at the C-terminus end and is primarily responsible for the proapoptotic action. Tumstatin inhibits the activation of FAK (Focal Adhesion Kinase), Phosphoinositide 3-kinase (PI3-kinase), protein kinase B (PKB/Akt), and mammalian target of rapamycin (mTOR). In addition to affecting these pathways, it also prevents the dissociation of eukaryotic initiation factor 4E protein (eIF4E) from 4Ebinding protein 1. These pathways are involved in cell proliferation, so tumstatin reacting with them results in changes in the amount of cell division that occurs.
+
+
+=== Antiangiogenesis actions ===
+Since tumstatin has been shown to reduce angiogenesis in tumors, there is great potential to use this knowledge as treatment for cancer.  Tumstatin binds to the endothelium of the tumor and is thus able to affect tumor growth. By affecting the apoptotic pathway, tumstatin inhibits the proliferation of endothelial cells. Tumstatin is a cell-specific inhibitor for protein synthesis and therefore affects angiogenesis, which  occurs at the protein synthesis level.  It has been shown that the efficacy of tumstatin in reducing angiogenesis in tumors increases with tumor size (tumors larger than 500 mm³). 
+In addition to limiting the proliferation of endothelial cells, tumstatin also limits angiogenesis in melanoma cells. The 54-132 amino acid sequence of the tumstatin fragment binds both endothelial and melanoma cells but only inhibits endothelial cell proliferation which the 185-203 amino acid sequence also binds both and inhibits only melanoma proliferation. This is important in discovering the correct binding sites for different cells types and could help to make cancer therapies more cell-type specific.
+One study showed that mice with a genetic deletion of the αvβ3 integrin showed accelerated tumor growth and that when tumstatin was replaced into the system, the tumor growth was disrupted and the tumor shrunk.  It has also been shown that tumstatin has antiangiogenic properties in prostate cancer cells (PCa). PCa was introduced onto a Matrigel and treated with tumstatin, and the formation of new blood vessels as seen in the control did not occur with tumstatin.  These studies suggest that tumstatin may be a viable treatment for many types of cancer, including but not limited to melanoma and prostate cancer.
+Combination treatments involving tumstatin paired with another cancer-fighting drug could be extremely beneficial. One study combined treatments of tumstatin with bevacizumab, or Avastin. This was very successful in downregulating the proliferation of renal carcinoma cells in xenografts.
+
+
+=== Proapoptotic actions ===
+The second mechanism of action for tumstatin in combating cancer cells is to induce apoptosis. Apoptosis is induced through the same receptor as the antiangiogenic receptor, αvβ3. It has been shown to increase apoptosis in HUVEC cells as well as HeLa cells.One study has been done to determine the exact pathway used by tumstatin to induce apoptosis. This revealed that the pathway occurs within the mitochondria. The study used HepG2 human liver carcinoma cells to test this, and found that tumstatin upregulated the expression of Caspase-9, Fas, Bax, Bid, and p53 while downregulating Bcl-2. The addition of tumstatin induced the release of cytochrome c by decreasing the mitochondrial membrane potential. These results show that the proapoptotic activation pathway for tumstatin occurs through mitochondrial  regulation, and can aid in determining appropriate cancer treatments.
+
+
+== Role in other diseases ==
+Since the mechanisms of both of these pathways are not unique to cancer, tumstatin’s regulation of angiogenesis and apoptosis has potential to treat other diseases affected by these pathways as well.
+
+
+=== Diabetes ===
+Diabetic nephropathy as a result of diabetes mellitus is a result of persistent high blood sugar, and is characterized by a lessened globular filtration rate. The mechanism behind diabetic nephropathy is similar to that of angiogenesis, and for this reason, tumstatin may have implications in treating the disease. It was found that VEGF is one of the mediators of glomerular hypertrophy, which causes nephropathy. Since tumstatin inhibits the binding of VEGF, it inhibits diabetic nephropathy as well as resulting in decreased glomerular hypertrophy and hyperfiltration. 
+These findings suggest that tumstatin might be used as a treatment for diabetes by regulating the angiogenesis pathways.
+
+
+=== Asthma ===
+In patients with asthma, treatment with tumstatin may be beneficial. Type-IV collagen is present in the basement membrane within normal lungs, and this is reduced in asthmatic patients. There are also increased levels of MMP in the lungs of asthmatics. Since tumstatin is cleaved by MMP from the collagen in the basement membrane, it has been found that there are much lower levels of tumstatin in the airways of asthmatics than in normal patients. This could account for the increased angiogenesis and hyperresponsiveness of the airways. Increasing the levels of tumstatin in the airways would lead to decreased angiogenesis and therefore eased breathing.
+
+
+== See also ==
+Angiogenesis
+Angiogenesis inhibitor
+Apoptosis
+Endostatin
+
+
+== References ==

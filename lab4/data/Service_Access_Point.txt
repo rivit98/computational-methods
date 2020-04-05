@@ -1,5 +1,0 @@
-A Service Access Point (SAP) is an identifying label for network endpoints used in Open Systems Interconnection (OSI) networking.
-The SAP is a conceptual location at which one OSI layer can request the services of another OSI layer. As an example, PD-SAP or PLME-SAP in IEEE 802.15.4 can be mentioned, where the Media Access Control (MAC) layer requests certain services from the Physical Layer. Service access points are also used in IEEE 802.2 Logical Link Control in Ethernet and similar Data Link Layer protocols.
-When using the OSI Network system (CONS or CLNS), the base for constructing an address for a network element is an NSAP address, similar in concept to an IP address.  OSI As is protocols as well as Asynchronous Transfer Mode (ATM) can use Transport (TSAP), Session (SSAP) or Presentation (PSAP) Service Access Points to specify a destination address for a connection. These SAPs consist of NSAP addresses combined with optional transport, session and presentation selectors, which can differentiate at any of the three layers between multiple services at that layer provided by a network element.
-
-The TSAP is an expansion of the NSAP.

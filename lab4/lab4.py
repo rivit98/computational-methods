@@ -1,11 +1,20 @@
 from collections import Counter
 from typing import List, Any
 from scipy import sparse
+from scipy.sparse.linalg import svds
+from nltk.stem import WordNetLemmatizer
+from nltk.corpus import stopwords
+import nltk
 import os
 import pickle
 import re
 import numpy as np
 import operator
+
+nltk.download('wordnet')
+stop_words = set(stopwords.words('english'))
+np.set_printoptions(precision=3)
+np.set_printoptions(suppress=True)
 
 data_dir = "./data"
 
@@ -45,8 +54,6 @@ class CacheManager:
 
 
 class ArticleData:
-    ignored_words = ["a", "the", "of", "is"]  # and probably more
-
     def __init__(self, title):
         self.title = title.split('.')[0]
         self.bag_of_words = Counter()
@@ -55,12 +62,10 @@ class ArticleData:
 
     def load_bag_of_words(self, path):
         with open(path, "rt", encoding='utf-8') as f:
+            lemmatizer = WordNetLemmatizer()
             words = re.findall(r'\w+', f.read().lower())
-            loaded_words = [word for word in words if len(word) > 2]
+            loaded_words = [lemmatizer.lemmatize(word) for word in words if len(word) > 2 and word not in stop_words]
             self.bag_of_words.update(loaded_words)
-
-        for ignore_token in ArticleData.ignored_words:
-            del self.bag_of_words[ignore_token]
 
     def create_full_bag_of_words(self, keyset, size):
         self.words_vec = np.zeros(size)  # d_j
@@ -161,6 +166,8 @@ def parse_query(query, word_list):
     query = query.lower()
     words_dict = {word: index for index, word in enumerate(word_list)}
     words = re.findall(r'\w+', query)
+    lemmatizer = WordNetLemmatizer()
+    words = [lemmatizer.lemmatize(word) for word in words]
 
     vec_query = np.zeros(len(word_list), dtype=int)
     for w in words:
@@ -180,12 +187,14 @@ def print_search_results(res, k, query):
     for res_entry in res[:k]:
         print('> ' + res_entry[1].title.replace("_", " "))
 
+    print()
 
-    print("\n\nFull articles:")
-    for res_entry in res[:k]:
-        print(res_entry[1].print_contents())
-        print('\n')
-        print('*' * 40)
+    # print("\n\nFull articles:")
+    # for res_entry in res[:k]:
+    #     print(res_entry[1].print_contents())
+    #     print('\n')
+    #     print('-' * 40)
+
 
 def do_query(query, k, word_list, articles):
     vec_query = parse_query(query, word_list)
@@ -209,6 +218,7 @@ def normalize_vectors(articles):
 
 def do_query2(query, k, word_list, articles, A):
     vec_query = parse_query(query, word_list)
+    vec_query = vec_query / np.linalg.norm(vec_query)
 
     res = vec_query.T @ A
     probabilities = []
@@ -218,6 +228,24 @@ def do_query2(query, k, word_list, articles, A):
     print_search_results(probabilities, k, query)
 
 
+def getSVD(A, rank):
+    U, S, VT = sparse.linalg.svds(A, rank)
+    return U @ np.diag(S) @ VT
+
+
+def do_query3(query, k, word_list, articles, A, rank):
+    vec_query = parse_query(query, word_list)
+    q_norm = np.linalg.norm(vec_query)
+
+    res = []
+    for i, ak_row in enumerate(getSVD(A, rank).T):
+        prod = vec_query.T @ ak_row
+        cos_fi = prod / (q_norm * np.linalg.norm(ak_row))
+        res.append((cos_fi, articles[i]))
+
+    print_search_results(res, k, query)
+
+
 if __name__ == "__main__":
     cache = CacheManager()
     # articles - list with all of documents (words vectors + bag of words)
@@ -225,9 +253,7 @@ if __name__ == "__main__":
     # A - sparse matrix, columns are words vectors from articles_data
     articles, word_list, A, idf = prepare_data(cache)
 
-    # do_query("Action film", 5, word_list, articles)
-    # do_query("Winston Churchill", 5, word_list, articles)
-    # do_query("Beautiful places on the earth", 5, word_list, articles)
+
 
     normalize_vectors(articles)
     A_normalized: sparse.csr_matrix = cache.load('A_normalized.dump')
@@ -236,6 +262,18 @@ if __name__ == "__main__":
         A_normalized = create_sparse(articles, len(word_list), idf)
         cache.save('A_normalized.dump', A_normalized)
 
-    # do_query2("Action film", 5, word_list, articles, A_normalized)
-    # do_query2("Winston Churchill", 5, word_list, articles, A_normalized)
-    # do_query2("Beautiful places on the earth", 5, word_list, articles, A_normalized)
+    rank = 120
+
+    do_query("Action film", 5, word_list, articles)
+    do_query2("Action film", 5, word_list, articles, A_normalized)
+    do_query3("Action film", 5, word_list, articles, A, rank)
+
+    do_query2("Winston Churchill", 5, word_list, articles, A_normalized)
+    do_query("Winston Churchill", 5, word_list, articles)
+    do_query3("Winston Churchill", 5, word_list, articles, A, rank)
+
+    do_query("Beautiful places on earth", 5, word_list, articles)
+    do_query2("Beautiful places on earth", 5, word_list, articles, A_normalized)
+    do_query3("Beautiful places on earth", 5, word_list, articles, A, rank)
+
+

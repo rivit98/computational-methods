@@ -1,0 +1,29 @@
+A duress code is a covert distress signal used by an individual who is being coerced by one or more hostile persons. It is used to warn others that they are being forced to do something against their will. Typically, the warning is given via some innocuous signal embedded in normal communication, such as a code-word or phrase spoken during conversation to alert other personnel. Alternatively, the signal may be incorporated into the authentication process itself, typically in the form of a panic password, distress password, or duress PIN that is distinct from the user's normal password or PIN. These concepts are related to a panic alarm and often achieve the same outcome.
+
+
+== Civilian usage ==
+
+Some home and property alarm systems have duress PINs, where the last two digits of the reset code are switched around. Entering the code when under duress from an assailant can trigger a silent alarm, alerting police or security personnel in a covert manner. The implementation of this feature has not been without controversy, as it has been claimed to lead to false alarms. A similar mechanism, SafetyPIN, has been proposed for use in ATMs. In 2010, the Federal Trade Commission issued a report studying the viability of such mechanisms for ATMs. They noted duress PINs have never been actually implemented in any ATM, and conclude that the costs of deployment outweighs the likelihood they will actually deter criminal activity.
+When a duress PIN is used to trigger a silent alarm, an adversary can always request the PIN in advance and ensure the appropriately modified PIN is entered instead. If the adversary does not know which PIN is correct, they may choose randomly between the two possible codes allowing them to succeed half of the time.In scenarios where a panic password is used to limit access control, instead of triggering an alarm, it is insufficient to have a single panic password. If the adversary knows the system, a common assumption, then he will simply force the user to authenticate twice using different passwords and gain access on at least one of the two attempts. More complex panic password schemes have been proposed to address this problem.For cases where verbal communication (e.g. via cell phone) is possible with family member or friend, a covert phrase can be used to signal duress. In the slim chance that a captor allows the person in duress to use their cell phone (e.g. to obtain a PIN), there is a limited opportunity to use a duress code. Because conversations are often being monitored by a captor, they must be subtle and short. Ideally, the use of a duress code has been confirmed before the current situation, so the family member or friend has verifiable evidence that something is wrong, and when the authorities are notified aren't just limited to speculation. Examples would include asking about someone (or something) who does not exist. For example, a person might use "What is Cindy barking at?" if she knows that either the dog has a different name or that there is no dog. Another example, which is also an widely shared urban legend, would be a person calling 911 for help and pretending to order pizza delivery.In addition to a duress code, there is duress activity. This may include the duressed individual withdrawing cash from an ATM using a specific credit card, instead of using their debit card. Many credit card companies allow for email alerts to be set up when specific activity occurs. There are technical issues that could pose problems, such as a delay in notification, cellular network availability, and the fact that a location is not disclosed, only the activity.
+Civilian and commercial aircraft can use transponder code 7500 as a duress code to indicate hijacking. Airlines maintain a verbal hijack code, as well.
+
+
+== Military usage ==
+A World War II duress code was used over the telephone by SOE agents in occupied Europe, and involved giving a coded answer when someone checked whether it was convenient to visit a safe-house. If it was genuinely safe to visit, the answer would be "No, I'm too busy." However, if the safe-house had been compromised (e.g. the Nazis had captured it, forcing the occupants to answer the phone at gunpoint in order to lure in other members of the SOE network) the captured agent would say "Yes, come on over." Having been warned that the safe-house had been compromised, the other agent would hang up the phone and immediately inform his team-members so that they could take appropriate action. Typically, this meant using escape and evasion procedures, before the captured agent was tortured by the Gestapo and forced to give incriminating information such as names and addresses.In a major Cold War incident in 1968, the US Navy ship USS Pueblo was attacked and captured by North Korean forces, and the crew was abused and tortured during the subsequent 11 months.  During that period, the North Koreans used the US crew for propaganda purposes, but the crew signaled their duress situation by secretly giving them "the finger" in staged photos.
+Admiral Jeremiah Denton became famous for blinking out the word "TORTURE" in Morse code during a propaganda television broadcast when he was captured by North Vietnamese forces.
+
+
+== See also ==
+Between Silk and Cyanide, a book by cryptographer Leo Marks describing, among other things, the misuse of duress radio codes by the OSS in World War II, leading to the capture of Dutch resistance agents
+Safeword
+
+
+== References ==
+
+
+== External links ==
+Panic Passwords: Authenticating under Duress
+FTC Report On Emergency Technology For Use With ATMs
+Duress Detection for Authentication Attacks Against Multiple Administrators
+False Alarm Reduction Association
+Military Access Control

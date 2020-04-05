@@ -1,7 +1,0 @@
-In mathematics, the Deuring–Heilbronn phenomenon, discovered by Deuring (1933) and Heilbronn (1934),  states that a counterexample to the generalized Riemann hypothesis for one Dirichlet L-function affects the location of the zeros of other Dirichlet L-functions.
-
-
-== References ==
-Deuring, M. (1933), "Imaginäre quadratische Zahlkörper mit der Klassenzahl 1.", Mathematische Zeitschrift (in German), 37: 405–415, doi:10.1007/BF01474583, ISSN 0025-5874, JFM 59.0946.03, Zbl 0007.29602
-Heilbronn, Hans (1934), "On the class-number in imaginary quadratic fields.", Quarterly Journal of Mathematics, 5: 150–160, Bibcode:1934QJMat...5..150H, doi:10.1093/qmath/os-5.1.150, JFM 60.0155.01, Zbl 0009.29602
-Montgomery, Hugh L. (1994), Ten lectures on the interface between analytic number theory and harmonic analysis, Regional Conference Series in Mathematics, 84, Providence, RI: American Mathematical Society, ISBN 978-0-8218-0737-8, Zbl 0814.11001

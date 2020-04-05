@@ -1,0 +1,54 @@
+The Argentine defense industry has developed, over the years, different programs to improve the armed forces of Argentina. The first major steps to establish a defense industry were made during the Second World War and they received a boost during the 1970s after the United States imposed an arms embargo due to human rights violations. The politics of privatization carried out during the 1990s virtually eliminated domestic military production, but many factories were reopened during the last years.
+
+
+== Army ==
+
+In 1945, the Argentine Army designed and built its first tank: the Nahuel; and the first jeep: Ñandú. Since then, the state-owned complex Fabricaciones Militares, has traditionally supplied the Army with most of its equipment from uniforms and helmets right through to the TAM (tank) family. Weapons such as the Browning pistol, FN FAL, FN MAG etc. were licence built by the Domingo Matheu factory or developed locally as the FARA 83 rifle. CITEFA still is the government agency responsible for the development of military technology having designed weapons such as the 155mm artillery gun, the Mathogo wire-guided anti-tank missile and the Pampero Multiple Launcher System in the past.
+The 1990s, as with the rest of the national economy, saw a great reduction of state sponsored military programs; so the Army bought all kind of things such as the PASGT helmets on the open market. After the 2001 economic crisis, the government encouraged import substitution and local items are being produced again. A boost was given to the development of UAV vehicles such as the Lipán. The Argentine Army Aviation Maintenance Battalion at Campo de Mayo begun the conversion of the UH-1H Huey fleet into the Huey II variant and the Army sponsored local builder Cicaré to build the CH-14 Aguilucho scout helicopter. The Combat Engineers Battalion 601 (Spanish: Batallon de Ingenieros 601) has also designed and built several models of water purification plants which had been deployed as humanitarian aid to Bolivia, Peru, Haiti and Chile in recent years.
+In the 2000s, the Army developed the Gaucho general purpose vehicle jointly with the Brazilian Army; and the light tank Patagón based on the SK-105 Kürassier chassis with a refurbished AMX-13 turret.
+
+
+== Navy ==
+
+In 1930, the shipyard, Astarsa, built the first avisos for the Argentine Navy and the Río Santiago Shipyard has supplied ships since the 1950s including the tall school ship ARA Libertad, the two Murature patrol boats, the Azopardo frigate, the LST ARA Cabo San Antonio; and built the Type 42 class destroyer ARA Santisima Trinidad under license.
+In the 1970s Tandanor assembled two Type 209 submarines brought in parts from West Germany and in the 1980s six Espora class corvettes have been built at Rio Santiago.
+A program to build four TR-1700 class submarines in Buenos Aires was cancelled by the Carlos Menem administration in the 1990s when the Domecq Garcia shipyard was shut down having two hulls about half completed. With this specialized facility closed the Navy was forced to send the ARA Santa Cruz submarine to Brazil for her mid life upgrade. In 2003 the shipyard was reopened and the ARA San Juan completed her overhaul therevideo. In 2010, the government also announced that it started working with the indigenous reactor INVAP's CAREM in order to transform one of the pending TR-1700 into a nuclear submarine and/or a surface vessel.Navy's arsenals at Puerto Belgrano perform maintenance of the fleet ships, for example the Rolls-Royce Tyne turbines engines.In March 2010, it was announced that the construction of the first of four 1,800 ton offshore patrol ships would begin in August at Tandanor shipyard. The ships will be used to patrol the Argentine Exclusive Economic Zone. In May 2010, Defense Minister Nilda Garre announced that the Navy would continue working on a system that would enable the launch of Exocet missiles from the Navy’s P3 Orion airplanes. In addition, the financing of the local development and construction of a coastal Naval defense system that may also be based on the use of Exocet missiles similar to the Excalibur system.
+
+
+== Air Force ==
+
+In 1927, the Fabrica Militar de Aviones (FMA) was established, which in 1947 developed and built the first jet combat aircraft of Latin America: the Pulqui I; its most famous designs are the IA-58 Pucará and the IA-63 Pampa. It has assembled under licence the T-34 Mentor, MS-760 Paris and the A-4AR Fightinghawk. It also does maintenance for models such as the C-130 Hercules.
+From 1983, the FMA developed and type-approved a series of systems and weapons to be built locally known as the FAS series including RWR, aerial refueling, cluster bombs etc.
+In late 1980s, Quimar S.A. built the MQ-2 Bigua, a derivative of the Meteor Mirach 100 remote piloted vehicle, which was tested from an IA-58 Pucara and in the 1990s the Argentine Air Force unveiled the Nostromo Yarará (Nostromo Defensa) and the 2000s AeroDreams Strix (AeroDreams) UAV.
+
+
+== Rockets, missiles and astronautics ==
+
+Since the 1950s, the Argentine Air Force (FAA) operated a rocket launch site at Chamical Air Base, La Rioja province to perform high atmosphere studies. However, after the Falklands War (Spanish: Guerra de Malvinas) the military approved development of the Condor missile which was later canceled due to political pressure from the United States. In 2009 they successfully tested the Gradicom rocket, whose booster was entirely developed by Argentine scientists and engineers. for both military and civilian applications at the shooting range at Serrezuela, Cordoba. Currently, CONAE, the National Commission for Space Activities, is developing a multistage liquid propellant rocket called Tronador II to be used for satellite launching.
+CITEFA has produced several air-to-surface missiles since late 1960s including the Albatros, the Martin Pescador and the AS-25K. In 2008 they refurbished the Aspide's missile engines in use in the Argentine Navy and Matra Magic air-to-air missiles.
+The state-owned company INVAP is also noted by its satellite series (although launched by NASA) and in 2007 started to build indigenous 2D and 3D radars.
+
+
+== Electronics and Software ==
+
+The three armed forces have their respective units within their organizations in charge of designing, developing and produced the software required. Examples in the Army included artillery control facilities and the SIMUPAZ a simulator used to train blue helmets. The main signals unit, Batallon de Comunicaciones 601 has refurbished all the radio equipment, developed satellite-communication deployable units and digitally upgraded the RASIT radars in the Rastreador program. Examples in the Air Force includes the air traffic control center of indigenous design for the VYCEA at Merlo and the upgrade of the AN/APG-66V2 (ARG-1) radar for the A-4AR aircraft. The Navy uses its own systems for data links between their ships.
+INVAP developed a synthetic aperture radar to replace the Bendix RDR-1500B on the maritime patrol aircraft Beechcraft Super King Air of the Argentine Naval Aviation
+
+
+== Atomic energy ==
+
+Argentina has an advanced nuclear program, first building a research reactor in 1957 and then Latin America's first on-line commercial reactor in 1974. Argentina developed its nuclear program without being overly dependent on foreign technology. Nuclear facilities with Argentine technology have been built in Peru, Algeria, Australia and Egypt. In 1983, the country admitted having the capability of producing weapons-grade uranium, a major step needed in assembling nuclear weapons. However, since then Argentina has pledged to use nuclear power only for peaceful purposes and has been very active in non-proliferation. In 1992, Argentina and Brazil created the Brazilian–Argentine Agency for Accounting and Control of Nuclear Materials for the bilateral verification of the peaceful use of nuclear materials.
+
+
+== See also ==
+
+Ministry of Defense (Argentina)
+Armed Forces of the Argentine Republic
+Fabricaciones Militares
+
+
+== References ==
+
+
+== External links ==
+(in Spanish) Fabricaciones Militares official website

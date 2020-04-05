@@ -1,0 +1,25 @@
+A specialized dictionary is a dictionary that covers a relatively restricted set of phenomena. The definitive book on the subject (Cowie 2009) includes chapters on (among others) dictionaries of:
+
+synonyms
+pronunciations
+names (place names and personal names)
+phrases and idioms
+dialect terms
+slang
+quotations
+etymologiesDictionaries of idioms and slang are common in most cultures. Examples include (of French) the Dictionnaire des expressions et locutions, edited by Alain Rey (Paris: Le Robert 2006), and (of English) Eric Partridge's Dictionary of Slang and Unconventional English (8th edition, London: Routledge 2002). In the area of language learning, there are specialized dictionaries for aspects of language which tend to be unproblematic for mother-tongue speakers but may cause difficulty for learners. These include dictionaries of phrasal verbs, such as the Oxford Phrasal Verbs Dictionary (2nd edition, Oxford University Press: 2006), and dictionaries of collocation, such as Macmillan Collocations Dictionary (Oxford: Macmillan 2010).One of the most common types of specialized dictionary is what is often referred to in English as a technical dictionary and in German as a Fachwörterbuch. These dictionaries cover the terminology of a particular subject field or discipline. As described in Nielsen (1994), dictionaries of this type can be classified in various ways. A dictionary that covers more than one subject field is called a multi-field dictionary; one that covers one subject field is called a single-field dictionary; and one that covers a limited part of a subject field is called a sub-field dictionary. A technical dictionary that attempts to cover as much of the relevant terminology as possible is called a maximizing dictionary, whereas one that attempts to cover only a limited part of the relevant terminology is called a minimizing dictionary.
+Specialized dictionaries can have various functions, i.e. they can help users in different types of situation. Monolingual dictionaries can help users understand and produce texts, whereas bilingual dictionaries can help users understand texts, translate texts and produce texts, as described in e.g. Nielsen (1994) and Nielsen (2010).
+
+
+== See also ==
+Lexigraf
+
+
+== References ==
+
+
+== Further reading ==
+Cowie, A.P. (ed.) (2009): The Oxford History of English Lexicography: Volume II Specialized Dictionaries, Oxford: Oxford University Press.
+Henning Bergenholtz/Sven Tarp (eds.) (1995): Manual of Specialised Lexicography. Benjamins.
+Sandro Nielsen (1994): The Bilingual LSP Dictionary. Gunter Narr.
+Sandro Nielsen (2010): "Specialised Translation Dictionaries for Learners". In: P. A. Fuertes-Olivera (ed): Specialised Dictionaries for Learners. Berlin/New York: de Gruyter, 69–82.
