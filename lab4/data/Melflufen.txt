@@ -1,0 +1,40 @@
+Melflufen (melphalan flufenamide, previously designated J1) is an anticancer drug under development by Oncopeptides AB. It is a peptidase enhanced cytotoxic (PEnC) that exerts a targeted delivery of melphalan in cells with high expression of aminopeptidases, such as aminopeptidase N, which has been described as over-expressed in human malignancies. Aminopeptidase N plays a functional role in malignant angiogenesis.  Currently, melflufen is under evaluation in a multinational and randomized phase III study for the treatment of patients with relapsed and refractory multiple myeloma.
+
+
+== Metabolism ==
+Melflufen is metabolized by aminopeptidase hydrolysis and by spontaneous hydrolysis on N-mustard.  Its biological half-life is 10 minutes in vitro.
+
+
+== Origin and development ==
+Melflufen is a peptidase enhanced cytotoxic (PEnC) with a targeted delivery within tumor cells of melphalan, a widely used classical chemotherapeutic belonging to a group of alkylating agents developed more than 50 years ago. Substantial clinical experience has been accumulated about melphalan since then. Numerous derivatives of melphalan, designed to increase the activity or selectivity, have been developed and investigated in vitro or in animal models. Melflufen was synthesized, partly due to previous experience of an alkylating peptide cocktail named Peptichemio and its anti-tumor activity is being investigated.
+
+
+== Pharmacology ==
+Compared to melphalan, melflufen exhibits significantly higher in vitro and in vivo activity in several models of human cancer.
+A preclinical study, performed at Dana–Farber Cancer Institute, demonstrated that melflufen induced apoptosis in multiple myeloma cell lines, even those resistant to conventional treatment (including melphalan). In vivo effects in xenografted animals were also observed, and the results confirmed by M Chesi and co-workers – in a unique genetically engineered mouse model of multiple myeloma – are believed to be predictive of clinical efficacy.
+
+
+== Structure ==
+Chemically, the drug is best described as the ethyl ester of a dipeptide consisting of melphalan and the amino acid derivative para-fluoro-L-phenylalanine.
+
+
+== Pharmacokinetics ==
+Pharmacokinetic analysis of plasma samples showed a rapid formation of melphalan; concentrations generally exceeded those of melflufen during ongoing infusion. Melflufen rapidly disappeared from plasma after infusion, while melphalan typically peaked a few minutes after the end of infusion. This suggests that melflufen is rapidly and widely distributed to extravasal tissues, in which melphalan is formed and thereafter redistributed to plasma. 
+This rapid disappearance from plasma is likely due to hydrolytic enzymes.
+The Zn(2+) dependent ectopeptidase (also known as alanine aminopeptidase), degrades proteins and peptides with a N-terminal neutral amino acid. Aminopeptidase N is frequently overexpressed in tumors and has been associated with the growth of different human cancers suggesting it as a suitable target for anti-cancerous therapy.
+
+
+== Adverse effects ==
+In a human Phase 1 trial, no dose-limiting toxicities (DLTs) were observed at lower doses. At doses above 50 mg, reversible neutropenias and thrombocytopenias were observed, and particularly evident in heavily pretreated patients. These side-effects are shared by most chemotherapies, including alkylating agents in general.
+
+
+== Drug interactions ==
+No drug interaction studies have been reported. Several in vitro studies indicate that melflufen may be successfully combined with standard chemotherapy or targeted agents.
+
+
+== Therapeutic efficacy ==
+In a Phase 1/2 trial, in solid tumor patients refractory to standard therapy, response evaluation showed disease stabilization in a majority of patients.  In relapsed and refractory multiple-myeloma (RRMM) patients, promising activity was seen in heavily pre-treated RRMM patients where conventional therapies had failed; the median Progression-Free Survival was 9.4 months and the Duration of Response was 9.6 months. An overall response rate of 41% and a clinical benefit rate of 56% were also shown, with similar results seen across patient populations regardless of their refractory status.
+Hematologic toxicity was common, but manageable with cycle prolongations, dose modifications and supportive therapy, and non-hematologic treatment-related adverse events were infrequent.
+
+
+== References ==

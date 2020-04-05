@@ -1,0 +1,21 @@
+Hemorrhagic cystitis or haemorrhagic cystitis is an inflammation of the bladder defined by lower urinary tract symptoms that include dysuria, hematuria, and hemorrhage. The disease can occur as a complication of cyclophosphamide, ifosfamide and radiation therapy. In addition to hemorrhagic cystitis, temporary hematuria can also be seen in bladder infection or in children as a result of viral infection.
+
+
+== Causes ==
+Causes of hemorrhagic cystitis include chemotherapy (e.g. cyclophosphamide, Ifosfamide), radiation, or  infection. Ifosfamide is the most common cause of hemorrhagic cystitis. Radiation-induced hemorrhagic cystitis develops in similar or smaller patient numbers when compared to cyclophosphamide-induced cases.Adenovirus (particularly serotypes 11 and 21 of subgroup B) is the most common cause of acute viral hemorrhagic cystitis in children, though it can result from BK virus as well. A chemical hemorrhagic cystitis can develop when vaginal products are inadvertently placed in the urethra.  Gentian violet douching to treat candidiasis has resulted in hemorrhagic cystitis when the drug was misplaced in the urethra, but this hemorrhagic cystitis resolved spontaneously with cessation of treatment.  Accidental urethral placement of contraceptive suppositories has also caused hemorrhagic cystitis in several patients.  The bladder irritation was thought to be caused by the spermicidal detergent nonoxynol-9.  In the acute setting, the bladder can be copiously irrigated with alkalinized normal saline to minimize bladder irritation.
+Although hemorrhagic cystitis post-transplantation/bone marrow transplantation is not technically infectious, a short discussion is in order for completeness.  Patients undergoing therapy to suppress the immune system are at risk for hemorrhagic cystitis due to either the direct effects of chemotherapy or activation of dormant viruses in the kidney, ureter, or bladder.
+
+
+== Diagnosis ==
+Diagnosis is made by history and examination.
+In immunocompromised patients, pus is present in the urine but often no organism can be cultured. In children, polymerase chain reaction sequencing of urine can detect fragments of the infectious agent.
+The procedure differs somewhat for women and men.  Laboratory testing of urine samples now can be performed with dipsticks that indicate immune system responses to infection, as well as with microscopic analysis of samples. Normal human urine is sterile.  The presence of bacteria or pus in the urine usually indicates infection, although asymptomatic bacteria in the urine is a common finding in older adults (e.g. over 65 and increasing with advancing age).  The presence of hematuria, or blood in the urine, may indicate acute UTIs, kidney disease, kidney stones, inflammation of the prostate (in men), endometriosis (in women), or cancer of the urinary tract.  In some cases, blood in the urine results from athletic training, particularly in runners.
+
+
+== Treatment ==
+Unfortunately mesna  is ineffective as a treatment once hemorrhagic cystitis has developed.  Although rare, once a case of radiation-induced hemorrhagic cystitis is diagnosed there is no empirically-proven treatments to heal this type of condition, which can severely degrade a patient's quality of life and might possibly lead to kidney failure with risk of death.
+Viral hemorrhagic cystitis in children generally spontaneously resolves within a few days.
+The first step in the treatment of HC should be directed toward clot evacuation.  Bladder outlet obstruction from clots can lead to urosepsis,  bladder rupture, and kidney failure.  Clot evacuation can be performed by placing a wide-lumen bladder catheter at bedside.  The bladder can be irrigated with water or sodium chloride solution.  The use of water is preferable because water can help with clot lysis.  Care must be taken to not overdistend the bladder and cause a perforation. Hyperbaric oxygen (HBO2) therapy has been proven to be effective in treating radiation-induced hemorrhagic cystitis.
+
+
+== References ==

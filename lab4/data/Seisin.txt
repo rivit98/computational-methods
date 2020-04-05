@@ -1,0 +1,69 @@
+Seisin (or seizin) denotes the legal possession of a feudal fiefdom or fee, that is to say an estate in land. It was used in the form of "the son and heir of X has obtained seisin of his inheritance", and thus is effectively a term concerned with conveyancing in the feudal era. The person holding such estate is said to be "seized of it", a phrase which commonly appears in inquisitions post mortem (i.e. "The jurors find that X died seized of the manor of ..."). The monarch alone "owned" all the land of England by his allodial right and all his subjects were merely his tenants under various contracts of feudal tenure.
+
+
+== Etymology ==
+Seisin comes from Middle English saysen, seysen, in the legal sense of to put in possession of, or to take possession of, hence, to grasp, to seize.  The Old French variations seisir, saisir, are from Low Latin sacire, generally referred to the same source as Gothic satjan, Old English settan, to put in place, set.
+
+
+== Tenures subject to seisin ==
+Seisin is believed to have been applicable only to freehold tenures, that is to say a tenure for a term of life, which was heritable, on condition of payment of the appropriate feudal relief to the overlord. A "freeman" was a man who held by freehold tenure, and thus freehold tenure was anciently said to be the only form of feudal land tenure worthy to be held by a free man. Tenure, and the variety thereof,  was the very essence of feudal society and the stratification thereof, and the possession of a tenure (i.e., holding, from Latin teneo "to hold") was legally established by the act of seisin.
+
+
+== Varieties of seisin ==
+Seisin used in the normal course of events is of two kinds, "in law" and "in deed". Each carries with it a differing strength of tenure.
+It came to be said later that in the conveyance of a fee by deed of feoffment there must be livery of seisin.
+
+
+=== Seisin in law ===
+"Livery" (or delivery) by "seisin in law" occurred when the parties to the transaction went within sight of the land to be conveyed and the transferor declared to the recipient that possession had been granted. This constituted however only an incomplete conveyance.
+
+
+=== Seisin in deed ===
+By physically entering onto the land the transferee converts or "delivers" his seisin in law into seisin in deed. Instead of a physical entry on to the land, sometimes a token of the land (e.g., a turf, or similar) would be handed over ceremoniously, (see "turf and twig"; cf. the handover of "earth and water" by political entities subjecting themselves to the Persian Empire, which thereafter considered their rulers its vassals). A tenant seised in deed as well as in law thus had obtained the best legal title to his tenure available.
+
+
+== Primer seisin ==
+Primer seisin is defined as "the right which the king had, when any of his tenants died seised of a knight's fee, to receive of the heir, provided he were of full age, one whole year's profits of the lands, if they were in immediate possession; and half a year's profits, if the lands were in reversion, expectant on an estate for life" On the death of a tenant-in-chief, for example a feudal baron, his holding was heritable by his son or other right heir. The conveyancing procedure, or procedure of "re-enfeoffment", i.e., re-establishment of tenure in a fief,  was as follows. The heir would pay homage to the king, which once received established him irreversibly as the true heir, for the ceremony of homage was in the form of a sacred vow. Only then could the heir pay his feudal relief to the treasury, which final step would enable him to obtain seisin, i.e., actual possession. Between the death of the previous tenant and the new seisin, there was an empty tenure of the fief, which was legally inconvenient, but tolerated as generally of short duration. It is important to understand that such a tenure did not escheat, even temporarily, to the crown pending the re-enfeoffment of the heir. Yet in the case of a barony, which was an extensive tenure of frequently several dozen manors, the king needed to make certain that the heir who presented himself to pay homage was the true heir, for should his homage be accepted, his status was irreversibly confirmed, and the new baron would be entitled to attend parliament. Time was needed for the sheriff of the shire concerned to make enquiries, sometimes by use of local juries. In order to provide the king with time to make such investigations, the king took temporary seisin of the barony and all its lands, which needed management during the interval, which was termed "primer seisin". It was not a form of escheat, which was an extinguishment of a tenure.
+Primer seisin can thus be seen as a variety of feudal burden, or feudal incident, that is to say a right exercisable by an overlord over his vassal's holding.The Wardships, etc. Act 1267 passed by King Henry III (1267 (52 Hen. 3) C A P. XVI) stated as follows:
+
+(2) And if an Heir at the time of his Ancestor's Death be of full Age, and he is Heir apparent, and known for Heir, and be found in the Inheritance, the chief Lord shall not put him out, nor take, nor remove any thing there, but shall take only simple Seisin therefore for the Recognition of his Seigniory, that he may be known for Lord.
+(3) And if the chief Lord do put such an Heir out of the Possession maliciously, whereby he is driven to purchase a Writ of Mort d'Auncestor, or of Cousenage, then he shall recover his Damages as in Assise of Novel Disseisin.
+II. Touching Heirs, which hold of our Lord the King in chief, this Order shall be observed, That our Lord the King shall have the first Seisin of their Lands, like as he was wont to have before time: Neither shall the Heir, nor any other, intrude into the same Inheritance, before he hath received it out of the King's Hands, as the same Inheritance was wont to be taken out of his Hands and his Ancestors in times past. And this must be understood of Lands and Fees, the which were accustomed to be in the King's Hands, by reason of Knight service, or Serjeanty, or Right of Patronage.
+
+
+== In European feudalism ==
+In European feudal states, "ownership" of land, that is to say allodial possession,  was generally restricted to monarchs and was thus rarely an operative principle. Instead seisin was used as a term signifying feudal possession. The modern writer Marc Bloch considers seisin to signify "possession made venerable by the lapse of time" and that "paper documentary evidence was not required to establish seisin, rather human memory of the use of land or administration of justice there was invoked, especially these by the ancestors".
+
+
+=== Scotland ===
+
+The equivalent Scottish term is sasine, which term has developed a further signification in Scots law.
+
+
+=== Ireland ===
+Following the Norman invasion of Ireland, feudalism was introduced in those areas under Norman control. The most important legal concept in the feudal period in relation to land was seisin.
+
+
+== Current legal status ==
+Seisin is now confined to possession of the freehold, though at one time it appears to have been used for simple possession without regard to the estate of the possessor. Its importance is considerably less than it was at one time, owing to the old form of conveyance by feoffment with livery of seisin having been superseded by a deed of grant, and the old rule of descent from the person last seised having been abolished in favour of descent from the purchaser. Lord Denning controversially supported the abolition of the concept of seisin, however the common law has since decided to maintain the concept of seisin. At one time the right of the wife to dower and of the husband to an estate by curtesy depended upon the doctrine of seisin. The Dower Act (1833–1834), however, rendered the fact of the seisin of the husband of no importance, and the Married Women's Property Act 1882 practically abolished the old law of curtesy.
+
+
+== Modern legal interpretation ==
+Modern courts have interpreted seisin as approximating to modern "freehold" ownership of land (Deshong v. Deshong, 186 Pa. 227, 40 A.402.) or the right to immediate possession (Williams v. Swango, 365 Ill. 549, 7 N.E.2d 306, 309.).
+Seisin is the important understanding that property owned in fee simple consists of two different parts; namely, 1) the naked legal title, and 2) the equitable (i.e., beneficial) title and that these two properties may not be forever separated.  Hence in Landlord and Tenant law the owner of the fee is well seised because he owns both the naked legal title and the equitable title.  When the landlord rents his property the Lessee is vested with equitable title and the peaceable enjoyment of the property during his or her tenure.  When the Lessee moves out, the equitable title is joined with the naked legal title and the gap in seisin is closed and the owner regains fee simple title.  Commonly when trusts are created the trustee owns (takes) legal title; the trustee administers the property for the benefit of the beneficiaries who are said to have equitable (beneficial) title.  Upon trust termination, the trustee conveys (distributes) legal title to the beneficiary, and again gap in seisin ends.  The Merrill Lynch Ready Asset Trust, the first of the money market accounts when established in the 1970s, named a newly born son of one of the Merrill Lynch executives by whom to measure the duration as 21 years beyond the demise of that child.  At the end of the period the assets of the trust then are to be distributed to the beneficiaries and the trust extinguished. Common English practice was to create a trust whose term ended upon the demise of the last living heir of her Britannic Majesty Queen Victoria whose descendants are well known but even that practice is discouraged.  But the Southland Royalty Trust was created to endure until the demise of the last living descendant of signors of the Declaration of Independence, who are unknown thereby creating an entity that likely violates the rule against perpetuities because it can never end hence the gap in seisin never can close.
+
+
+== See also ==
+Livery of seisin
+Moot hill Sasine ceremony of barony rights.
+Quia Emptores
+Sasine (Scots law)
+
+
+== Sources ==
+Encyclopædia Britannica, 9th. ed., vol. 21, p. 626, Seisin
+
+
+== References ==
+
+ This article incorporates text from a publication now in the public domain: Chisholm, Hugh, ed. (1911). "Seisin". Encyclopædia Britannica (11th ed.). Cambridge University Press.Real property law

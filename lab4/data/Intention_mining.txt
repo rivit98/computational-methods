@@ -1,0 +1,26 @@
+In data mining, intention mining or intent mining is the problem of determining a user's intention from logs of his/her behavior in interaction with a computer system, such as in search engines, where there has been research on user intent or query intent prediction since 2002 (see Section 7.2.3 in ); and commercial intents expressed in social media posts . 
+
+The notion of intention mining has been introduced for the first time in the Ph.D. thesis of Dr. Ghazaleh Khodabandelou in 2014 , ,.
+This thesis presents a novel approach of process mining, called Map Miner Method (MMM). This method is designed to automate the construction of intentional process models from traces. MMM uses Hidden Markov Models to model the relationship between users' activities and the strategies (i.e., the different ways to fulfill the intentions). The method also includes some specific algorithms developed to infer users' intentions and construct intentional process model (Map), respectively. MMM models the intentions as an oriented graph (with different levels of granularity) in order to have a better understanding of the human way of thinking.
+
+
+== Application ==
+Intention Mining has already been used in several domains:
+
+Web search : (Hashemi et al., 2008), (Zheng et al., 2002), (Strohmaier & Kröll, 2012), (Kröll & Strohmaier, 2012), (Park et al., 2010), (Jethava et al., 2011), (González-Caro & Baeza-Yates, 2011), (Baeza-Yates et al., 2006) 
+Commercial Intents : Expressed in social media (Chen et al., 2013)
+Software Engineering (Ghazaleh Khodabandelou et al., 2013),(Ghazaleh Khodabandelou et al., 2014), (Ghazaleh Khodabandelou et al., 2014),Business : Workarounds, (Epure, 2013), (Epure et al., 2014) 
+Engineering : Entity Relationship modelling, Method Engineering, (Laflaquière et al., 2006), (Clauzel et al., 2009), Development traces 
+Home video : (Mei et al., 2005) 
+
+
+== See also ==
+Business Process Discovery
+Business Process Management
+Process modeling
+Process mining
+Sequence mining
+Hidden Markov model
+
+
+== References ==

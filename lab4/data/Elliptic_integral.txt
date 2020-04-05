@@ -1,0 +1,3086 @@
+In integral calculus, elliptic integrals originally arose in connection with the problem of giving the arc length of an ellipse.  They were first studied by Giulio Fagnano and Leonhard Euler (c. 1750).  Modern mathematics defines an "elliptic integral" as any function f which can be expressed in the form
+
+  
+    
+      
+        f
+        (
+        x
+        )
+        =
+        
+          ∫
+          
+            c
+          
+          
+            x
+          
+        
+        R
+        
+          (
+          
+            t
+            ,
+            
+              
+                P
+                (
+                t
+                )
+              
+            
+          
+          )
+        
+        
+        
+          d
+        
+        t
+        ,
+      
+    
+    {\displaystyle f(x)=\int _{c}^{x}R\left(t,{\sqrt {P(t)}}\right)\,\mathrm {d} t,}
+  where R is a rational function of its two arguments, P is a polynomial of degree 3 or 4 with no repeated roots, and c is a constant.
+In general, integrals in this form cannot be expressed in terms of elementary functions. Exceptions to this general rule are when P has repeated roots, or when R(x,y) contains no odd powers of y.  However, with the appropriate reduction formula, every elliptic integral can be brought into a form that involves integrals over rational functions and the three Legendre canonical forms (i.e. the elliptic integrals of the first, second and third kind).
+Besides the Legendre form given below, the elliptic integrals may also be expressed in Carlson symmetric form. Additional insight into the theory of the elliptic integral may be gained through the study of the Schwarz–Christoffel mapping. Historically, elliptic functions were discovered as inverse functions of elliptic integrals.
+
+
+== Argument notation ==
+Incomplete elliptic integrals are functions of two arguments; complete elliptic integrals are functions of a single argument. These arguments are expressed in a variety of different but equivalent ways (they give the same elliptic integral). Most texts adhere to a canonical naming scheme, using the following naming conventions.
+For expressing one argument:
+
+α, the modular angle
+k = sin α, the elliptic modulus or eccentricity
+m = k2 = sin2 α, the parameterEach of the above three quantities is completely determined by any of the others (given that they are non-negative). Thus, they can be used interchangeably.
+The other argument can likewise be expressed as φ, the amplitude, or as x or u,  where x = sin φ = sn u and sn is one of the Jacobian elliptic functions.
+Specifying the value of any one of these quantities determines the others.  Note that u also depends on m.  Some additional relationships involving u include
+
+  
+    
+      
+        cos
+        ⁡
+        φ
+        =
+        cn
+        ⁡
+        u
+        ,
+        
+        
+          
+            and
+          
+        
+        
+        
+          
+            1
+            −
+            m
+            
+              sin
+              
+                2
+              
+            
+            ⁡
+            φ
+          
+        
+        =
+        dn
+        ⁡
+        u
+        .
+      
+    
+    {\displaystyle \cos \varphi =\operatorname {cn} u,\quad {\textrm {and}}\quad {\sqrt {1-m\sin ^{2}\varphi }}=\operatorname {dn} u.}
+  The latter is sometimes called the delta amplitude and written as Δ(φ) = dn u.  Sometimes the literature also refers to the complementary parameter, the complementary modulus, or the complementary modular angle. These are further defined in the article on quarter periods.
+
+
+== Incomplete elliptic integral of the first kind ==
+The incomplete elliptic integral of the first kind F is defined as
+
+  
+    
+      
+        F
+        (
+        φ
+        ,
+        k
+        )
+        =
+        F
+        
+          (
+          
+            φ
+            
+            
+              |
+            
+            
+            
+              k
+              
+                2
+              
+            
+          
+          )
+        
+        =
+        F
+        (
+        sin
+        ⁡
+        φ
+        ;
+        k
+        )
+        =
+        
+          ∫
+          
+            0
+          
+          
+            φ
+          
+        
+        
+          
+            
+              
+                d
+              
+              θ
+            
+            
+              1
+              −
+              
+                k
+                
+                  2
+                
+              
+              
+                sin
+                
+                  2
+                
+              
+              ⁡
+              θ
+            
+          
+        
+        .
+      
+    
+    {\displaystyle F(\varphi ,k)=F\left(\varphi \,|\,k^{2}\right)=F(\sin \varphi ;k)=\int _{0}^{\varphi }{\frac {\mathrm {d} \theta }{\sqrt {1-k^{2}\sin ^{2}\theta }}}.}
+  This is the trigonometric form of the integral; substituting t = sin θ and x = sin φ, one obtains the Legendre normal form:
+
+  
+    
+      
+        F
+        (
+        x
+        ;
+        k
+        )
+        =
+        
+          ∫
+          
+            0
+          
+          
+            x
+          
+        
+        
+          
+            
+              
+                d
+              
+              t
+            
+            
+              
+                (
+                
+                  1
+                  −
+                  
+                    t
+                    
+                      2
+                    
+                  
+                
+                )
+              
+              
+                (
+                
+                  1
+                  −
+                  
+                    k
+                    
+                      2
+                    
+                  
+                  
+                    t
+                    
+                      2
+                    
+                  
+                
+                )
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle F(x;k)=\int _{0}^{x}{\frac {\mathrm {d} t}{\sqrt {\left(1-t^{2}\right)\left(1-k^{2}t^{2}\right)}}}.}
+  Equivalently, in terms of the amplitude and modular angle one has:
+
+  
+    
+      
+        F
+        (
+        φ
+        ∖
+        α
+        )
+        =
+        F
+        (
+        φ
+        ,
+        sin
+        ⁡
+        α
+        )
+        =
+        
+          ∫
+          
+            0
+          
+          
+            φ
+          
+        
+        
+          
+            
+              
+                d
+              
+              θ
+            
+            
+              1
+              −
+              (
+              sin
+              ⁡
+              θ
+              sin
+              ⁡
+              α
+              
+                )
+                
+                  2
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle F(\varphi \setminus \alpha )=F(\varphi ,\sin \alpha )=\int _{0}^{\varphi }{\frac {\mathrm {d} \theta }{\sqrt {1-(\sin \theta \sin \alpha )^{2}}}}.}
+  In this notation, the use of a vertical bar as delimiter indicates that the argument following it is the "parameter" (as defined above), while the backslash indicates that it is the modular angle. The use of a semicolon implies that the argument preceding it is the sine of the amplitude:
+
+  
+    
+      
+        F
+        (
+        φ
+        ,
+        sin
+        ⁡
+        α
+        )
+        =
+        F
+        
+          (
+          
+            φ
+            
+            
+              |
+            
+            
+            
+              sin
+              
+                2
+              
+            
+            ⁡
+            α
+          
+          )
+        
+        =
+        F
+        (
+        φ
+        ∖
+        α
+        )
+        =
+        F
+        (
+        sin
+        ⁡
+        φ
+        ;
+        sin
+        ⁡
+        α
+        )
+        .
+      
+    
+    {\displaystyle F(\varphi ,\sin \alpha )=F\left(\varphi \,|\,\sin ^{2}\alpha \right)=F(\varphi \setminus \alpha )=F(\sin \varphi ;\sin \alpha ).}
+  This potentially confusing use of different argument delimiters is traditional in elliptic integrals and much of the notation is compatible with that used in the reference book by Abramowitz and Stegun and that used in the integral tables by Gradshteyn and Ryzhik.
+With x = sn(u,k) one has:
+
+  
+    
+      
+        F
+        (
+        x
+        ;
+        k
+        )
+        =
+        u
+        ;
+      
+    
+    {\displaystyle F(x;k)=u;}
+  thus, the Jacobian elliptic functions are inverses to the elliptic integrals.
+
+
+=== Notational variants ===
+There are still other conventions for the notation of elliptic integrals employed in the literature. The notation with interchanged arguments, F(k,φ), is often encountered; and similarly E(k,φ) for the integral of the second kind. Abramowitz and Stegun substitute the integral of the first kind, F(φ,k), for the argument φ in their definition of the integrals of the second and third kinds, unless this argument is followed by a vertical bar: i.e. E(F(φ,k) | k2) for  E(φ | k2). Moreover, their complete integrals employ the parameter k2 as argument in place of the modulus k, i.e. K(k2) rather than K(k). And the integral of the third kind defined by Gradshteyn and Ryzhik, Π(φ,n,k), puts the amplitude φ first and not the "characteristic" n.
+Thus one must be careful with the notation when using these functions, because various reputable references and software packages use different conventions in the definitions of the elliptic functions.  For example, some references, and Wolfram's Mathematica software and Wolfram Alpha, define the complete elliptic integral of the first kind in terms of the parameter m, instead of the elliptic modulus k. 
+
+  
+    
+      
+        K
+        (
+        m
+        )
+        =
+        
+          ∫
+          
+            0
+          
+          
+            
+              
+                π
+                2
+              
+            
+          
+        
+        
+          
+            
+              
+                d
+              
+              θ
+            
+            
+              1
+              −
+              m
+              
+                sin
+                
+                  2
+                
+              
+              ⁡
+              θ
+            
+          
+        
+      
+    
+    {\displaystyle K(m)=\int _{0}^{\tfrac {\pi }{2}}{\frac {\mathrm {d} \theta }{\sqrt {1-m\sin ^{2}\theta }}}}
+  
+
+
+== Incomplete elliptic integral of the second kind ==
+The incomplete elliptic integral of the second kind E in trigonometric form is
+
+  
+    
+      
+        E
+        (
+        φ
+        ,
+        k
+        )
+        =
+        E
+        
+          (
+          
+            φ
+            
+            
+              |
+            
+            
+            
+              k
+              
+                2
+              
+            
+          
+          )
+        
+        =
+        E
+        (
+        sin
+        ⁡
+        φ
+        ;
+        k
+        )
+        =
+        
+          ∫
+          
+            0
+          
+          
+            φ
+          
+        
+        
+          
+            1
+            −
+            
+              k
+              
+                2
+              
+            
+            
+              sin
+              
+                2
+              
+            
+            ⁡
+            θ
+          
+        
+        
+        
+          d
+        
+        θ
+        .
+      
+    
+    {\displaystyle E(\varphi ,k)=E\left(\varphi \,|\,k^{2}\right)=E(\sin \varphi ;k)=\int _{0}^{\varphi }{\sqrt {1-k^{2}\sin ^{2}\theta }}\,\mathrm {d} \theta .}
+  Substituting t = sin θ and x = sin φ,  one obtains the Legendre normal form:
+
+  
+    
+      
+        E
+        (
+        x
+        ;
+        k
+        )
+        =
+        
+          ∫
+          
+            0
+          
+          
+            x
+          
+        
+        
+          
+            
+              1
+              −
+              
+                k
+                
+                  2
+                
+              
+              
+                t
+                
+                  2
+                
+              
+            
+            
+              1
+              −
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+        
+        
+          d
+        
+        t
+        .
+      
+    
+    {\displaystyle E(x;k)=\int _{0}^{x}{\frac {\sqrt {1-k^{2}t^{2}}}{\sqrt {1-t^{2}}}}\,\mathrm {d} t.}
+  Equivalently, in terms of the amplitude and modular angle:
+
+  
+    
+      
+        E
+        (
+        φ
+        ∖
+        α
+        )
+        =
+        E
+        (
+        φ
+        ,
+        sin
+        ⁡
+        α
+        )
+        =
+        
+          ∫
+          
+            0
+          
+          
+            φ
+          
+        
+        
+          
+            1
+            −
+            
+              
+                (
+                
+                  sin
+                  ⁡
+                  θ
+                  sin
+                  ⁡
+                  α
+                
+                )
+              
+              
+                2
+              
+            
+          
+        
+        
+        
+          d
+        
+        θ
+        .
+      
+    
+    {\displaystyle E(\varphi \setminus \alpha )=E(\varphi ,\sin \alpha )=\int _{0}^{\varphi }{\sqrt {1-\left(\sin \theta \sin \alpha \right)^{2}}}\,\mathrm {d} \theta .}
+  Relations with the Jacobi elliptic functions include
+
+  
+    
+      
+        E
+        
+          
+            (
+          
+        
+        sn
+        ⁡
+        (
+        u
+        ;
+        k
+        )
+        ;
+        k
+        
+          
+            )
+          
+        
+        =
+        
+          ∫
+          
+            0
+          
+          
+            u
+          
+        
+        
+          dn
+          
+            2
+          
+        
+        ⁡
+        (
+        w
+        ;
+        k
+        )
+        
+        
+          d
+        
+        w
+        =
+        u
+        −
+        
+          k
+          
+            2
+          
+        
+        
+          ∫
+          
+            0
+          
+          
+            u
+          
+        
+        
+          sn
+          
+            2
+          
+        
+        ⁡
+        (
+        w
+        ;
+        k
+        )
+        
+        
+          d
+        
+        w
+        =
+        
+          (
+          
+            1
+            −
+            
+              k
+              
+                2
+              
+            
+          
+          )
+        
+        u
+        +
+        
+          k
+          
+            2
+          
+        
+        
+          ∫
+          
+            0
+          
+          
+            u
+          
+        
+        
+          cn
+          
+            2
+          
+        
+        ⁡
+        (
+        w
+        ;
+        k
+        )
+        
+        
+          d
+        
+        w
+        .
+      
+    
+    {\displaystyle E{\bigl (}\operatorname {sn} (u;k);k{\bigr )}=\int _{0}^{u}\operatorname {dn} ^{2}(w;k)\,\mathrm {d} w=u-k^{2}\int _{0}^{u}\operatorname {sn} ^{2}(w;k)\,\mathrm {d} w=\left(1-k^{2}\right)u+k^{2}\int _{0}^{u}\operatorname {cn} ^{2}(w;k)\,\mathrm {d} w.}
+  The meridian arc length from the equator to latitude φ is written in terms of E:
+
+  
+    
+      
+        m
+        (
+        φ
+        )
+        =
+        a
+        
+          (
+          
+            E
+            (
+            φ
+            ,
+            e
+            )
+            +
+            
+              
+                
+                  
+                    d
+                  
+                  
+                    2
+                  
+                
+                
+                  
+                    d
+                  
+                  
+                    φ
+                    
+                      2
+                    
+                  
+                
+              
+            
+            E
+            (
+            φ
+            ,
+            e
+            )
+          
+          )
+        
+        ,
+      
+    
+    {\displaystyle m(\varphi )=a\left(E(\varphi ,e)+{\frac {\mathrm {d} ^{2}}{\mathrm {d} \varphi ^{2}}}E(\varphi ,e)\right),}
+  where a is the semi-major axis, and e is the eccentricity.
+
+
+== Incomplete elliptic integral of the third kind ==
+The incomplete elliptic integral of the third kind Π is 
+
+  
+    
+      
+        Π
+        (
+        n
+        ;
+        φ
+        ∖
+        α
+        )
+        =
+        
+          ∫
+          
+            0
+          
+          
+            φ
+          
+        
+        
+          
+            1
+            
+              1
+              −
+              n
+              
+                sin
+                
+                  2
+                
+              
+              ⁡
+              θ
+            
+          
+        
+        
+          
+            
+              
+                d
+              
+              θ
+            
+            
+              1
+              −
+              
+                
+                  (
+                  
+                    sin
+                    ⁡
+                    θ
+                    sin
+                    ⁡
+                    α
+                  
+                  )
+                
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \Pi (n;\varphi \setminus \alpha )=\int _{0}^{\varphi }{\frac {1}{1-n\sin ^{2}\theta }}{\frac {\mathrm {d} \theta }{\sqrt {1-\left(\sin \theta \sin \alpha \right)^{2}}}}}
+  or
+
+  
+    
+      
+        Π
+        (
+        n
+        ;
+        φ
+        
+        
+          |
+        
+        
+        m
+        )
+        =
+        
+          ∫
+          
+            0
+          
+          
+            sin
+            ⁡
+            φ
+          
+        
+        
+          
+            1
+            
+              1
+              −
+              n
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+        
+          
+            
+              
+                d
+              
+              t
+            
+            
+              
+                (
+                
+                  1
+                  −
+                  m
+                  
+                    t
+                    
+                      2
+                    
+                  
+                
+                )
+              
+              
+                (
+                
+                  1
+                  −
+                  
+                    t
+                    
+                      2
+                    
+                  
+                
+                )
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \Pi (n;\varphi \,|\,m)=\int _{0}^{\sin \varphi }{\frac {1}{1-nt^{2}}}{\frac {\mathrm {d} t}{\sqrt {\left(1-mt^{2}\right)\left(1-t^{2}\right)}}}.}
+  The number n is called the characteristic and can take on any value, independently of the other arguments. Note though that the value Π(1; π/2 | m) is infinite, for any m.
+A relation with the Jacobian elliptic functions is
+
+  
+    
+      
+        Π
+        
+          
+            (
+          
+        
+        n
+        ;
+        
+        am
+        ⁡
+        (
+        u
+        ;
+        k
+        )
+        ;
+        
+        k
+        
+          
+            )
+          
+        
+        =
+        
+          ∫
+          
+            0
+          
+          
+            u
+          
+        
+        
+          
+            
+              
+                d
+              
+              w
+            
+            
+              1
+              −
+              n
+              
+              
+                sn
+                
+                  2
+                
+              
+              ⁡
+              (
+              w
+              ;
+              k
+              )
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \Pi {\bigl (}n;\,\operatorname {am} (u;k);\,k{\bigr )}=\int _{0}^{u}{\frac {\mathrm {d} w}{1-n\,\operatorname {sn} ^{2}(w;k)}}.}
+  The meridian arc length from the equator to latitude φ is also related to a special case of Π:
+
+  
+    
+      
+        m
+        (
+        φ
+        )
+        =
+        a
+        
+          (
+          
+            1
+            −
+            
+              e
+              
+                2
+              
+            
+          
+          )
+        
+        Π
+        
+          (
+          
+            
+              e
+              
+                2
+              
+            
+            ;
+            φ
+            
+            
+              |
+            
+            
+            
+              e
+              
+                2
+              
+            
+          
+          )
+        
+        .
+      
+    
+    {\displaystyle m(\varphi )=a\left(1-e^{2}\right)\Pi \left(e^{2};\varphi \,|\,e^{2}\right).}
+  
+
+
+== Complete elliptic integral of the first kind ==
+
+Elliptic Integrals are said to be 'complete' when the amplitude φ = π/2 and therefore x = 1. The complete elliptic integral of the first kind K may thus be defined as
+
+  
+    
+      
+        K
+        (
+        k
+        )
+        =
+        
+          ∫
+          
+            0
+          
+          
+            
+              
+                π
+                2
+              
+            
+          
+        
+        
+          
+            
+              
+                d
+              
+              θ
+            
+            
+              1
+              −
+              
+                k
+                
+                  2
+                
+              
+              
+                sin
+                
+                  2
+                
+              
+              ⁡
+              θ
+            
+          
+        
+        =
+        
+          ∫
+          
+            0
+          
+          
+            1
+          
+        
+        
+          
+            
+              
+                d
+              
+              t
+            
+            
+              
+                (
+                
+                  1
+                  −
+                  
+                    t
+                    
+                      2
+                    
+                  
+                
+                )
+              
+              
+                (
+                
+                  1
+                  −
+                  
+                    k
+                    
+                      2
+                    
+                  
+                  
+                    t
+                    
+                      2
+                    
+                  
+                
+                )
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle K(k)=\int _{0}^{\tfrac {\pi }{2}}{\frac {\mathrm {d} \theta }{\sqrt {1-k^{2}\sin ^{2}\theta }}}=\int _{0}^{1}{\frac {\mathrm {d} t}{\sqrt {\left(1-t^{2}\right)\left(1-k^{2}t^{2}\right)}}},}
+  or more compactly in terms of the incomplete integral of the first kind as
+
+  
+    
+      
+        K
+        (
+        k
+        )
+        =
+        F
+        
+          (
+          
+            
+              
+                
+                  π
+                  2
+                
+              
+            
+            ,
+            k
+          
+          )
+        
+        =
+        F
+        
+          (
+          
+            
+              
+                
+                  π
+                  2
+                
+              
+            
+            
+            
+              |
+            
+            
+            
+              k
+              
+                2
+              
+            
+          
+          )
+        
+        =
+        F
+        (
+        1
+        ;
+        k
+        )
+        .
+      
+    
+    {\displaystyle K(k)=F\left({\tfrac {\pi }{2}},k\right)=F\left({\tfrac {\pi }{2}}\,|\,k^{2}\right)=F(1;k).}
+  It can be expressed as a power series
+
+  
+    
+      
+        K
+        (
+        k
+        )
+        =
+        
+          
+            π
+            2
+          
+        
+        
+          ∑
+          
+            n
+            =
+            0
+          
+          
+            ∞
+          
+        
+        
+          
+            (
+            
+              
+                
+                  (
+                  2
+                  n
+                  )
+                  !
+                
+                
+                  
+                    2
+                    
+                      2
+                      n
+                    
+                  
+                  (
+                  n
+                  !
+                  
+                    )
+                    
+                      2
+                    
+                  
+                
+              
+            
+            )
+          
+          
+            2
+          
+        
+        
+          k
+          
+            2
+            n
+          
+        
+        =
+        
+          
+            π
+            2
+          
+        
+        
+          ∑
+          
+            n
+            =
+            0
+          
+          
+            ∞
+          
+        
+        
+          
+            (
+          
+        
+        
+          P
+          
+            2
+            n
+          
+        
+        (
+        0
+        )
+        
+          
+            
+              )
+            
+          
+          
+            2
+          
+        
+        
+          k
+          
+            2
+            n
+          
+        
+        ,
+      
+    
+    {\displaystyle K(k)={\frac {\pi }{2}}\sum _{n=0}^{\infty }\left({\frac {(2n)!}{2^{2n}(n!)^{2}}}\right)^{2}k^{2n}={\frac {\pi }{2}}\sum _{n=0}^{\infty }{\bigl (}P_{2n}(0){\bigr )}^{2}k^{2n},}
+  where Pn is the Legendre polynomials, which is equivalent to
+
+  
+    
+      
+        K
+        (
+        k
+        )
+        =
+        
+          
+            π
+            2
+          
+        
+        
+          (
+          
+            1
+            +
+            
+              
+                (
+                
+                  
+                    1
+                    2
+                  
+                
+                )
+              
+              
+                2
+              
+            
+            
+              k
+              
+                2
+              
+            
+            +
+            
+              
+                (
+                
+                  
+                    
+                      1
+                      ⋅
+                      3
+                    
+                    
+                      2
+                      ⋅
+                      4
+                    
+                  
+                
+                )
+              
+              
+                2
+              
+            
+            
+              k
+              
+                4
+              
+            
+            +
+            ⋯
+            +
+            
+              
+                (
+                
+                  
+                    
+                      
+                        (
+                        
+                          2
+                          n
+                          −
+                          1
+                        
+                        )
+                      
+                      !
+                      !
+                    
+                    
+                      
+                        (
+                        
+                          2
+                          n
+                        
+                        )
+                      
+                      !
+                      !
+                    
+                  
+                
+                )
+              
+              
+                2
+              
+            
+            
+              k
+              
+                2
+                n
+              
+            
+            +
+            ⋯
+          
+          )
+        
+        ,
+      
+    
+    {\displaystyle K(k)={\frac {\pi }{2}}\left(1+\left({\frac {1}{2}}\right)^{2}k^{2}+\left({\frac {1\cdot 3}{2\cdot 4}}\right)^{2}k^{4}+\cdots +\left({\frac {\left(2n-1\right)!!}{\left(2n\right)!!}}\right)^{2}k^{2n}+\cdots \right),}
+  where n!! denotes the double factorial.  In terms of the Gauss hypergeometric function, the complete elliptic integral of the first kind can be expressed as
+
+  
+    
+      
+        K
+        (
+        k
+        )
+        =
+        
+          
+            
+              π
+              2
+            
+          
+        
+        
+        
+          
+
+          
+          
+            2
+          
+        
+        
+          F
+          
+            1
+          
+        
+        
+          (
+          
+            
+              
+                
+                  1
+                  2
+                
+              
+            
+            ,
+            
+              
+                
+                  1
+                  2
+                
+              
+            
+            ;
+            1
+            ;
+            
+              k
+              
+                2
+              
+            
+          
+          )
+        
+        .
+      
+    
+    {\displaystyle K(k)={\tfrac {\pi }{2}}\,{}_{2}F_{1}\left({\tfrac {1}{2}},{\tfrac {1}{2}};1;k^{2}\right).}
+  The complete elliptic integral of the first kind is sometimes called the quarter period.  It can be computed very efficiently in terms of the arithmetic–geometric mean:
+
+  
+    
+      
+        K
+        (
+        k
+        )
+        =
+        
+          
+            
+              π
+              2
+            
+            
+              agm
+              ⁡
+              
+                (
+                
+                  1
+                  ,
+                  
+                    
+                      1
+                      −
+                      
+                        k
+                        
+                          2
+                        
+                      
+                    
+                  
+                
+                )
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle K(k)={\frac {\frac {\pi }{2}}{\operatorname {agm} \left(1,{\sqrt {1-k^{2}}}\right)}}.}
+  See Carlson (2010, 19.8)  for details.
+
+
+=== Relation to Jacobi theta function ===
+The relation to Jacobi's theta function is given by 
+
+  
+    
+      
+        K
+        (
+        k
+        )
+        =
+        
+          
+            π
+            2
+          
+        
+        
+          θ
+          
+            3
+          
+          
+            2
+          
+        
+        (
+        q
+        )
+        ,
+      
+    
+    {\displaystyle K(k)={\frac {\pi }{2}}\theta _{3}^{2}(q),}
+  where the nome q is
+
+  
+    
+      
+        q
+        (
+        k
+        )
+        =
+        exp
+        ⁡
+        
+          (
+          
+            −
+            π
+            
+              
+                
+                  K
+                  
+                    (
+                    
+                      
+                        1
+                        −
+                        
+                          k
+                          
+                            2
+                          
+                        
+                      
+                    
+                    )
+                  
+                
+                
+                  K
+                  (
+                  k
+                  )
+                
+              
+            
+          
+          )
+        
+        .
+      
+    
+    {\displaystyle q(k)=\exp \left(-\pi {\frac {K\left({\sqrt {1-k^{2}}}\right)}{K(k)}}\right).}
+  
+
+
+=== Asymptotic expressions ===
+
+  
+    
+      
+        K
+        
+          (
+          k
+          )
+        
+        ≈
+        
+          
+            π
+            2
+          
+        
+        +
+        
+          
+            π
+            8
+          
+        
+        
+          
+            
+              k
+              
+                2
+              
+            
+            
+              1
+              −
+              
+                k
+                
+                  2
+                
+              
+            
+          
+        
+        −
+        
+          
+            π
+            16
+          
+        
+        
+          
+            
+              k
+              
+                4
+              
+            
+            
+              1
+              −
+              
+                k
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle K\left(k\right)\approx {\frac {\pi }{2}}+{\frac {\pi }{8}}{\frac {k^{2}}{1-k^{2}}}-{\frac {\pi }{16}}{\frac {k^{4}}{1-k^{2}}}}
+  This approximation has a relative precision better than 3×10−4 for k < 1/2. Keeping only the first two terms is correct to 0.01 precision for k < 1/2.
+
+
+=== Differential equation ===
+The differential equation for the elliptic integral of the first kind is
+
+  
+    
+      
+        
+          
+            
+              d
+            
+            
+              
+                d
+              
+              k
+            
+          
+        
+        
+          (
+          
+            k
+            
+              (
+              
+                1
+                −
+                
+                  k
+                  
+                    2
+                  
+                
+              
+              )
+            
+            
+              
+                
+                  
+                    d
+                  
+                  K
+                  (
+                  k
+                  )
+                
+                
+                  
+                    d
+                  
+                  k
+                
+              
+            
+          
+          )
+        
+        =
+        k
+        K
+        (
+        k
+        )
+      
+    
+    {\displaystyle {\frac {\mathrm {d} }{\mathrm {d} k}}\left(k\left(1-k^{2}\right){\frac {\mathrm {d} K(k)}{\mathrm {d} k}}\right)=kK(k)}
+  A second solution to this equation is 
+  
+    
+      
+        K
+        
+          (
+          
+            
+              1
+              −
+              
+                k
+                
+                  2
+                
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle K\left({\sqrt {1-k^{2}}}\right)}
+  . This solution satisfies the relation
+
+  
+    
+      
+        
+          
+            
+              d
+            
+            
+              
+                d
+              
+              k
+            
+          
+        
+        K
+        (
+        k
+        )
+        =
+        
+          
+            
+              E
+              (
+              k
+              )
+            
+            
+              k
+              
+                (
+                
+                  1
+                  −
+                  
+                    k
+                    
+                      2
+                    
+                  
+                
+                )
+              
+            
+          
+        
+        −
+        
+          
+            
+              K
+              (
+              k
+              )
+            
+            k
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {\mathrm {d} }{\mathrm {d} k}}K(k)={\frac {E(k)}{k\left(1-k^{2}\right)}}-{\frac {K(k)}{k}}.}
+  
+
+
+== Complete elliptic integral of the second kind ==
+
+The complete elliptic integral of the second kind E is defined as
+
+  
+    
+      
+        E
+        (
+        k
+        )
+        =
+        
+          ∫
+          
+            0
+          
+          
+            
+              
+                π
+                2
+              
+            
+          
+        
+        
+          
+            1
+            −
+            
+              k
+              
+                2
+              
+            
+            
+              sin
+              
+                2
+              
+            
+            ⁡
+            θ
+          
+        
+        
+        
+          d
+        
+        θ
+        =
+        
+          ∫
+          
+            0
+          
+          
+            1
+          
+        
+        
+          
+            
+              1
+              −
+              
+                k
+                
+                  2
+                
+              
+              
+                t
+                
+                  2
+                
+              
+            
+            
+              1
+              −
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+        
+        
+          d
+        
+        t
+        ,
+      
+    
+    {\displaystyle E(k)=\int _{0}^{\tfrac {\pi }{2}}{\sqrt {1-k^{2}\sin ^{2}\theta }}\,\mathrm {d} \theta =\int _{0}^{1}{\frac {\sqrt {1-k^{2}t^{2}}}{\sqrt {1-t^{2}}}}\,\mathrm {d} t,}
+  or more compactly in terms of the incomplete integral of the second kind E(φ,k) as
+
+  
+    
+      
+        E
+        (
+        k
+        )
+        =
+        E
+        
+          (
+          
+            
+              
+                
+                  π
+                  2
+                
+              
+            
+            ,
+            k
+          
+          )
+        
+        =
+        E
+        (
+        1
+        ;
+        k
+        )
+        .
+      
+    
+    {\displaystyle E(k)=E\left({\tfrac {\pi }{2}},k\right)=E(1;k).}
+  For an ellipse with semi-major axis a and semi-minor axis b and eccentricity e = √1 − b2/a2, the complete elliptic integral of the second kind E(e) is equal to one quarter of the circumference c of the ellipse measured in units of the semi-major axis a. In other words:
+
+  
+    
+      
+        c
+        =
+        4
+        a
+        E
+        (
+        e
+        )
+        .
+      
+    
+    {\displaystyle c=4aE(e).}
+  The complete elliptic integral of the second kind can be expressed as a power series
+
+  
+    
+      
+        E
+        (
+        k
+        )
+        =
+        
+          
+            π
+            2
+          
+        
+        
+          ∑
+          
+            n
+            =
+            0
+          
+          
+            ∞
+          
+        
+        
+          
+            (
+            
+              
+                
+                  (
+                  2
+                  n
+                  )
+                  !
+                
+                
+                  
+                    2
+                    
+                      2
+                      n
+                    
+                  
+                  
+                    
+                      (
+                      
+                        n
+                        !
+                      
+                      )
+                    
+                    
+                      2
+                    
+                  
+                
+              
+            
+            )
+          
+          
+            2
+          
+        
+        
+          
+            
+              k
+              
+                2
+                n
+              
+            
+            
+              1
+              −
+              2
+              n
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle E(k)={\frac {\pi }{2}}\sum _{n=0}^{\infty }\left({\frac {(2n)!}{2^{2n}\left(n!\right)^{2}}}\right)^{2}{\frac {k^{2n}}{1-2n}},}
+  which is equivalent to
+
+  
+    
+      
+        E
+        (
+        k
+        )
+        =
+        
+          
+            π
+            2
+          
+        
+        
+          (
+          
+            1
+            −
+            
+              
+                (
+                
+                  
+                    1
+                    2
+                  
+                
+                )
+              
+              
+                2
+              
+            
+            
+              
+                
+                  k
+                  
+                    2
+                  
+                
+                1
+              
+            
+            −
+            
+              
+                (
+                
+                  
+                    
+                      1
+                      ⋅
+                      3
+                    
+                    
+                      2
+                      ⋅
+                      4
+                    
+                  
+                
+                )
+              
+              
+                2
+              
+            
+            
+              
+                
+                  k
+                  
+                    4
+                  
+                
+                3
+              
+            
+            −
+            ⋯
+            −
+            
+              
+                (
+                
+                  
+                    
+                      (
+                      2
+                      n
+                      −
+                      1
+                      )
+                      !
+                      !
+                    
+                    
+                      (
+                      2
+                      n
+                      )
+                      !
+                      !
+                    
+                  
+                
+                )
+              
+              
+                2
+              
+            
+            
+              
+                
+                  k
+                  
+                    2
+                    n
+                  
+                
+                
+                  2
+                  n
+                  −
+                  1
+                
+              
+            
+            −
+            ⋯
+          
+          )
+        
+        .
+      
+    
+    {\displaystyle E(k)={\frac {\pi }{2}}\left(1-\left({\frac {1}{2}}\right)^{2}{\frac {k^{2}}{1}}-\left({\frac {1\cdot 3}{2\cdot 4}}\right)^{2}{\frac {k^{4}}{3}}-\cdots -\left({\frac {(2n-1)!!}{(2n)!!}}\right)^{2}{\frac {k^{2n}}{2n-1}}-\cdots \right).}
+  In terms of the Gauss hypergeometric function, the complete elliptic integral of the second kind can be expressed as
+
+  
+    
+      
+        E
+        (
+        k
+        )
+        =
+        
+          
+            
+              π
+              2
+            
+          
+        
+        
+        
+          
+
+          
+          
+            2
+          
+        
+        
+          F
+          
+            1
+          
+        
+        
+          (
+          
+            
+              
+                
+                  1
+                  2
+                
+              
+            
+            ,
+            −
+            
+              
+                
+                  1
+                  2
+                
+              
+            
+            ;
+            1
+            ;
+            
+              k
+              
+                2
+              
+            
+          
+          )
+        
+        .
+      
+    
+    {\displaystyle E(k)={\tfrac {\pi }{2}}\,{}_{2}F_{1}\left({\tfrac {1}{2}},-{\tfrac {1}{2}};1;k^{2}\right).}
+  The complete elliptic integral of the second kind can also be computed very efficiently using the arithmetic–geometric mean (Carlson 2010, 19.8) .
+
+
+=== Derivative and differential equation ===
+
+  
+    
+      
+        
+          
+            
+              
+                d
+              
+              E
+              (
+              k
+              )
+            
+            
+              
+                d
+              
+              k
+            
+          
+        
+        =
+        
+          
+            
+              E
+              (
+              k
+              )
+              −
+              K
+              (
+              k
+              )
+            
+            k
+          
+        
+      
+    
+    {\displaystyle {\frac {\mathrm {d} E(k)}{\mathrm {d} k}}={\frac {E(k)-K(k)}{k}}}
+  
+  
+    
+      
+        
+          (
+          
+            
+              k
+              
+                2
+              
+            
+            −
+            1
+          
+          )
+        
+        
+          
+            
+              d
+            
+            
+              
+                d
+              
+              k
+            
+          
+        
+        
+          (
+          
+            k
+            
+            
+              
+                
+                  
+                    d
+                  
+                  E
+                  (
+                  k
+                  )
+                
+                
+                  
+                    d
+                  
+                  k
+                
+              
+            
+          
+          )
+        
+        =
+        k
+        E
+        (
+        k
+        )
+      
+    
+    {\displaystyle \left(k^{2}-1\right){\frac {\mathrm {d} }{\mathrm {d} k}}\left(k\;{\frac {\mathrm {d} E(k)}{\mathrm {d} k}}\right)=kE(k)}
+  A second solution to this equation is E(√1 − k2) − K(√1 − k2).
+
+
+== Complete elliptic integral of the third kind ==
+
+The complete elliptic integral of the third kind Π can be defined as
+
+  
+    
+      
+        Π
+        (
+        n
+        ,
+        k
+        )
+        =
+        
+          ∫
+          
+            0
+          
+          
+            
+              
+                π
+                2
+              
+            
+          
+        
+        
+          
+            
+              
+                d
+              
+              θ
+            
+            
+              
+                (
+                
+                  1
+                  −
+                  n
+                  
+                    sin
+                    
+                      2
+                    
+                  
+                  ⁡
+                  θ
+                
+                )
+              
+              
+                
+                  1
+                  −
+                  
+                    k
+                    
+                      2
+                    
+                  
+                  
+                    sin
+                    
+                      2
+                    
+                  
+                  ⁡
+                  θ
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \Pi (n,k)=\int _{0}^{\tfrac {\pi }{2}}{\frac {\mathrm {d} \theta }{\left(1-n\sin ^{2}\theta \right){\sqrt {1-k^{2}\sin ^{2}\theta }}}}.}
+  Note that sometimes the elliptic integral of the third kind is defined with an inverse sign for the characteristic n,
+
+  
+    
+      
+        
+          Π
+          ′
+        
+        (
+        n
+        ,
+        k
+        )
+        =
+        
+          ∫
+          
+            0
+          
+          
+            
+              
+                π
+                2
+              
+            
+          
+        
+        
+          
+            
+              
+                d
+              
+              θ
+            
+            
+              
+                (
+                
+                  1
+                  +
+                  n
+                  
+                    sin
+                    
+                      2
+                    
+                  
+                  ⁡
+                  θ
+                
+                )
+              
+              
+                
+                  1
+                  −
+                  
+                    k
+                    
+                      2
+                    
+                  
+                  
+                    sin
+                    
+                      2
+                    
+                  
+                  ⁡
+                  θ
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \Pi '(n,k)=\int _{0}^{\tfrac {\pi }{2}}{\frac {\mathrm {d} \theta }{\left(1+n\sin ^{2}\theta \right){\sqrt {1-k^{2}\sin ^{2}\theta }}}}.}
+  Just like the complete elliptic integrals of the first and second kind, the complete elliptic integral of the third kind can be computed very efficiently using the arithmetic-geometric mean (Carlson 2010, 19.8) .
+
+
+=== Partial derivatives ===
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    
+                      ∂
+                      Π
+                      (
+                      n
+                      ,
+                      k
+                      )
+                    
+                    
+                      ∂
+                      n
+                    
+                  
+                
+              
+              
+                
+                =
+                
+                  
+                    1
+                    
+                      2
+                      
+                        (
+                        
+                          
+                            k
+                            
+                              2
+                            
+                          
+                          −
+                          n
+                        
+                        )
+                      
+                      (
+                      n
+                      −
+                      1
+                      )
+                    
+                  
+                
+                
+                  (
+                  
+                    E
+                    (
+                    k
+                    )
+                    +
+                    
+                      
+                        1
+                        n
+                      
+                    
+                    
+                      (
+                      
+                        
+                          k
+                          
+                            2
+                          
+                        
+                        −
+                        n
+                      
+                      )
+                    
+                    K
+                    (
+                    k
+                    )
+                    +
+                    
+                      
+                        1
+                        n
+                      
+                    
+                    
+                      (
+                      
+                        
+                          n
+                          
+                            2
+                          
+                        
+                        −
+                        
+                          k
+                          
+                            2
+                          
+                        
+                      
+                      )
+                    
+                    Π
+                    (
+                    n
+                    ,
+                    k
+                    )
+                  
+                  )
+                
+              
+            
+            
+              
+                
+                  
+                    
+                      ∂
+                      Π
+                      (
+                      n
+                      ,
+                      k
+                      )
+                    
+                    
+                      ∂
+                      k
+                    
+                  
+                
+              
+              
+                
+                =
+                
+                  
+                    k
+                    
+                      n
+                      −
+                      
+                        k
+                        
+                          2
+                        
+                      
+                    
+                  
+                
+                
+                  (
+                  
+                    
+                      
+                        
+                          E
+                          (
+                          k
+                          )
+                        
+                        
+                          
+                            k
+                            
+                              2
+                            
+                          
+                          −
+                          1
+                        
+                      
+                    
+                    +
+                    Π
+                    (
+                    n
+                    ,
+                    k
+                    )
+                  
+                  )
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}{\frac {\partial \Pi (n,k)}{\partial n}}&={\frac {1}{2\left(k^{2}-n\right)(n-1)}}\left(E(k)+{\frac {1}{n}}\left(k^{2}-n\right)K(k)+{\frac {1}{n}}\left(n^{2}-k^{2}\right)\Pi (n,k)\right)\\[10px]{\frac {\partial \Pi (n,k)}{\partial k}}&={\frac {k}{n-k^{2}}}\left({\frac {E(k)}{k^{2}-1}}+\Pi (n,k)\right)\end{aligned}}}
+  
+
+
+== Functional relations ==
+Legendre's relation:
+
+  
+    
+      
+        K
+        (
+        k
+        )
+        E
+        
+          (
+          
+            
+              1
+              −
+              
+                k
+                
+                  2
+                
+              
+            
+          
+          )
+        
+        +
+        E
+        (
+        k
+        )
+        K
+        
+          (
+          
+            
+              1
+              −
+              
+                k
+                
+                  2
+                
+              
+            
+          
+          )
+        
+        −
+        K
+        (
+        k
+        )
+        K
+        
+          (
+          
+            
+              1
+              −
+              
+                k
+                
+                  2
+                
+              
+            
+          
+          )
+        
+        =
+        
+          
+            π
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle K(k)E\left({\sqrt {1-k^{2}}}\right)+E(k)K\left({\sqrt {1-k^{2}}}\right)-K(k)K\left({\sqrt {1-k^{2}}}\right)={\frac {\pi }{2}}.}
+  
+
+
+== See also ==
+
+
+== References ==
+
+Abramowitz, Milton; Stegun, Irene Ann, eds. (1983) [June 1964]. "Chapter 17". Handbook of Mathematical Functions with Formulas, Graphs, and Mathematical Tables. Applied Mathematics Series. 55 (Ninth reprint with additional corrections of tenth original printing with corrections (December 1972); first ed.). Washington D.C.; New York: United States Department of Commerce, National Bureau of Standards; Dover Publications. p. 587. ISBN 978-0-486-61272-0. LCCN 64-60036. MR 0167642. LCCN 65-12253.
+Byrd, P. F.; Friedman, M.D. (1971). Handbook of Elliptic Integrals for Engineers and Scientists (2nd ed.). New York: Springer-Verlag. ISBN 0-387-05318-2.
+Carlson, B. C. (1995). "Numerical Computation of Real or Complex Elliptic Integrals". Numerical Algorithms. 10 (1): 13–26. arXiv:math/9409227. Bibcode:1995NuAlg..10...13C. doi:10.1007/BF02198293.
+Carlson, B. C. (2010), "Elliptic integral",  in Olver, Frank W. J.; Lozier, Daniel M.; Boisvert, Ronald F.; Clark, Charles W. (eds.), NIST Handbook of Mathematical Functions, Cambridge University Press, ISBN 978-0-521-19225-5, MR 2723248
+Erdélyi, Arthur; Magnus, Wilhelm; Oberhettinger, Fritz; Tricomi, Francesco G. (1953). Higher transcendental functions. Vol II (PDF). McGraw-Hill Book Company, Inc., New York-Toronto-London. MR 0058756.
+Gradshteyn, Izrail Solomonovich; Ryzhik, Iosif Moiseevich; Geronimus, Yuri Veniaminovich; Tseytlin, Michail Yulyevich; Jeffrey, Alan (2015) [October 2014]. "8.1.".  In Zwillinger, Daniel; Moll, Victor Hugo (eds.). Table of Integrals, Series, and Products. Translated by Scripta Technica, Inc. (8 ed.). Academic Press, Inc. ISBN 978-0-12-384933-5. LCCN 2014010276.
+Greenhill, Alfred George (1892). The applications of elliptic functions. New York: Macmillan.
+Hancock, Harris (1910). Lectures on the Theory of Elliptic Functions. New York: J. Wiley & sons.
+King, Louis V. (1924). On The Direct Numerical Calculation Of Elliptic Functions And Integrals. Cambridge University Press.
+Press, W. H.; Teukolsky, S. A.; Vetterling, W. T.; Flannery, B. P. (2007), "Section 6.12. Elliptic Integrals and Jacobian Elliptic Functions", Numerical Recipes: The Art of Scientific Computing (3rd ed.), New York: Cambridge University Press, ISBN 978-0-521-88068-8
+
+
+== External links ==
+Hazewinkel, Michiel, ed. (2001) [1994], "Elliptic integral", Encyclopedia of Mathematics, Springer Science+Business Media B.V. / Kluwer Academic Publishers, ISBN 978-1-55608-010-4
+Eric W. Weisstein, "Elliptic Integral" (Mathworld)
+Matlab code for elliptic integrals evaluation by elliptic project
+Rational Approximations for Complete Elliptic Integrals (Exstrom Laboratories)
+A Brief History of Elliptic Integral Addition Theorems

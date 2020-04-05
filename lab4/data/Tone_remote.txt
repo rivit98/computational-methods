@@ -1,0 +1,62 @@
+Remote controls are used any time a two-way radio base station is located away from the desk or office where communication originates. For example, a dispatch center for taxicabs may have an office downtown but have a base station on a distant mountain top. A Tone remote, also known as an EIA Tone remote, is a signaling system used to operate a two-way radio base station by some form of remote control.A tone remote may be a stand-alone desktop device in a telephone housing with a speaker where the dial would have been located. It may look like a desk top base station. Or, it may be an integral part of a computer-based console system with touch-screens in a dispatch center.
+
+
+== History ==
+The first two-way radio remote controls utilized a harness of wires extending speaker, microphone, and controls for options such as channel selection or CTCSS switches. This limited a base station to being within tens to hundreds of feet from the user's workstation. Early systems often had volume unit meters, clocks, and switchboard keys.1960s two-way radio remote control consoles used direct current loops. Users would run ordinary telephone wiring from the remote consoles to the radio base station chassis. In some cases, the base station was located at the same address as the control console. In other cases, the base station was located at a distant site. For distant sites, a dry pair of telephone wires called a DC loop, private line- or RTO circuit (Radio Telephone Operation) was leased from the telephone company. Older burglar alarms used the same type of DC wiring from subscriber location to the alarm office.
+As pair gain electronics and point-to-point microwave radio links came into widespread use throughout the public switched telephone network, telephone companies filed tariffs to eliminate their past responsibility of providing leased circuits with direct current continuity. If the base station were located across town in an area served by a different telephone exchange, the only available circuits reaching the distant exchange might be a single voice-grade channel in a D-4 channel bank on a DS-1 or a single microwave radio baseband channel. Tone remotes became necessary with the wide use of telephone carrier or multiplexing equipment. They require only a voice-grade audio path with roughly flat equalization from 300-3,000 Hz. A circuit that could pass audio in both directions could be used for remote control.
+
+
+== Tone format employed ==
+Tone remotes send commands to a base station using function tones, a series of two tones in sequence. The first tone is 2,175 Hz and is 100-300 milliseconds in length. The most common second tone is 1,950 Hz. The most commonly used tone sequence in tone remote controls is the channel 1 transmit command. The default for this command consists of a high-level 2,175 Hz followed by a lower-level 1,950 Hz. A continuous, low-level 2,175 Hz tone follows. Voice is multiplexed over the tone. So long as the 2,175 Hz tone is present, the transmitter remains on. An audio notch filter removes the 2,175 Hz low-level tone from the actual transmit audio. General Electric Mobile Radio called the high-level tone, '"Secur-it tone", and called the low-level tone "hold tone." In the industry, the low-level continuous tone is often called, low-level guard tone. The low-level tone is present at the same time as transmitted voice.
+
+
+=== Receive ===
+Some function tones are sent without the continuous low-level tone. These are commands that change a state of the base station. An example is turning off the receiver CTCSS decoder (the monitor function).
+Receive commands use a function tone only. They may include things like:
+
+Turn off CTCSS decode or monitor
+Switch base station to channel 2
+Set squelch threshold tight/loose
+Repeater set-up/knock-down
+Turn on second receiver in dual-receiver base station.
+
+
+=== Transmit ===
+Transmit commands use a function tone followed by low-level guard tone, which holds the transmitter on. They may include things like:
+
+Transmit, channel 1
+Transmit, channel 2
+Transmit, channel 3
+Transmit, channel 4
+Transmit with CTCSS encode disabled (used to send paging tones)
+Transmit site 1
+Transmit site 2
+Transmit site 3
+Transmit site 4Tones used for remote controls are described in ratios called decibels: for example, the second tone of a sequence might be 10% of the level of the first tone. The highest level tones are set to the maximum allowable for the DS-1 channel or telephone line. The figure at right shows the envelope of a function tone's two-tone sequence.
+
+
+== Maintenance ==
+
+
+=== Levels and equalization ===
+Level discipline, setting the tone output levels at the remote control, affects the reliability of a tone remote. Audio levels set too low may cause the transmitter to drop out when speech peaks occur. The combination of voice and signaling tones is supposed to lie in a balance. If everything is set ideally, a notch filter at the base station blocks the steady 2,175 Hz tone from going out on the air. Proper levels for tone remote systems are 0dbm for the high level tone, -10dbm for the function tone and -30dbm for the low level guard tone (Motorola's older manuals often confused technicians with some levels listed as high as +14dbm. Analog telephone circuits used by tone remote systems normally only allow 0dbm as a maximum) All levels are based on 600 ohm impedance termination at the radio itself and needed gain after a long circuit to bring the levels back up to the levels noted above.
+Level discipline varies from one system to another. In order to get the transmitter to key reliably, sometimes the continuous tone that holds the transmitter on may have to be set so it is heard in the transmit audio. Sometimes equalization problems with a telephone circuit make it necessary to run higher levels than a circuit with a flat response from 300 to 3000 Hz would require. Normally a phone circuit ordered as a PLPA or conditioned type results in a 300 to 3400 Hz response which easily handles all tones used in a tone remote radio system. Normal LMR practices of running the levels hotter than normal is something to be avoided to prevent an audio problem later if equipment is changed out.
+
+
+=== Audio level compression ===
+Remote control consoles use audio level compression in transmit and receive audio paths.
+In documentation for most any console, receive audio is described as having a 30 decibel (db) knee of compression: for a 30 db variation in input audio level, the speaker volume changes by 3 db. This is desirable because persons calling on the radio who are whispering or yelling would ideally be intelligible and be presented to the console user at roughly the same volume. It helps reduce the need to constantly adjust the volume control to accommodate different voices. It also helps the console user talk on the telephone without loud sounds coming from the remote control speaker. A professional dispatcher will often set the console volume at a setting similar to the telephone's perceived volume. This allows the dispatcher to shift her attention between the radio and the phone without continually adjusting volume controls during a conversation.
+Transmit audio is compressed so that field units can hear the base station user over background environmental noise present in cars and in the street scape around walkie-talkie users.
+
+
+=== Tone conflicts ===
+In designing a system, it is important to pick selective calling tones that do not conflict with remote control tones in use.
+Analog voting systems usually utilize either 2,175 Hz or 1,950 Hz as an indication a receiver is squelched or idle. In the case of 2,175 Hz, the steady tone leaking from a receiver phone line, or from the output of the voting comparator, may cause the transmitter to lock on.  The most frequent cause of this is crosstalk in the telephone cables, frequently caused by a too-high audio level in the line (called "overdriving" the line).
+
+
+== Two wire versus four wire ==
+The simplest tone remote system uses a two-wire audio circuit to operate a simplex base station. If simultaneous transmit and receive is required, a four-wire or full duplex audio path to the base station is required. Systems using diversity combining (voting) require four-wire circuits.
+Some systems where transmitter steering is employed may also require a separate audio path for transmit and receive, (four-wire circuits).
+
+
+== Notes ==

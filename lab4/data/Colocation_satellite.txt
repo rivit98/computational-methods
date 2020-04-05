@@ -1,0 +1,38 @@
+Co-location is the placing of two or more geostationary communications satellites in orbit, in close proximity so that to reception equipment on the ground they 'appear' to occupy a single orbital position. The technique as applied to a group of TV satellites from a single operator was pioneered by SES with the Astra satellites at 19.2°E.
+
+
+== Satellite separation ==
+Communications satellites' orbital positions are normally spaced apart along the geostationary orbit to provide for frequency reuse for both uplink and downlink transmissions. By separating adjacent satellites by a distance greater than the at-orbit beamwidth of the uplink antennas, the same carrier frequencies can be used to uplink to both satellites without interference. Similarly, a sufficient separation so that the beamwidth of the receiving dishes on the ground can distinguish one satellite from its neighbours, allows the same frequency spectrum to be used for adjacent satellite downlinks.
+Communications satellites are positioned in orbital 'slots' allocated under international treaty by the ITU and a separation between slots of 2° or 3° of orbital longitude is common.
+
+
+== History of co-location ==
+Co-location of two satellites has long been used on a temporary basis for the transfer of services from a retiring satellite to a replacement satellite, and for pairing of two partially malfunctioning satellites to operate as a single satellite. The planned co-location of two satellites was used by the TDF-1 and TDF-2 and TV-Sat 1 and TV-Sat 2 DBS satellites launched 1987-1990 to provide national DBS broadcasting to France and Germany.
+The first co-location of a group of satellites (reaching eight in number) was by SES with the Astra satellites at 19.2°E. Astra 1A was launched in 1988 and followed by Astra 1B (1991), Astra 1C (1993), Astra 1D (1994), Astra 1E (1995), Astra 1F (1996), Astra 1G (1997), Astra 1H (1999), all co-located at the same orbital slot of 19.2°E (although Astra 1D was only co-located with all the other satellites at this position for short periods).
+Co-location is now employed at orbital slots across the geostationary orbit by many satellite operators, and is used by SES for multiple satellites at two of its Astra slots, 19.2°E and 28.2°E.
+
+
+== Benefits of co-location ==
+The greatest benefit of co-locating satellites at one orbital slot is that the capacity for traffic at that orbital position can be built-up in commercially manageable stages as demand dictates. In this way, when SES first brought DTH satellite TV to Europe it was not known what the demand for the services would be and therefore how many transponders would be required. The first satellite, Astra 1A, had just 16 transponders (for 16 analogue TV channels) and this capacity was doubled with the arrival of Astra 1B without any requirement for changes to viewers' equipment.
+Similarly, the use of multiple co-located satellites at more than one orbital position allows for an operator to vary the capacity allocation at each position by moving individual satellites between positions in orbit to reduce or increase the capacity at each position without the delays and costs associated with launching additional satellites.Another key benefit of co-location as exercised by SES is that of reliability of service, and it is a crucial defence against satellite failure. In the group of co-located Astra satellites at 19.2°E, each craft has additional backup capacity to be used in the case of a partial or complete failure onboard another satellite in the cluster. In the event of a problem, spare transponders on one or more of the co-located craft can be switched in to take over, without interruption of the transmissions.
+
+
+== How it works ==
+Co-located satellites cannot actually be positioned at the same point on the geostationary satellite arc. In fact, they are just close enough together to appear to be at the same position so far as the beamwidth of the receiving dish is concerned. SES maintains its co-located satellites within an imaginary 150 km cube in space, centred on the notional orbital position.All geostationary satellites are influenced by gravity of the Earth, the Moon and the Sun, and tend to drift from their initial orbital position. They are maintained on-station with on-board thrusters fired under the control of the operations centre on the ground. With a group of co-located satellites, the task is complex as each satellite must be maintained within the 150 km box but kept at a suitable distance (typically over 5 km) from the other satellites in the group to avoid collision or mutual interference, at the same time expending the least possible fuel to prolong the life of the satellite.
+
+
+== See also ==
+Geostationary Orbit
+Communications satellite
+SES S.A.
+Astra (satellite)
+High Above (book)
+
+
+== References ==
+
+
+== External links ==
+OnAstra - Official consumers/viewers' site
+SES - Official trade/industry site
+SES fleet information and map

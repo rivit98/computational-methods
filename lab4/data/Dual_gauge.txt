@@ -1,0 +1,235 @@
+A dual gauge railway is a track that allows the passage of trains of two different track gauges. It is sometimes called a "mixed gauge" track. A dual gauge track consists of three rails. There will be two vital rails ("gauge" rails), one for each gauge close together and a third rail, a "common" rail further away. Sometimes, four rails are required using two outer and two inner rails to create the dual gauge. Dual gauge is not to be confused with a "third rail" (the electric current traction rail) or "check or guard rails".
+
+
+== Background ==
+Rail gauge, the distance between the inner surfaces of the heads of travel rails, is an important specification of a railway. Rail tracks and wheel bogies must be built to the same gauge within an engineering tolerance of 13 mm (0.5 in). If the correct gauge is not achieved, the train will fall off the track and not be able to pass switches and crossovers.
+Dual gauge trains can use low level platforms because their carriages rest higher than the platform. In the case of three rails and high platforms, one gauge may be too close or too far away, depending on the position of the common rail. Another option at platforms is to construct separate tracks, one for each gauge.
+
+
+=== Tolerance ===
+If the difference between two rail gauges is small enough, i.e. within each other's tolerances, then it is possible for them to operate the same rolling stock. 
+At the Finland–Russian border the Finnish railway gauge is 1524 mm and the Russian gauge is 1520 mm. When the Soviet Union changed the gauge of its railways in Russia in the 1970s to 1520 mm, this did not result in a break of gauge and no track conversion work was done. The change in gauge was a redefinition of the way tolerances were measured. Both railways remained well within each other's tolerance and can run the same rolling stock.
+However, being within a tolerance in gauge does not always mean that two different system can successfully operate the same rolling stock. For example, the MTR (Mass Transit Railway) in Hong Kong 1,432 mm (4 ft 8 3⁄8 in) Electric multiple units (EMU) may run on Kowloon-Canton Railway (KCR) 1,435 mm (4 ft 8 1⁄2 in) rails but would need a locomotive or a KCR EMU pulling due to the difference in electrification voltages. Dual voltage and frequency EMUs are the other solution.
+
+
+=== Break of gauge ===
+
+"Break of gauge" occurs when rails of different gauges outside the normal tolerance meet. Passengers and freight must transfer between trains, or rolling stock must be lifted and the bogies refitted for the new gauge. Avoiding break of gauge reduces costs and allows infrastructure such as platforms, bridges and tunnels to be shared.
+
+
+=== Gauge conversion ===
+
+Railway operators may change from one gauge to another via a period of dual gauge operations. For example, the Great Western Railway (GWR) made a conversion from a 7-foot broad gauge to the standard gauge via a period of dual gauge operations across its network. New GWR rolling stock and locomotives of that time were built to accommodate the change.
+Where rails are too light for the loads of broader-gauge railcars, dual gauge rails may not be feasible. In this case, heavier rails are installed.
+
+
+== Configurations ==
+One common running rail and two other outer rails provide a dual gauge. In dual gauge lines, railroad switches (points) are more complex. Trains must be safely signalled on both of the gauges. Track circuits and mechanical interlocking must also operate on both gauges. Another feature is that the wear and tear of the common rail is greater than the two other outer rails.
+
+
+=== Three rails ===
+
+Dual gauge track with three rails must provide a difference between the gauges at least as wide as the foot of the rail. This is to ensure there is room for rail fastening hardware such as spikes and clips.
+Functional pairing of gauges include: 1,435 mm (4 ft 8 1⁄2 in) standard gauge and 1,676 mm (5 ft 6 in); 3 ft (914 mm) and 3 ft 6 in (1,067 mm); and 5 ft (1,524 mm) and 6 ft (1,829 mm). 1,435 mm (4 ft 8 1⁄2 in) standard gauge and 1,600 mm (5 ft 3 in) can also be dual gauged, albeit with lighter, narrow footed rails. An example of this type of pairing is seen in Victoria, Australia.
+
+
+=== Four rails ===
+Gauges which are too close to function in a three rail arrangement include 1,000 mm (3 ft 3 3⁄8 in) metre gauge and 3 ft 6 in (1,067 mm) (common in Africa); 1,000 mm (3 ft 3 3⁄8 in) and 3 ft (914 mm) (common in South America); and 1,435 mm (4 ft 8 1⁄2 in) and 1,524 mm (5 ft), and 1,524 mm (5 ft) and 1,676 mm (5 ft 6 in). The last combination is common in Afghanistan, Central Asia, northern, central and eastern Europe, Russia, North America, Iran, and China. In Europe, it was of strategic importance in World War II.
+In these cases, a gauntlet track which uses four rails is constructed. An example of this is seen at the Rail Baltica project which aims to connect central and northern Europe by rail.
+Four rails may also be used where a co-location of track centres of the two gauges is needed. This might occur in tight tunnels or past platforms. An example is seen at the Roma Street railway station in Brisbane, Queensland, Australia. There, both three rail and four rail dual gauge systems are used between 1,435 mm (4 ft 8 1⁄2 in) and 1,067 mm (3 ft 6 in) gauges.
+
+		
+		
+		
+
+
+=== Triple gauge ===
+
+Break of gauge occurs at some triple gauge stations. In the examples below, the triple gauge was used in rail yards where trains operate at low speeds. Thus, if required, light rail could be used to space the rails closely together. Light rail was not used at the Niagara Falls Suspension Bridge and it would not be used for main line operation at high speeds.
+
+
+=== Quadruple gauge ===
+
+Within a works facility or maintenance yard, tracks consisting of four or more separate gauges may be used. At Alan Keef in Lea, Herefordshire a short section of line uses four rails to allow locomotives of 2 ft (610 mm), 2 ft 6 in (762 mm), 3 ft (914 mm) and 3 ft 6 in (1,067 mm) gauges to enter the works.
+The National Railway Museum, Port Adelaide in Adelaide, Australia has the three main-line gauges and a 18 in (457 mm) gauge Heritage railway line.
+In the 1960s and 1970s, the Electro-motive diesel (EMD) plant in McCook, Illinois maintained a small amount of multi-gauge track with up to seven parallel rails in order to support the wide variety of export locomotives they produced. This track did include a turnout splitting a standard gauge track from the seven-rail track. It required eight frogs in a row.
+
+
+== Switches ==
+Dual gauge switches (also known as "turnouts" or "points"), where both gauges have a choice of routes, are more complicated than those where two gauges separate or single gauge switches. The train must move through a dual gauge switch very slowly. The ends of dual gauge switches are easier to design if their operation is electrical rather than mechanical.
+If two gauges are similar in width, the switch they use will have many small pieces that are difficult to support. The switch will also be limited in speed. The difference between the gauges should be 50 mm greater than the width of the base of the rails. In a rail yard, weak dual gauge switches are avoided by separating the gauges and using, single gauge switches, and dual gauge diamond crossings. Gauge splitters are used for trains of a single gauge. The fixed type have no moving parts and trains move through them slowly. Power operated gauge splitters are operated like ordinary switches.
+
+
+== Other configurations ==
+
+
+=== Separate gauge ===
+Dual gauge lines are separated by building two tracks, one of each gauge, side by side. Whether a dual gauge line remains depends on the volume of rail traffic it carries and also its location, for example across a bridge or through a tunnel. Separated lines share infrastructure such as signal boxes and signallers.
+In Victoria (Australia), on the Melbourne to Geelong line 80 km (50 mi), a single 1,435 mm (4 ft 8 1⁄2 in) standard gauge line runs parallel to the double track broad gauge.
+Prior to 1941, the 58 km (36 mi) Yogyakarta – Surakarta line in Java, in the Dutch East Indies, had a single 3 ft 6 in (1,067 mm) line in parallel with a dual gauge 1,435 mm (4 ft 8 1⁄2 in) and a 3 ft 6 in (1,067 mm) line.
+In 1960, in Western Australia, the Perth to Northam line was to be a 3 ft 6 in (1,067 mm) narrow gauge track running in parallel with a 1,435 mm (4 ft 8 1⁄2 in) line. Planners then realised a double dual gauge line would increase capacity.
+The Uzhhorod–Košice broad-gauge track in Slovakia runs in parallel to a double track 1,435 mm (4 ft 8 1⁄2 in) line.
+
+
+=== Overlapping gauges ===
+
+Railway of one gauge may be extended into territory that uses another gauge. This may avoid transhipment. For example, a 1,524 mm (5 ft) gauge line runs from an iron ore mine in Ukraine to a steelworks in Slovakia. A portion of four rail dual gauge line (1435 mm and 1520 mm) runs from Slovakia to Romania (both standard gauge) through Ukraine (Russian gauge).
+
+
+== Other procedures ==
+Transporter wagons, transporter trucks, and rollbocks are used to carry vehicles built for one gauge on a line with a different gauge. They can manage a trainload at a time. Bridges and tunnels must be one metre higher than usual.
+Bogie exchange systems lift the railroad car while trucks or bogies are changed for a different gauge. This system is not suitable for four-wheeled wagons. The Ramsey car transfer apparatus is another way to change bogies.
+Adjustable gauge equipment or variable gauge axles, allow a wheel gauge to be altered. Transshipment procedures move containers and people from one train to another.
+
+
+== Model railways / miniature ridable railways ==
+Tillig make dual gauge model railway track.Many ridable miniature railways utilise dual gauge, often with models of the same prototype built to different scales to match the gauge.
+
+
+== Dual gauge railways by nation ==
+Selected examples in alphabetical order.
+
+
+=== Australia ===
+In Victoria there are sections of 5 ft 3 in (1,600 mm) and 4 ft 8 1⁄2 in (1,435 mm) dual gauge track between Southern Cross station and West Footscray, Sunshine and Newport, Albion and Jacana, North Geelong and Gheringhap, Maryborough and Dunolly, and in various goods yards and industrial sidings. Until 2008, there was dual gauge line between Wodonga and Bandiana.
+At Albury railway station, New South Wales there was 5 ft 3 in (1,600 mm) and 4 ft 8 1⁄2 in (1,435 mm) dual gauge line until 2011. There is dual gauge within Tocumwal railway station but in 1988, the standard gauge component was put out of use.
+In 1900, in Western Australia, the three rail dual gauge system was proposed in order to avoid a break of gauge. However, designing switches was initially said to be difficult due to the distance of 6.5 inches (165.1 mm) between the standard gauge (1435 mm) and the Victorian broad gauge (1600 mm). After twenty years of discord, the dual gauge proposal and the Brennan dual gauge switch were abandoned. Much later, the Australian Rail Track Corporation (ARTC) did successfully adopt dual gauge switches.In Western Australia, there is a 3 ft 6 in (1,067 mm) and 4 ft 8 1⁄2 in (1,435 mm)) double track dual gauge running over 120 km (75 mi) of the main line from East Perth to Northam. Dual gauge track is also used from the triangle at Woodbridge to Cockburn Junction, then to Kwinana on one branch, and North Fremantle on the other. The signalling system detects the gauge of the approaching train and puts the signals to stop if the route is set for the wrong gauge. This is easier to do if the signalling is electrical rather than mechanical.
+In Queensland, there is a section of dual gauge track 3 ft 6 in (1,067 mm) and 4 ft 8 1⁄2 in (1,435 mm) dual gauge tacke between the rail freight yards at Acacia Ridge and Park Road Station which is utilised by both passenger and freight trains. Freight trains to the Port of Brisbane utilise the dual gauge Fisherman Islands line that runs parallel to the Cleveland railway line from Park Road to Lindum. Passenger trains utilise the dual gauge section of the Beenleigh railway line running parallel to the electric suburban narrow gauge of the Queensland Rail City network line over the Merivale Bridge into Platforms 2 and 3 at Roma Street Station. This is used by standard gauge interstate NSW TrainLink XPT services to Sydney. In 2012, a dual gauge line was installed between Acacia Ridge and Bromelton to serve a new freight hub at Bromelton.
+
+
+=== Bangladesh ===
+Bangladesh Railway is using three rails to avoid break of gauge with its broad and narrow gauge lines. The new Jamuna Bridge that links the east and west rail systems is a four rail dual gauge line.
+
+
+=== Belgium ===
+Tram tracks in Brussels once combined 1,000 mm (3 ft 3 3⁄8 in) metre gauge lines for inter-urban trams and 1,435 mm (4 ft 8 1⁄2 in) standard gauge lines for urban trams. When the inter-urban trams went out of service, the network used only standard gauge track.
+
+
+=== Britain ===
+The Great Western Railway in Britain was originally a broad gauge 7 ft 1⁄4 in (2,140 mm) line. After a "gauge war", a track gauge conversion was made. A dual gauge system was easily installed as the gauges were well separated and the line had wooden sleepers. A short section of broad gauge 7 ft 1⁄4 in (2,140 mm) and standard gauge 1,435 mm (4 ft 8 1⁄2 in) remains at the Great Western Society site at Didcot as a demonstration line.
+
+
+=== Czech Republic ===
+In the Czech Republic, there is 2 km of dual gauge (1,435 mm or 4 ft 8 1⁄2 in standard gauge and 760 mm or 2 ft 5 15⁄16 in) track near Jindřichův Hradec. In 1985, its original four rails were converted to three rails.
+On September 9, 2004, in Jindřichův Hradec, Czech Republic at a switch where a dual gauge railway bifurcates, a Junák express from Plzeň to Brno derailed due to a signalling error. The standard gauge train had been switched onto the narrow gauge track. The express train driver was slightly injured.
+
+
+=== France ===
+The Chemin de Fer de la Baie de Somme in France is dual gauge between Noyelles-sur-Mer and Saint-Valery-sur-Somme. The line has four rails with metre gauge laid within standard gauge.
+
+
+=== Germany ===
+In the 1970s, the Stuttgarter Straßenbahnen tram lines underwent a gauge conversion from 1,000 mm (3 ft 3 3⁄8 in) gauge to standard gauge. This was part of an upgrade to the Stuttgart Stadtbahn. In 1981, 1,435 mm (4 ft 8 1⁄2 in) and 1,000 mm (3 ft 3 3⁄8 in) dual gauge track was constructed so that new DT-8 Stadtbahn cars and old trams could share the network. In 2008, a further gauge conversion was completed. The Stuttgart Straßenbahn Museum operates 1,000 mm (3 ft 3 3⁄8 in) gauge trams on weekends and special occasions.
+In Krefeld on Ostwall, Germany, tram lines are dual gauge so standard 1,435 mm (4 ft 8 1⁄2 in) Rheinbahn U76 Stadtbahn cars and 1,000 mm (3 ft 3 3⁄8 in) metre gauge gauge trams may share the lines. At the north end of the route, at the junction with Rheinstraße, the trams reverse. There, the standard gauge line ends, while the metre gauge lines continue. At the Hauptbahnhof, on Oppumer Straße dual gauge track continues. At the ends of Oppumer Straße, the 1,000 mm (3 ft 3 3⁄8 in) and standard 1,435 mm (4 ft 8 1⁄2 in) tracks diverge.
+In Mülheim there is a similar situation. The Duisburg tram line 901 meets the local line 102. The tram system in Duisburg uses 1,435 mm (4 ft 8 1⁄2 in) gauge track while the tram route from Witten to Mülheim uses 1,000 mm (3 ft 3 3⁄8 in) gauge tracks. Lines 901 and 102 share a tunnel section between the Mülheim (Ruhr) Hauptbahnhof and Schloss Broich. The lines diverge at street level.
+The tram network between Werne to Bad Honnef is large with various operators and gauges. The trams in Wuppertal used 1,435 mm (4 ft 8 1⁄2 in) gauge track on east–west lines and 1,000 mm (3 ft 3 3⁄8 in) gauge track on north–south lines. Trams in Duisburg used 1,435 mm (4 ft 8 1⁄2 in) gauge track on lines south of the Ruhr and 1,000 mm (3 ft 3 3⁄8 in) gauge tracks on lines north of the Ruhr. The north lines closed in the 1960s and 1970s. Duisburg's three routes were converted to 1,435 mm (4 ft 8 1⁄2 in) gauge track.
+
+
+=== Greece ===
+In Greece, the line between Athens and Elefsis (now closed) was dual gauge in order to allow the 1,000 mm (3 ft 3 3⁄8 in) gauge trains of the Peloponnese rail network to pass. It also allowed standard gauge trains to reach the Elefsis shipyards. In Volos, a short section of track between the main station and the harbour used an unusual triple gauge, to accommodate standard gauge trains from Larissa, metre gauge trains from Kalambaka, and the 600 mm gauge trains of the Pelion railway.
+
+
+=== Indonesia ===
+In 1899, in the Dutch East Indies, dual gauge track was installed between Yogyakarta and Solo. The track was owned by the Nederlandsch-Indische Spoorweg Maatschappij, a private company, which in 1867 had built the 4 ft 8 1⁄2 in (1,435 mm) gauge line. The third rail was installed to allow passengers and goods traveling over the 3 ft 6 in (1,067 mm) gauge Staatsspoorweg (state railway) a direct connection. At a later date, the government constructed new tracks to allow greater capacity and higher speeds. In 1940, a third rail was installed between Solo and Gundih on the line to Semarang, allowing 3 ft 6 in (1,067 mm) gauge trains to travel between Semarang, Solo and Yogyakarta via Gambringan, on the line to Surabaya instead of on the original line via Kedungjati.
+In 1942 and1943 in Java, under Japanese rule, conversion from took place 4 ft 8 1⁄2 in (1,435 mm) to 3 ft 6 in (1,067 mm) on the Brumbung–Kedungjati–Gundih main line and the Kedungjati–Ambarawa branch line.
+Until the 1970s, a short section of dual gauge 3 ft 6 in (1,067 mm) and 750 mm (2 ft 5 1⁄2 in) line existed in North Sumatra on a joint line of the Deli Railway and the Atjeh Tram.
+Some sugar mill railways in Java have dual gauge sections.
+
+
+=== Ireland ===
+Ireland's Ulster Railway underwent a gauge conversion from 6 ft 2 in (1,880 mm) to the new Irish standard of 5 ft 3 in (1,600 mm). The Dublin & Drogheda Railway underwent a gauge conversion from 5 ft 2 in (1,575 mm). This and the new Irish standard were too near to allow a dual gauge line.
+
+
+=== Italy ===
+The Potenza – Avigliano Lucania line in Italy is a dual gauge rail with 1,435 mm (4 ft 8 1⁄2 in) and 950 mm (3 ft 1 3⁄8 in) tracks.
+
+
+=== Japan ===
+
+In Japan, the national railway standard is the 1,067 mm (3 ft 6 in) narrow gauge track. Dual gauge is used where the Shinkansen (bullet train) lines join the main network. For example, part of the Ōu Main Line became part of the Akita Shinkansen and was converted to dual gauge in a limited section. The longest (82.1 km (51.0 mi)) dual gauge section in Japan is around Seikan Tunnel.
+
+
+=== Mexico ===
+Mexico previously had 1,435 mm (4 ft 8 1⁄2 in) standard gauge and 914 mm (3 ft) dual gauge track.
+
+
+=== Poland ===
+In Poland, there is a 3 km 1,435 mm (4 ft 8 1⁄2 in) and 750 mm (2 ft 5 1⁄2 in) dual gauge section in the Greater Poland Voivodeship, linking Pleszew with a nearby mainline station. It is served by narrow gauge passenger trains and standard gauge freight trains.
+
+
+=== Russia ===
+
+Between October 2008 and February 2012, a 2 km (1.2 mi) cross border stretch of track between Russia and North Korea was rebuilt. It is a dual gauge line with 1,520 mm (4 ft 11 27⁄32 in) Russian gauge and 1,435 mm (4 ft 8 1⁄2 in) standard gauge tracks between Khasan in Russia and Rajin in North Korea.
+
+
+=== Spain ===
+In Spain, there is dual gauge in the AVE line from Zaragoza to Huesca, usable for both 1,435 mm (4 ft 8 1⁄2 in) standard gauge high speed trains and 1,668 mm (5 ft 5 21⁄32 in) Iberian gauge Spanish trains (21,7 km). In 2009, Adif called for tenders for the installation of a third rail for standard gauge trains on the 22 km (14 mi) between Castellbisbal and the Can Tunis freight terminal in Barcelona.
+
+
+=== Sweden ===
+The bridges at the borders of Sweden and Finland, between Haparanda and Tornio have 2 km (1.2 mi) of dual gauge, 1,435 mm (4 ft 8 1⁄2 in) and 1,524 mm (5 ft) track. At each end of the dual-gauge section there are yards with standard and Finnish gauge areas to allow for transshipment. The four-rail method is used because the gauges are close. The bridge structure is wide to allow for the offset from the centreline of each gauge. There is a Rafil gauge changer at the Tornio yard. Similar arrangements exist on the approach to Kaliningrad, where 1,435 mm (4 ft 8 1⁄2 in) track penetrates from the Polish border with some dual gauge stretches.
+Between Västervik and Jenny, in Sweden there is a 891 mm (2 ft 11 3⁄32 in) and 1,435 mm (4 ft 8 1⁄2 in) dual gauge line and a dual gauge track in the Västervik station area.
+
+
+=== Switzerland ===
+In Switzerland, dual gauge 1,435 mm or 4 ft 8 1⁄2 in standard track and 1,000 mm or 3 ft 3 3⁄8 in metre gauge metre track is used in Lucerne and Interlaken stations, the terminals of the Brünigbahn. The RhB line between Chur and Domat/Ems is also dual gauge.
+
+
+=== United Kingdom ===
+The port authority in Derry, Northern Ireland uses a dual gauge line in a street level network to transfer freight. Two of the city's stations are on a narrow 3 ft (914 mm) gauge. The other two city stations are on broad 5 ft 3 in (1,600 mm) gauge.
+
+
+=== United States of America ===
+In Los Angeles, the previously operating 3 ft 6 in (1,067 mm) Los Angeles Railway and 4 ft 8 1⁄2 in (1,435 mm) Pacific Electric Railway ran on dual gauge track on some downtown streets.
+From 1880 to 1902, the Burlington, Cedar Rapids and Northern Railway (standard gauge) and the Burlington and Northwestern Railway (narrow gauge) shared a dual gauge mainline from Burlington, Iowa to Mediapolis, 14 miles (23 km) to the north.
+Until 1941, the Colorado and Southern Railway used both standard and narrow gauge tracks, and had a dual gauge line between Denver and Golden, Colorado.
+Until the 1960s, the Denver and Rio Grande Western Railroad's Alamosa–Durango Line from Alamosa, Colorado to Antonito was dual gauge.
+Previously, in its Mount Union, Pennsylvania yard, the East Broad Top Railroad and Coal Company used dual gauge tracks.
+
+
+=== Vietnam ===
+In Vietnam, near the border with China, there is 1,000 mm / 3 ft 3 3⁄8 in metre gauge and 1,435 mm / 4 ft 8 1⁄2 in standard gauge dual gauge track between Hanoi and Đồng Đăng. Other smaller dual gauge sections exist elsewhere in the northeast of the country.
+
+
+== Galleries ==
+
+
+=== Europe gallery ===
+
+		
+		
+		
+		
+		
+		
+		
+		
+
+
+=== Americas gallery ===
+
+		
+
+
+=== Oceania gallery ===
+
+		
+		
+		
+		
+		
+
+
+== See also ==
+
+
+== References ==
+
+
+== External links ==
+Jane's World Railways (hard copy)
+Jindřichův Hradec Local Railways
+Jindřichohradecké úzké mainly in Czech language
+South Australia – Rail Revitalisation Project
+Columbus' Streetcar Track Gauge
+"Diagram of mixed gauge turnouts". The Globe And Sunday Times War Pictorial (272). New South Wales, Australia. 17 June 1916. p. 19 – via National Library of Australia.

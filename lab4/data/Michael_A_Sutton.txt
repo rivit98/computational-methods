@@ -1,0 +1,53 @@
+Michael A. Sutton is an American Engineering professor. He is Carolina Distinguished Professor and Distinguished Professor Emeritus of Mechanical Engineering at the University of South Carolina-Columbia. He served as Chairperson of Mechanical Engineering and Chair of the University Tenure and Promotion Committee.
+
+
+== Research ==
+Sutton is the author of more than 230 journal articles. He is most known for his contributions to the invention, development and validation of the non-contacting, image-based deformation measurement methods known as digital image correlation methods, or DIC.
+
+
+== Career ==
+In the early 1980s, Sutton and his co-workers invented the first DIC method, known as two-dimensional DIC or 2D-DIC. This method is applicable for surface measurements on planar specimens undergoing nominally in-plane deformation.
+While working with NASA researchers as part of the US Aging Aircraft Program, Sutton showed that crack tip opening displacement, or the more general mixed mode form using three-dimensional crack tip displacements, is a valid crack growth predictor for the thin aerospace aluminum alloy components such as 2024-T3 and 2424-T3 commonly used in commercial aviation. 
+Their research led to the establishment of an ASTM Standard test method for determining resistance to stable crack extension under low-constraint conditions. This test is used to demonstrate the fracture resistance of thin aerospace structures when subjected to mechanical loads. 
+During the mid-1990s, Sutton and his colleagues advanced the quantitative characterization of the crack tip strain fields in highly ductile materials. They studied the theoretical Hutchinson-Rice-Rosengren (HRR) crack tip strain fields. They measured the elastic-plastic strains and showed that the crack tip strain fields were in approximate agreement with theoretical predictions for nominally Mode I loading conditions. The work received the SEM RE Peterson Award in 1996 as the outstanding application research article published in Experimental Mechanics. In the early 1990s, it became clear that limitations inherent to the 2D-DIC method could be removed by modifying the vision system.
+Sutton and his co-workers invented and regularly improved the new measurement system. The vision system nominally employs two cameras to view a single region. Since all three components of displacement are measured, the method was initially termed three-dimensional digital image correlation (3D-DIC). With the development of volumetric DIC methods circa 2000, the term StereoDIC was adopted. The ability to make internal (volumetric) measurements in those materials having sufficient internal volumetric image contrast was demonstrated by Brian Bay c. 2000. The method is a direct extension of 2D-DIC and is known as either volumetric digital image correlation (V-DIC) or digital volume correlation (DVC). Even though successful StereoDIC experiments were performed in a laboratory setting, the system's complex calibrations limited its usefulness to optical benches and/or well-controlled laboratory conditions. 
+During an 18-month sabbatical at NASA Langley (1992–93) sponsored by Charles E. Harris, Sutton worked directly with James C. Newman Jr, David Dawicke, Robert Piascik, Edward Phillips and Buddy Poe on issues related to crack extension as part of the US Aging Aircraft Program. During this time, Sutton was exposed to the critical need for a field-capable, three-dimensional deformation measurement system that could be used on full-scale aero-structures undergoing complex loading. With this information and with Harris' support, Sutton and Stephen McNeill worked with their student Jeffrey Helm, to modify the StereoDIC algorithms and define a simpler, field-capable calibration process. 
+By late 1994, a modified StereoDIC system and calibration process were developed. The field-capable SterepDIC methodology was published in 1996 with more advanced application of StereoDIC to thin aerospace structures published in 2003. Shortly after the modified StereoDIC system was completed, and with continued financial support from Harris, the system was transported to the West Coast and used to complete a week of field experimentation on a full-scale airplane in Seattle, WA. For these experiments, the aircraft was subjected to a combination of internal pressurization and tail loading. Measurements were obtained successfully at three separate locations on the test article. These experiments conclusively demonstrated the versatility, accuracy and effectiveness of StereoDIC systems for non-contacting, full-field deformation and shape measurements in both field and laboratory environments.
+In the early 2000s, research scientists including Michael Mello at Intel Corporation identified DIC as a critical technology for high magnification measurements for advanced computer chip material systems. Discussions with Intel scientists led to the choice of scanning electron microscope and atomic force microscope imaging systems. High magnification images of chip components used with DIC provided full-field deformation measurements in regions as small as 20μm x 20μm. Between 2002 and 2010, Sutton applied 2D-DIC to quantitative measurements of deformations in small regions on heterogeneous chip cross-sections undergoing thermal loading. After noting high noise levels in AFM systems Sutton, Ning Li and Xiaodong Li focused on scanning electron microscope systems. They obtained spatial resolution of 10 nanometers, while reducing displacement variability to less than one nanometer.In the late 2000s, Thomas Borg introduced Sutton to Susan Lessner. Lessner had a long-term interest in measuring the response of soft biological tissues, such as arteries, when subjected to mechanical loading. Working with Lessner for over a decade, Sutton developed the use of StereoDIC systems to acquire accurate deformations on curvilinear arterial specimens subjected to combined pressure and axial loading. Of particular interest was the work performed with Ying Wang regarding the separation resistance of arterial tissues that incurred arterial dissection  during mechanical loading. Focusing on fundamental concepts in fracture mechanics to provide a framework for assessing adhesive resistance in bio-materials, the work demonstrated that energy release rate  was an excellent parameter to characterize the separation resistance of dissections in arterial tissues. The work demonstrated that energy release rate is an effective metric to assess the effect of local collagen content on separation resistance in arterial specimens.As the use of DIC methods expanded worldwide, the potential of this non-contact method to provide important process information during manufacturing was recognized. Recognizing manufacturing as an area where limited investigators have been active. Sutton worked with colleagues to improve understanding of advanced manufacturing processes in both civil infrastructure and selected aerospace composite applications. 
+The US is rapidly expanding its use of relatively rigid, prestressed concrete railroad ties as a precursor to the development of high-speed rail systems. Imaging a concrete beam before and after application of a compressive pre-load confirms that the use of a StereoDIC system is an effective and accurate non-contact approach for measuring small surface strain fields. StereoDIC measurements provide essential data to reliably estimate the transfer length and confirm that the entire concrete portion of the beam has the required compressive stress to maintain compression throughout service life.
+The adhesion of uncured, unidirectional composite tows that are adhered to a similar composite tow using automated fiber placement (AFP) processing can be tested using StereoDIC. A temperature and wear-resistant pattern is adhered to composite tows and then the deformations of the tow is measured as it is heated and bonded during AFP processing. A modified double cantilever beam adhesive specimen based on the work of Högberg can be used to obtain the traction-separation law to be used in cohesive zone modeling law of the tow-to-tow bond layer.
+
+
+== Recognition ==
+The Society for Experimental Mechanics decorated Sutton with several high honors including:
+1992 B.J. Lazan Award.
+1996 R.E. Peterson Award.
+2000 SEM Fellow Grade
+2003 Hetenyi Award.
+2004 ASME Fellow Grade
+2007 M.M. Frocht Award.
+2008 C.E. Taylor Award.
+2013 William M. Murray Medalist and Lecturer
+2018 F.G. Tatnall Award. for a lifetime of service
+2019 P.S. Theocaris Award for his lifelong contributions to experimental science and solid mechanics,.
+In 2015, Sutton received the Alumni of the Year from the Mechanical Sciences and Engr Department (formerly the Theoretical and Applied Mechanics Department) at the University of Illinois in Champaign-Urbana.
+
+
+== Selected publications ==
+Image correlation for shape, motion and deformation measurements: basic concepts, theory and applications, Springer Science & Business Media, 2665, 2009
+Applications of digital-image-correlation techniques to experimental mechanics, Experimental Mechanics, 25 (3), 232-244,1985
+Determination of displacements using an improved digital correlation method, Image and Vision Computing 1 (3), 133-139, 1983
+Digital image correlation using Newton-Raphson method of partial differential correction, Experimental Mechanics 29 (3), 261-267, 1989
+Application of an optimized digital correlation method to planar deformation analysis, Image and Vision Computing 4 (3), 143-150, 1986
+Advances in two-dimensional and three-dimensional computer vision, Photomechanics, 323-372, 2000
+Systematic errors in digital image correlation caused by intensity interpolation, Optical Engineering, 39 (11), 2915-2922, 2000
+Accurate measurement of three-dimensional deformations in deformable and rigid bodies using computer vision, Experimental Mechanics, 33 (2), 123-132, 1993
+Microstructural studies of friction stir welds in 2024-T3 aluminum, Materials Science and Engineering: A 323 (1-2), 160-166, 2002
+The effect of out-of-plane motion on 2D and 3D digital image correlation measurements, Optics and Lasers in Engineering, 46 (10), 746-757
+
+
+== References ==
+
+
+== External links ==
+Michael A. Sutton publications indexed by Google Scholar

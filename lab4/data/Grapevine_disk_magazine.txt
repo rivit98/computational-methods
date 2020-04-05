@@ -1,0 +1,38 @@
+Grapevine was a disk magazine for the Commodore Amiga published by the demo scene group LSD. The magazine was published from 1991 and 1995. The first eight issues each came on a single floppy disk, but as the magazine became more popular and more articles were submitted by its readers, it required two to three disks per issue after that point. The editor of Grapevine was known as Parasite, later PaZZa/LSD. Several co editors helped with the magazine under pazzas guidance, Scud/lsd, Torch/lsd and KenD/lsd ,The magazine was originally coded by Monty Python, and then re-coded with a mouse driven interface later in the series by Shagratt, Fish/lsd,watchman/lsd and other artists regularly made custom art covers for the magazines title page. Echo/lsd (graham gray/spoon wizard) and Mub/lsd wrote original music for the background also
+Grapevine existed at a time when Internet use was not widespread in its native UK or abroad, and hence editions of the magazine were hotly traded amongst the demo scene. LSD sent out hundreds of floppy disk copies on each release, and most PD libraries at the time were keen to include the latest issues as soon as they were released.  As a result of this, 17Bit PD library cut a deal with PaZZa to ensure distribution at a fair price, they were "paid" a box of 50 floppy disks per issue for this, which were used by LSD for file distribution (the days before modems for many people).
+Pazza has long left the scene and now lives a happily married quiet life but still keeps an eye occasionally on the old school scene, he is immensely proud of what was done at the time which was a lot of hard work for little reward.
+
+
+== Breadth of topics ==
+Grapevine accepted articles from any one and about any thing which resulted in the quality of the magazine being truly unique. It was mainly a scene mag for those within the scene so some articles would have made little sense to perceived outsiders nonetheless it was widely well received. PaZZas musings was usually a tongue in cheek look at everything and anything and usually ended in the quote all spelling mistakes copyright me!
+
+
+== Secret articles ==
+Several issues of the magazine contained "secret" articles. To access them, press Esc and type in the corresponding password, followed by Enter:
+
+08 – "recoded"
+09 – "party"
+10 – "bust"
+11 – "quartz"
+12 – "bastard"
+13 – "ho ho ho"
+14 – "late"
+15 – "secretmenu"
+16 – "wombatateam"
+17 – "party"
+18 – "xmas"
+19 – None (by looking at the data files with a hex editor, "HI ROMBUST, THERES NO SECTRET ARTICLE!" [sic] appears in the code, where the password should be)
+
+
+== Revival ==
+An attempt was made in 2005 to revive Grapevine, in the form of a web-based magazine.  However, this was done unofficially by a group not connected to the original, known as Ellesdee.
+The usage of the original disk magazine's name, as well as Ellesdee being a corruption of the original creator's name (LSD), brought strong criticism from other members of the demo scene, including the original team. Some original LSD members were approached for permission to start the revival project and the first issues contained submissions from KenD/LSD.
+The revival web site, as well as that of Ellesdee, was subsequently shut down. The exact reasons for this are in dispute.
+
+
+== References ==
+
+
+== External links ==
+
+Grapevine controversy

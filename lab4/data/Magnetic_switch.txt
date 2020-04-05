@@ -1,0 +1,7 @@
+Magnetic switch is an electrical switch that makes or breaks contact in the presence of a magnetic field. Applications include situations where it is not desirable or possible for moving elements to make direct contact with the switch, such as in explosive environments, submerged in liquids, and where repetitive contact with a mechanical switch would result in undesired wear. Generally, the switch remains actuated as long as a sufficiently strong magnetic field is present, and opens when the field is removed.
+
+
+== See also ==
+Hall effect sensor
+Reed switch
+Relay

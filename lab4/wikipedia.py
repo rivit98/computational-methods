@@ -8,7 +8,7 @@ class Wikipedia:
     def __init__(self, subdomain="en"):
         self.subdomain = subdomain
 
-    def random_article_titles(self, num_of_articles=50):
+    def random_article_titles(self, num_of_articles=30):
         """ Returns titles of random Wikipedia articles """
 
         url = "https://" + self.subdomain + ".wikipedia.org/w/api.php?format=json&action=query&list=random&rnnamespace=0&rnlimit=" + str(
@@ -56,12 +56,13 @@ class Wikipedia:
             articles = self.get(titles)
 
             for title in articles:
-                clean_title = "".join(c for c in title if c.isalnum())
+                clean_title = "".join(c for c in title if c.isalnum() or c.isspace())
+                clean_title = clean_title.replace(" ", "_")
                 path = "./data/" + clean_title + ".txt"
                 if os.path.exists(path):
                     continue
 
-                if len(articles[title]) < 1024:
+                if len(articles[title]) < 512:
                     continue
 
                 with open(path, "wt", encoding="utf-8") as f:

@@ -1,0 +1,18 @@
+In enzymology, an aryl-aldehyde dehydrogenase (NADP+) (EC 1.2.1.30) is an enzyme that catalyzes the chemical reaction
+
+an aromatic aldehyde + NADP+ + AMP + diphosphate + H2O 
+  
+    
+      
+        ⇌
+      
+    
+    {\displaystyle \rightleftharpoons }
+   an aromatic acid + NADPH + H+ + ATPThe 5 substrates of this enzyme are aromatic aldehyde, NADP+, AMP, diphosphate, and H2O, whereas its 4 products are aromatic acid, NADPH, H+, and ATP.
+This enzyme belongs to the family of oxidoreductases, specifically those acting on the aldehyde or oxo group of donor with NAD+ or NADP+ as acceptor.  The systematic name of this enzyme class is aryl-aldehyde:NADP+ oxidoreductase (ATP-forming). Other names in common use include aromatic acid reductase, and aryl-aldehyde dehydrogenase (NADP+).
+
+
+== References ==
+
+Gross GG (1972). "Formation and reduction of intermediate acyladenylate by aryl-aldehyde. NADP oxidoreductase from Neurospora crassa". Eur. J. Biochem. 31 (3): 585–92. doi:10.1111/j.1432-1033.1972.tb02569.x. PMID 4405494.
+Gross GG, Zenk MH (1969). "[Reduction of aromatic acids to aldehydes and alcohols in the cell-free system. 1. Purification and properties of aryl-aldehyde: NADP-oxidoreductase from Neurospora crassa]". Eur. J. Biochem. 8 (3): 413–9. doi:10.1111/j.1432-1033.1969.tb00543.x. PMID 4389863.

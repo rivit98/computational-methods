@@ -1,0 +1,12 @@
+FlitWays is travel company based in Los Angeles. It produces both a mobile app and enterprise platform, which can be used to order or plan ground transportation.
+
+
+== History ==
+The company was founded by Tobi Mac, and originally known as OnCabs. It began with $600,000 in seed funding, supplemented with a $1.2 million Series A round of financing in December 2016.FlitWays is based in Los Angeles, launching in 2013 within the Los Angeles market before moving to other American cities, including fifteen by April 2014. That month the app entered the international market with 84 cities in North America, South America, Asia, and Europe two months later. By 2016 the app was used in around 200 cities, and in 2017 the app became available in Australia, starting with ten additional cities there.In October 2016, the company started to trade on the OTC Pink Sheets under the ticket symbol CATQ, having completed a reverse recapitalization of Cataca Resources, Inc. It later changed its ticker symbol to FTWS.
+
+
+== Travel app ==
+Users use either an online service or mobile app to enter their travel details—pick-up location, time, and destination—and are provided a comparative cost between different travel options, usually taxi, town car, and airport shuttle. Pricing is also reduced if the booking is made enough time in advance, through partnerships that FlitWays has through taxi providers. Pre-booking is also available for people integrating their ground travel into their larger travel plans. FlitWays also has partnerships with other travel companies like Megabus and Mozio, whose inventory of options can be ordered through the app. FlitWays is cashless, with all payments being made through the app or online service. The app is free and compatible with both Android and iOS. FlitWays also has an enterprise platform, which is used by corporations including Xerox and Megabus.
+
+
+== References ==

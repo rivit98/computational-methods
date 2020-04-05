@@ -1,0 +1,43 @@
+In traffic flow theory, Newell’s car-following model is a method used to determine how vehicles follow one another on a roadway. The main idea of this model is that a vehicle will maintain a minimum space and time gap between it and the vehicle that precedes it. Thus, under congested conditions, if the leading car changes its speed, the following vehicle will also change speed at a point in time-space along the traffic wave speed, -w.
+
+
+== Overview ==
+Assuming the fundamental diagram (flow-density) is a triangular function, a traffic state A with speed vA and density kA can be assumed in the congestion region. The density on the roadway can be determined using the spacing between vehicles and is computed simply the equation:
+kA = 1/sA
+Geometric relations from the fundamental diagram can be used to calculate the density as well, given by the equation:
+kA = (kj  w)/(vA+w)
+In the time-space diagram, the trajectories of the leading (top) and following (bottom) vehicle are separated by the distance δ and time τ. The spacing between vehicles at traffic state A can be found using a geometric relationship found in the time-space diagram:
+sA = vA(τ)+δ
+
+Using relationships between the previous equations, variables τ and δ can be solved for:
+τ = 1/(wkj)
+δ = 1/kj
+Thus, τ and δ are constants defined by the wave speed and jam density, independent of the speed of the leading vehicle and the traffic state. The path of vehicle i, a function of time, can be determined using  the equation:
+xi(t) = min(xAF(t), xAC(t))
+Position of vehicle i under free-flow conditions:
+xiF(t) = xi(t-τ) + vf * τ 
+Position of vehicle i under congested conditions:
+xiC(t) = xi-1(t-τ) - δ
+
+
+=== Driver aggressiveness ===
+Under real-world conditions, a hypothetical following driver may drive improperly, resulting in deviations from the time-space trajectories proposed under Newell’s model. Time-space trajectories from data collected on roads and highways can be compared to its respective Newell’s car-following model trajectory to determine whether a driver is cautious or aggressive. The following figures show the trajectories of two vehicles (black) and the trajectory predicted by Newell’s car-following Model for the following vehicle (blue).
+Time-space trajectory for a normal driver:
+
+Time-space trajectory for a cautious driver:
+
+Time-space trajectory for an aggressive driver:
+
+When the following driver reacts early when decelerating or reacts late when accelerating, the time and distance gap between the leader and the follower increases. The follower can be described as a cautious driver. In the other situation, the follower reacts later when decelerating or earlier when accelerating decreasing the time and distance gap between the leader and follower. The follower can be described as an aggressive driver.
+
+
+== See also ==
+Gipps' model
+Intelligent driver model
+Kerner’s breakdown minimization principle
+Three-phase traffic theory
+Traffic simulation
+Traffic congestion: Reconstruction with Kerner’s three-phase theory
+
+
+== References ==

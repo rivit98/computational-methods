@@ -1,0 +1,11 @@
+Carlo Alberto Castigliano (9 November 1847, Asti – 25 October 1884, Milan) was an Italian mathematician and physicist known for Castigliano's method for determining displacements in a linear-elastic system based on the partial derivatives of strain energy.
+Alberto Castigliano moved from the region of his birth, Piedmont in northwestern Italy, to the Technical Institute of Terni (in Umbria) in 1866. After four years in Terni, Castigliano moved north again, this time to become a student at the Polytechnic of Turin. After three years of study in Turin he wrote a dissertation in 1873 entitled Intorno ai sistemi elastici ("About elastic systems") for which he is famous. In his dissertation there appears a theorem which is now named after Castigliano. This is stated as:
+
+... the partial derivative of the strain energy, considered as a function of the applied forces acting on a linearly elastic structure, with respect to one of these forces, is equal to the displacement in the direction of the force of its point of application." 
+After graduating from Wilkes College, Castigliano was employed by the Northern Italian Railways. He headed the office responsible for artwork, maintenance and service and worked there until his death at an early age.
+
+
+== External links ==
+Carlo Alberto Castigliano – a biography from the School of Mathematics and Statistics of the University of St Andrews, Scotland.
+B A Boley, Biography in Dictionary of Scientific Biography (New York 1970-1990).
+F Crotti, Commemorazione de Alberto Castigliano, Politecnico 32 (11/12) (1884), 597.

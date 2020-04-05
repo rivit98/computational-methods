@@ -1,0 +1,26 @@
+Ear protection refers to devices used to protect the ear, either externally from elements such as cold, intrusion by water and other environmental conditions, debris, or specifically from noise. High levels of exposure to noise may result in noise-induced hearing loss. Measures to protect the ear are referred to as hearing protection, and devices for that purpose are called hearing protection devices. In the context of work, adequate hearing protection is that which reduces noise exposure to below 85 dBA over the course of an average work shift of eight hours.
+When sounds exceed 80 dBA, it becomes dangerous to the ears. The National Institute for Occupational Safety and Health (NIOSH) has standards that show how long a person can be in different loudness levels before the person reaches their maximum daily dose and becomes damaging to their hearing. These standards can give individuals an idea of when hearing protection should be considered. The maximum daily dose with the corresponding decibel level is shown below.Decibel Level with the time reaching maximum daily dose (dBA):
+
+8 hours at 85 dB(A)
+4 hours at 88 dB(A)
+2 hours at 91 dB(A)
+60 minutes at 94 dB(A)
+30 minutes at 97 dB(A)
+15 minutes at 100 dB(A)Different types of hearing protection may be utilized to maximize hearing protection. OSHA regulations dictate whether hearing protection is required and if the company must participate in a hearing conservation program.
+Types of ear protection include:
+
+Earplugs, internal: These are ear protection that fit inside of the person's ear canal. There are many different types of ear plugs. The most commonly known are foam, musician, or custom earplugs that are made from a mold of a person's ear.
+Earmuffs, external: This ear protection fits snug around the person's external ear.
+Helmet, covering various parts of the head, including the earsIn some occasions, multiple types of ear protection can be used together to increase the NRR. For example, foam earplugs can be worn in-conjunction with earmuffs. 
+Electronic ear protection is available as earplugs or earmuffs. Electronic earplugs detect and amplify quiet sounds while blocking loud noises. Electronic earplugs are useful in several situations such as hunters or shooters who need to protect their ears from the loud report of a hunting rifle but still need to hear the noises around them. Electronic hearing protection allows the user to carry on a normal conversation or listen for game while still blocking out external noises that can damage hearing. 
+Each type of ear protection has what is called a noise reduction rating (NRR). This gives the consumer an estimate of how much noise is being reduced before reaching the individual's ear. It is important for the consumer to know that this is only a single number estimate derived from a laboratory experiment, and the NRR will vary per individual wearing the hearing protection. NIOSH and OSHA have derating values to help give the person an idea of how much sound is being attenuated while wearing the hearing protection. OSHA uses a half derating, while NIOSH uses 70% for pre-formed earplugs, 50% for formable earplugs, and 25% for earmuffs.
+
+
+== Hunting and firearms ==
+The shooting of guns for recreational use can lead to hearing loss in the  high frequencies. The shooting of firearms can cause damage to a variety of cochlear structures due to the high peak sound pressure levels that they generate. This can range from 140 to 175 dB .Along with the passive noise reduction options usually used vocationally (such as earmuffs and earplugs) there are also active noise reduction devices available. Active noise reduction technology is used to provide noise protection like passive options, but also use circuitry to give audibility to sounds that are below a dangerous level (about 85 db) and try to limit the average output level to about 82 to 85 dB to keep the exposure at a safe level.Strategies to help protect your hearing from firearms also include using muzzle brakes and suppressors, shooting less rounds, and using a firearm with a shorter barrel. It is recommended to shoot outdoors or in a sound-treated environment and try to avoid  an area that is not enclosed. has hard reflective surfaces, and has a group of shooters. If there is multiple to people it is best to make  sure there is a large distance between the shooters and that they are not firing at the same time.
+
+
+== References ==
+
+
+== Further reading ==

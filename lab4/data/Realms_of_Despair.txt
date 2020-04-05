@@ -1,0 +1,23 @@
+Realms of Despair (RoD) is a MUD hosted in Mississauga, Ontario, Canada using the SMAUG MUD codebase. It is operated by Derek "Thoric" Snider.
+
+
+== Gameplay ==
+Realms of Despair is a medieval fantasy game with various classes and races. It also has several in-game organizations that players may join.
+
+
+== Development ==
+Realms of Despair was opened to the public in July 1994, launched at the site game.org. It was developed from DikuMUD and allowed modification of operating parameters through the MUD itself rather than having to manually edit configuration files, or even the source code itself. The developed code was released for the MUD community to develop further as SMAUG.
+
+
+== See also ==
+DikuMUD
+Merc
+GodWars
+Chronology of MUDs
+
+
+== References ==
+
+
+== External links ==
+Official website

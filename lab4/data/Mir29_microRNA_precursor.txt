@@ -1,0 +1,31 @@
+The miR-29 microRNA precursor, or pre-miRNA, is a small RNA molecule in the shape of a stem-loop or hairpin. Each arm of the hairpin can be processed into one member of a closely related family of short non-coding RNAs that are involved in regulating gene expression. The processed, or "mature" products of the precursor molecule are known as microRNA (miRNA), and have been predicted or confirmed in a wide range of species (see 'MIPF0000009' in miRBase: the microRNA database).
+
+
+== miRNA processing ==
+Animal miRNAs are first transcribed as a primary miRNA molecule. This "pri-miRNA" may contain one or more precursor hairpins, which are freed from the pri-miRNA by the nuclear enzyme Drosha. The approximately 70 nucleotide precursor hairpin is exported from the nucleus and subsequently processed by the Dicer enzyme to give a mature miRNA that is on average 22 nucleotides long. Either arm of the precursor may yield a mature RNA, although either the 3' (3p) or the 5' (5p) arm is preferentially processed and loaded into the RNA-induced silencing complex (RISC) in most cases. For the miR-29 precursor, the 3' arm of the precursor RNA yields the overwhelmingly predominant product (miR-29 or miR-29-3p), although the 5' arm (miR-29* or miR-29-5p) has also been experimentally verified.
+
+
+== The miR-29 family ==
+Many mammalian genomes encode four closely related miR-29 precursors that are transcribed in two transcriptional units. For example, human miR-29a and miR-29b-1 are processed from an intron of a long non-coding transcript (LOC646329) from chromosome 7. miR-29b-2 (identical in sequence to miR-29b-1) and miR-29c are co-transcribed from chromosome 1. The three main mature miRNAs processed from these precursors are known as has-miR-29a, has-miR-29b, and has-miR-29c.
+Survival analysis across three independent datasets shows that hsa-miR-29c is associated with survival in breast cancer.
+
+
+== Targets of miR-29 ==
+The mature products are thought to exert regulatory roles by binding with partial complementarity to microRNA recognition elements (MREs) in the 3' untranslated region (3' UTR) of target transcripts. Experimental evidence suggests that putative targets of mature miR-29 products include the following:
+
+The myeloid leukemia cell differentiation protein (MCL1), an anti-apoptotic member of the Bcl-2 family of proteins.
+The TCL1A (T-cell leukemia/lymphoma 1) oncogene, found to be disrupted in many T-cell leukemias.
+DNA methyltransferases DNMT3A and DNMT3B, which are frequently upregulated in lung cancer.
+Zinc finger protein 36 homolog (ZFP36), also known as tristetraprolin (TTP), an anti-inflammatory and anti-cancer gene.Recently, in an attempt to identify targets at global level using Quantitative proteomics - SILAC approach, VDAC1 and VDAC2 were identified as targets of miR-29a in HEK293T cells.
+
+
+== References ==
+
+
+== Further reading ==
+
+
+== External links ==
+
+Page for mir-29 microRNA precursor at Rfam
+MIPF0000009

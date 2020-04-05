@@ -1,0 +1,745 @@
+In mathematics, a homogeneous polynomial is a polynomial whose nonzero terms all have the same degree. For example, 
+  
+    
+      
+        
+          x
+          
+            5
+          
+        
+        +
+        2
+        
+          x
+          
+            3
+          
+        
+        
+          y
+          
+            2
+          
+        
+        +
+        9
+        x
+        
+          y
+          
+            4
+          
+        
+      
+    
+    {\displaystyle x^{5}+2x^{3}y^{2}+9xy^{4}}
+   is a homogeneous polynomial of degree 5, in two variables; the sum of the exponents in each term is always 5. The polynomial 
+  
+    
+      
+        
+          x
+          
+            3
+          
+        
+        +
+        3
+        
+          x
+          
+            2
+          
+        
+        y
+        +
+        
+          z
+          
+            7
+          
+        
+      
+    
+    {\displaystyle x^{3}+3x^{2}y+z^{7}}
+   is not homogeneous, because the sum of exponents does not match from term to term. A polynomial is homogeneous if and only if it defines a homogeneous function.  An algebraic form, or simply form, is a function defined by a homogeneous polynomial. A binary form is a form in two variables. A form is also a function defined on a vector space, which may be expressed as a homogeneous function of the coordinates over any basis.
+A polynomial of degree 0 is always homogeneous; it is simply an element of the field or ring of the coefficients, usually called a constant or a scalar. A form of degree 1 is a linear form. A form of degree 2 is a quadratic form. In geometry, the Euclidean distance is the square root of a quadratic form.
+Homogeneous polynomials are ubiquitous in mathematics and physics. They play a fundamental role in algebraic geometry, as a projective algebraic variety is defined as the set of  the common zeros of a set of homogeneous polynomials.
+
+
+== Properties ==
+A homogeneous polynomial defines a homogeneous function. This means that, if a multivariate polynomial P is homogeneous of degree d, then
+
+  
+    
+      
+        P
+        (
+        λ
+        
+          x
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        λ
+        
+          x
+          
+            n
+          
+        
+        )
+        =
+        
+          λ
+          
+            d
+          
+        
+        
+        P
+        (
+        
+          x
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          x
+          
+            n
+          
+        
+        )
+        
+        ,
+      
+    
+    {\displaystyle P(\lambda x_{1},\ldots ,\lambda x_{n})=\lambda ^{d}\,P(x_{1},\ldots ,x_{n})\,,}
+  for every 
+  
+    
+      
+        λ
+      
+    
+    {\displaystyle \lambda }
+   in any field containing the coefficients of P. Conversely, if the above relation is true for infinitely many  
+  
+    
+      
+        λ
+      
+    
+    {\displaystyle \lambda }
+   then the polynomial is homogeneous of degree d.
+In particular, if P is homogeneous then 
+
+  
+    
+      
+        P
+        (
+        
+          x
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          x
+          
+            n
+          
+        
+        )
+        =
+        0
+        
+        ⇒
+        
+        P
+        (
+        λ
+        
+          x
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        λ
+        
+          x
+          
+            n
+          
+        
+        )
+        =
+        0
+        ,
+      
+    
+    {\displaystyle P(x_{1},\ldots ,x_{n})=0\quad \Rightarrow \quad P(\lambda x_{1},\ldots ,\lambda x_{n})=0,}
+  for every 
+  
+    
+      
+        λ
+        .
+      
+    
+    {\displaystyle \lambda .}
+   This property is fundamental in the definition of a projective variety.
+Any nonzero polynomial may be decomposed, in a unique way, as a sum of homogeneous polynomials of different degrees, which are called the homogeneous components of the polynomial. 
+Given a polynomial ring 
+  
+    
+      
+        R
+        =
+        K
+        [
+        
+          x
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          x
+          
+            n
+          
+        
+        ]
+      
+    
+    {\displaystyle R=K[x_{1},\ldots ,x_{n}]}
+   over a field (or, more generally, a ring) K, the homogeneous polynomials of degree d form
+a vector space (or a module), commonly denoted 
+  
+    
+      
+        
+          R
+          
+            d
+          
+        
+        .
+      
+    
+    {\displaystyle R_{d}.}
+   The above unique decomposition means that 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+   is the direct sum of the 
+  
+    
+      
+        
+          R
+          
+            d
+          
+        
+      
+    
+    {\displaystyle R_{d}}
+   (sum over all nonnegative integers).
+The dimension of the vector space (or free module) 
+  
+    
+      
+        
+          R
+          
+            d
+          
+        
+      
+    
+    {\displaystyle R_{d}}
+   is the number of different monomials of degree d in n variables (that is the maximal number of nonzero terms in a homogeneous polynomial of degree d in n variables). It is equal to the binomial coefficient
+
+  
+    
+      
+        
+          
+            
+              (
+            
+            
+              
+                d
+                +
+                n
+                −
+                1
+              
+              
+                n
+                −
+                1
+              
+            
+            
+              )
+            
+          
+        
+        =
+        
+          
+            
+              (
+            
+            
+              
+                d
+                +
+                n
+                −
+                1
+              
+              d
+            
+            
+              )
+            
+          
+        
+        =
+        
+          
+            
+              (
+              d
+              +
+              n
+              −
+              1
+              )
+              !
+            
+            
+              d
+              !
+              (
+              n
+              −
+              1
+              )
+              !
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\binom {d+n-1}{n-1}}={\binom {d+n-1}{d}}={\frac {(d+n-1)!}{d!(n-1)!}}.}
+  
+Homogeneous polynomial satisfy  Euler's identity for homogeneous functions. That is, if P is a homogeneous polynomial of degree d in the indeterminates 
+  
+    
+      
+        
+          x
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          x
+          
+            n
+          
+        
+        ,
+      
+    
+    {\displaystyle x_{1},\ldots ,x_{n},}
+   one has, whichever is the commutative ring of the coefficients,
+
+  
+    
+      
+        d
+        P
+        =
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          x
+          
+            i
+          
+        
+        
+          
+            
+              ∂
+              P
+            
+            
+              ∂
+              
+                x
+                
+                  i
+                
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle dP=\sum _{i=1}^{n}x_{i}{\frac {\partial P}{\partial x_{i}}},}
+  where 
+  
+    
+      
+        
+          
+            
+              
+                ∂
+                P
+              
+              
+                ∂
+                
+                  x
+                  
+                    i
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \textstyle {\frac {\partial P}{\partial x_{i}}}}
+   denotes the formal partial derivative of P with respect to 
+  
+    
+      
+        
+          x
+          
+            i
+          
+        
+        .
+      
+    
+    {\displaystyle x_{i}.}
+  
+
+
+== Homogenization ==
+A non-homogeneous polynomial P(x1,...,xn) can be homogenized by introducing an additional variable x0 and defining the homogeneous polynomial sometimes denoted hP:
+
+  
+    
+      
+        
+          
+            
+            
+              h
+            
+          
+          
+          P
+        
+        (
+        
+          x
+          
+            0
+          
+        
+        ,
+        
+          x
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          x
+          
+            n
+          
+        
+        )
+        =
+        
+          x
+          
+            0
+          
+          
+            d
+          
+        
+        P
+        
+          (
+          
+            
+              
+                
+                  x
+                  
+                    1
+                  
+                
+                
+                  x
+                  
+                    0
+                  
+                
+              
+            
+            ,
+            …
+            ,
+            
+              
+                
+                  x
+                  
+                    n
+                  
+                
+                
+                  x
+                  
+                    0
+                  
+                
+              
+            
+          
+          )
+        
+        ,
+      
+    
+    {\displaystyle {^{h}\!P}(x_{0},x_{1},\dots ,x_{n})=x_{0}^{d}P\left({\frac {x_{1}}{x_{0}}},\dots ,{\frac {x_{n}}{x_{0}}}\right),}
+  where d is the degree of P. For example, if
+
+  
+    
+      
+        P
+        =
+        
+          x
+          
+            3
+          
+          
+            3
+          
+        
+        +
+        
+          x
+          
+            1
+          
+        
+        
+          x
+          
+            2
+          
+        
+        +
+        7
+        ,
+      
+    
+    {\displaystyle P=x_{3}^{3}+x_{1}x_{2}+7,}
+  then
+
+  
+    
+      
+        
+          
+          
+            h
+          
+        
+        
+        P
+        =
+        
+          x
+          
+            3
+          
+          
+            3
+          
+        
+        +
+        
+          x
+          
+            0
+          
+        
+        
+          x
+          
+            1
+          
+        
+        
+          x
+          
+            2
+          
+        
+        +
+        7
+        
+          x
+          
+            0
+          
+          
+            3
+          
+        
+        .
+      
+    
+    {\displaystyle ^{h}\!P=x_{3}^{3}+x_{0}x_{1}x_{2}+7x_{0}^{3}.}
+  A homogenized polynomial can be dehomogenized by setting the additional variable x0 = 1. That is
+
+  
+    
+      
+        P
+        (
+        
+          x
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          x
+          
+            n
+          
+        
+        )
+        =
+        
+          
+            
+            
+              h
+            
+          
+          
+          P
+        
+        (
+        1
+        ,
+        
+          x
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          x
+          
+            n
+          
+        
+        )
+        .
+      
+    
+    {\displaystyle P(x_{1},\dots ,x_{n})={^{h}\!P}(1,x_{1},\dots ,x_{n}).}
+  
+
+
+== See also ==
+Multi-homogeneous polynomial
+Quasi-homogeneous polynomial
+Diagonal form
+Graded algebra
+Hilbert series and Hilbert polynomial
+Multilinear form
+Multilinear map
+Polarization of an algebraic form
+Schur polynomial
+Symbol of a differential operator
+
+
+== References ==
+
+
+== External links ==
+ Media related to Homogeneous polynomials at Wikimedia Commons
+Weisstein, Eric W. "Homogeneous Polynomial". MathWorld.

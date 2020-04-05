@@ -1,0 +1,30 @@
+The tholeiitic magma series, named after the German municipality of Tholey, is one of two main magma series in igneous rocks, the other being the calc-alkaline series.  A magma series is a chemically distinct range of magma compositions that describes the evolution of a mafic magma into a more evolved, silica rich end member. The International Union of Geological Sciences recommends that tholeiitic basalt be used in preference to the term "tholeiite" (Le Maitre and others, 2002).
+
+
+== Geochemical characterization ==
+
+Rocks in the tholeiitic magma series are classified as subalkaline (they contain less sodium than some other basalts) and are distinguished from rocks in the calc-alkaline magma series by the redox state of the magma they crystallized from (tholeiitic magmas are reduced; calc-alkaline magmas are oxidized ).  When the parent magmas of basalts crystallize, they preferentially crystallize the more magnesium-rich and iron-poor forms of the silicate minerals olivine and pyroxene, causing the iron content of tholeiitic magmas to increase as the melt is depleted of iron-poor crystals.  However, a calc-alkaline magma is oxidized enough to precipitate significant amounts of the iron oxide magnetite, causing the iron content of the magma to remain more steady as it cools than with a tholeiitic magma.
+The difference between these two magma series can be seen on an AFM diagram, a ternary diagram showing the relative proportions of the oxides Na2O + K2O (A), FeO + Fe2O3 (F), and MgO (M).  As magmas cool, they precipitate out significantly more iron and magnesium than alkali, causing the magmas to move towards the alkali corner as they cool.  In the tholeiitic magma, magnesium-rich crystals are produced preferentially, the magnesium content of the magma plummets, causing the magma to move away from the magnesium corner until it runs low on magnesium and simply moves towards the alkali corner as it loses iron and any remaining magnesium.  With the calc-alkaline series, however, the precipitation of magnetite causes the iron-magnesium ratio to remain relatively constant, so the magma moves in a straight line towards the alkali corner on the AFM diagram.
+
+
+== Petrography ==
+
+Like all basalt, the rock type is dominated by olivine, clinopyroxene and plagioclase, with minor iron-titanium oxides. Orthopyroxene or pigeonite may also be present in tholeiitic basalt, and olivine, if present, may be rimmed by either of these calcium-poor pyroxenes. Tridymite or quartz may be present in the fine-grained groundmass of tholeiitic basalt, and feldspathoids are absent. Tholeiitic rocks may have a fine, glassy groundmass, as may other types of basalt.
+
+
+== Geologic context ==
+Tholeiitic rocks are the most common igneous rocks on Earth, produced by submarine volcanism at mid-ocean ridges and make up much of the ocean crust. Tholeiitic basaltic magmas are initially generated as partial melts of peridotite (olivine and pyroxene) produced by decompression melting of the Earth's mantle. Tholeiitic basalts constituting the oceanic crust are termed MORBs: mid-ocean-ridge basalts. Throughout the process of igneous differentiation, the oceanic crust acts to reduce the magma, producing the tholeiitic trend.  In contrast, alkali basalts are not typical of ocean ridges, but are erupted on some oceanic islands and on continents, as also is tholeiitic basalt. Because the Moon is extremely reduced, all of its basalts are tholeiitic.
+
+
+== See also ==
+Petrology
+Igneous differentiation
+
+
+== References ==
+
+
+=== Citations ===
+
+
+=== Sources ===

@@ -1,0 +1,24 @@
+Susume! Taisen Puzzle Dama: Tōkon! Marutama Chō (進め！対戦ぱずるだま　～闘魂！まるたま町～) is a puzzle video game released in 1998 on the Nintendo 64 in Japan only. The game was developed and published by Konami. It is a port of the arcade and PlayStation game Susume! Taisen Puzzle-Dama (進め！対戦ぱずるだま), originally released in 1996, but also features characters and gameplay from the spin-off Taisen Tokkae-Dama (対戦とっかえだま).
+
+
+== Gameplay ==
+
+The gameplay is similar to Puyo Puyo. The player must beat the opponent by creating combos, which involve matching three balls or more of the same color simultaneously. Doing so will fill the opponent's side with colored blocks from either the top or bottom. The blocks contain a certain ball color, depending on the color of the block. When blocks are matched, the color ball is released. The side that exceeds the top first loses. Score is also added for both sides, but the opponent's score doesn't affect the rounds in any way.
+
+
+== Characters ==
+Eight characters return from Susume! Taisen Puzzle-Dama and four from Taisen Tokkae-Dama, with one being new to the series.
+
+Mako-Rin (まこりん, Makorin) (voiced by Hekiru Shiina)
+Upata (ウパ太, Upata) (voiced by Ai Orikasa)
+Mayu Sawada (沢田まゆ, Sawada Mayu) (voiced by Chisa Yokoyama)
+Shin with Crystal Might (シン with クリスタルマイト, Shin wizu Kurisutarumaito) (voiced by Takehito Koyasu)
+Atabo (あたぼう, Atabō) (voiced by Yuri Amano)
+Ryo (リョウ, Ryō) (voiced by Toshiyuki Morikawa)
+Dokidoki☆Vanilla (ドキドキ☆バニラ, Dokidoki Banira) (voiced by Megumi Hayashibara)
+Cherry (チェリー, Cherī) (voiced by Yayoi Jinguji)
+Dr. Doppli (Dr.ドップリー, Dokutā Doppurī) (voiced by Kenyu Horiuchi)
+Masa (政, Masa) (voiced by Wataru Takagi) - Doubles as the first boss character, as the first boss from Susume! (Mr. Chin) does not appear.
+Master Ichiba (哲人 市場, Tetsujin Ichiba) (voiced by Kan Tokumaru) - Second boss character. CPU-controlled character only, but playable in Battle Mode with hidden codes.
+Okugata-sama (奥方様, Okugata-sama) (voiced by Katsuya Shiga) - Final boss character. Since the true final boss from Susume!, Yukio Hattari, does not appear in the game, Okugata-sama is faced as the final boss whether continues are used or not. CPU-controlled character only, but playable in Battle Mode with hidden codes.
+Dark Mako-Rin (ダークまこりん, Dāku Makorin) (voiced by Hekiru Shiina) - An "evil" palette swap of Mako-Rin. Appears as a secret character in 2-player Battle Mode only. Uses the attack patterns of other characters at random.

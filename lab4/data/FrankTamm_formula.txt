@@ -1,0 +1,3149 @@
+The Frank–Tamm formula yields the amount of Cherenkov radiation emitted on a given frequency as a charged particle moves through a medium at superluminal velocity. It is named for Russian physicists Ilya Frank and Igor Tamm who developed the theory of the Cherenkov effect in 1937, for which they were awarded a Nobel Prize in Physics in 1958.
+When a charged particle moves faster than the phase speed of light in a medium, electrons interacting  with the particle can emit coherent photons while conserving energy and momentum. This process can be viewed as a decay. See Cherenkov radiation and nonradiation condition for an explanation of this effect.
+
+
+== Equation ==
+The energy 
+  
+    
+      
+        d
+        E
+      
+    
+    {\displaystyle dE}
+   emitted per unit length travelled by the particle per unit of frequency 
+  
+    
+      
+        d
+        ω
+      
+    
+    {\displaystyle d\omega }
+   is:
+
+  
+    
+      
+        
+          
+            
+              
+                d
+                
+                  2
+                
+              
+              E
+            
+            
+              d
+              x
+              
+              d
+              ω
+            
+          
+        
+        =
+        
+          
+            
+              q
+              
+                2
+              
+            
+            
+              4
+              π
+            
+          
+        
+        μ
+        (
+        ω
+        )
+        ω
+        
+          
+            (
+            
+              1
+              −
+              
+                
+                  
+                    c
+                    
+                      2
+                    
+                  
+                  
+                    
+                      v
+                      
+                        2
+                      
+                    
+                    
+                      n
+                      
+                        2
+                      
+                    
+                    (
+                    ω
+                    )
+                  
+                
+              
+            
+            )
+          
+        
+      
+    
+    {\displaystyle {\frac {d^{2}E}{dx\,d\omega }}={\frac {q^{2}}{4\pi }}\mu (\omega )\omega {\left(1-{\frac {c^{2}}{v^{2}n^{2}(\omega )}}\right)}}
+  provided that 
+  
+    
+      
+        β
+        =
+        
+          
+            v
+            c
+          
+        
+        >
+        
+          
+            1
+            
+              n
+              (
+              ω
+              )
+            
+          
+        
+      
+    
+    {\displaystyle \beta ={\frac {v}{c}}>{\frac {1}{n(\omega )}}}
+  . Here 
+  
+    
+      
+        μ
+        (
+        ω
+        )
+      
+    
+    {\displaystyle \mu (\omega )}
+   and 
+  
+    
+      
+        n
+        (
+        ω
+        )
+      
+    
+    {\displaystyle n(\omega )}
+   are the frequency-dependent permeability and index of refraction of the medium respectively, 
+  
+    
+      
+        q
+      
+    
+    {\displaystyle q}
+   is the electric charge of the particle, 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+   is the speed of the particle, and 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+   is the speed of light in vacuum.
+Cherenkov radiation does not have characteristic spectral peaks, as typical for fluorescence or emission spectra. The relative intensity of one frequency is approximately proportional to the frequency. That is, higher frequencies (shorter wavelengths) are more intense in Cherenkov radiation. This is why visible Cherenkov radiation is observed to be brilliant blue. In fact, most Cherenkov radiation is in the ultraviolet spectrum; the sensitivity of the human eye peaks at green, and is very low in the violet portion of the spectrum.
+The total amount of energy radiated per unit length is:
+
+  
+    
+      
+        
+          
+            
+              d
+              E
+            
+            
+              d
+              x
+            
+          
+        
+        =
+        
+          
+            
+              q
+              
+                2
+              
+            
+            
+              4
+              π
+            
+          
+        
+        
+          ∫
+          
+            v
+            >
+            
+              
+                c
+                
+                  n
+                  (
+                  ω
+                  )
+                
+              
+            
+          
+        
+        μ
+        (
+        ω
+        )
+        ω
+        
+          
+            (
+            
+              1
+              −
+              
+                
+                  
+                    c
+                    
+                      2
+                    
+                  
+                  
+                    
+                      v
+                      
+                        2
+                      
+                    
+                    
+                      n
+                      
+                        2
+                      
+                    
+                    (
+                    ω
+                    )
+                  
+                
+              
+            
+            )
+          
+        
+        d
+        ω
+      
+    
+    {\displaystyle {\frac {dE}{dx}}={\frac {q^{2}}{4\pi }}\int _{v>{\frac {c}{n(\omega )}}}\mu (\omega )\omega {\left(1-{\frac {c^{2}}{v^{2}n^{2}(\omega )}}\right)}d\omega }
+  This integral is done over the frequencies 
+  
+    
+      
+        ω
+      
+    
+    {\displaystyle \omega }
+   for which the particle's speed 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+   is greater than speed of light of the media 
+  
+    
+      
+        
+          
+            c
+            
+              n
+              (
+              ω
+              )
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {c}{n(\omega )}}}
+  . The integral is convergent (finite) because at high frequencies the refractive index becomes less than unity and for extremely high frequencies it becomes unity.
+
+
+== Derivation of Frank–Tamm formula ==
+Consider a charged particle moving relativistically along 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  -axis in a medium with refraction index 
+  
+    
+      
+        n
+        (
+        ω
+        )
+        =
+        
+          
+            ϵ
+            (
+            ω
+            )
+          
+        
+      
+    
+    {\displaystyle n(\omega )={\sqrt {\epsilon (\omega )}}}
+     with a constant velocity 
+  
+    
+      
+        
+          
+            
+              v
+              →
+            
+          
+        
+        =
+        (
+        v
+        ,
+        0
+        ,
+        0
+        )
+      
+    
+    {\displaystyle {\vec {v}}=(v,0,0)}
+  . Start with Maxwell's equations (in Gaussian units) in the wave forms (also known as the Lorenz gauge condition) and take the Fourier transformation:
+
+  
+    
+      
+        
+          
+            (
+          
+        
+        
+          k
+          
+            2
+          
+        
+        −
+        
+          
+            
+              ω
+              
+                2
+              
+            
+            
+              c
+              
+                2
+              
+            
+          
+        
+        ϵ
+        (
+        ω
+        )
+        
+          
+            )
+          
+        
+        Φ
+        (
+        
+          
+            
+              k
+              →
+            
+          
+        
+        ,
+        ω
+        )
+        =
+        
+          
+            
+              4
+              π
+            
+            
+              ϵ
+              (
+              ω
+              )
+            
+          
+        
+        ρ
+        (
+        
+          
+            
+              k
+              →
+            
+          
+        
+        ,
+        ω
+        )
+      
+    
+    {\displaystyle {\bigg (}k^{2}-{\frac {\omega ^{2}}{c^{2}}}\epsilon (\omega ){\bigg )}\Phi ({\vec {k}},\omega )={\frac {4\pi }{\epsilon (\omega )}}\rho ({\vec {k}},\omega )}
+  
+
+  
+    
+      
+        
+          
+            (
+          
+        
+        
+          k
+          
+            2
+          
+        
+        −
+        
+          
+            
+              ω
+              
+                2
+              
+            
+            
+              c
+              
+                2
+              
+            
+          
+        
+        ϵ
+        (
+        ω
+        )
+        
+          
+            )
+          
+        
+        
+          
+            
+              A
+              →
+            
+          
+        
+        (
+        
+          
+            
+              k
+              →
+            
+          
+        
+        ,
+        ω
+        )
+        =
+        
+          
+            
+              4
+              π
+            
+            c
+          
+        
+        
+          
+            
+              J
+              →
+            
+          
+        
+        (
+        
+          
+            
+              k
+              →
+            
+          
+        
+        ,
+        ω
+        )
+      
+    
+    {\displaystyle {\bigg (}k^{2}-{\frac {\omega ^{2}}{c^{2}}}\epsilon (\omega ){\bigg )}{\vec {A}}({\vec {k}},\omega )={\frac {4\pi }{c}}{\vec {J}}({\vec {k}},\omega )}
+  
+For a charge of magnitude 
+  
+    
+      
+        z
+        e
+      
+    
+    {\displaystyle ze}
+   (where 
+  
+    
+      
+        e
+      
+    
+    {\displaystyle e}
+   is the elementary charge) moving with velocity 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+  , the density and charge density can be expressed as 
+  
+    
+      
+        ρ
+        (
+        
+          
+            
+              x
+              →
+            
+          
+        
+        ,
+        t
+        )
+        =
+        z
+        e
+        δ
+        (
+        
+          
+            
+              x
+              →
+            
+          
+        
+        −
+        
+          
+            
+              v
+              →
+            
+          
+        
+        t
+        )
+      
+    
+    {\displaystyle \rho ({\vec {x}},t)=ze\delta ({\vec {x}}-{\vec {v}}t)}
+   and 
+  
+    
+      
+        
+          
+            
+              J
+              →
+            
+          
+        
+        (
+        
+          
+            
+              x
+              →
+            
+          
+        
+        ,
+        t
+        )
+        =
+        
+          
+            
+              v
+              →
+            
+          
+        
+        ρ
+        (
+        
+          
+            
+              x
+              →
+            
+          
+        
+        ,
+        t
+        )
+      
+    
+    {\displaystyle {\vec {J}}({\vec {x}},t)={\vec {v}}\rho ({\vec {x}},t)}
+  , taking the Fourier transformation  gives:
+
+  
+    
+      
+        ρ
+        (
+        
+          
+            
+              k
+              →
+            
+          
+        
+        ,
+        ω
+        )
+        =
+        
+          
+            
+              z
+              e
+            
+            
+              2
+              π
+            
+          
+        
+        δ
+        (
+        ω
+        −
+        
+          
+            
+              k
+              →
+            
+          
+        
+        ⋅
+        
+          
+            
+              v
+              →
+            
+          
+        
+        )
+      
+    
+    {\displaystyle \rho ({\vec {k}},\omega )={\frac {ze}{2\pi }}\delta (\omega -{\vec {k}}\cdot {\vec {v}})}
+   
+
+  
+    
+      
+        
+          
+            
+              J
+              →
+            
+          
+        
+        (
+        
+          
+            
+              k
+              →
+            
+          
+        
+        ,
+        ω
+        )
+        =
+        
+          
+            
+              v
+              →
+            
+          
+        
+        ρ
+        (
+        
+          
+            
+              k
+              →
+            
+          
+        
+        ,
+        ω
+        )
+      
+    
+    {\displaystyle {\vec {J}}({\vec {k}},\omega )={\vec {v}}\rho ({\vec {k}},\omega )}
+  
+Substituting this density and charge current into the wave equation, we can solve for the Fourier-form potentials:
+
+  
+    
+      
+        Φ
+        (
+        
+          
+            
+              k
+              →
+            
+          
+        
+        ,
+        ω
+        )
+        =
+        
+          
+            
+              2
+              z
+              e
+            
+            
+              ϵ
+              (
+              ω
+              )
+            
+          
+        
+        
+          
+            
+              δ
+              (
+              ω
+              −
+              
+                
+                  
+                    k
+                    →
+                  
+                
+              
+              ⋅
+              
+                
+                  
+                    v
+                    →
+                  
+                
+              
+              )
+            
+            
+              
+                k
+                
+                  2
+                
+              
+              −
+              
+                
+                  
+                    ω
+                    
+                      2
+                    
+                  
+                  
+                    c
+                    
+                      2
+                    
+                  
+                
+              
+              ϵ
+              (
+              ω
+              )
+            
+          
+        
+      
+    
+    {\displaystyle \Phi ({\vec {k}},\omega )={\frac {2ze}{\epsilon (\omega )}}{\frac {\delta (\omega -{\vec {k}}\cdot {\vec {v}})}{k^{2}-{\frac {\omega ^{2}}{c^{2}}}\epsilon (\omega )}}}
+   and 
+  
+    
+      
+        
+          
+            
+              A
+              →
+            
+          
+        
+        (
+        
+          
+            
+              k
+              →
+            
+          
+        
+        ,
+        ω
+        )
+        =
+        ϵ
+        (
+        ω
+        )
+        
+          
+            
+              
+                v
+                →
+              
+            
+            c
+          
+        
+        Φ
+        (
+        
+          
+            
+              k
+              →
+            
+          
+        
+        ,
+        ω
+        )
+      
+    
+    {\displaystyle {\vec {A}}({\vec {k}},\omega )=\epsilon (\omega ){\frac {\vec {v}}{c}}\Phi ({\vec {k}},\omega )}
+  
+Using the definition of the electromagnetic fields in terms of potentials, we then have the Fourier-form of the electric and magnetic field:
+
+  
+    
+      
+        
+          
+            
+              E
+              →
+            
+          
+        
+        (
+        
+          
+            
+              k
+              →
+            
+          
+        
+        ,
+        ω
+        )
+        =
+        i
+        
+          
+            (
+          
+        
+        
+          
+            
+              ω
+              ϵ
+              (
+              ω
+              )
+            
+            c
+          
+        
+        
+          
+            
+              
+                v
+                →
+              
+            
+            c
+          
+        
+        −
+        
+          
+            
+              k
+              →
+            
+          
+        
+        
+          
+            )
+          
+        
+        Φ
+        (
+        
+          
+            
+              k
+              →
+            
+          
+        
+        ,
+        ω
+        )
+      
+    
+    {\displaystyle {\vec {E}}({\vec {k}},\omega )=i{\bigg (}{\frac {\omega \epsilon (\omega )}{c}}{\frac {\vec {v}}{c}}-{\vec {k}}{\bigg )}\Phi ({\vec {k}},\omega )}
+   and 
+  
+    
+      
+        
+          
+            
+              B
+              →
+            
+          
+        
+        (
+        
+          
+            
+              k
+              →
+            
+          
+        
+        ,
+        ω
+        )
+        =
+        i
+        ϵ
+        (
+        ω
+        )
+        
+          
+            
+              k
+              →
+            
+          
+        
+        ×
+        
+          
+            
+              
+                v
+                →
+              
+            
+            c
+          
+        
+        Φ
+        (
+        
+          
+            
+              k
+              →
+            
+          
+        
+        ,
+        ω
+        )
+      
+    
+    {\displaystyle {\vec {B}}({\vec {k}},\omega )=i\epsilon (\omega ){\vec {k}}\times {\frac {\vec {v}}{c}}\Phi ({\vec {k}},\omega )}
+  
+To find the radiated energy, we consider electric field as a function of frequency at some perpendicular distance from the particle trajectory, say, at 
+  
+    
+      
+        (
+        0
+        ,
+        b
+        ,
+        0
+        )
+      
+    
+    {\displaystyle (0,b,0)}
+  , where 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   is the impact parameter. It is given by the inverse Fourier transform:
+
+  
+    
+      
+        
+          
+            
+              E
+              →
+            
+          
+        
+        (
+        ω
+        )
+        =
+        
+          
+            1
+            
+              (
+              2
+              π
+              
+                )
+                
+                  3
+                  
+                    /
+                  
+                  2
+                
+              
+            
+          
+        
+        ∫
+        
+          d
+          
+            3
+          
+        
+        k
+        
+          
+            
+              E
+              →
+            
+          
+        
+        (
+        
+          
+            
+              k
+              →
+            
+          
+        
+        ,
+        ω
+        )
+        
+          e
+          
+            i
+            b
+            
+              k
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {E}}(\omega )={\frac {1}{(2\pi )^{3/2}}}\int d^{3}k{\vec {E}}({\vec {k}},\omega )e^{ibk_{2}}}
+  
+First we compute 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  -component 
+  
+    
+      
+        
+          E
+          
+            1
+          
+        
+      
+    
+    {\displaystyle E_{1}}
+   of the electric field (parallel to 
+  
+    
+      
+        
+          
+            
+              v
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {v}}}
+  ):
+
+  
+    
+      
+        
+          E
+          
+            1
+          
+        
+        (
+        ω
+        )
+        =
+        
+          
+            
+              2
+              i
+              z
+              e
+            
+            
+              ϵ
+              (
+              ω
+              )
+              (
+              2
+              π
+              
+                )
+                
+                  3
+                  
+                    /
+                  
+                  2
+                
+              
+            
+          
+        
+        ∫
+        
+          d
+          
+            3
+          
+        
+        k
+        
+          e
+          
+            i
+            b
+            
+              k
+              
+                2
+              
+            
+          
+        
+        
+          
+            (
+          
+        
+        
+          
+            
+              ω
+              ϵ
+              (
+              ω
+              )
+              v
+            
+            
+              c
+              
+                2
+              
+            
+          
+        
+        −
+        
+          k
+          
+            1
+          
+        
+        
+          
+            )
+          
+        
+        
+          
+            
+              δ
+              (
+              ω
+              −
+              v
+              
+                k
+                
+                  1
+                
+              
+              )
+            
+            
+              
+                k
+                
+                  2
+                
+              
+              −
+              
+                
+                  
+                    ω
+                    
+                      2
+                    
+                  
+                  
+                    c
+                    
+                      2
+                    
+                  
+                
+              
+              ϵ
+              (
+              ω
+              )
+            
+          
+        
+      
+    
+    {\displaystyle E_{1}(\omega )={\frac {2ize}{\epsilon (\omega )(2\pi )^{3/2}}}\int d^{3}ke^{ibk_{2}}{\bigg (}{\frac {\omega \epsilon (\omega )v}{c^{2}}}-k_{1}{\bigg )}{\frac {\delta (\omega -vk_{1})}{k^{2}-{\frac {\omega ^{2}}{c^{2}}}\epsilon (\omega )}}}
+  
+For brevity we define 
+  
+    
+      
+        
+          λ
+          
+            2
+          
+        
+        =
+        
+          
+            
+              ω
+              
+                2
+              
+            
+            
+              v
+              
+                2
+              
+            
+          
+        
+        −
+        
+          
+            
+              ω
+              
+                2
+              
+            
+            
+              c
+              
+                2
+              
+            
+          
+        
+        ϵ
+        (
+        ω
+        )
+        =
+        
+          
+            
+              ω
+              
+                2
+              
+            
+            
+              v
+              
+                2
+              
+            
+          
+        
+        
+          
+            (
+          
+        
+        1
+        −
+        
+          β
+          
+            2
+          
+        
+        ϵ
+        (
+        ω
+        )
+        
+          
+            )
+          
+        
+      
+    
+    {\displaystyle \lambda ^{2}={\frac {\omega ^{2}}{v^{2}}}-{\frac {\omega ^{2}}{c^{2}}}\epsilon (\omega )={\frac {\omega ^{2}}{v^{2}}}{\big (}1-\beta ^{2}\epsilon (\omega ){\big )}}
+  . Breaking the integral apart into 
+  
+    
+      
+        
+          k
+          
+            1
+          
+        
+        ,
+        
+          k
+          
+            2
+          
+        
+        ,
+        
+          k
+          
+            3
+          
+        
+      
+    
+    {\displaystyle k_{1},k_{2},k_{3}}
+  , the 
+  
+    
+      
+        
+          k
+          
+            1
+          
+        
+      
+    
+    {\displaystyle k_{1}}
+   integral can immediately be integrated by the definition of the Dirac Delta:
+
+  
+    
+      
+        
+          E
+          
+            1
+          
+        
+        (
+        ω
+        )
+        =
+        −
+        
+          
+            
+              2
+              i
+              z
+              e
+              ω
+            
+            
+              
+                v
+                
+                  2
+                
+              
+              (
+              2
+              π
+              
+                )
+                
+                  3
+                  
+                    /
+                  
+                  2
+                
+              
+            
+          
+        
+        
+          
+            (
+          
+        
+        
+          
+            1
+            
+              ϵ
+              (
+              ω
+              )
+            
+          
+        
+        −
+        
+          β
+          
+            2
+          
+        
+        
+          
+            )
+          
+        
+        
+          ∫
+          
+            −
+            ∞
+          
+          
+            ∞
+          
+        
+        d
+        
+          k
+          
+            2
+          
+        
+        
+          e
+          
+            i
+            b
+            
+              k
+              
+                2
+              
+            
+          
+        
+        
+          ∫
+          
+            −
+            ∞
+          
+          
+            ∞
+          
+        
+        
+          
+            
+              d
+              
+                k
+                
+                  3
+                
+              
+            
+            
+              
+                k
+                
+                  2
+                
+                
+                  2
+                
+              
+              +
+              
+                k
+                
+                  3
+                
+                
+                  2
+                
+              
+              +
+              
+                λ
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle E_{1}(\omega )=-{\frac {2ize\omega }{v^{2}(2\pi )^{3/2}}}{\bigg (}{\frac {1}{\epsilon (\omega )}}-\beta ^{2}{\bigg )}\int _{-\infty }^{\infty }dk_{2}e^{ibk_{2}}\int _{-\infty }^{\infty }{\frac {dk_{3}}{k_{2}^{2}+k_{3}^{2}+\lambda ^{2}}}}
+  
+The integral over 
+  
+    
+      
+        
+          k
+          
+            3
+          
+        
+      
+    
+    {\displaystyle k_{3}}
+   has the value 
+  
+    
+      
+        
+          
+            π
+            
+              (
+              
+                λ
+                
+                  2
+                
+              
+              +
+              
+                k
+                
+                  2
+                
+                
+                  2
+                
+              
+              
+                )
+                
+                  1
+                  
+                    /
+                  
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {\pi }{(\lambda ^{2}+k_{2}^{2})^{1/2}}}}
+  , giving:
+
+  
+    
+      
+        
+          E
+          
+            1
+          
+        
+        (
+        ω
+        )
+        =
+        −
+        
+          
+            
+              i
+              z
+              e
+              ω
+            
+            
+              
+                v
+                
+                  2
+                
+              
+              
+                
+                  2
+                  π
+                
+              
+            
+          
+        
+        
+          
+            (
+          
+        
+        
+          
+            1
+            
+              ϵ
+              (
+              ω
+              )
+            
+          
+        
+        −
+        
+          β
+          
+            2
+          
+        
+        
+          
+            )
+          
+        
+        
+          ∫
+          
+            −
+            ∞
+          
+          
+            ∞
+          
+        
+        d
+        
+          k
+          
+            2
+          
+        
+        
+          
+            
+              e
+              
+                i
+                b
+                
+                  k
+                  
+                    2
+                  
+                
+              
+            
+            
+              (
+              
+                λ
+                
+                  2
+                
+              
+              +
+              
+                k
+                
+                  2
+                
+                
+                  2
+                
+              
+              
+                )
+                
+                  1
+                  
+                    /
+                  
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle E_{1}(\omega )=-{\frac {ize\omega }{v^{2}{\sqrt {2\pi }}}}{\bigg (}{\frac {1}{\epsilon (\omega )}}-\beta ^{2}{\bigg )}\int _{-\infty }^{\infty }dk_{2}{\frac {e^{ibk_{2}}}{(\lambda ^{2}+k_{2}^{2})^{1/2}}}}
+  
+The last integral over 
+  
+    
+      
+        
+          k
+          
+            2
+          
+        
+      
+    
+    {\displaystyle k_{2}}
+   is in the form of a modified (Macdonald) Bessel function, giving the evaluated parallel component in the form:
+
+  
+    
+      
+        
+          E
+          
+            1
+          
+        
+        (
+        ω
+        )
+        =
+        −
+        
+          
+            
+              i
+              z
+              e
+              ω
+            
+            
+              v
+              
+                2
+              
+            
+          
+        
+        
+          
+            (
+            
+              
+                2
+                π
+              
+            
+            )
+          
+          
+            1
+            
+              /
+            
+            2
+          
+        
+        
+          
+            (
+          
+        
+        
+          
+            1
+            
+              ϵ
+              (
+              ω
+              )
+            
+          
+        
+        −
+        
+          β
+          
+            2
+          
+        
+        
+          
+            )
+          
+        
+        
+          K
+          
+            0
+          
+        
+        (
+        λ
+        b
+        )
+      
+    
+    {\displaystyle E_{1}(\omega )=-{\frac {ize\omega }{v^{2}}}\left({\frac {2}{\pi }}\right)^{1/2}{\bigg (}{\frac {1}{\epsilon (\omega )}}-\beta ^{2}{\bigg )}K_{0}(\lambda b)}
+  
+One can follow a similar pattern of calculation for the other fields components arriving at:
+
+  
+    
+      
+        
+          E
+          
+            2
+          
+        
+        (
+        ω
+        )
+        =
+        
+          
+            
+              z
+              e
+            
+            v
+          
+        
+        
+          
+            (
+            
+              
+                2
+                π
+              
+            
+            )
+          
+          
+            1
+            
+              /
+            
+            2
+          
+        
+        
+          
+            λ
+            
+              ϵ
+              (
+              ω
+              )
+            
+          
+        
+        
+          K
+          
+            1
+          
+        
+        (
+        λ
+        b
+        )
+        ,
+        
+        
+          E
+          
+            3
+          
+        
+        =
+        0
+        
+      
+    
+    {\displaystyle E_{2}(\omega )={\frac {ze}{v}}\left({\frac {2}{\pi }}\right)^{1/2}{\frac {\lambda }{\epsilon (\omega )}}K_{1}(\lambda b),\quad E_{3}=0\quad }
+   and 
+  
+    
+      
+        
+        
+          B
+          
+            1
+          
+        
+        =
+        
+          B
+          
+            2
+          
+        
+        =
+        0
+        ,
+        
+        
+          B
+          
+            3
+          
+        
+        (
+        ω
+        )
+        =
+        ϵ
+        (
+        ω
+        )
+        β
+        
+          E
+          
+            2
+          
+        
+        (
+        ω
+        )
+      
+    
+    {\displaystyle \quad B_{1}=B_{2}=0,\quad B_{3}(\omega )=\epsilon (\omega )\beta E_{2}(\omega )}
+  
+We can now consider the radiated energy 
+  
+    
+      
+        d
+        E
+      
+    
+    {\displaystyle dE}
+   per particle traversed distance 
+  
+    
+      
+        d
+        
+          x
+          
+            particle
+          
+        
+      
+    
+    {\displaystyle dx_{\text{particle}}}
+  . It can be expressed through the electromagnetic energy flow 
+  
+    
+      
+        
+          P
+          
+            a
+          
+        
+      
+    
+    {\displaystyle P_{a}}
+   through the surface of an infinite cylinder of radius 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   around the path of the moving particle, which is given by the integral of the Poynting vector 
+  
+    
+      
+        
+          S
+        
+        =
+        c
+        
+          /
+        
+        (
+        4
+        π
+        )
+        [
+        
+          E
+        
+        ×
+        
+          H
+        
+        ]
+      
+    
+    {\displaystyle \mathbf {S} =c/(4\pi )[\mathbf {E} \times \mathbf {H} ]}
+   over the cylinder surface:
+
+  
+    
+      
+        
+          
+            (
+          
+        
+        
+          
+            
+              d
+              E
+            
+            
+              d
+              
+                x
+                
+                  particle
+                
+              
+            
+          
+        
+        
+          
+            
+              )
+            
+          
+          
+            rad
+          
+        
+        =
+        
+          
+            1
+            v
+          
+        
+        
+          P
+          
+            a
+          
+        
+        =
+        −
+        
+          
+            c
+            
+              4
+              π
+              v
+            
+          
+        
+        
+          ∫
+          
+            −
+            ∞
+          
+          
+            ∞
+          
+        
+        2
+        π
+        a
+        
+          B
+          
+            3
+          
+        
+        
+          E
+          
+            1
+          
+        
+        d
+        x
+      
+    
+    {\displaystyle {\bigg (}{\frac {dE}{dx_{\text{particle}}}}{\bigg )}_{\text{rad}}={\frac {1}{v}}P_{a}=-{\frac {c}{4\pi v}}\int _{-\infty }^{\infty }2\pi aB_{3}E_{1}dx}
+  
+The integral over 
+  
+    
+      
+        d
+        x
+      
+    
+    {\displaystyle dx}
+   at one instant of time is equal to the integral at one point over all time. Using 
+  
+    
+      
+        d
+        x
+        =
+        v
+        d
+        t
+      
+    
+    {\displaystyle dx=vdt}
+  :
+
+  
+    
+      
+        
+          
+            (
+          
+        
+        
+          
+            
+              d
+              E
+            
+            
+              d
+              
+                x
+                
+                  particle
+                
+              
+            
+          
+        
+        
+          
+            
+              )
+            
+          
+          
+            rad
+          
+        
+        =
+        −
+        
+          
+            
+              c
+              a
+            
+            2
+          
+        
+        
+          ∫
+          
+            −
+            ∞
+          
+          
+            ∞
+          
+        
+        
+          B
+          
+            3
+          
+        
+        (
+        t
+        )
+        
+          E
+          
+            1
+          
+        
+        (
+        t
+        )
+        d
+        t
+      
+    
+    {\displaystyle {\bigg (}{\frac {dE}{dx_{\text{particle}}}}{\bigg )}_{\text{rad}}=-{\frac {ca}{2}}\int _{-\infty }^{\infty }B_{3}(t)E_{1}(t)dt}
+  
+Converting this to the frequency domain:
+
+  
+    
+      
+        
+          
+            (
+          
+        
+        
+          
+            
+              d
+              E
+            
+            
+              d
+              
+                x
+                
+                  particle
+                
+              
+            
+          
+        
+        
+          
+            
+              )
+            
+          
+          
+            rad
+          
+        
+        =
+        −
+        c
+        a
+        
+        
+          Re
+        
+        
+          
+            (
+          
+        
+        
+          ∫
+          
+            0
+          
+          
+            ∞
+          
+        
+        
+          B
+          
+            3
+          
+          
+            ∗
+          
+        
+        (
+        ω
+        )
+        
+          E
+          
+            1
+          
+        
+        (
+        ω
+        )
+        d
+        ω
+        
+          
+            )
+          
+        
+      
+    
+    {\displaystyle {\bigg (}{\frac {dE}{dx_{\text{particle}}}}{\bigg )}_{\text{rad}}=-ca\,{\text{Re}}{\bigg (}\int _{0}^{\infty }B_{3}^{*}(\omega )E_{1}(\omega )d\omega {\bigg )}}
+  
+To go into the domain of Cherenkov radiation, we now consider perpendicular distance 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   much greater than atomic distances in a medium, that is, 
+  
+    
+      
+        
+          |
+        
+        λ
+        b
+        
+          |
+        
+        ≫
+        1
+      
+    
+    {\displaystyle |\lambda b|\gg 1}
+  . With this assumption we can expand the Bessel functions into their asymptotic form:
+
+  
+    
+      
+        
+          E
+          
+            1
+          
+        
+        (
+        ω
+        )
+        →
+        
+          
+            
+              i
+              z
+              e
+              ω
+            
+            
+              c
+              
+                2
+              
+            
+          
+        
+        
+          
+            (
+          
+        
+        1
+        −
+        
+          
+            1
+            
+              
+                β
+                
+                  2
+                
+              
+              ϵ
+              (
+              ω
+              )
+            
+          
+        
+        
+          
+            )
+          
+        
+        
+          
+            
+              e
+              
+                −
+                λ
+                b
+              
+            
+            
+              λ
+              b
+            
+          
+        
+      
+    
+    {\displaystyle E_{1}(\omega )\rightarrow {\frac {ize\omega }{c^{2}}}{\bigg (}1-{\frac {1}{\beta ^{2}\epsilon (\omega )}}{\bigg )}{\frac {e^{-\lambda b}}{\sqrt {\lambda b}}}}
+  
+
+  
+    
+      
+        
+          E
+          
+            2
+          
+        
+        (
+        ω
+        )
+        →
+        
+          
+            
+              z
+              e
+            
+            
+              v
+              ϵ
+              (
+              ω
+              )
+            
+          
+        
+        
+          
+            
+              λ
+              b
+            
+          
+        
+        
+          e
+          
+            −
+            λ
+            b
+          
+        
+      
+    
+    {\displaystyle E_{2}(\omega )\rightarrow {\frac {ze}{v\epsilon (\omega )}}{\sqrt {\frac {\lambda }{b}}}e^{-\lambda b}}
+   and 
+  
+    
+      
+        
+          B
+          
+            3
+          
+        
+        (
+        ω
+        )
+        =
+        ϵ
+        (
+        ω
+        )
+        β
+        
+          E
+          
+            2
+          
+        
+        (
+        ω
+        )
+      
+    
+    {\displaystyle B_{3}(\omega )=\epsilon (\omega )\beta E_{2}(\omega )}
+  
+Thus:
+
+  
+    
+      
+        
+          
+            (
+          
+        
+        
+          
+            
+              d
+              E
+            
+            
+              d
+              
+                x
+                
+                  particle
+                
+              
+            
+          
+        
+        
+          
+            
+              )
+            
+          
+          
+            rad
+          
+        
+        =
+        
+          Re
+        
+        
+          
+            (
+          
+        
+        
+          ∫
+          
+            0
+          
+          
+            ∞
+          
+        
+        
+          
+            
+              
+                z
+                
+                  2
+                
+              
+              
+                e
+                
+                  2
+                
+              
+            
+            
+              c
+              
+                2
+              
+            
+          
+        
+        
+          
+            (
+          
+        
+        −
+        i
+        
+          
+            
+              
+                λ
+                
+                  ∗
+                
+              
+              λ
+            
+          
+        
+        
+          
+            )
+          
+        
+        ω
+        
+          
+            (
+          
+        
+        1
+        −
+        
+          
+            1
+            
+              
+                β
+                
+                  2
+                
+              
+              ϵ
+              (
+              ω
+              )
+            
+          
+        
+        
+          
+            )
+          
+        
+        
+          e
+          
+            −
+            (
+            λ
+            +
+            
+              λ
+              
+                ∗
+              
+            
+            )
+            a
+          
+        
+        d
+        ω
+        
+          
+            )
+          
+        
+      
+    
+    {\displaystyle {\bigg (}{\frac {dE}{dx_{\text{particle}}}}{\bigg )}_{\text{rad}}={\text{Re}}{\bigg (}\int _{0}^{\infty }{\frac {z^{2}e^{2}}{c^{2}}}{\bigg (}-i{\sqrt {\frac {\lambda ^{*}}{\lambda }}}{\bigg )}\omega {\bigg (}1-{\frac {1}{\beta ^{2}\epsilon (\omega )}}{\bigg )}e^{-(\lambda +\lambda ^{*})a}d\omega {\bigg )}}
+  
+If 
+  
+    
+      
+        λ
+      
+    
+    {\displaystyle \lambda }
+   has a positive real part (usually true), the exponential will cause the expression to vanish rapidly at large distances, meaning all the energy is deposited near the path. However, this isn't true when 
+  
+    
+      
+        λ
+      
+    
+    {\displaystyle \lambda }
+    is purely imaginary - this instead causes the exponential to become 1 and then is independent of 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  , meaning some of the energy escapes to infinity as radiation - this is Cherenkov radiation.
+
+  
+    
+      
+        λ
+      
+    
+    {\displaystyle \lambda }
+   is purely imaginary if 
+  
+    
+      
+        ϵ
+        (
+        ω
+        )
+      
+    
+    {\displaystyle \epsilon (\omega )}
+   is real and 
+  
+    
+      
+        
+          β
+          
+            2
+          
+        
+        ϵ
+        (
+        ω
+        )
+        >
+        1
+      
+    
+    {\displaystyle \beta ^{2}\epsilon (\omega )>1}
+  . That is, when 
+  
+    
+      
+        ϵ
+        (
+        ω
+        )
+      
+    
+    {\displaystyle \epsilon (\omega )}
+   is real, Cherenkov radiation has the condition that 
+  
+    
+      
+        v
+        >
+        
+          
+            c
+            
+              
+                
+                  ϵ
+                  (
+                  ω
+                
+              
+              )
+            
+          
+        
+        =
+        
+          
+            c
+            n
+          
+        
+      
+    
+    {\displaystyle v>{\frac {c}{{\sqrt {\epsilon (\omega }})}}={\frac {c}{n}}}
+  . This is the statement that the speed of the particle must be larger than the phase velocity of electromagnetic fields in the medium at frequency 
+  
+    
+      
+        ω
+      
+    
+    {\displaystyle \omega }
+   in order to have Cherenkov radiation. With this purely imaginary 
+  
+    
+      
+        λ
+      
+    
+    {\displaystyle \lambda }
+   condition, 
+  
+    
+      
+        
+          
+            
+              
+                λ
+                
+                  ∗
+                
+              
+              λ
+            
+          
+        
+        =
+        i
+      
+    
+    {\displaystyle {\sqrt {\frac {\lambda ^{*}}{\lambda }}}=i}
+   and the integral can be simplified to:
+
+  
+    
+      
+        
+          
+            (
+          
+        
+        
+          
+            
+              d
+              E
+            
+            
+              d
+              
+                x
+                
+                  particle
+                
+              
+            
+          
+        
+        
+          
+            
+              )
+            
+          
+          
+            rad
+          
+        
+        =
+        
+          
+            
+              
+                z
+                
+                  2
+                
+              
+              
+                e
+                
+                  2
+                
+              
+            
+            
+              c
+              
+                2
+              
+            
+          
+        
+        
+          ∫
+          
+            ϵ
+            (
+            ω
+            )
+            >
+            
+              
+                1
+                
+                  β
+                  
+                    2
+                  
+                
+              
+            
+          
+        
+        ω
+        
+          
+            (
+          
+        
+        1
+        −
+        
+          
+            1
+            
+              
+                β
+                
+                  2
+                
+              
+              ϵ
+              (
+              ω
+              )
+            
+          
+        
+        
+          
+            )
+          
+        
+        d
+        ω
+        =
+        
+          
+            
+              
+                z
+                
+                  2
+                
+              
+              
+                e
+                
+                  2
+                
+              
+            
+            
+              c
+              
+                2
+              
+            
+          
+        
+        
+          ∫
+          
+            v
+            >
+            
+              
+                c
+                
+                  n
+                  (
+                  ω
+                  )
+                
+              
+            
+          
+        
+        ω
+        
+          
+            (
+          
+        
+        1
+        −
+        
+          
+            
+              c
+              
+                2
+              
+            
+            
+              
+                v
+                
+                  2
+                
+              
+              
+                n
+                
+                  2
+                
+              
+              (
+              ω
+              )
+            
+          
+        
+        
+          
+            )
+          
+        
+        d
+        ω
+      
+    
+    {\displaystyle {\bigg (}{\frac {dE}{dx_{\text{particle}}}}{\bigg )}_{\text{rad}}={\frac {z^{2}e^{2}}{c^{2}}}\int _{\epsilon (\omega )>{\frac {1}{\beta ^{2}}}}\omega {\bigg (}1-{\frac {1}{\beta ^{2}\epsilon (\omega )}}{\bigg )}d\omega ={\frac {z^{2}e^{2}}{c^{2}}}\int _{v>{\frac {c}{n(\omega )}}}\omega {\bigg (}1-{\frac {c^{2}}{v^{2}n^{2}(\omega )}}{\bigg )}d\omega }
+  
+This is the Frank–Tamm equation in Gaussian units. This derivation follows Jackson 3rd Edition
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+Cherenkov radiation (Tagged ‘Frank-Tamm formula’)

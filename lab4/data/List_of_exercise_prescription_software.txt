@@ -1,0 +1,61 @@
+This list of exercise prescription software contains software packages related to the sending or printing of exercise instructions commonly used by physiotherapists.
+
+
+== B ==
+BPM Rx is an online exercise prescription program used by physical therapists/physios and personal trainers to create exercise handouts.
+BlueJay Engage  is a mobile application for physical therapy in which therapists send treatment plans with videos to patients' mobile devices and monitor progress on self-reported graphs.
+
+
+== E ==
+Enhance Therapy  a web application software to create custom home exercises that you can email to patients or print out.
+Exercise Expert  is a desktop software for Windows to create custom home exercise handouts for fitness.
+Exercise Prescriber  is an online exercise prescription software tool that allows clinicians to send narrated video clips of home exercises to their patients email or mobile phone. It also allows clinicians to send online infopgaes from a database of 60 common musculoskeletal conditions.
+Exercise Pro Live  is cloud based (Windows, Mac, Pads) exercise prescription service providing exercise video and handouts for fitness and rehabilitation.
+Exercise Pro  is a desktop software for Windows to create custom home exercise handouts for fitness and rehabilitation.
+ExerciseSoftware.com  Online exercise software system for physiotherapy, fitness and exercise rehab specialists. Includes a fully customizable exercise collection.
+EXPERT tool  Online application that assists physicians and healthcare professionals in choosing and adopting the optimal exercise intervention in patients with various CVDs and/or a combination of risk factors.
+
+
+== M ==
+MedBridge is an online home exercise prescription software for rehabilitation professionals. It includes thousands of video-based exercises, hundreds of patient education resources, a patient portal, and a patient mobile app.
+Mavenlive is an online exercise prescription software for creating completely customized exercises programs
+MediGraph is a physical therapy software package which includes support for customized exercises programs
+Myclinicspace is an online exercise prescription tool for health professionals to deliver video and exercise images to patients. Generate PDF handouts for patients.MyPtPro is a patient mobile application and website accessible home exercise prescription SaaS for rehabilitative care.
+
+
+== P ==
+PT Wired is a unique home exercise program software that is designed to function as both an engaging exercise prescription software and a marketing platform. Each PT practice receives a fully branded mobile app (iOS, Android and web) with their name, logo, and color scheme. PTs are able to build a patient's HEP by selecting from 3000+ exercises, aided by smart search, filters, and program templates. PTs can also upload their own videos. Once a patient begins using the app, a PT can track their progress on the patient's dashboard.
+Patient Pal or Pt Pal is web and app based software that works on any modern web browser. Clinicians send their prescription to the patient. Patients can view their exercises or tasks on their phones and send feedback to the clinician or surgeon. Handouts can be generated electronically.PTStudio is an online exercise prescription software that has a user interface and animated exercises in seven different languages. Also free version available
+
+PacPacs is an online exercise prescription and patient management package
+PhysioTools is an online exercise prescription program (Windows, Mac and handheld devices including the iPad) to generate completely customized patient handouts in paper form or digitally including video on mobile devices.
+Physitrack is a platform for exercise prescription, patient education, Telehealth and outcomes measurement, with versions for web browsers and native apps (iOS + Android).
+PhysioTrack is web based software that works on any modern web browser. Patients can view their exercises on their phones and send feedback to the Physio. Handouts can be generated electronically, on paper or by mobile app.
+PhysPrac is an iPad/iPhone application for creating, storing, editing and sending exercise programs to patients via email.
+
+
+== R ==
+Rehab Guru is a comprehensive multi-platform tool aiding physiotherapists, coaches, athletes and other medical professionals to prescribe exercises for their clients.
+Rehab My Patient is an online exercise software program for therapists to print and email exercise hand-outs to patients. Complete customization on mobile, tablet or desktop. Diary tracking, and evidence-based.
+The Rehab Lab is an online exercise prescription package for generating patient handouts as PDF documents
+
+
+== S ==
+SimpleSet Pro is an advanced web application for physical therapy exercise prescription.
+Set4Theapy  School-based educational software for physical, occupational, and speech therapists.
+
+
+== T ==
+TrackActive is an exercise prescription software, customisable and evidence-based. Patients can access their rehabilitation programmes via web login or by mobile app.
+
+
+== V ==
+Visual Health Information (VHI) offers computer-based, customizable software for exercise prescription, with multiple options for add-on exercise packages.
+
+
+== W ==
+WebPT is a web-based physical therapy software solution providing integrated exercise programs for physical therapy clinics of all sfe all.
+WorkOutConnect PT Therapist enables therapy professionals to create & share physical therapy protocols with clients & patients available on the web, iOS, Android devices.
+
+
+== References ==

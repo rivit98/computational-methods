@@ -1,0 +1,24 @@
+Ungulate bocaparvovirus 1, formerly Bovine parvovirus (BPV), also known as Haemadsorbing Enteric Virus, is a member of the parvivirus group, with three significant sub-species: BPV1, 2 and 3.  BPV most commonly causes diarrhoea in neonatal calves and respiratory and reproductive disease in adult cattle. The distribution of the virus is worldwide. Transmission is both vertical (transplacental route) and horizontal (oro-faecal route). The virus is very resistant to chemical and physical challenges.
+
+
+== Clinical signs and diagnosis ==
+Diarrhoea is often the only clinical sign in neonatal calves. Reproductive infection causes abortion and the birth of weak or stillborn calves. Respiratory signs such as coughing, dyspnoea and nasal discharge also can occur.
+The clinical signs of BPV may be made worse by concurrent GI infections.
+Immunofluorescence (IF), PCR, haemagglutination, ELISA and electron microscopy can be used to identify and diagnose the virus.
+Aborted fetuses are oedematous and have increased pleural and peritoneal fluid. Immunofluorescence (IF) can be used to detect the virus in fetal organs. Post-mortem examination of infected calves should show intestinal lesions.
+
+
+== Treatment and control ==
+Treatment and control is achieved by vaccination of the dams during gestation. Appropriate hygiene and disinfection methods should also be employed.
+
+
+== See also ==
+Parvovirus
+Parvovirus, canine
+Parvovirus, feline
+Parvovirus, porcine
+
+
+== References ==
+
+Bovine Parvovirus, reviewed and published by Wikivet at http://en.wikivet.net/Bovine_Parvovirus, accessed 23/08/2011.

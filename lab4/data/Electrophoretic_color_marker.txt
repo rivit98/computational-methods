@@ -1,0 +1,12 @@
+An electrophoretic color marker is used to monitor the progress of agarose gel electrophoresis and polyacrylamide gel electrophoresis (PAGE) since DNA, RNA, and most proteins are colourless. They are also referred to as tracking dyes, and are frequently present in loading dyes as well as molecular weight ladders.
+
+
+== Examples ==
+Commonly used color markers include Bromophenol blue, Cresol Red, Orange G and Xylene cyanol. Generally speaking, Orange G migrates faster than bromophenol blue, which migrates faster than xylene cyanol, but the apparent "sizes" of these dyes (compared to DNA molecules) varies with the concentration of agarose and the buffer system used. For instance, in a 1% agarose gel made in TAE buffer (Tris-acetate-EDTA), xylene cyanol migrates at the speed of a 3000 base pair (bp) molecule of DNA and bromophenol blue migrates at 400 bp. However, in a 1% gel made in TBE buffer (Tris-borate-EDTA), they migrate at 2000 bp and 250 bp respectively.
+
+
+== Applications ==
+Color markers are sometimes added to loading dyes for gel electrophoresis in the separation of DNA fragments. Loading dyes keep DNA samples below the surface of the agarose gel, and the color markers within help keep track of the migration front of the DNA as it moves along the gel.For PAGE, some commercially available molecular weight markers (also called "ladders" because they look like the rungs of a ladder after separation) contain pre-stained proteins of different colours, so it is possible to determine more accurately where the proteins of interest in the samples might be.
+
+
+== References ==

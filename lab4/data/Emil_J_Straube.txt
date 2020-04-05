@@ -1,0 +1,122 @@
+Emil Josef Straube is a Swiss and American mathematician.
+
+
+== Education and career ==
+He received from ETH Zurich in 1977 his diploma in mathematics and in 1983 his doctorate in mathematics. For the academic year 1983–1984 Straube was a visiting research scholar at the University of North Carolina at Chapel Hill. He was a visiting assistant professor from 1984 to 1986 at Indiana University Bloomington and from 1986 to 1987 at the University of Pittsburgh. From 1996 to the present, he is a full professor at Texas A&M University, where he was an assistant professor from 1987 to 1991 and an associate professor from 1991 to 1996; from 2011 to the present, he is the head of the mathematics department there. He has held visiting research positions in Switzerland, Germany, the USA, and Austria.In 1995 he was a co-winner, with Harold P. Boas, of the Stefan Bergman Prize of the American Mathematical Society. In 2006 Straube was an invited speaker at the International Congress of Mathematicians in Madrid. In 2012 he was elected a fellow of the American Mathematical Society.
+
+
+== Selected publications ==
+
+
+=== Articles ===
+"Harmonic and analytic functions admitting a distribution boundary value". Annali della Scuola Normale Superiore di Pisa-Classe di Scienze. 11 (4): 559–591.
+with H. P. Boas: "Integral inequalities of Hardy and Poincaré type". Proc. Amer. Math. Soc. 103 (1): 172–176. 1988. doi:10.1090/S0002-9939-1988-0938664-0.
+with H. P. Boas: "Sobolev estimates for the 
+  
+    
+      
+        
+          
+            ∂
+            ¯
+          
+        
+      
+    
+    {\displaystyle {\overline {\partial }}}
+  -Neumann operator on domains in 
+  
+    
+      
+        
+          C
+        
+      
+    
+    {\displaystyle \mathbb {C} }
+  n admitting a defining function that is plurisubharmonic on the boundary". Mathematische Zeitschrift. 206 (1): 81–88. doi:10.1007/BF02571327.
+with H. P. Boas: "Sobolev estimates for the complex Green operator on a class of weakly pseudoconvex boundaries". Communications in Partial Differential Equations. 16 (10): 1573–1582. 1991. doi:10.1080/03605309108820813.
+"Good Stein neighborhood bases and regularity of the 
+  
+    
+      
+        
+          
+            ∂
+            ¯
+          
+        
+      
+    
+    {\displaystyle {\overline {\partial }}}
+  -Neumann problem". Illinois Journal of Mathematics. 45 (3): 865–871. 2001. doi:10.1215/ijm/1258138156.
+with Siqi Fu: "Semi-classical analysis of Schrödinger operators and compactness in the 
+  
+    
+      
+        
+          
+            ∂
+            ¯
+          
+        
+      
+    
+    {\displaystyle {\overline {\partial }}}
+  -Neumann problem". Journal of Mathematical Analysis and Applications. 271 (1): 267–282. 2002. arXiv:math/0201149. doi:10.1016/S0022-247X(02)00086-0.
+with Marcel K. Sucheston: "Levi foliations in pseudoconvex boundaries and vector fields that commute approximately with 
+  
+    
+      
+        
+          
+            ∂
+            ¯
+          
+        
+      
+    
+    {\displaystyle {\overline {\partial }}}
+   ". Trans. Amer. Math. Soc. 355: 143–154. 2003. doi:10.1090/S0002-9947-02-03133-1.
+"A sufficient condition for global regularity of the 
+  
+    
+      
+        
+          
+            ∂
+            ¯
+          
+        
+      
+    
+    {\displaystyle {\overline {\partial }}}
+  -Neumann operator". Advances in Mathematics. 217 (3): 1072–1095. 2008. doi:10.1016/j.aim.2007.08.003.
+
+
+=== Books ===
+Lectures on the 
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+  2-Sobolev theory of the 
+  
+    
+      
+        
+          
+            ∂
+            ¯
+          
+        
+      
+    
+    {\displaystyle {\overline {\partial }}}
+  -Neumann problem. Lectures in Mathematics and Physics, volume 7. European Mathematical Society. 2010.
+
+
+== References ==

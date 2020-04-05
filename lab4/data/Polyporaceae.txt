@@ -1,0 +1,118 @@
+The Polyporaceae are a family of poroid fungi belonging to the Basidiomycota.  The flesh of their fruit bodies varies from soft (as in the case of the dryad's saddle illustrated) to very tough.  Most members of this family have their hymenium (fertile layer) in vertical pores on the underside of the caps, but some of them have gills (e.g. Panus) or gill-like structures (such as Daedaleopsis, whose elongated pores form a corky labyrinth).  Many species are brackets, but others have a definite stipe – for example, Polyporus badius.
+Most of these fungi have white spore powder but members of the genus Abundisporus have colored spores and produce yellowish spore prints. Cystidia are absent.
+
+
+== Taxonomy ==
+In his 1838 work Epicrisis Systematis Mycologici seu Synopsis Hymenomycetum, Elias Magnus Fries introduced the "Polyporei". August Corda published the name validly the following year, retaining Fries's concept. American mycologist William Alphonso Murrill, in a series of publications in the early 1900s, classified the polypores into a more organized family of 78 genera, including 29 that were monotypic, and 39 that were new to science. Around the same time as Murrill, Curtis Gates Lloyd devoted considerable effort in sorting polypore taxonomy, and amassed a large and diverse collection of fruit bodies from around the world. In his 1953 monograph The Polyporaceae of the European U.S.S.R. and Caucasia, Apollinarii Semenovich Bondartsev included 54 genera in the Polyporaceae, which he further divided into five subfamilies and 10 tribes. Several works contributing to the systematics of the Polyporaceae were published in the following decades, including Marinus Anton Donk (1960, 1964), Gordon Heriot Cunningham (1965), and David Pegler (1973).
+
+
+== Genera ==
+
+As of April 2018, Index Fungorum accepts 114 genera and 1621 species in the Polyporaceae:
+Abundisporus  Ryvarden (1999); 7 species
+Amyloporia  Singer (1944); 5 species
+Amyloporiella  A.David & Tortič (1984); 1 species
+Atroporus Ryvarden (1973); 3 species
+Aurantiporus  Murrill (1905); 5 species
+Australoporus  P.K.Buchanan & Ryvarden (1988); 1 species
+Austrolentinus  Ryvarden (1991); 1 species
+Cellulariella Zmitr. & Malysheva (2014); 2 species
+Cerrena  Gray (1821); 7 species
+Cerarioporia F.Wu, L.W.Zhou & Jing Si; 1 species
+Colospora  Miettinen & Spirin (2015); 1 species
+Coriolopsis  Murrill (1905); 21 species
+Cryptomphalina  R.Heim (1966); 1 species
+Cryptoporus  (Peck) Shear (1902); 2 species
+Cystidiophorus  Bondartsev & Ljub. (1963); 1 species
+Daedaleopsis  J.Schröt. (1888); 9 species
+Datronia  Donk (1966); 8 species
+Datroniella  B.K.Cui, Hai J.Li & Y.C.Dai (2014); 5 species
+Dentocorticium  (Parmasto) M.J.Larsen & Gilb. (1974); 7 species
+Dextrinoporus H.S.Yuan (2018); 1 species
+Dichomitus  D.A.Reid (1965); 24 species
+Diplomitoporus  Domański (1970); 20 species
+Earliella  Murrill (1905); 1 species
+Echinochaete  D.A.Reid (1963); 5 species
+Epithele  (Pat.) Pat. (1900); 24 species
+Epithelopsis  Jülich (1976); 2 species
+Erastia  Niemelä & Kinnunen (2005); 1 species
+Faerberia  Pouzar (1981); 1 species
+Favolus  Fr. (1828); 25 species
+Flammeopellis  Y.C.Dai, B.K.Cui & C.L.Zhao (2014); 1 species
+Fomes  (Fr.) Fr. (1849); 59 species
+Funalia  Pat. (1900); 7 species
+Fuscocerrena  Ryvarden (1982); 1 species
+Globifomes  Murrill (1904); 1 species
+Grammothele  Berk. & M.A.Curtis (1868); 19 species
+Grammothelopsis  Jülich (1982); 7 species
+Hapalopilus  P.Karst. (1881); 15 species
+Haploporus  Bondartsev & Singer (1944); 6 species
+Hexagonia  Fr. (1836); 41 species
+Hymenogramme  Mont. & Berk. (1844); 1 species
+Laccocephalum  McAlpine & Tepper (1895); 5 species
+Laetifomes  T.Hatt. (2001); 1 species
+Leifiporia Y.C.Dai, F.Wu & C.L.Zhao (2016); 2 species
+Leiotrametes Welti & Courtec. (2012); 2 species
+Lentinus  Fr. (1825); 120 species
+Lenzites  Fr. (1836); 25 species
+Leptoporus  Quél. (1886); 12 species
+Lignosus  Lloyd ex Torrend (1920); 8 species
+Lithopolyporales  R.K.Kar, N.Sharma, A.Agarwal & R.Kar (2003); 1 species
+Lloydella Bres. (1901); 3 species
+Lopharia  Kalchbr. & MacOwan (1881); 15 species
+Loweporus  J.E.Wright (1976); 8 species
+Macrohyporia  I.Johans. & Ryvarden (1979); 3 species
+Megasporia  B.K.Cui, Y.C.Dai & Hai J.Li (2013); 7 species
+Megasporoporia  Ryvarden & J.E.Wright (1982); 4 species
+Megasporoporiella  B.K.Cui, Y.C.Dai & Hai J.Li (2013); 5 species
+Melanoderma B.K.Cui & Y.C.Dai (2011); 2 species
+Melanoporella Murrill (1907); 1 species
+Microporellus  Murrill (1905); 23 species
+Microporus  P.Beauv. (1805); 12 species
+Mollicarpus  Ginns (1984); 1 species
+Mycobonia  Pat. (1894); 1 species
+Myriothele  Nakasone (2013); 1 species
+Navisporus  Ryvarden (1980); 6 species
+Neodatronia B.K.Cui, Hai J.Li & Y.C.Dai (2014); 2 species
+Neodictyopus Palacio, Robledo, Reck & Drechsler-Santos; 3 species
+Neofavolus  Sotome & T.Hatt. (2013); 4 species
+Neofomitella  Y.C.Dai, Hai J.Li & Vlasák (2015); 3 species
+Nigrofomes  Murrill (1904); 2 species
+Pachykytospora  Kotl. & Pouzar (1963); 3 species
+Panus  Fr. (1838); 40 species
+Perenniporia  Murrill (1942); 100 species
+Perenniporiella  Decock & Ryvarden (2003); 5 species
+Perenniporiopsis C.L.Zhao (2017); 1 species
+Phaeotrametes  Lloyd ex J.E.Wright (1966); 1 species
+Piloporia  Niemelä (1982); 2 species
+Podofomes  Pouzar (1966); 3 species
+Polyporus  P.Micheli ex Adans. (1763); 279 species
+Porogramme  (Pat.) Pat. (1900); 7 species
+Poronidulus  Murrill (1904); 2 species
+Pseudofavolus  Pat. (1900); 6 species
+Pseudopiptoporus  Ryvarden (1980); 2 species
+Pseudomegasporoporia 1 species
+Pycnoporus  P.Karst. (1881); 4 species
+Pyrofomes  Kotl. & Pouzar (1964); 7 species
+Roseofavolus T.Hatt. (2003); 1 species
+Royoporus  A.B.De (1996); 2 species
+Rubroporus  Log.-Leite, Ryvarden & Groposo (2002); 2 species
+Ryvardenia  Rajchenb. (1994); 2 species
+Sarcoporia P.Karst. (1894); 3 species
+Skeletocutis  Kotl. & Pouzar (1958); 43 species
+Sparsitubus  L.W.Hsu & J.D.Zhao (1980); 1 species
+Spongipellis  Pat. (1887); 9 species
+Stiptophyllum  Ryvarden (1973); 1 species
+Thermophymatospora  Udagawa, Awao & Abdullah (1986); 1 species
+Tinctoporellus  Ryvarden (1979); 4 species
+Trametes  Fr. (1836); 195 species
+Trametopsis  Tomšovský (2008); 1 species
+Tyromyces  P.Karst. (1881); 119 species
+Truncospora  Pilát (1953); 10 species
+Vanderbylia  D.A.Reid (1973); 7 species
+Wolfiporia  Ryvarden & Gilb. (1984); 6 species
+Xerotus  Fr. (1828); 16 species
+Yuchengia  B.K.Cui & Steffen (2013); 1 speciesIn a proposed family-level classification of the Polyporales based on molecular phylogenetics, Alfredo Justo and colleagues propose synonymizing the Ganodermataceae with the Polyporaceae, and accept 44 genera in this family: Abundisporus, Amauroderma, Cerarioporia, Colospora, Cryptoporus, Datronia, Datroniella, Dendrodontia, Dentocorticium, Dichomitus, Donkioporia, Earliella, Echinochaete, Epithele, Favolus, Fomes, Fomitella, Ganoderma, Grammothele, Grammothelopsis, Hexagonia, Haploporus, Hornodermoporus, Lentinus, Lignosus, Lopharia, Megasporia, Megasporoporia, Melanoderma, Microporellus, Microporus, Neodatronia, Neofavolus, Pachykytospora, Perenniporia, Perenniporiella, Pseudofavolus, Pyrofomes, Tinctoporellus, Tomophagus, Trametes, Truncospora, Vanderbylia, and Yuchengia.
+
+
+== References ==

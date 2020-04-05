@@ -1,0 +1,58 @@
+The 50 calibre BL 8 inch gun Mark VIII was the main battery gun used on the Royal Navy's County-class heavy cruisers, in compliance with the Washington Naval Treaty of 1922. This treaty allowed ships of not more than 10,000 tons standard displacement and with guns no larger than 8 inches (203 mm) to be excluded from total tonnage limitations on a nation's capital ships. The 10,000 ton limit was a major factor in design decisions such as turrets and gun mountings. A similar gun formed the main battery of Spanish Canarias-class cruisers.  In 1930, the Royal Navy adopted the BL 6 inch Mk XXIII naval gun as the standard cruiser main battery in preference to this 8-inch gun.
+
+
+== Description ==
+These built-up guns consisted of a wire-wound tube encased within a second tube and jacket with a Welin breech block and hydraulic or hand-operated Asbury mechanism.  Two cloth bags each containing 15 kg (33 lb) of cordite were used to fire a 116 kg (256 lb) projectile.  Mark I turrets allowed gun elevation to 70 degrees to fire high-explosive shells against aircraft.  Hydraulic pumps proved incapable of providing sufficient train and elevation speed to follow contemporary aircraft; so simplified Mark II turrets with a maximum elevation of 50 degrees were installed in the Norfolk subgroup ships Dorsetshire and Norfolk and the York-class cruisers York and Exeter.  Each gun could fire approximately five rounds per minute.  Useful life expectancy was 550 effective full charges (EFC) per barrel.
+
+
+== Naval service ==
+The following ships mounted Mk VIII guns in 188-tonne twin turrets.  The standard main battery was four turrets, but Exeter and York carried only three to reduce weight and formed the separate York class.
+County-class heavy cruisers : 14 ships
+Canarias-class heavy cruisers : 2 ships
+York-class heavy cruisers : 2 ships
+
+
+== Coast defence guns ==
+
+Six single guns capable of elevating to 70 degrees were installed as coastal artillery in the Folkestone-Dover area during the Second World War.
+
+
+== Ammunition ==
+
+		
+		
+
+
+== Shell trajectory ==
+
+
+== See also ==
+
+
+=== Weapons of comparable role, performance and era ===
+203mm/50 Modèle 1924 gun French equivalent
+20.3 cm SK C/34 Naval gun German equivalent
+203 mm /53 Italian naval gun Italian equivalent
+20 cm/50 3rd Year Type naval gun Japanese equivalent
+8"/55 caliber gun US equivalent
+
+
+== Surviving examples ==
+A gun from HMAS Australia outside the Australian War Memorial, Canberra
+
+
+== Notes ==
+
+
+== References ==
+
+
+== Bibliography ==
+Campbell, John (1985). Naval Weapons of World War Two. Naval Institute Press. ISBN 0-87021-459-4.
+Lenton, H.T. & Colledge, J.J (1968). British and Dominion Warships of World War Two. Doubleday and Company.
+Whitley, M.J. (1995). Cruisers of World War Two. Brockhampton Press. ISBN 1-86019-8740.
+
+
+== External links ==
+Tony DiGiulian, Britain 8"/50 (20.3 cm) Mark VIII
+Terry Gander, Twentieth century British coast defence guns

@@ -1,0 +1,13 @@
+The Western Institute of Nanoelectronics is a research institute founded in 2006 and headquartered at the UCLA Henry Samueli School of Engineering and Applied Science in Los Angeles, California, USA.  The WIN Center networks multiple universities with Industry and government based sponsors (members of the Semiconductor Industry Association consortium NRI) and the National Institute of Standards and Technology (NIST) in pursuit of replacing Complementary Metal-Oxide Semiconductor Field-Effect Transistors (CMOS FET). WIN's research is focused on spintronics extending from materials, devices, and device-device interactions, metrology and circuits/architectures.  Sponsors include:
+
+Nanoelectronics Research Initiative (NRI)
+UC Discovery
+NIST
+Intel CorporationWIN is one of four research centers within the Nanoelectronics Research Initiative. Dr. Kang L. Wang serves as Director of the Center. Current WIN university participants include four University of California campuses (Los Angeles, Berkeley, Santa Barbara and Irvine) and Stanford University, Denver University, Portland State University, and University of Iowa. 
+NRI's goal is to develop a radical, yet practical, new device that continues scaling of semiconductors beyond the predominantly silicon content found in chips that power today's computers and electronics.  The aim is to demonstrate feasibility of such devices in simple circuits during the next 5–10 years.  NRI is a research initiative of the Nanoelectronics Research Corporation (NERC).  And NERC in turn is a subsidiary of the Semiconductor Research Corporation.
+
+
+== External links ==
+Western Institute of Nanoelectronics website
+WIN at SRC
+EE Times article on WIN nanotechnology effort

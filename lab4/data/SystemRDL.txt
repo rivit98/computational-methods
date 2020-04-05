@@ -1,0 +1,26 @@
+The SystemRDL language, supported by the SPIRIT Consortium, was specifically designed to describe and implement a wide variety of control status registers. Using SystemRDL, developers can automatically generate and synchronize register views for specification, hardware design, software development, verification, and documentation.
+SystemRDL is an open source text based descriptive language that focuses exclusively on registers. SystemRDL 1.0 had some limitations and is now superseded by SystemRDL 2.0 which has support for verification based properties like constraints, coverage, and HDL paths. SystemRDL 2.0 also introduces the ability to parameterize components which further improves design re-use.
+
+
+== See also ==
+SystemVerilog
+SystemC
+IP-XACT
+
+
+== Companies/tools ==
+Commercial
+Agnisys 
+Semifore's  CSR Compiler
+Magillem 
+Open Source
+Open Register Design Tool released by Juniper Networks under Apache 2.0 open source license
+SystemRDL compiler  at GitHub supports SystemRDL 2.0 and generators for documentation and IP-XACT.
+
+
+== References ==
+
+
+== External links ==
+SystemRDL Accellera Standards
+SystemRDL Alliance

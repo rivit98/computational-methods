@@ -1,0 +1,24 @@
+Eric Eve is an author, interactive fiction writer, and New Testament scholar at Harris Manchester College in Oxford. He is known in the interactive fiction community for his writings on TADS 3, including three tutorial/reference books (Getting Started in TADS 3, Learning TADS 3, and the TADS 3 Tour Guide) and several articles for Brass Lantern, a site that hosts articles about and reviews of interactive fiction. He has also authored eleven interactive fiction games, several of which have won awards at various competitions. In the academic field, Eric Eve has also written two books relating to the New Testament, The Healer from Nazareth: Jesus' Miracles in Historical Context and The Jewish Context of Jesus' Miracles.
+
+
+== Contributions ==
+Eric Eve's contributions to interactive fiction include the games Nightfall (2nd-place winner of the Interactive Fiction Competition (IFComp)) and The Elysium Enigma (winner of the 2006 XYZZY Awards for both Best Game and Best Individual NPC). His writings on TADS 3 are some of the only tutorials available for that language, and he has also written a significant comparison of TADS 3 and Inform 7, the two most popular languages for writing interactive fiction.
+
+
+== Works ==
+Eve, Eric (2002). The Jewish context of Jesus' miracles. The Library of New Testament Studies. 231. London: Sheffield Academic Press. ISBN 9780567224439. OCLC 741691497.
+——— (2002). Life after death in the New Testament. Farmington papers., Philosophy of religion. PR12. Oxford: Farmington Institute for Christian Studies. OCLC 51085651.
+——— (2003). Miracle in the New Testament. Farmington papers., Philosophy of religion. PR14. Oxford: Farmington Institute for Christian Studies. OCLC 52603119.
+——— (2004). The Authority of the Bible. Farmington papers., Biblical Studies. BS10. Oxford: Farmington Institute for Christian Studies. OCLC 60421498.
+——— (2009). The Healer from Nazareth: Jesus' miracles in historical context. London: SPCK. ISBN 9780281060016. OCLC 310402093.
+——— (2014). Behind the Gospels: understanding the oral tradition. London: SPCK. ISBN 9780281062553. OCLC 847573722.
+——— (2016). Writing the Gospels: composition and memory. London: SPCK. ISBN 9780281073405. OCLC 951844663.
+
+
+== References ==
+
+
+== External links ==
+Eric Eve's homepage
+Eric Eve's entry on the IFWiki
+Eric Eve's TADS 3 tutorials on the TADS 3 Bookshelf

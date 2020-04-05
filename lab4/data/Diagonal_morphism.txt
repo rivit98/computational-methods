@@ -1,0 +1,221 @@
+In category theory, a branch of mathematics, for any object 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   in any category 
+  
+    
+      
+        
+          
+            C
+          
+        
+      
+    
+    {\displaystyle {\mathcal {C}}}
+   where the product 
+  
+    
+      
+        a
+        ×
+        a
+      
+    
+    {\displaystyle a\times a}
+   exists, there exists the diagonal morphism 
+
+  
+    
+      
+        
+          δ
+          
+            a
+          
+        
+        :
+        a
+        →
+        a
+        ×
+        a
+      
+    
+    {\displaystyle \delta _{a}:a\rightarrow a\times a}
+  satisfying 
+
+  
+    
+      
+        
+          π
+          
+            k
+          
+        
+        ∘
+        
+          δ
+          
+            a
+          
+        
+        =
+        i
+        
+          d
+          
+            a
+          
+        
+      
+    
+    {\displaystyle \pi _{k}\circ \delta _{a}=id_{a}}
+   for 
+  
+    
+      
+        k
+        ∈
+        {
+        1
+        ,
+        2
+        }
+        ,
+      
+    
+    {\displaystyle k\in \{1,2\},}
+  where 
+  
+    
+      
+        
+          π
+          
+            k
+          
+        
+      
+    
+    {\displaystyle \pi _{k}}
+   is the canonical projection morphism to the 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  -th component. The existence of this morphism is a consequence of the universal property that characterizes the product (up to isomorphism). The restriction to binary products here is for ease of notation; diagonal morphisms exist similarly for arbitrary products. The image of a diagonal morphism in the category of sets, as a subset of the Cartesian product, is a relation on the domain, namely equality.
+For concrete categories, the diagonal morphism can be simply described by its action on elements 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   of the object 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  . Namely, 
+  
+    
+      
+        
+          δ
+          
+            a
+          
+        
+        (
+        x
+        )
+        =
+        ⟨
+        x
+        ,
+        x
+        ⟩
+      
+    
+    {\displaystyle \delta _{a}(x)=\langle x,x\rangle }
+  , the ordered pair formed from 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  . The reason for the name is that the image of such a diagonal morphism is diagonal (whenever it makes sense), for example the image of the diagonal morphism 
+  
+    
+      
+        
+          R
+        
+        →
+        
+          
+            R
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \mathbb {R} \rightarrow \mathbb {R} ^{2}}
+   on the real line is given by the line that is the graph of the equation 
+  
+    
+      
+        y
+        =
+        x
+      
+    
+    {\displaystyle y=x}
+  . The diagonal morphism into the infinite product 
+  
+    
+      
+        
+          X
+          
+            ∞
+          
+        
+      
+    
+    {\displaystyle X^{\infty }}
+   may provide an injection into the space of sequences valued in 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  ; each element maps to the constant sequence at that element. However, most notions of sequence spaces have convergence restrictions that the image of the diagonal map will fail to satisfy.
+
+
+== See also ==
+Diagonal functor
+Diagonal embedding
+
+
+== References ==

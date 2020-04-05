@@ -1,0 +1,61 @@
+The most important power stations in Turkey are listed here. For a more complete list please see the World Resources Institute "Global Power Plant Database". Turkey generates about 300 TWh of electricity per year.
+
+
+== High Carbon Emissions ==
+
+
+=== Coal ===
+
+All operational coal-fired power stations over 50MW are listed below. For more details and a complete list of operational stations please see the main article.
+Five plants were shutdown at the end of 2019 to reduce air pollution, leaving total installed capacity at about 17 GW, with 1.3 GW under construction. However government may continue subsidizing some of the most polluting plants in 2020. In 2019 almost 500 million lira was paid to them.In 2017 imported hard coal generated 51 TWh and local coal (almost all lignite) 44 TWh of electricity.Hard coal is estimated to emit 1126 g CO2-eq./kWh and lignite 1062 g CO2-eq./kWh.
+
+
+== Medium Carbon Emissions ==
+
+
+=== Natural Gas ===
+
+
+=== Geothermal ===
+The CO2 emissions from new geothermal plants in Turkey are high but gradually decline: lifecycle emissions are still being researched as of 2019.
+
+
+== Low carbon emissions ==
+
+
+=== Hydroelectric ===
+
+
+=== Solar photovoltaic ===
+
+
+=== Solar thermal ===
+
+
+=== Wind ===
+As of 2015, there were 172 wind farms in Turkey, of which 171 were active in production with a total installed capacity of 6.195 GW making out 7.7% of the total installed power capacity of the country. The generated electricity was 15.685 TWh in 2016, which supplied 6% of the total electrical energy consumption.
+
+
+=== Nuclear ===
+
+
+== See also ==
+
+List of power stations in Asia
+List of power stations in Europe
+List of largest power stations in the world
+Hydroelectricity in Turkey
+Wind power in Turkey
+
+
+== External links ==
+Turkey and coal on Global Energy Monitor
+Map of European coal plants including Turkey
+
+
+== References ==
+
+
+=== Sources ===
+Atilgan, Burcin; Azapagic, Adisa (2016). "An integrated life cycle sustainability assessment of electricity generation in Turkey". Energy Policy. 93: 168–186. doi:10.1016/j.enpol.2016.02.055.
+EÜAŞ - A briefing for investors, insurers and banks (PDF) (Report). Europe Beyond Coal. January 2020.

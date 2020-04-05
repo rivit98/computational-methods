@@ -1,0 +1,33 @@
+The Roland GR-500 was a guitar synthesizer. Manufactured by the Roland Corporation and FujiGen in 1977, it was one of the first guitar synthesizers.
+
+
+== Overview ==
+The synthesizer module included Polyensemble, Bass, Solo Synth, and External synthesizer control. Much of the voltage-controller filter and voltage controlled amplifier sections were based on previous analog mono-synths from Roland. Sliders adjust the VCO, VCF, VCA, and LFO sections; there is no memory to store settings.
+The synth module is controlled by a highly modified guitar: the GS-500 guitar controller was built in a partnership between Roland and the large Japanese guitar builder FujiGen. The result was the Fuji Roland Corporation, established in 1977 through a joint capital investment.
+The GS-500 controller used a special pickup system that connected to the synth module via Roland's own 24-pin interface. Controls on the guitar primarily were for adjusting the relative volume of the different sections: guitar, polyensemble, bass, solo section, and external synth. The GS-500 guitar does not have a standard 1/4" guitar output and cannot be used without the GR-500 synthesizer module. It has a particular infinite sustain system: the frets in the GR-500 are connected to its electrical ground, and when a player frets a string, an electric current passed through the string. The electric signal passing through the string is a greatly amplified version of the string signal detected by the divided hexaphonic pickup. Large magnets replaced the traditional "neck" pickup. As a result of Fleming's Law, the alternating electric current in the string passing through the strong magnetic field caused the string to vibrate and create a feedback loop and infinite sustain. The GS-500 used a bridge with plastic saddles to electrically isolate each string.
+Here is a brief description of each section:
+Guitar: this is the output from a humbucking pickup. A three position EQ switch, plus tone control, provided variation to the guitar signal. There is also an optional mild peaking filter, somewhat similar to a wah-wah pedal, on the GR-500 module.
+Polyensemble: this is not a true synthesizer section, but rather a unique distortion circuit using custom Roland "trigger pulse generator" chips. These chips are covered in epoxy so the actual circuit is unknown. The output of the Polyensemble is sent to an Attack/Decay/Sustain (ADS) Envelope Generator, one of three identical ADS Envelope Generators in the GR-500.
+Bass: This is a true, pitch-to-voltage analog guitar synthesizer section. The pitch detection circuit makes use of another proprietary Roland part: the "fundamental generator" chip. Like the polyensemble, the bass output passes through an ADS Envelope Generator. Bass can be output on all six strings, just 4, 5 and 6, or only on 5 and 6.
+Solo Melody: this section is very close to a traditional analog monophonic synthesizer. Using the same proprietary Roland "fundamental generator" chip, the possible waveforms include 16' pulse, 8' pulse, and sawtooth waveform. The -24 dB per octave voltage-controlled filter is self-oscillating, with string-pitch tracking. In addition to the same ADS Envelope Generator found in the Polyensemble and Bass, there is a triangle wave LFO to modulate pulse width or the filter cutoff. The filter can also be used to process the output of the polyensemble section, and an external input.
+External Synth: This section was designed for control over external synthesizers.
+There are two versions of the GR-500. Later versions added an extra oscillator so that the Solo Melody section could be detuned from the rest of the synthesizer, resulting in a richer, "fatter" sound.
+The most effective use of the GR-500 may be found in the Polyensemble section, which, when combined with the infinite sustain system, made for a rich, symphonic sound. Also, the Polyensemble section, being basically a complex distortion circuit, did not require any pitch-to-voltage tracking, and so was not plagued by the pitch tracking errors common with early guitar synths. The Bass and Solo Melody sections work reasonably well.
+
+
+== Notable users ==
+Tangerine Dream
+Mike Rutherford
+Alex Lifeson
+Steve Hackett
+Harvey Hinsley (Hot Chocolate)
+
+
+== References ==
+
+US patent 4137811, Ikutaro Kakehashi, "Electrical String-Instrument", issued February 6, 1979 
+US patent 4181058, Noboru Suenaga, "Electrical String-Instrument", issued January 1, 1980 
+
+
+== Further reading ==
+Loney, Robert D. (July–August 1981). "More GR-500 comments and mods". Polyphony. Vol. 7 no. 1. p. 28. ISSN 0163-4534. OCLC 1090378445.

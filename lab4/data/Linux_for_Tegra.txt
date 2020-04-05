@@ -1,0 +1,7 @@
+Linux for Tegra (Linux4Tegra, L4T) is a GNU/Linux based system software distribution by Nvidia for the Nvidia Tegra processor series such as used in the Nvidia Jetson board series. It is sort of a sibling to Nvidia's Vibrante Linux publications.
+This system software comes for example with JetPack, that is a Software Development Kit (SDK) from Nvidia. The official Nvidia download page bears an entry for JetPack 3.2 (uploaded there on 2018-03-08) that states:
+
+JetPack 3.2 adds support for the Linux for Tegra r28.2 image for the Jetson OS. It is packaged with newer versions of Tegra System Profiler, TensorRT, and cuDNN from the last release.
+
+
+== References ==

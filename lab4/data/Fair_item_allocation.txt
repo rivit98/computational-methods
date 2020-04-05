@@ -1,0 +1,306 @@
+Fair item allocation is a kind of a fair division problem in which the items to divide are discrete rather than continuous. The items have to be divided among several partners who value them differently, and each item has to be given as a whole to a single person. This situation arises in various real-life scenarios:
+
+Several heirs want to divide the inherited property, which contains e.g. a house, a car, a piano and several paintings.
+Several lecturers want to divide the courses given in their faculty. Each lecturer can teach one or more whole courses.The indivisibility of the items implies that a fair division may not be possible. As an extreme example, if there is only a single item (e.g. a house), it must be given to a single partner, but this is not fair to the other partners. This is in contrast to the fair cake-cutting problem, where the dividend is divisible and a fair division always exists. In some cases, the indivisibility problem can be mitigated by introducing monetary payments or time-based rotation, or by discarding some of the items. But such solutions are not always available.
+An item assignment problem has several ingredients:
+
+The partners have to express their preferences for the different item-bundles.
+The group should decide on a fairness criterion.
+Based on the preferences and the fairness criterion, a fair assignment algorithm should be executed to calculate a fair division.These ingredients are explained in detail below.
+
+
+== Preferences ==
+
+
+=== Combinatorial preferences ===
+A naive way to determine the preferences is asking each partner to supply a numeric value for each possible bundle. For example, if the items to divide are a car and a bicycle, a partner may value the car as 800, the bicycle as 200, and the bundle {car, bicycle} as 900 (see Utility functions on indivisible goods for more examples). There are two problems with this approach:
+
+It may be difficult for a person to calculate exact numeric values to the bundles.
+The number of possible bundles can be huge: if there are 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   items then there are 
+  
+    
+      
+        
+          2
+          
+            m
+          
+        
+      
+    
+    {\displaystyle 2^{m}}
+   possible bundles. For example, if there are 16 items then each partner will have to present his preferences using 65536 numbers.The first problem motivates the use of ordinal utility rather than cardinal utility. In the ordinal model, each partner should only express a ranking over the 
+  
+    
+      
+        
+          2
+          
+            m
+          
+        
+      
+    
+    {\displaystyle 2^{m}}
+   different bundles, i.e., say which bundle is the best, which is the second-best, and so on. This may be easier than calculating exact numbers, but it is still difficult if the number of items is large.
+The second problem is often handled by working with individual items rather than bundles:
+
+In the cardinal approach, each partner should report a numeric valuation for each item;
+In the ordinal approach, each partner should report a ranking over the items, i.e., say which item is the best, which is the second-best, etc.Under suitable assumptions, it is possible to lift the preferences on items to preferences on bundles.
+ Then, the agents report their valuations/rankings on individual items, and the algorithm calculates for them their valuations/rankings on bundles.
+
+
+=== Additive preferences ===
+To make the item-assignment problem simpler, it is common to assume that all items are independent goods (so they are not substitute goods nor complementary goods). 
+
+Then:
+
+In the cardinal approach, each agent has an additive utility function (also called: modular utility function). Once the agent reports a value for each individual item, it is easy to calculate the value of each bundle by summing up the values of its items.
+In the ordinal approach, additivity allows us to infer some rankings between bundles. For example, if a person prefers w to x to y to z, then he necessarily prefers {w,x} to {w,y} or to {x,y}, and {w,y} to {x}. This inference is only partial, e.g., we cannot know whether the agent prefers {w} to {x,y} or even {w,z} to {x,y}.The additivity implies that each partner can always choose a "preferable item" from the set of items on the table, and this choice is independent of the other items that the partner may have. This property is used by some fair assignment algorithms that will be described next.
+
+
+=== Compact preference representation languages ===
+Compact preference representation languages have been developed as a compromise between the full expressiveness of combinatorial preferences to the simplicity of additive preferences. They provide a succinct representation to some natural classes of utility functions that are more general than additive utilities (but not as general as combinatorial utilities). Some examples are:
+2-additive preferences: each partner reports a value for each bundle of size at most 2. The value of a bundle is calculated by summing the values for the individual items in the bundle and adding the values of pairs in the bundle. Typically, when there are substitute items, the values of pairs will be negative, and when there are complementary items, the values of pairs will be positive. This idea can be generalized to k-additive preferences for every positive integer k.
+Graphical models: for each partner, there is a graph that represents the dependencies between different items. In the cardinal approach, a common tool is the GAI net (Generalized Additive Independence). In the ordinal approach, a common tool is the CP net (Conditional Preferences) and its extensions: TCP net, UCP net, CP theory, CI net (Conditional Importance) and SCI net (a simplification of CI net).
+Logic based languages: each partner describes some bundles using a first order logic formula, and may assign a value for each formula. For example, a partner may say: "For (x or (y and z)), my value is 5". This means that the agent has a value of 5 for any of the bundles: x, xy, xz, yz, xyz.
+Bidding languages: many languages for representing combinatorial preferences have been studied in the context of combinatorial auctions. Some of these languages can be adapted to the item assignment setting.
+
+
+== Fairness criteria ==
+
+
+=== Individual guarantee criteria ===
+An individual guarantee criterion is a criterion that should hold for each individual partner, as long as the partner truthfully reports his preferences. Five such criteria are presented below. They are ordered from the weakest to the strongest (assuming the valuations are additive):1. Maximin share: The maximin-share (also called: max-min-fair-share guarantee) of an agent is the most preferred bundle he could guarantee himself as divider in divide and choose against adversarial opponents. An allocation is called MMS-fair if every agent receives a bundle that he weakly prefers over his MMS.2. Proportional fair-share (PFS): The proportional-fair-share of an agent is 1/n of his utility from the entire set of items. An allocation is called proportional if every agent receives a bundle worth at least his proportional-fair-share.
+3. Min-max fair-share (mFS): The min-max-fair-share of an agent is the minimal utility that she can hope to get from an allocation if all the other agents have the same preferences as her, when she always receives the best share. It is also the minimal utility that an agent can get for sure in the allocation game “Someone cuts, I choose first”. An allocation is mFS-fair if all agents receive a bundle that they weakly prefer over their mFS. mFS-fairness can be described as the result of the following negotiation process. A certain allocation is suggested. Each agent can object to it by demanding that a different allocation be made by another agent, letting him choose first. Hence, an agent would object to an allocation only if in all partitions, there is a bundle that he strongly prefers over his current bundle. An allocation is mFS-fair iff no agent objects to it, i.e., for every agent there exists a partition in which all bundles are weakly worse than his current share.
+For every agent with subadditive utility, the mFS is worth at least 
+  
+    
+      
+        1
+        
+          /
+        
+        n
+      
+    
+    {\displaystyle 1/n}
+  . Hence, every mFS-fair allocation is proportional. For every agent with superadditive utility, the MMSis worth at most 
+  
+    
+      
+        1
+        
+          /
+        
+        n
+      
+    
+    {\displaystyle 1/n}
+  . Hence, every proportional allocation is MMS-fair. Both inclusions are strict, even when every agent has additive utility. This is illustrated in the following example:
+There are 3 agents and 3 items:
+Alice values the items as 2,2,2. For her, MMS=PFS=mFS=2.
+Bob values the items as 3,2,1. For him, MMS=1, PFS=2 and mFS=3.
+Carl values the items as 3,2,1. For him, MMS=1, PFS=2 and mFS=3.
+The possible allocations are as follows:
+Every allocation which gives an item to each agent is MMS-fair.
+Every allocation which gives the first and second items to Bob and Carl and the third item to Alice is proportional.
+No allocation is mFS-fair.The above implications do not hold when the agents' valuations are not sub/superadditive.4. Envy-freeness (EF): every agent weakly prefers his own bundle to any other bundle. Every envy-free allocation of all items is mFS-fair; this follows directly from the ordinal definitions and does not depend on additivity. If the valuations are additive, then an EF allocation is also proportional and MMS-fair. Otherwise, an EF allocation may be not proportional and even not MMS. See envy-free item assignment for more details.
+5. Competitive equilibrium from Equal Incomes (CEEI): This criterion is based on the following argument: the allocation process should be considered as a search for an equilibrium between the supply (the set of objects, each one having a public price) and the demand (the agents’ desires, each agent having the same budget for buying the objects). A competitive equilibrium is reached when the supply matches the demand. The fairness argument is straightforward: prices and budgets are the same for everyone. CEEI implies EF regardless of additivity. When the agents' preferences are additive and strict (each bundle has a different value), CEEI implies Pareto efficiency.Several recently suggested fairness criteria are:6. Envy-freeness-except-1 (EF1): For each two agents A and B, if we remove from the bundle of B the item most valuable for A, then A does not envy B (in other words, the "envy level" of A in B is at most the value of a single item). Under monotonicity, an EF1 allocation always exists.
+7. Envy-freeness-except-cheapest (EFx): For each two agents A and B, if we remove from the bundle of B the item least valuable for A, then A does not envy B. EFx is strictly stronger than EF1. It is not known whether EFx allocations always exist.
+
+
+=== Global optimization criteria ===
+A global optimization criterion evaluates a division based on a given social welfare function:
+
+The egalitarian social welfare is minimum utility of a single agent. An item assignment is called egalitarian-optimal if it attains the maximum possible egalitarian welfare, i.e., it maximizes the utility of the poorest agent. Since there can be several different allocations maximizing the smallest utility, egalitarian optimality is often refined to leximin-optimality: from the subset of allocations maximizing the smallest utility, it selects those allocations that maximize the second-smallest utility, then the third-smallest utility, and so on.
+The Nash social welfare is the product of the utilities of the agents. An assignment called Nash-optimal or Maximum-Nash-Welfare if it maximizes the product of utilities. Nash-optimal allocations have some nice fairness properties.An advantage of global optimization criteria over individual criteria is that welfare-maximizing allocations are Pareto efficient.
+
+
+== Assignment algorithms ==
+
+
+=== Max-min-share fairness ===
+
+
+=== Proportionality ===
+1. Suppose the agents have cardinal utility functions on items. Then, the problem of deciding whether a proportional allocation exists is NP-complete: it can be reduced from the partition problem.2. Suppose the agents have ordinal rankings on items, with or without indifferences. Then, the problem of deciding whether a necessarily-proportional allocation exists can be solved in polynomial time: it can be reduced to the problem of checking whether a bipartite graph admits a feasible b-matching (a matching when the edges have capacities).
+For two agents, a simpler algorithm exists.3. Suppose the agents have ordinal rankings on items, without indifferences. Then, the problem of deciding whether a necessarily-proportional allocation exists can be solved in polynomial time. It is not known whether the same is true when the agents are allowed to express indifferences.
+
+
+=== Min-max-share fairness ===
+The problem of calculating the mFS of an agent is coNP-complete.
+The problem of deciding whether an mFS allocation exists is in 
+  
+    
+      
+        N
+        
+          P
+          
+            N
+            P
+          
+        
+      
+    
+    {\displaystyle NP^{NP}}
+  , but its exact computational complexity is still unknown.
+
+
+=== Envy-freeness (without money) ===
+
+
+=== Envy-freeness (with money) ===
+Envy-freeness becomes easier to attain when it is assumed that agents' valuations are quasilinear in money, and thus transferable across agents.
+Demange, Gale and Sotomayor showed a natural ascending auction that achieves an envy-free allocation using monetary payments for unit demand bidders (where each bidder is interested in at most one item).Fair by Design is a general framework for optimization problems with envy-freeness guarantee that naturally extends fair item assignments using monetary payments.Cavallo generalizes the traditional binary criteria of envy-freeness, proportionality, and efficiency (welfare) to measures of degree that range between 0 and 1. In the canonical fair division settings, under any allocatively-efficient mechanism the worst-case welfare rate is 0 and disproportionality rate is 1; in other words, the worst-case results are as bad as possible. This strongly motivates an average-case analysis. He looks for a mechanism that achieves high welfare, low envy, and low disproportionality in expectation across a spectrum of fair division settings. He shows that the VCG mechanism is not a satisfactory candidate, but the redistribution mechanism of 
+ and  is.
+See also: rental harmony.
+
+
+=== Egalitarian-optimal allocations ===
+With general cardinal valuations, finding egalitarian-optimal allocations, or even approximately-optimal allocations, is NP-hard. This can be proved by reduction from the partition problem. When the valuations are more restricted, better approximations are possible:
+With additive utilities, for every integer 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  , a 
+  
+    
+      
+        (
+        1
+        −
+        1
+        
+          /
+        
+        k
+        )
+      
+    
+    {\displaystyle (1-1/k)}
+   fraction of the agents receive utility at least 
+  
+    
+      
+        O
+        P
+        T
+        
+          /
+        
+        k
+      
+    
+    {\displaystyle OPT/k}
+  . This result is obtained from rounding a suitable linear programming relaxation of the problem, and is the best possible result for this linear program.
+With two classes of goods, an 
+  
+    
+      
+        O
+        (
+        
+          
+            n
+          
+        
+        )
+      
+    
+    {\displaystyle O({\sqrt {n}})}
+   approximation exists.
+With submodular utility functions, an 
+  
+    
+      
+        (
+        m
+        −
+        n
+        +
+        1
+        )
+      
+    
+    {\displaystyle (m-n+1)}
+   approximation exists.
+and
+ present some stronger hardness results.
+The special case of optimizing egalitarian welfare with additive utilities is called "the Santa Claus problem". The problem is still NP-hard and cannot be approximated within a factor > 1/2, but there is an 
+  
+    
+      
+        O
+        (
+        n
+        )
+      
+    
+    {\displaystyle O(n)}
+   approximation and a more complicated 
+  
+    
+      
+        O
+        (
+        
+          
+            n
+          
+        
+        ⋅
+        
+          log
+          
+            3
+          
+        
+        ⁡
+        
+          n
+        
+        )
+      
+    
+    {\displaystyle O({\sqrt {n}}\cdot \log ^{3}{n})}
+   approximation.
+See also  for a branch-and-bound algorithm for two partners.
+The Decreasing Demand procedure returns an egalitarian-optimal division in an ordinal sense: it maximizes the rank, in the linear-ranking of bundles, of the agent with the lowest rank. It works for any number of agents with any ordering of bundles.
+
+
+=== Nash-optimal allocations ===
+ and  prove hardness of calculating utilitarian-optimal and Nash-optimal allocations.
+ present an approximation procedure for Nash-optimal allocations.
+
+
+=== Picking sequences ===
+
+A picking sequence is a simple protocol where the agents take turns in selecting items, based on some pre-specified sequence of turns. The goal is to design the picking-sequence in a way that maximizes the expected value of a social welfare function (e.g. egalitarian or utilitarian) under some probabilistic assumptions on the agents' valuations.
+
+
+== Different entitlements ==
+Most research about item assignment assumes that all agents have equal entitlements. 
+But, in many cases there are agents with different entitlements. One such case is when dividing cabinet ministries among parties in the coalition. It is common to assume that each party should receive ministries according to the number of seats it has in the parliament. See  and  and  for discussions of this problem and some solutions.
+
+
+== See also ==
+Fair division experiments - including some case-studies and lab experiments related to fair item assignment.
+Rental harmony - a fair division problem where indivisible items and a fixed total cost have to be divided simultaneously.
+Price of fairness - a general measure of the trade-off between fairness and efficiency, with some results about the item assignment setting.
+
+
+== References ==

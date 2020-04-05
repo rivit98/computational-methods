@@ -1,0 +1,46 @@
+Eupatorieae is a tribe of over 2000 species of plants in the aster family. Most of the species are native to tropical, subtropical, and warm temperate areas of the Americas, but some are found elsewhere. Well-known members are Stevia rebaudiana (used as a sugar substitute), a number of medicinal plants (Eupatorium), and a variety of late summer to autumn blooming garden flowers, including Ageratum (flossflower), Conoclinium (mistflower), and Liatris (blazing star or gayfeather).
+Plants in this tribe have only disc florets (no ray florets) and petals which are white, slightly yellowish off-white, pink, or purple (never a full yellow).Within the aster family, the Eupatorieae are in the subfamily Asteroideae. 
+Within Asteroideae, they are in the supertribe Helianthodae. 
+Within Helianthodae, they belong to an informal group without taxonomic rank called the phytomelanin cypsela clade, which contains 11 tribes.
+The sister tribe of Eupatorieae is probably Perityleae. This result received moderate statistical support (68% bootstrap percentage) in a study published in 2002.
+
+
+== Genera ==
+
+The following list of 185 genera is modified from Hind and Robinson (2007) by the addition of Eutrochium, Paneroa, and Zyzyura.
+The largest genera and the approximate number of species in each are:
+Mikania (440), Ageratina (290), Stevia (200), Chromolaena (165), Koanophyllon (120), Brickellia (100), and Fleischmannia (95).
+
+Sources:
+
+
+== Classification ==
+In 1987, Robert M. King and Harold E. Robinson wrote a book on Eupatorieae. In this book, they divided the tribe into 18 subtribes. These are Hofmeisteriinae, Oxylobinae, Oaxacaniinae, Mikaniinae, Trichocoroninae, Adenostemmatinae, Fleischmanniinae, Ageratinae, Eupatoriinae, Liatrinae, Praxelinae, Gyptidinae, Disynaphiinae, Ayapaninae, Alomiinae, Critoniinae, Hebecliniinae, and Neomirandeinae.
+In 1994, Kare Bremer did a cladistic analysis of Eupatorieae in his book on the family Asteraceae. He recognized only 16 subtribes, subsuming Neomirandeinae into Hebecliniinae.
+In 2007, D. J. Nicholas Hind and Harold E. Robinson covered Eupatorieae for The Families and Genera of Vascular Plants. They recognized 17 subtribes equivalent to those of King and Robinson (1987) except that Oaxacaniinae was placed in the synonymy of Hofmeisteriinae.
+The division of this tribe into subtribes is provisional and likely to change when more data, especially DNA sequence data, becomes available.
+No DNA study has yet included a large number of species and sampled widely in Eupatorieae, but 3 studies have investigated Eupatorium and its relatives within the tribe. These 3 studies are the basis for the phylogeny shown below.
+In some of the older works, the genus Eupatorium has been circumscribed to include as many as 1200 species, over a third of the species in the tribe. In more recent works, Eupatorium has been defined to contain about 40–45 species, with the main differences between authors being whether to include Eutrochium and whether certain populations should be considered species, varieties, or hybrids.
+As more becomes known about the Eupatorieae, other genera will surely have to be revised as well.
+A partial phylogeny of the tribe (focusing on Eupatorium and some of the other North American genera) is:
+
+From the positions of Stevia and Stomatanthes in the phylogeny, some of the subtribes are probably polyphyletic. Many of the branches in the tree above have only weak statistical support, so this tree can not serve as a basis for re-classification. For convenience, the genera will remain in their current subtribes until a much larger data set enables the production of a more robustly supported phylogeny.
+
+
+=== Subtribes ===
+In terms of the number of genera, the largest subtribes are Critoniinae (40), Gyptidinae (29), Ageratinae (26), Alomiinae (23), Ayapaninae (13), and Oxylobinae (9).
+
+Gyptidinae, found mostly in eastern Brazil, is known to be polyphyletic. Hind and Robinson divide it into 3 groups based on Gyptis, Agrianthus, and Litothamnus.Includes: Gyptis, Trichogonia, Campuloclinium, Conoclinium, 
+Agrianthus, Lasiolaena, and Litothamnus.
+Critoniinae.Includes: Critonia, Fleischmanniopsis, Ophryosporus, and Neocabreria.
+
+
+== References ==
+
+
+== External links ==
+Eupatorieae In: Ed Schilling's Website
+Almeida, Adriana M.; Prado, Paulo I.; Lewinsohn, Thomas M. (May 2004). "Geographical distribution of Eupatorieae (Asteraceae) in South-eastern and South Brazilian Mountain Ranges". Plant Ecology. 174 (1): 163–181. doi:10.1023/B:VEGE.0000046061.41915.d9. ISSN 1573-5052.
+Harold Robinson; A. Michael Powell; Gerald D. Carr; Robert M. King; James F. Weedin (1989). "Chromosome Numbers in Compositae, XVI: Eupatorieae II". Annals of the Missouri Botanical Garden. 76 (4): 1004–1011. doi:10.2307/2399689. JSTOR 2399689.
+Cassini, Alexandre Henri Gabriel de (1781–1832). "Suite du sixieme Memoire sur la famille des Synantherees". Journal de Physique, de Chimie et d'Histoire Naturelle et des Arts. Paris. 88 (Mars an 1819): 202–203. J. Phys. Chim. Hist. Nat. Arts. Retrieved 2008-06-30.
+USDA Plants  U.S. Department of Agriculture Plants Database

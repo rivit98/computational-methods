@@ -1,0 +1,33 @@
+Electronic consultation is an aspect of Telemedicine which involves remote communication between patients and clinicians, or between clinicians and specialists.
+E-consult was one of the earlier applications which primary care physicians could use to consult specialists. Dermatology  lent itself to this approach as pictures could be sent for examination in a specialist centre in a process analogous to the well-established treatment of pathological specimens.  The widespread use of Electronic health records is reducing the need for specialist applications of this kind. There is developing interest in the application of such techniques in mental health.  See  Remote therapy.
+
+
+== Consultation applications ==
+The patient arranges an interview, generally by video, with a clinician, generally a general practitioner:
+
+American Well
+CloudVisit Telemedicine
+Doc+
+Dr Fox Pharmacy
+eConsult
+E-med
+GP at Hand
+HealthLinkBC
+LIVI
+MDLIVE
+Ontario Telemedicine Network
+Push Doctor
+Teladoc
+ZocdocSee also: Online doctor
+
+
+== Symptom checkers ==
+These let patients enter their symptoms into an application. A report may be generated and sent to a clinician. Triaging applications, such as used by NHS 111 advise on the urgency of the problem. 
+
+Ada Health
+Infermedica
+WebMD
+Your.MD
+
+
+== References ==

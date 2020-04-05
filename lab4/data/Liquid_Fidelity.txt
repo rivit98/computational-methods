@@ -1,0 +1,25 @@
+Liquid Fidelity is a "microdisplay" technology applied in high-definition televisions.  It incorporates Liquid Crystal on Silicon technology capable of producing true 1080p resolution with two million pixels on a single display chip.
+Components of Liquid Fidelity technology were originally used in 720p HDTVs produced by Uneed Systems of Korea from 2004-2006.
+
+
+== Technology Overview ==
+Liquid Crystal on Silicon in general is a sophisticated mix of optical and electrical technologies on one chip.  The top layer of the chip is liquid crystal material, the bottom layer is an integrated circuit that drives the liquid crystal, and the surface between the layers is highly reflective.  The circuit determines how much light passes through the liquid crystal layer, and the reflected light creates an image on a projection screen.
+LCOS chips with both 720p and 1080p resolution have been developed for HDTVs.  Nearly all LCOS chips in mass production have been used in three-chip systems, with one LCOS chip each for red, green and blue light.  Sony’s SXRD and JVC’s HD-ILA TVs create images this way.  While three-chip systems can produce very good HDTV pictures, they are difficult to align precisely and are expensive.  Misalignments can cause visible convergence errors between red, green and blue, particularly along the sides and in the corners of the screen.
+Liquid Fidelity addresses both the alignment and cost problems.  Exclusive technology enables Liquid Fidelity to change its brightness much more quickly than ordinary LCOS chips can.  This fast response allows the use of one chip and a color wheel, rather than three chips, so red, green and blue alignment is assured at all areas on the screen.  Also, by eliminating two of the three LCOS chips and the additional optical components to support them, Liquid Fidelity HDTVs are generally less expensive to manufacture.
+
+
+== Comparison to DLP technology ==
+DLP uses MEMS technology, which stands for Micro-Electro-Mechanical Systems.  DLP HDTV chips include hundreds of thousands of microscopic mirrors which tilt back and forth, reflecting light which is then projected onto a television screen.  While Liquid Fidelity creates an HDTV image by controlling the amount of light reflecting from it, DLP creates an HDTV image by varying the percentage of the time that its mirrors are aimed toward the projection screen.
+The main advantage of Liquid Fidelity over DLP is that the 1080p Liquid Fidelity chip has over 2 million cells, in an array of 1920 x 1080, for true 1080p pixel resolution.  The 1080p DLP chips designed for consumer HDTVs have only half that number of microscopic mirrors, and use yet another mechanism to create 2 pixels from each of those mirrors.
+By providing a dedicated cell for every pixel, Liquid Fidelity technology provides a sharp, stable picture with smooth, fine texture.
+
+
+== References ==
+
+LCoS and 'Liquid Fidelity': A microdisplay application
+
+
+== External links ==
+MicroDisplay Corporation
+Liquid Fidelity
+Liquid Fidelity detail
