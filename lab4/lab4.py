@@ -12,6 +12,7 @@ import numpy as np
 import operator
 
 nltk.download('wordnet')
+nltk.download('stopwords')
 stop_words = set(stopwords.words('english'))
 np.set_printoptions(precision=3)
 np.set_printoptions(suppress=True)
