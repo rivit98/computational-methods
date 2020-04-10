@@ -102,7 +102,7 @@ def task1():
             if ret is not None:
                 print("Root at {}, value {}, iterations {}".format(ret[0], ret[1], ret[2]))
 
-        x = np.linspace(np.float32(f['left_bound']) - bound_correct, np.float32(f['right_bound']) + bound_correct, 100)
+        x = np.linspace(np.float32(f['left_bound']) - bound_correct, np.float32(f['right_bound']) + bound_correct, 1000)
         plt.plot(x, [f['func'](_x) for _x in x], label=fname)
         plt.axvline(np.float32(f['left_bound']), color="green", label="range", linestyle="--")
         plt.axvline(np.float32(f['right_bound']), color="green", linestyle="--")
@@ -122,7 +122,7 @@ def task1():
         plt.plot([r], [f['func'](r)], marker='o', markersize=5, color="red")
     plt.ylim(-50, 50)
     plt.grid()
-    # plt.show()
+    plt.show()
 
 
 
@@ -161,7 +161,7 @@ def task2():
             if ret is not None:
                 print("Root at {}, value {}, iterations {}".format(ret[0], ret[1], ret[2]))
 
-        x = np.linspace(np.float32(f['left_bound']) - bound_correct, np.float32(f['right_bound']) + bound_correct, 100)
+        x = np.linspace(np.float32(f['left_bound']) - bound_correct, np.float32(f['right_bound']) + bound_correct, 1000)
         plt.plot(x, [f['func'](_x) for _x in x], label=fname)
         plt.axvline(np.float32(f['left_bound']), color="green", label="range", linestyle="--")
         plt.axvline(np.float32(f['right_bound']), color="green", linestyle="--")
@@ -219,7 +219,7 @@ def task3():
             if ret is not None:
                 print("Root at {}, value {}, iterations {}".format(ret[0], ret[1], ret[2]))
 
-        x = np.linspace(np.float32(f['left_bound']) - bound_correct, np.float32(f['right_bound']) + bound_correct, 100)
+        x = np.linspace(np.float32(f['left_bound']) - bound_correct, np.float32(f['right_bound']) + bound_correct, 1000)
         plt.plot(x, [f['func'](_x) for _x in x], label=fname)
         plt.axvline(np.float32(f['left_bound']), color="green", label="range", linestyle="--")
         plt.axvline(np.float32(f['right_bound']), color="green", linestyle="--")
@@ -232,8 +232,8 @@ def task3():
 
 if __name__ == "__main__":
     # uncomment to run task
-    # task1()
-    # task2()
-    # task3()
+    task1()
+    task2()
+    task3()
     pass
 
