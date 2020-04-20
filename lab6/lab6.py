@@ -56,6 +56,7 @@ class Generator:
         try:
             G, (s, t, E), l = self.generate_random_(n)
             solve_graph_kirchhoff(G.copy(), s, t, E)
+            solve_graph_nodal(G.copy().to_undirected(), s, t, E)
             return G, (s, t, E), l
         except LinAlgError:
             return self.generate_random(n)
@@ -68,8 +69,8 @@ class Generator:
                     G.add_edge(i, j, R=random.randint(1, 20))
 
         G.remove_nodes_from(list(nx.isolates(G)))
+        G = nx.convert_node_labels_to_integers(G, first_label=0)
         random_nodes = random.sample(list(G.nodes()), 2)
-        G = nx.convert_node_labels_to_integers(G)
         return G, (random_nodes[0], random_nodes[1], random.randint(10, 100)), nx.random_layout(G)
 
 
@@ -434,7 +435,7 @@ def task3():
     gen = Generator()
     # solve_graph_wrapper(*gen.load_graph("test.txt"))
     # solve_graph_wrapper(*gen.generate_grid(10))
-    # solve_graph_wrapper(*gen.generate_random(random.randint(25, 70)))
+    solve_graph_wrapper(*gen.generate_random(random.randint(25, 70)))
     # solve_graph_wrapper(*gen.tri_cubic())
     # solve_graph_wrapper(*gen.bridge_graph())
 
@@ -442,7 +443,7 @@ def task3():
 if __name__ == "__main__":
     # task1()
     # task2()
-    # task3()
+    task3()
     pass
 
 
