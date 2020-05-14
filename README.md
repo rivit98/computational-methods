@@ -8,3 +8,4 @@ Tasks + solutions
 * [lab5](./lab5): non-linear equations, bisection, Newton method, secant method
 * [lab6](./lab6): solving linear equation systems, Gauss-Jordan method, LU decomposition (factorization), circuit analysis (kirchhoff and nodal), graphs
 * [lab7](./lab7): spectral decomposition, eigenvalues, power method, inverse power method 
+* [lab8](./lab8): page rank, vertex ranking
