@@ -403,6 +403,7 @@ def solve_graph_nodal(G, s, t, E):
         orig_dict = dict(G_out[t][s])
     except:
         orig_dict = {}
+        
     try:
         G_out.remove_edge(t, s)
         G_out.add_edge(s, t, **orig_dict)

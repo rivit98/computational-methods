@@ -9,3 +9,4 @@ Tasks + solutions
 * [lab6](./lab6): solving linear equation systems, Gauss-Jordan method, LU decomposition (factorization), circuit analysis (kirchhoff and nodal), graphs
 * [lab7](./lab7): spectral decomposition, eigenvalues, power method, inverse power method 
 * [lab8](./lab8): page rank, vertex ranking
+* [lab9](./lab9): qr decomposition, least squares approximation
