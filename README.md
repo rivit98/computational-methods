@@ -10,3 +10,5 @@ Tasks + solutions
 * [lab7](./lab7): spectral decomposition, eigenvalues, power method, inverse power method 
 * [lab8](./lab8): page rank, vertex ranking
 * [lab9](./lab9): qr decomposition, least squares approximation
+* [lab10](./lab10): discrete fourier transformation (DFT), fast fourier transformation (FFT), signal processing
+* [lab11](./lab11): pseudorandom number generators, mersenne twister, pcg64, randomness test, uniform distribution, Gauss distribution, Box-Muller random generator, Shapiro-Wilk test, Monte Carlo pi estimation
