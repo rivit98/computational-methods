@@ -13,3 +13,4 @@ Tasks + solutions
 * [task 10](./lab10): discrete fourier transformation (DFT), fast fourier transformation (FFT), signal processing
 * [task 11](./lab11): pseudorandom number generators, mersenne twister, pcg64, randomness test, uniform distribution, Gauss distribution, Box-Muller random generator, Shapiro-Wilk test, Monte Carlo pi estimation
 * [task 12](./lab12): ordinary differential equations (ODE), Taylor series method, initial-value problem, analytical vs numerical solutions, Euler's method, Runge-Kutta method of order 4, adaptive Runge-Kutta-Fehlberg method, numerical stability
+* [task 13](./lab13): simulated annealing, travelling salesman problem, function minimizing 
